@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------
+# Del-Fundador-al-Legado---book
+# Reglas de exclusión. Prioridad: evitar la publicación accidental
+# de credenciales, datos personales o material privado.
+# ---------------------------------------------------------------
+
+# Credenciales y secretos (nunca deben existir en este repositorio)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+token*
+*.credentials.json
+
+# Material privado o de trabajo no destinado a publicación
+privado/
+borradores-privados/
+notas-personales/
+*.private.md
+
+# Exportaciones y compilados del manuscrito
+*.docx
+*.pdf
+*.epub
+*.mobi
+build/
+dist/
+salida/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporales
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
