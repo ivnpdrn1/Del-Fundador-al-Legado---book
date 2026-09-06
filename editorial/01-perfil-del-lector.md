@@ -1,0 +1,116 @@
+# 01 — Perfil del lector
+
+**Etapa:** 1 — Fundamentos
+**Estado:** propuesta para revisión del autor
+
+---
+
+## 1. Lector principal
+
+Una persona que fundó, compró o dirige desde hace décadas una pequeña o mediana empresa
+familiar, que se aproxima al retiro o ya lo ha pospuesto varias veces, y cuya empresa
+todavía depende de su presencia diaria.
+
+### Rasgos habituales
+
+**Trayectoria**
+
+- Entre cincuenta y setenta y cinco años, aproximadamente.
+- Quince años o más al frente de la organización.
+- Aprendió el oficio en la práctica, no en un aula.
+- Ha superado al menos una crisis grave que recuerda con detalle.
+
+**Forma de dirigir**
+
+- Concentra las decisiones importantes, a menudo sin haberlo decidido conscientemente.
+- Confía más en su experiencia que en los informes.
+- Autoriza personalmente los pagos relevantes y conoce el saldo casi de memoria.
+- Sostiene en persona las relaciones con clientes y proveedores principales.
+- Trabaja con procesos total o parcialmente manuales, y con varios sistemas que no se
+  comunican entre sí.
+- Tiene empleados de confianza, pero ninguno reúne todavía el conjunto completo de su
+  criterio.
+
+**Situación personal**
+
+- Quiere retirarse, pero de forma gradual, no de golpe.
+- No desea dejar la empresa vulnerable ni convertirse en una carga para su familia.
+- Puede no tener un sucesor claramente preparado, y a veces no se atreve a decirlo.
+- Le preocupan, en este orden: el patrimonio familiar, los empleados, la reputación y
+  las relaciones construidas durante años.
+- Siente una mezcla de curiosidad y desconfianza ante la inteligencia artificial.
+- Teme perder visibilidad más que perder poder.
+
+**Relación con la tecnología**
+
+- No necesariamente tiene formación técnica.
+- Ha vivido al menos una implantación de software que prometió mucho y entregó poco.
+- Rechaza el vocabulario técnico cuando sustituye a la explicación.
+- Acepta la tecnología cuando entiende quién responde si algo sale mal.
+
+### Lo que este lector no es
+
+No es una persona anticuada, incapaz o resistente por principio. En la mayoría de los
+casos la concentración de funciones fue una decisión racional y necesaria durante años:
+la empresa era pequeña, no había a quién delegar, y el fundador era efectivamente la
+persona más competente para casi todo. El problema no es que centralizara; es que la
+empresa creció y la centralización nunca se revisó.
+
+El libro debe partir de ese reconocimiento en la primera página.
+
+## 2. Objeciones que el libro debe desactivar
+
+| Objeción del lector | Dónde se responde |
+|---|---|
+| "Nadie va a poder hacer esto como yo lo hago." | Caps. 2, 8, 9. No se pide replicar a la persona, sino registrar su criterio. |
+| "Si lo escribo todo, pierdo mi valor en la empresa." | Cap. 5 y cap. 22. El papel cambia, la autoridad no desaparece. |
+| "No tengo tiempo para documentar nada." | Cap. 6. Se documenta primero lo crítico, no todo. |
+| "La inteligencia artificial se va a equivocar y nadie se va a dar cuenta." | Caps. 12, 15, 16. Modo sombra, aprobación humana, registro de auditoría. |
+| "No quiero que mis datos acaben en cualquier sitio." | Cap. 16 y la lista de información restringida. |
+| "Mis hijos no quieren la empresa." | Cap. 21, sin dar por hecho que el sucesor deba ser un hijo. |
+| "Ya intentamos poner sistemas y no funcionó." | Cap. 13. Primero orden y datos confiables; la automatización viene después. |
+| "Si delego, se relajan." | Caps. 18 y 20. Delegar con límites y evidencia no es soltar. |
+| "Esto es para empresas grandes." | Todos los ejemplos son de organizaciones pequeñas y medianas. |
+| "¿Y si me arrepiento?" | Cap. 15. Todo mecanismo automático debe poder detenerse. |
+
+Esta tabla es también la lista de comprobación de la Etapa 4: si al terminar el borrador
+alguna objeción no ha quedado respondida con claridad, falta trabajo.
+
+## 3. Lectores secundarios
+
+Deben poder usar el libro sin que el texto deje de estar dirigido al fundador.
+
+| Lector | Qué busca | Cómo lo atiende el libro |
+|---|---|---|
+| Hijas e hijos, familiares | Entender qué se espera de ellos y qué no. | Cap. 17 y cap. 21, sin presuponer que quieran o deban dirigir. |
+| Sucesor potencial no familiar | Saber qué debe recibir y qué debe exigir. | Caps. 10, 18, 19. |
+| Gerentes y administradores | Instrumentos para asumir responsabilidad con respaldo. | Matriz de autoridad, registro de excepciones, tableros. |
+| Contadores y auditores externos | Controles, separación de funciones, trazabilidad. | Caps. 10, 15, 16. |
+| Consultores y consejeros | Un método aplicable con clientes. | Método LEGADO y las dieciocho herramientas. |
+| Cónyuge o familia propietaria no operativa | Entender el riesgo sin lenguaje técnico. | Caps. 1 a 5 se leen de forma autónoma. |
+
+**Regla de escritura:** el libro se dirige siempre al fundador. Cuando un pasaje sea
+especialmente útil para un lector secundario, se señala con una nota breve al margen del
+capítulo, nunca cambiando el destinatario del texto.
+
+## 4. Diversidad y supuestos que hay que evitar
+
+- No se supone que el fundador sea hombre. La alternancia de género en los ejemplos es
+  obligatoria y se controla en `revision/control-de-casos.md`.
+- No se supone que exista un cónyuge, hijos, ni una familia unida.
+- No se supone que los hijos quieran dirigir la empresa ni que estén capacitados por
+  pertenecer a la familia.
+- No se supone una única jurisdicción, moneda, tamaño de empresa ni marco fiscal.
+- No se supone que la empresa quiera crecer; muchas quieren durar.
+- No se supone que el retiro sea total. El destino puede ser una dedicación parcial
+  estable, y el libro debe tratarlo como un resultado legítimo.
+
+## 5. Nivel de lectura previsto
+
+- Vocabulario empresarial común, sin jerga técnica.
+- Todo término técnico se define la primera vez que aparece, en una frase, y se recoge
+  en `editorial/glosario.md`.
+- Párrafos de tres a seis líneas.
+- Capítulos legibles en veinte minutos.
+- El libro debe poder leerse en desorden a partir de la Parte II sin perder el hilo,
+  porque muchos lectores irán primero al capítulo que les duele.
