@@ -1,8 +1,9 @@
 # 00 — Concepto editorial
 
 **Proyecto:** Del Fundador al Legado
-**Etapa:** 1 — Fundamentos
-**Estado:** propuesta para revisión del autor
+**Etapa:** 1 — Fundamentos. Aprobado en la Etapa 2.
+**Estado:** **vigente.** El título (D-001) y el subtítulo recomendado (D-002) fueron
+aprobados el 2026-09-06.
 
 ---
 
@@ -90,9 +91,12 @@ Tres diferencias son las defendibles comercialmente:
 
 ## 6. Evaluación del título provisional
 
-**Título provisional: DEL FUNDADOR AL LEGADO**
+**Título oficial de trabajo: DEL FUNDADOR AL LEGADO** — aprobado el 2026-09-06 (D-001).
 
-**Recomendación: conservarlo.**
+No es inmutable hasta la edición final, pero desde esta fecha es el título del proyecto y
+cualquier cambio exige registrar una decisión nueva.
+
+**Recomendación en su momento: conservarlo.**
 
 Fortalezas:
 
@@ -136,10 +140,13 @@ Diagnóstico: es exacto y respetuoso, pero tiene tres problemas. Es largo para u
 portada, dieciocho palabras. Habla del lector en tercera persona, lo que aleja. Y no
 menciona lo que más le preocupa: perder el control.
 
-**Subtítulo recomendado:**
+**Subtítulo de trabajo aprobado el 2026-09-06 (D-002):**
 
 > Cómo preparar su empresa familiar para funcionar sin depender de usted, sin que usted
 > pierda el control.
+
+Puede revisarse estilísticamente antes de la publicación si durante el desarrollo aparece
+una formulación claramente superior. No puede cambiarse sin registrar la decisión.
 
 Razones: se dirige al lector directamente; nombra la promesa y la objeción principal en
 la misma frase; y la simetría "sin depender de usted / sin que usted pierda el control"
@@ -153,7 +160,7 @@ resuelve por adelantado el miedo que hace abandonar la lectura en el primer cap�
   tecnología bajo supervisión humana. Más descriptivo y mejor para búsquedas; peor en
   portada.
 
-**Decisión: pendiente de aprobación del autor.** Ver `decisiones-editoriales.md`, D-002.
+**Decisión: aprobada el 2026-09-06.** Ver `decisiones-editoriales.md`, D-002.
 
 ## 9. Idea emocional rectora
 

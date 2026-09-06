@@ -1,9 +1,10 @@
 # 07 — Método LEGADO
 
-**Etapa:** 1 — Fundamentos
-**Estado:** evaluación y propuesta. Los cambios de los apartados 3 y 4 están
-**pendientes de aprobación del autor**. Hasta que se aprueben, la versión vigente es la
-provisional del apartado 1.
+**Etapa:** 1 — Fundamentos. Aprobado en la Etapa 2.
+**Estado:** **vigente.** El autor aprobó el 2026-09-06 la versión recomendada del
+apartado 3 (D-004). **Esa es la formulación oficial del método** y la que debe usarse en
+todo el manuscrito y en todo material derivado. El apartado 1 se conserva únicamente como
+registro histórico de la versión provisional recibida; no debe citarse como vigente.
 
 ---
 
@@ -79,7 +80,20 @@ escribe la matriz de autoridad. Lo que ocurre en D es la transferencia progresiv
 medida. Esto debe quedar dicho en el libro para evitar la lectura de que el fundador
 delega primero en una máquina y luego en su equipo.
 
-## 3. Versión recomendada
+## 3. Versión vigente (aprobada el 2026-09-06, D-004)
+
+**Formulación oficial. No se admite ninguna variante.**
+
+| Letra | Etapa |
+|---|---|
+| **L** | Localizar la dependencia. |
+| **E** | Extraer el conocimiento y el criterio. |
+| **G** | Gobernar decisiones, permisos y controles. |
+| **A** | Asistir la operación con tecnología supervisada. |
+| **D** | Delegar de forma progresiva y verificable. |
+| **O** | Operar sin dependencia y sostener el legado. |
+
+### 3.1 Cambios respecto de la versión provisional y su justificación
 
 | Letra | Etapa recomendada | Cambio respecto a la versión provisional |
 |---|---|---|
@@ -94,9 +108,9 @@ delega primero en una máquina y luego en su equipo.
 distinta, que ninguna palabra se use con dos significados en el libro y que la
 tecnología no ocupe el lugar de un objetivo cuando es un medio.
 
-Si el autor prefiere conservar la formulación original, el método sigue siendo válido;
-en ese caso deben corregirse al menos el Problema 2 y el Problema 3, porque afectan a la
-claridad del vocabulario en los capítulos 12 y 20.
+**Consecuencia de la aprobación:** el verbo «observar» queda reservado en todo el libro a
+la conducta del sistema en el nivel 2, sin ambigüedad, porque ha desaparecido del nombre
+de la etapa O. Así se registra en `06-control-de-continuidad.md`, apartado 3.
 
 ## 4. Definición preliminar de cada etapa
 

@@ -1,7 +1,10 @@
 # 02 — Promesa del libro
 
-**Etapa:** 1 — Fundamentos
-**Estado:** propuesta para revisión del autor
+**Etapa:** 1 — Fundamentos. Aprobada en la Etapa 2.
+**Estado:** **vigente.** La promesa del apartado 2 fue aprobada el 2026-09-06 (D-003) y es
+**uno de los controles centrales de coherencia del manuscrito**: cada capítulo debe
+contribuir de forma demostrable a cumplirla, y esa contribución se registra en
+`revision/control-de-capitulos.md`.
 
 ---
 
@@ -41,7 +44,23 @@
 > habrá realizado al menos una prueba de ausencia real, con resultados medidos, que le
 > dirá si su empresa está preparada para continuar sin su presencia diaria.
 
-**Decisión: pendiente de aprobación del autor.** Ver `decisiones-editoriales.md`, D-003.
+**Decisión: aprobada el 2026-09-06.** Ver `decisiones-editoriales.md`, D-003.
+
+### 2.1 Cómo se comprueba que un capítulo cumple la promesa
+
+Un capítulo cumple la promesa si puede responderse a esta pregunta sin forzarla: **¿qué
+saca este capítulo de la cabeza del fundador, o qué hace verificable lo que ya salió?**
+
+| Elemento de la promesa | Cómo se comprueba en un capítulo |
+|---|---|
+| Convertir lo que está en su cabeza | El capítulo produce, o prepara, un documento consultable por otra persona. |
+| Criterio, relaciones, excepciones, controles | El capítulo trabaja al menos uno de los cuatro, y lo dice. |
+| Personas, procesos y tecnología supervisada | El capítulo no propone tecnología antes de haber ordenado lo anterior. |
+| Funcionar bien sin usted | El capítulo mejora alguna de las cuatro preguntas del apartado 5. |
+| Conservar la última palabra | El capítulo no reduce la autoridad del fundador, la traslada a un plano de supervisión. |
+
+La columna de comprobación se rellena para cada capítulo en
+`revision/control-de-capitulos.md`, apartado 6.
 
 ## 3. Lo que la promesa incluye
 
