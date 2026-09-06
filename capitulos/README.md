@@ -2,10 +2,9 @@
 
 Esta carpeta contendrá el manuscrito por capítulos, en archivos independientes.
 
-**Estado actual: vacía por diseño.** En la Etapa 1 (Fundamentos) no existe autorización
-para redactar capítulos. Los archivos de cada parte se crearán únicamente cuando el
-autor apruebe expresamente el paso a la Etapa 2 (Muestra editorial) y a la Etapa 3
-(Producción).
+**Estado actual: dos piezas escritas**, la introducción y el capítulo 1, producidas en la
+**Etapa 2 — Muestra editorial** con autorización expresa del autor. Los capítulos 2 a 25 y
+la conclusión pertenecen a la Etapa 3 y **no están autorizados**.
 
 ## Convención de nombres
 
@@ -45,4 +44,13 @@ Ese bloque alimenta `revision/control-de-capitulos.md` y `revision/control-de-ca
 
 ## Orden de producción previsto
 
-Ver `editorial/10-plan-de-produccion.md`.
+Ver `editorial/11-plan-de-produccion.md`.
+
+## Piezas existentes
+
+| Archivo | Palabras | Estado |
+|---|---|---|
+| `00-introduccion.md` | 2.032 | borrador |
+| `parte-01/01-cuando-el-propietario-tambien-es-el-sistema.md` | 2.309 | borrador |
+
+Seguimiento completo en `revision/control-de-capitulos.md`.
