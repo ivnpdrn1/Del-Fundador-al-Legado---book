@@ -65,10 +65,10 @@ El libro debe partir de ese reconocimiento en la primera página.
 | "Nadie va a poder hacer esto como yo lo hago." | Caps. 2, 8, 9. No se pide replicar a la persona, sino registrar su criterio. |
 | "Si lo escribo todo, pierdo mi valor en la empresa." | Cap. 5 y cap. 22. El papel cambia, la autoridad no desaparece. |
 | "No tengo tiempo para documentar nada." | Cap. 6. Se documenta primero lo crítico, no todo. |
-| "La inteligencia artificial se va a equivocar y nadie se va a dar cuenta." | Caps. 12, 15, 16. Modo sombra, aprobación humana, registro de auditoría. |
-| "No quiero que mis datos acaben en cualquier sitio." | Cap. 16 y la lista de información restringida. |
+| "La inteligencia artificial se va a equivocar y nadie se va a dar cuenta." | Caps. 13, 15, 16. Modo sombra, aprobación humana, registro de auditoría. |
+| "No quiero que mis datos acaben en cualquier sitio." | Cap. 11, con la lista de información restringida, y cap. 16. |
 | "Mis hijos no quieren la empresa." | Cap. 21, sin dar por hecho que el sucesor deba ser un hijo. |
-| "Ya intentamos poner sistemas y no funcionó." | Cap. 13. Primero orden y datos confiables; la automatización viene después. |
+| "Ya intentamos poner sistemas y no funcionó." | Cap. 11. Primero orden y datos confiables; la automatización viene después. |
 | "Si delego, se relajan." | Caps. 18 y 20. Delegar con límites y evidencia no es soltar. |
 | "Esto es para empresas grandes." | Todos los ejemplos son de organizaciones pequeñas y medianas. |
 | "¿Y si me arrepiento?" | Cap. 15. Todo mecanismo automático debe poder detenerse. |

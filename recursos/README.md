@@ -4,9 +4,12 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: ninguna herramienta está redactada.** La Etapa 1 — Fundamentos autoriza
-únicamente a definir el propósito y la ubicación de estos recursos, no a producirlos.
-No se han creado archivos vacíos: cada archivo nacerá cuando exista contenido real.
+**Estado actual: 1 de 18 herramientas redactada** (el Índice de Dependencia del Fundador,
+producido en la Etapa 2). Las diecisiete restantes se producen junto con su capítulo
+durante la Etapa 3. No se crean archivos vacíos: cada archivo nace cuando existe contenido
+real.
+
+La columna «Cap.» refleja el orden de la Parte III vigente desde el 2026-09-06 (D-017).
 
 ## Criterio de diseño de todas las herramientas
 
@@ -22,7 +25,7 @@ No se han creado archivos vacíos: cada archivo nacerá cuando exista contenido 
 
 | # | Recurso | Archivo previsto | Cap. | Etapa | Propósito en una línea |
 |---|---------|------------------|------|-------|------------------------|
-| 1 | Índice de Dependencia del Fundador | `indice-dependencia-fundador.md` | 1 | L | Medir con un número comparable cuánto de la empresa depende de una sola persona. |
+| 1 | Índice de Dependencia del Fundador **(redactada)** | `indice-dependencia-fundador.md` | 1 | L | Medir con un número comparable cuánto de la empresa depende de una sola persona. |
 | 2 | Cuestionario de preparación para el retiro | `cuestionario-preparacion-retiro.md` | 5 | L | Separar la disposición personal del fundador de la preparación real de la empresa. |
 | 3 | Inventario del conocimiento crítico | `inventario-conocimiento-critico.md` | 6 | E | Listar lo que solo una persona sabe y clasificarlo por impacto si se pierde. |
 | 4 | Mapa de decisiones | `mapa-de-decisiones.md` | 7 | E | Registrar quién decide qué, con qué información y en cuánto tiempo. |
@@ -30,8 +33,8 @@ No se han creado archivos vacíos: cada archivo nacerá cuando exista contenido 
 | 6 | Registro de excepciones | `registro-de-excepciones.md` | 8 | E | Convertir "en este caso hacemos algo distinto" en una regla escrita y revisable. |
 | 7 | Plantilla del Manual de criterio del fundador | `manual-criterio-fundador.md` | 9 | E | Documentar el porqué de las decisiones, no solo el procedimiento. |
 | 8 | Matriz de autoridad y aprobaciones | `matriz-autoridad-aprobaciones.md` | 10 | G | Fijar límites de monto, alcance y firma para cada función. |
-| 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | A | Clasificar la información antes de conectar cualquier herramienta. |
-| 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 12 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |
+| 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | G/A | Clasificar la información antes de conectar cualquier herramienta. |
+| 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |
 | 11 | Modelo de alertas críticas | `modelo-alertas-criticas.md` | 13 | A | Definir qué merece interrumpir a una persona y qué no. |
 | 12 | Matriz de niveles de autonomía | `matriz-niveles-autonomia.md` | 15 | A | Asignar a cada tipo de tarea el nivel de autonomía máximo permitido. |
 | 13 | Modelo de informe diario | `modelo-informe-diario.md` | 19 | O | Resumen operativo breve para quien ya no está en la operación. |

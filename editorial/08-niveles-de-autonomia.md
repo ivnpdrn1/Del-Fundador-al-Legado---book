@@ -4,7 +4,8 @@
 **Estado:** marco aprobado en el encargo, desarrollado aquí para uso editorial.
 
 Este documento fija el vocabulario técnico del libro. Los capítulos 11 a 16 y 19 deben
-usar estos términos con el significado exacto que aquí se define. Cualquier desviación se
+usar estos términos con el significado exacto que aquí se define. La correspondencia con
+los capítulos, en el apartado 5, refleja el orden de la Parte III vigente desde D-017. Cualquier desviación se
 registra en `editorial/06-control-de-continuidad.md`.
 
 ---
@@ -13,7 +14,7 @@ registra en `editorial/06-control-de-continuidad.md`.
 
 La escala describe **qué se permite hacer a la tecnología**, no qué sabe hacer. Es una
 escala de permisos, no de capacidad. Esa distinción debe explicarse al lector en el
-capítulo 11, porque es la que le devuelve el control: el nivel lo decide la empresa.
+capítulo 12, porque es la que le devuelve el control: el nivel lo decide la empresa.
 
 ### Nivel 0 — Operación dependiente y manual
 
@@ -32,7 +33,7 @@ cada dato importante. Hay responsables y controles básicos.
 misma respuesta.
 
 **Advertencia editorial obligatoria:** digitalizar no es inteligencia artificial. El
-libro debe repetirlo aquí y en el capítulo 13, porque es la confusión más frecuente y la
+libro debe repetirlo aquí y en el capítulo 11, porque es la confusión más frecuente y la
 más cara.
 
 ### Nivel 2 — Inteligencia artificial en modo sombra
@@ -174,11 +175,13 @@ revisarla en bloque antes de publicar.
 
 ## 5. Correspondencia entre niveles, etapas y capítulos
 
+Actualizada el 2026-09-06 tras el reordenamiento de la Parte III (D-017).
+
 | Nivel | Etapa del método | Capítulos |
 |---|---|---|
 | 0 | Antesala de L | 1–5 |
-| 1 | E y G | 6–10, 13 |
-| 2 | A | 11, 12 |
+| 1 | E y G | 6–10, 11 |
+| 2 | A | 12, 13 |
 | 3 | A | 13 |
 | 4 | A | 14 |
 | 5 | A y D | 15 |

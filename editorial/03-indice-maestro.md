@@ -1,9 +1,9 @@
 # 03 — Índice maestro comentado
 
-**Etapa:** 1 — Fundamentos
-**Estado:** estructura provisional evaluada. Las propuestas del apartado 3 están
-**pendientes de aprobación del autor**. Hasta entonces, la estructura vigente es la de
-veinticinco capítulos del apartado 2.
+**Etapa:** 1 — Fundamentos. Actualizado en la Etapa 2.
+**Estado:** **vigente**. La propuesta P-1 fue aprobada el 2026-09-06 y está implementada en
+el apartado 2 (D-017). Las propuestas P-2 a P-5 siguen pendientes de decisión del autor y
+no se han aplicado.
 
 ---
 
@@ -63,12 +63,16 @@ lo que ningún competidor trata con esta profundidad.*
 *Función: quitar el miedo y poner reglas. La parte con más riesgo de caducidad
 tecnológica, por lo que debe escribirse en términos de función y no de producto.*
 
+*Orden vigente desde el 2026-09-06, con la propuesta P-1 aprobada e implementada (D-017):
+ordenar la información precede a introducir la inteligencia artificial. Se conservan los
+seis capítulos y el presupuesto de palabras de la parte.*
+
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 11 | La inteligencia artificial como aprendiz | A | Qué es y qué no es, en lenguaje llano. El marco del aprendiz: primero mira, luego sugiere, después hace lo pequeño. | Lista de información restringida | 2.200 |
-| 12 | El periodo de sombra | A | Nivel 2. Observar sin decidir, y comparar con lo que decidieron las personas. El periodo que construye la confianza. | Lista de verificación del modo sombra | 2.100 |
-| 13 | De los datos a las alertas | A | Antes de automatizar hay que ordenar. Fuente única, dato confiable, y solo entonces alertas. Digitalizar no es inteligencia artificial. | Modelo de alertas críticas | 2.300 |
-| 14 | De las alertas a las recomendaciones | A | Nivel 4. Una recomendación sin explicación y sin evidencia no se acepta. | Formato de recomendación explicada | 2.000 |
+| 11 | Ordenar antes de automatizar | A, con G como requisito | Antes de automatizar hay que ordenar. Fuente única, dato confiable, información clasificada por sensibilidad. Digitalizar no es inteligencia artificial. | Lista de información que no debe entregarse libremente a una inteligencia artificial | 2.300 |
+| 12 | La inteligencia artificial como aprendiz | A | Qué es y qué no es, en lenguaje llano. El marco del aprendiz: primero mira, luego sugiere, después hace lo pequeño. La escala de permisos, no de capacidad. | Cuadro de lo que puede y lo que no puede hacer | 2.200 |
+| 13 | El periodo de sombra y las primeras alertas | A | Niveles 2 y 3. Observar sin decidir, comparar con lo que decidieron las personas y solo entonces avisar. El periodo que construye la confianza. | Lista de verificación del modo sombra y modelo de alertas críticas | 2.100 |
+| 14 | De las alertas a las recomendaciones | A | Nivel 4. Una recomendación sin explicación y sin evidencia no se acepta. Se introduce el sesgo de automatización (D-019). | Formato de recomendación explicada | 2.000 |
 | 15 | Autonomía limitada y aprobación humana | A | Nivel 5 y techo del nivel 6. Qué se puede ejecutar solo, con qué límites, y cómo se detiene. | Matriz de niveles de autonomía | 2.200 |
 | 16 | Seguridad, privacidad y auditoría | A | Quién ve qué, qué queda registrado, dónde están los datos, qué pasa si falla. Remisión explícita a profesionales. | Lista de comprobación de seguridad básica | 2.100 |
 
@@ -124,13 +128,12 @@ limitados. Hoy ningún capítulo lo trata. *Propuesta:* incorporarlo como secci�
 del capítulo 23, no como capítulo nuevo, y presentarlo como orden de prioridades más que
 como cifras, que no serían verificables ni universales.
 
-**Vacío 2 — El orden de los datos antes de la tecnología.**
-Es una tesis central del libro y hoy vive dentro del capítulo 13, después del capítulo 11
-y del 12, que ya hablan de inteligencia artificial. La secuencia enseña lo contrario de
-lo que el libro predica. *Propuesta:* mover el contenido de ordenar datos y definir
-fuentes únicas al inicio de la Parte III, reordenando así: 11 = ordenar antes de
-automatizar; 12 = la inteligencia artificial como aprendiz; 13 = el periodo de sombra y
-las primeras alertas. Es la propuesta de mayor impacto de este documento.
+**Vacío 2 — El orden de los datos antes de la tecnología. RESUELTO.**
+Era una tesis central del libro que vivía dentro del antiguo capítulo 13, después de dos
+capítulos que ya hablaban de inteligencia artificial. La secuencia enseñaba lo contrario
+de lo que el libro predica. *Resolución:* aprobada e implementada el 2026-09-06 (D-017).
+La Parte III empieza ahora por ordenar los datos y clasificar la información, y solo
+después introduce la inteligencia artificial. Ver el apartado 2 y el apartado 3.5.
 
 **Vacío 3 — Separar propiedad de dirección.**
 Una transición operativa sin acuerdo de propiedad se deshace en la primera discusión
@@ -154,6 +157,7 @@ fracaso.
 | 4 y 24 | Bajo, pero conviene enlazarlos. | Cap. 4 = ausencia **temida y no preparada**. Cap. 24 = ausencia **provocada y controlada**. El cap. 24 debe abrir citando explícitamente al 4. |
 | 10, 15 y 18 | Medio. Los tres hablan de límites. | Cap. 10 = límites **entre personas**. Cap. 15 = límites **para la tecnología**. Cap. 18 = **puesta en práctica** de los límites del cap. 10. |
 | 11 y 16 | Bajo. Ambos tocan qué información se entrega. | Cap. 11 = **qué no se entrega** (lista de información restringida). Cap. 16 = **cómo se protege** lo que sí se entrega. |
+| 11 y 13 | Bajo, aparecido con el reordenamiento. | Cap. 11 = **ordenar el dato** antes de que ninguna herramienta lo vea. Cap. 13 = **qué hace la herramienta** con el dato ya ordenado. El 11 no describe comportamiento del sistema; el 13 no vuelve sobre la calidad del dato. |
 
 Estos deslindes se trasladan a `revision/control-de-repeticiones.md` como comprobaciones
 obligatorias de la Etapa 4.
@@ -162,7 +166,7 @@ obligatorias de la Etapa 4.
 
 | # | Propuesta | Impacto | Decisión |
 |---|---|---|---|
-| P-1 | Reordenar la Parte III para que "ordenar los datos" preceda a la inteligencia artificial. | Alto. Corrige una contradicción entre lo que el libro dice y lo que su estructura enseña. | Pendiente |
+| P-1 | Reordenar la Parte III para que "ordenar los datos" preceda a la inteligencia artificial. | Alto. Corrige una contradicción entre lo que el libro dice y lo que su estructura enseña. | **Aprobada e implementada el 2026-09-06 (D-017)** |
 | P-2 | Deslindar por escrito los capítulos 3 y 4 según el criterio de 3.3, sin fusionarlos. | Alto. Se conserva la extensión y se elimina la repetición. | Pendiente |
 | P-3 | Añadir al capítulo 17 una sección sobre separación de propiedad y dirección. | Medio-alto. Cubre un vacío que puede invalidar el resto. | Pendiente |
 | P-4 | Añadir al capítulo 23 una sección de secuencia económica y prioridades con recursos limitados. | Medio. Responde a una objeción previsible. | Pendiente |
@@ -171,8 +175,29 @@ obligatorias de la Etapa 4.
 Ninguna propuesta altera el número de capítulos, los títulos ni el propósito general del
 libro. Las cinco pueden aceptarse o rechazarse por separado.
 
-**No se aplicará ninguna hasta recibir autorización expresa.** Ver
+**P-2 a P-5 no se aplicarán hasta recibir autorización expresa.** Ver
 `editorial/decisiones-editoriales.md`, D-005.
+
+### 3.5 Qué cambió exactamente al aplicar P-1
+
+Se documenta con detalle porque afecta a referencias cruzadas repartidas por todo el
+repositorio.
+
+| Antes | Ahora | Observación |
+|---|---|---|
+| 11 — La inteligencia artificial como aprendiz | 12 — La inteligencia artificial como aprendiz | Mismo objetivo. Cambia el número. |
+| 12 — El periodo de sombra | 13 — El periodo de sombra y las primeras alertas | Absorbe la parte de alertas del antiguo capítulo 13. |
+| 13 — De los datos a las alertas | 11 — Ordenar antes de automatizar | El capítulo se divide: el orden de los datos sube al 11; las alertas bajan al 13. |
+| 14, 15, 16 | Sin cambios | — |
+
+**Lo que no cambió:** los veinticinco capítulos, las cinco partes, las dieciocho
+herramientas, el presupuesto de 12.900 palabras de la Parte III y el objetivo fundamental
+de cada capítulo.
+
+**Reasignación de herramientas:** la lista de información restringida pasa del antiguo 11
+al nuevo 11 —donde encaja mejor, porque clasificar la información es parte de ordenarla—;
+la lista de verificación del modo sombra y el modelo de alertas críticas quedan ambos en
+el nuevo 13. El catálogo de `recursos/README.md` queda actualizado en consecuencia.
 
 ---
 
@@ -182,7 +207,7 @@ libro. Las cinco pueden aceptarse o rechazarse por separado.
 |---|---|---|
 | L — Localizar | 1, 6 | Sí. Dos capítulos y una herramienta de medición. |
 | E — Extraer | 2, 7, 8, 9 | Sí. Es la parte más desarrollada, y corresponde: es el diferencial. |
-| G — Gobernar | 10, y apoyo en 15, 16, 18 | Ajustado. Un solo capítulo propio. Vigilar en la Etapa 4 que el cap. 10 sostenga el peso. |
+| G — Gobernar | 10, y apoyo en 11, 15, 16, 18 | Ajustado. Un solo capítulo propio, algo aliviado tras el reordenamiento: el nuevo cap. 11 recoge la clasificación de la información, que es gobierno antes que tecnología. Vigilar en la Etapa 4 que el cap. 10 sostenga el peso. |
 | A — Asistir | 11, 12, 13, 14, 15, 16 | Sí. Seis capítulos. Vigilar que no crezca por encima del resto. |
 | D — Delegar | 17, 18, 21, 23, 24 | Sí. |
 | O — Operar | 19, 20, 22, 25, conclusión | Sí. |

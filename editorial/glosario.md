@@ -16,8 +16,10 @@ libro.
 | Término | Definición | Cap. |
 |---|---|---|
 | Método LEGADO | Método de seis etapas —Localizar, Extraer, Gobernar, Asistir, Delegar, Operar— para transferir la dependencia del fundador a personas, procesos y tecnología supervisada. | Intro |
+| Empresa familiar | Empresa, de cualquier tamaño, en la que la mayoría de los derechos de decisión pertenece a quien la fundó o la adquirió, o a su familia directa, y en la que al menos una persona de esa familia participa formalmente en su gobierno. Definición adoptada por el libro (D-015); no es una definición legal ni universal. | Intro |
 | Dependencia del fundador | Grado en que la operación diaria requiere la presencia, la memoria o la autorización de una persona concreta. | 1 |
-| Índice de Dependencia del Fundador | Medida que expresa esa dependencia en un valor comparable en el tiempo. | 1 |
+| Índice de Dependencia del Fundador | Medida que expresa esa dependencia en un valor comparable en el tiempo. Construida para este libro; no validada científicamente (D-018). | 1 |
+| Organización | Modo conocido, repetible y verificable de que las decisiones se tomen bien aunque la persona más experimentada no esté presente. Distinta de «empresa», que designa la actividad. | 1 |
 | Conocimiento crítico | Aquello que la empresa necesita para funcionar y que hoy solo existe en la cabeza de una persona. | 2 |
 | Criterio | El porqué de una decisión: los motivos que llevan a resolver de una manera y no de otra. Distinto del procedimiento, que es el cómo. | 2 |
 | Manual de criterio del fundador | Documento que recoge los motivos de las decisiones habituales, no los pasos para ejecutarlas. | 9 |
@@ -41,15 +43,17 @@ libro.
 
 | Término | Definición | Cap. |
 |---|---|---|
-| Digitalizar | Pasar información y procesos de soporte manual a soporte electrónico. **No es** inteligencia artificial. | 13 |
-| Dato confiable | Dato que tiene una fuente única, un responsable y una forma conocida de comprobarse. | 13 |
-| Fuente única | El único sitio donde un dato se considera correcto cuando dos sistemas discrepan. | 13 |
-| Inteligencia artificial | Programa capaz de reconocer patrones en información y producir textos, clasificaciones o sugerencias a partir de ellos. No comprende el negocio y no responde de sus errores. | 11 |
-| Agente | Programa que ejecuta una secuencia de tareas por sí mismo dentro de límites definidos. | 11 |
-| Modo sombra | Situación en la que el sistema observa, clasifica y registra, pero no recomienda decisiones sensibles ni ejecuta acciones. Nivel 2. | 12 |
-| Nivel de autonomía | Permiso concedido a la tecnología, del 0 al 6. Describe lo que se le deja hacer, no lo que sabe hacer. | 11 |
+| Digitalizar | Pasar información y procesos de soporte manual a soporte electrónico. **No es** inteligencia artificial. | 11 |
+| Dato confiable | Dato que tiene una fuente única, un responsable y una forma conocida de comprobarse. | 11 |
+| Fuente única | El único sitio donde un dato se considera correcto cuando dos sistemas discrepan. | 11 |
+| Inteligencia artificial | Programa capaz de reconocer patrones en información y producir textos, clasificaciones o sugerencias a partir de ellos. No comprende el negocio y no responde de sus errores. | 12 |
+| Agente | Programa que ejecuta una secuencia de tareas por sí mismo dentro de límites definidos. | 12 |
+| Modo sombra | Situación en la que el sistema observa, clasifica y registra, pero no recomienda decisiones sensibles ni ejecuta acciones. Nivel 2. | 13 |
+| Nivel de autonomía | Permiso concedido a la tecnología, del 0 al 6. Describe lo que se le deja hacer, no lo que sabe hacer. | 12 |
 | Alerta | Aviso automático de que algo se ha salido de lo previsto y requiere atención humana. | 13 |
 | Recomendación explicada | Propuesta de acción acompañada de sus motivos, de la evidencia en que se apoya y de su grado de incertidumbre. | 14 |
+| Sesgo de automatización | Tendencia de las personas a aceptar sin examinarlo el resultado que produce un sistema automático, sobre todo cuando ese resultado llega en forma de información o de recomendación. | 14 |
+| Tecnología supervisada | Conjunto de herramientas que operan dentro de límites escritos, bajo la responsabilidad de una persona con nombre, con registro de lo que hacen y con un procedimiento para detenerlas. | Intro |
 | Mano derecha digital | Sistema supervisado que coordina tareas ordinarias, prepara decisiones, da seguimiento e informa de excepciones. Nivel 6. | 15 |
 | Mecanismo de detención | Procedimiento escrito para suspender de inmediato cualquier automatización. | 15 |
 | Trazabilidad | Posibilidad de reconstruir qué ocurrió, en qué orden y por decisión de quién. | 16 |
