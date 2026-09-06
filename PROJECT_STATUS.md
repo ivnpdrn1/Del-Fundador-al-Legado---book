@@ -154,7 +154,7 @@ Ejecutada sobre los 31 archivos antes de publicar.
 | Concepto | Valor |
 |---|---|
 | Rama activa | `main` |
-| Commits creados en la Etapa 1 | 8 |
+| Commits creados en la Etapa 1 | 9 |
 | Último commit | Ver apartado 12 |
 | Estado del último `push` | Ver apartado 12 |
 | Archivos versionados | 31 |
@@ -168,15 +168,16 @@ Ningún bloqueo técnico. Ningún problema de autenticación. Ningún conflicto 
 
 ## 12. Registro de publicación
 
-*Este apartado se completa después del último commit y del `push`, con datos verificados.*
+Datos verificados contra el repositorio remoto.
 
 | Concepto | Valor |
 |---|---|
-| Identificador del último commit | pendiente de registrar |
-| Mensaje del último commit | pendiente de registrar |
-| Fecha de publicación | pendiente de registrar |
+| Commit de cierre de la Etapa 1 | `5411278c0baeadf273a9bc025179a508cfb2d74d` (`5411278`) |
+| Mensaje de ese commit | `docs: complete editorial foundation stage` |
+| Fecha de publicación | 2026-09-06 |
 | Rama publicada | `main` → `origin/main` |
-| Resultado del `push` | pendiente de verificar |
+| Resultado del `push` | **Correcto y verificado.** `git ls-remote origin` devuelve `5411278c0baeadf273a9bc025179a508cfb2d74d` para `refs/heads/main`, coincidente con `main` local |
+| Último commit de la rama | Este archivo se actualiza en un commit posterior, publicado a continuación |
 
 ## 13. Próxima acción recomendada
 
