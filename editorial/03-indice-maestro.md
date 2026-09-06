@@ -1,0 +1,193 @@
+# 03 — Índice maestro comentado
+
+**Etapa:** 1 — Fundamentos
+**Estado:** estructura provisional evaluada. Las propuestas del apartado 3 están
+**pendientes de aprobación del autor**. Hasta entonces, la estructura vigente es la de
+veinticinco capítulos del apartado 2.
+
+---
+
+## 1. Presupuestos de extensión
+
+| Concepto | Valor |
+|---|---|
+| Objetivo total | 45.000 – 60.000 palabras |
+| Capítulos | 25 |
+| Media por capítulo | 1.800 – 2.200 palabras |
+| Introducción | 1.800 – 2.500 |
+| Conclusión | 1.200 – 1.800 |
+| Anexo de recursos | 4.000 – 6.000, no computa en el total |
+
+Cálculo de comprobación: 25 capítulos × 2.000 palabras de media = 50.000 palabras, más
+introducción y conclusión, dan aproximadamente 53.000. La estructura de veinticinco
+capítulos es coherente con el objetivo de extensión.
+
+La calidad y la ausencia de repetición tienen prioridad sobre la cifra. Un capítulo de
+1.400 palabras que dice algo es preferible a uno de 2.400 que lo repite.
+
+---
+
+## 2. Índice comentado
+
+Leyenda de la columna **Etapa**: L, E, G, A, D, O corresponden a las etapas del Método
+LEGADO (`editorial/07-metodo-legado.md`). "—" indica capítulo de contexto previo.
+
+### PARTE I — LA EMPRESA QUE DEPENDE DE UNA PERSONA
+
+*Función de la parte: que el lector se reconozca y acepte el diagnóstico sin sentirse
+juzgado. Aquí se gana o se pierde al lector.*
+
+| # | Capítulo | Etapa | Idea central | Entregable | Palabras |
+|---|---|---|---|---|---|
+| 1 | Cuando el propietario también es el sistema | L | La empresa parece tener sistemas, pero funciona por una persona. Distinguir "tener empleados" de "tener organización". | Índice de Dependencia del Fundador | 2.200 |
+| 2 | El conocimiento que nunca fue escrito | E | Existe un conocimiento que no está en ningún manual porque nunca se consideró conocimiento: criterio, historia, excepciones, señales. | Ejercicio de reconocimiento | 2.000 |
+| 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | — | Por qué el equipo parece autónomo cuando el fundador está presente y deja de serlo cuando no lo está. Se trata la suposición, no las consecuencias. | Prueba de las tres preguntas al equipo | 1.800 |
+| 4 | El costo de una ausencia inesperada | — | Cuantificar el impacto: qué se detiene, qué se pierde y qué no se recupera. Se tratan las consecuencias, no la suposición. | Cálculo del costo de una semana | 1.900 |
+| 5 | Retirarse no significa abandonar | — | Reencuadre emocional. Distinguir retirarse de la operación de retirarse de la empresa. Ofrece la ruta. | Cuestionario de preparación para el retiro | 2.000 |
+
+### PARTE II — CONVERTIR EXPERIENCIA EN MEMORIA EMPRESARIAL
+
+*Función: convertir memoria personal en memoria institucional. Es el corazón del libro y
+lo que ningún competidor trata con esta profundidad.*
+
+| # | Capítulo | Etapa | Idea central | Entregable | Palabras |
+|---|---|---|---|---|---|
+| 6 | Localizar la dependencia del fundador | L | Medir antes de actuar. Cómo hacer el recuento sin que se convierta en un juicio personal. | Inventario del conocimiento crítico | 2.100 |
+| 7 | El mapa de procesos, decisiones y relaciones | E | Documentar el proceso real, no el oficial. Tres mapas distintos y complementarios. | Mapa de decisiones y mapa de relaciones críticas | 2.300 |
+| 8 | Cómo documentar las excepciones | E | La excepción no documentada es la principal fuente de dependencia y de riesgo. Registrar el motivo, la vigencia y el revisor. | Registro de excepciones | 2.000 |
+| 9 | El Manual de criterio del fundador | E | Documentar el porqué, no el cómo. Capítulo insignia del libro. | Plantilla del Manual de criterio | 2.400 |
+| 10 | Lo que puede delegarse y lo que debe protegerse | G | Clasificar decisiones por riesgo y reversibilidad. Fijar límites por escrito. | Matriz de autoridad y aprobaciones | 2.200 |
+
+### PARTE III — CONSTRUIR UNA MANO DERECHA DIGITAL
+
+*Función: quitar el miedo y poner reglas. La parte con más riesgo de caducidad
+tecnológica, por lo que debe escribirse en términos de función y no de producto.*
+
+| # | Capítulo | Etapa | Idea central | Entregable | Palabras |
+|---|---|---|---|---|---|
+| 11 | La inteligencia artificial como aprendiz | A | Qué es y qué no es, en lenguaje llano. El marco del aprendiz: primero mira, luego sugiere, después hace lo pequeño. | Lista de información restringida | 2.200 |
+| 12 | El periodo de sombra | A | Nivel 2. Observar sin decidir, y comparar con lo que decidieron las personas. El periodo que construye la confianza. | Lista de verificación del modo sombra | 2.100 |
+| 13 | De los datos a las alertas | A | Antes de automatizar hay que ordenar. Fuente única, dato confiable, y solo entonces alertas. Digitalizar no es inteligencia artificial. | Modelo de alertas críticas | 2.300 |
+| 14 | De las alertas a las recomendaciones | A | Nivel 4. Una recomendación sin explicación y sin evidencia no se acepta. | Formato de recomendación explicada | 2.000 |
+| 15 | Autonomía limitada y aprobación humana | A | Nivel 5 y techo del nivel 6. Qué se puede ejecutar solo, con qué límites, y cómo se detiene. | Matriz de niveles de autonomía | 2.200 |
+| 16 | Seguridad, privacidad y auditoría | A | Quién ve qué, qué queda registrado, dónde están los datos, qué pasa si falla. Remisión explícita a profesionales. | Lista de comprobación de seguridad básica | 2.100 |
+
+### PARTE IV — TRANSFERIR EL CONTROL SIN PERDERLO
+
+*Función: el traspaso a personas. La parte donde más importa no dar por supuesta la
+familia.*
+
+| # | Capítulo | Etapa | Idea central | Entregable | Palabras |
+|---|---|---|---|---|---|
+| 17 | Preparar al equipo y a la familia | D | Cómo se comunica una transición sin que se lea como abandono ni como desconfianza. Separar propiedad de dirección. | Guion de conversación | 2.000 |
+| 18 | Delegación progresiva | D | Delegar por bloques, de menor a mayor riesgo. Revisar después y no antes. Qué hacer ante el primer error. | Plan de delegación por bloques | 2.200 |
+| 19 | El tablero del propietario | O | El instrumento: qué mira el fundador cada día, cada semana y cada mes. Pocas cifras, bien elegidas. | Modelos de informe diario y semanal | 2.000 |
+| 20 | Supervisar sin intervenir en todo | O | La disciplina: cuándo intervenir y cuándo callarse. Trata la conducta, no el instrumento. | Reglas de intervención | 1.900 |
+| 21 | Qué hacer cuando no existe el sucesor ideal | D | El capítulo que la literatura tradicional evita. Dirección profesional, socios, venta, continuidad sin heredero. | Árbol de opciones de continuidad | 2.300 |
+
+### PARTE V — DEL FUNDADOR AL LEGADO
+
+*Función: cierre, prueba de resultado y sostenimiento.*
+
+| # | Capítulo | Etapa | Idea central | Entregable | Palabras |
+|---|---|---|---|---|---|
+| 22 | El nuevo papel del fundador | O | Definir por escrito lo que sí hace y lo que ya no hace. El propósito personal después de la operación. | Descripción del nuevo papel | 2.000 |
+| 23 | Los primeros 100 días de transición | D | Secuencia concreta con responsables y fechas. | Plan de transición de 100 días | 2.200 |
+| 24 | La prueba de ausencia | D | El examen del libro: 24 horas y 7 días. Cómo se prepara, se observa y se corrige. | Prueba de ausencia | 2.200 |
+| 25 | La empresa que puede continuar | O | Qué significa que una empresa pueda continuar y cómo se sostiene en el tiempo. | Evaluación anual de continuidad | 2.000 |
+| — | Conclusión. Retirarse con tranquilidad y propósito | O | Cierre emocional. Retoma las cuatro preguntas de la promesa. | — | 1.500 |
+
+**Total estimado: 52.100 palabras**, dentro del objetivo.
+
+---
+
+## 3. Evaluación de la estructura
+
+### 3.1 Lo que funciona
+
+- **La progresión es correcta**: reconocer, documentar, gobernar, asistir, delegar,
+  sostener. Ninguna parte exige algo que no se haya preparado antes.
+- **Las cinco partes tienen tamaños equilibrados** (5, 5, 6, 5, 4 capítulos), lo que
+  facilita la producción por bloques.
+- **La Parte I no vende soluciones.** Diagnostica. Es lo correcto para este lector.
+- **El capítulo 21 es el mayor acierto estructural.** Casi toda la literatura de sucesión
+  supone que hay sucesor. Reservar un capítulo al caso contrario es la diferencia más
+  visible frente a la competencia.
+- **El capítulo 24 da al libro una prueba de resultado.** Pocos libros empresariales
+  ofrecen un examen verificable de si el método funcionó.
+
+### 3.2 Vacíos detectados
+
+**Vacío 1 — El costo y la secuencia económica de la transición.**
+El lector preguntará qué cuesta esto y por dónde empezar si dispone de recursos
+limitados. Hoy ningún capítulo lo trata. *Propuesta:* incorporarlo como sección dentro
+del capítulo 23, no como capítulo nuevo, y presentarlo como orden de prioridades más que
+como cifras, que no serían verificables ni universales.
+
+**Vacío 2 — El orden de los datos antes de la tecnología.**
+Es una tesis central del libro y hoy vive dentro del capítulo 13, después del capítulo 11
+y del 12, que ya hablan de inteligencia artificial. La secuencia enseña lo contrario de
+lo que el libro predica. *Propuesta:* mover el contenido de ordenar datos y definir
+fuentes únicas al inicio de la Parte III, reordenando así: 11 = ordenar antes de
+automatizar; 12 = la inteligencia artificial como aprendiz; 13 = el periodo de sombra y
+las primeras alertas. Es la propuesta de mayor impacto de este documento.
+
+**Vacío 3 — Separar propiedad de dirección.**
+Una transición operativa sin acuerdo de propiedad se deshace en la primera discusión
+familiar. Hoy solo se roza en el capítulo 17. *Propuesta:* ampliar el capítulo 17 con una
+sección explícita, sin convertir el libro en un tratado de gobierno corporativo y
+remitiendo a profesionales para los instrumentos jurídicos.
+
+**Vacío 4 — Qué hacer si la transición falla o hay que retroceder.**
+El libro describe un camino ascendente. Conviene un tratamiento breve del retroceso:
+retirar una delegación, bajar de nivel de autonomía, reanudar una intervención directa.
+*Propuesta:* sección dentro del capítulo 20, encuadrada como maniobra prevista y no como
+fracaso.
+
+### 3.3 Riesgos de repetición
+
+| Capítulos | Riesgo | Deslinde propuesto |
+|---|---|---|
+| 3 y 4 | Alto. Ambos tratan la ausencia del fundador. | Cap. 3 = la **suposición** ("ellos sabrán"): psicología y evidencia de por qué es falsa. Cap. 4 = la **consecuencia**: qué se detiene, qué se pierde, con qué costo. El cap. 3 no menciona costos; el cap. 4 no vuelve sobre la suposición. |
+| 5 y 22 | Medio. Ambos tratan el papel del fundador. | Cap. 5 = **permiso emocional** para empezar, al principio del libro. Cap. 22 = **definición escrita** del nuevo papel, al final. El cap. 5 no define funciones; el cap. 22 no repite el argumento emocional. |
+| 19 y 20 | Medio. Ambos tratan la supervisión. | Cap. 19 = el **instrumento** (qué se mira). Cap. 20 = la **conducta** (cuándo se interviene). |
+| 4 y 24 | Bajo, pero conviene enlazarlos. | Cap. 4 = ausencia **temida y no preparada**. Cap. 24 = ausencia **provocada y controlada**. El cap. 24 debe abrir citando explícitamente al 4. |
+| 10, 15 y 18 | Medio. Los tres hablan de límites. | Cap. 10 = límites **entre personas**. Cap. 15 = límites **para la tecnología**. Cap. 18 = **puesta en práctica** de los límites del cap. 10. |
+| 11 y 16 | Bajo. Ambos tocan qué información se entrega. | Cap. 11 = **qué no se entrega** (lista de información restringida). Cap. 16 = **cómo se protege** lo que sí se entrega. |
+
+Estos deslindes se trasladan a `revision/control-de-repeticiones.md` como comprobaciones
+obligatorias de la Etapa 4.
+
+### 3.4 Propuestas concretas, por orden de importancia
+
+| # | Propuesta | Impacto | Decisión |
+|---|---|---|---|
+| P-1 | Reordenar la Parte III para que "ordenar los datos" preceda a la inteligencia artificial. | Alto. Corrige una contradicción entre lo que el libro dice y lo que su estructura enseña. | Pendiente |
+| P-2 | Deslindar por escrito los capítulos 3 y 4 según el criterio de 3.3, sin fusionarlos. | Alto. Se conserva la extensión y se elimina la repetición. | Pendiente |
+| P-3 | Añadir al capítulo 17 una sección sobre separación de propiedad y dirección. | Medio-alto. Cubre un vacío que puede invalidar el resto. | Pendiente |
+| P-4 | Añadir al capítulo 23 una sección de secuencia económica y prioridades con recursos limitados. | Medio. Responde a una objeción previsible. | Pendiente |
+| P-5 | Añadir al capítulo 20 una sección sobre retroceso controlado. | Medio. Refuerza la credibilidad del método. | Pendiente |
+
+Ninguna propuesta altera el número de capítulos, los títulos ni el propósito general del
+libro. Las cinco pueden aceptarse o rechazarse por separado.
+
+**No se aplicará ninguna hasta recibir autorización expresa.** Ver
+`editorial/decisiones-editoriales.md`, D-005.
+
+---
+
+## 4. Comprobación de cobertura del método
+
+| Etapa | Capítulos que la desarrollan | ¿Suficiente? |
+|---|---|---|
+| L — Localizar | 1, 6 | Sí. Dos capítulos y una herramienta de medición. |
+| E — Extraer | 2, 7, 8, 9 | Sí. Es la parte más desarrollada, y corresponde: es el diferencial. |
+| G — Gobernar | 10, y apoyo en 15, 16, 18 | Ajustado. Un solo capítulo propio. Vigilar en la Etapa 4 que el cap. 10 sostenga el peso. |
+| A — Asistir | 11, 12, 13, 14, 15, 16 | Sí. Seis capítulos. Vigilar que no crezca por encima del resto. |
+| D — Delegar | 17, 18, 21, 23, 24 | Sí. |
+| O — Operar | 19, 20, 22, 25, conclusión | Sí. |
+
+Riesgo estructural principal: que la Parte III crezca por atractivo del tema y desequilibre
+el libro hacia la tecnología, contradiciendo su propia tesis. Control: el conteo de
+palabras por parte se revisa en `revision/control-de-capitulos.md` después de cada bloque
+de producción. La Parte III no debe superar el 26 % del total.
