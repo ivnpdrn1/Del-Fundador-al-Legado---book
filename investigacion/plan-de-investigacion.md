@@ -1,12 +1,16 @@
 # Plan de investigación
 
-**Etapa:** 1 — Fundamentos
-**Estado:** estrategia definida. **Ninguna fuente ha sido consultada todavía.**
+**Etapa:** 1 — Fundamentos. Ejecutada en parte en la Etapa 2.
+**Estado:** estrategia vigente. **Q-01 a Q-04 resueltas el 2026-09-06**, con doce fuentes
+abiertas y leídas y cuatro consultadas y descartadas. Ver
+`investigacion/fuentes-verificadas.md`. Q-05 a Q-12 siguen sin iniciar.
 
-Declaración explícita, para que no quede ninguna duda al leer este repositorio: en la
-Etapa 1 no se ha verificado ninguna fuente, no se ha citado ningún dato y no aparece
-ninguna cifra en ningún documento del proyecto. Lo que sigue es la estrategia y una lista
-de **candidatas a consultar**, no un listado de fuentes usadas.
+Declaración explícita, para que no quede ninguna duda al leer este repositorio: durante la
+Etapa 1 no se verificó ninguna fuente y no se citó ningún dato. La investigación empezó en
+la Etapa 2, limitada a Q-01, Q-04 y a lo necesario para la introducción y el capítulo 1.
+Lo que sigue es la estrategia y una lista de **candidatas a consultar**; el listado de
+fuentes realmente usadas está en `fuentes-verificadas.md` y solo ese archivo respalda
+afirmaciones.
 
 ---
 
@@ -53,12 +57,12 @@ con solidez sin resolverla.
 
 | # | Pregunta | Cap. | Prioridad | Estado |
 |---|---|---|---|---|
-| Q-01 | ¿Qué proporción del tejido empresarial es de propiedad familiar, y con qué definición de "empresa familiar" en cada fuente? | Intro, 1 | Alta | Sin iniciar |
-| Q-02 | ¿Qué evidencia existe sobre tasas de continuidad entre generaciones, y qué fiabilidad tiene? | Intro, 21 | Alta | Sin iniciar |
-| Q-03 | ¿Qué marcos reconocidos existen sobre continuidad del negocio y gestión de riesgos operativos? | 4, 16 | Alta | Sin iniciar |
-| Q-04 | ¿Qué marcos existen sobre gestión de riesgos de la inteligencia artificial y qué recomiendan sobre supervisión humana? | 11, 15, 16 | Alta | Sin iniciar |
-| Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 16 | Alta | Sin iniciar |
-| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | Media | Sin iniciar |
+| Q-01 | ¿Qué proporción del tejido empresarial es de propiedad familiar, y con qué definición de "empresa familiar" en cada fuente? | Intro, 1 | Alta | **Resuelta 2026-09-06.** F-001, F-002, F-004. No existe cifra mundial comparable; el libro cita dos cifras oficiales con su definición y su ámbito. |
+| Q-02 | ¿Qué evidencia existe sobre tasas de continuidad entre generaciones, y qué fiabilidad tiene? | Intro, 21 | Alta | **Resuelta 2026-09-06 en sentido negativo.** No se localizó fuente primaria legible. Ninguna cifra generacional entra en el libro (D-016). El argumento se apoya en F-003 y F-012. |
+| Q-03 | ¿Qué marcos reconocidos existen sobre continuidad del negocio y gestión de riesgos operativos? | 4, 16 | Alta | **Resuelta 2026-09-06.** F-005, F-006, F-011. |
+| Q-04 | ¿Qué marcos existen sobre gestión de riesgos de la inteligencia artificial y qué recomiendan sobre supervisión humana? | 12, 15, 16 | Alta | **Resuelta 2026-09-06.** F-007, F-008, F-009, F-010. Coinciden con las reglas 4 y 5 del método (D-020). |
+| Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | Sin iniciar. Prioridad alta por D-014. |
+| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | Sin iniciar. **Sube a alta:** es el respaldo del capítulo 2, que es el siguiente. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | Media | Sin iniciar |
@@ -111,7 +115,9 @@ La investigación **no se ejecuta en la Etapa 1**. Se ejecuta por bloques, inmed
 antes de escribir cada bloque de capítulos, para que las fuentes estén frescas y para no
 verificar material que quizá no se use.
 
-Excepción: Q-01, Q-02, Q-03 y Q-04 deben resolverse antes de la Etapa 2, porque la
-introducción y el capítulo 1 pueden necesitarlas. Si al terminar esa búsqueda no
-aparecen fuentes sólidas, la introducción se escribirá sin cifras. Es una opción
-aceptable y prevista: el argumento del libro no depende de ellas.
+Excepción, ya ejecutada: Q-01, Q-02, Q-03 y Q-04 se resolvieron antes de escribir la
+Etapa 2. La previsión de que pudieran no aparecer fuentes sólidas se cumplió en parte, y
+se aplicó la regla prevista: **Q-02 se cerró sin cifra**. El argumento del libro no
+dependía de ella y no la echa de menos.
+
+**Siguiente ejecución:** Q-06 y Q-05, antes del bloque B1 de la Etapa 3.
