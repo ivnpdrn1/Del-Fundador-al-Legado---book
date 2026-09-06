@@ -157,7 +157,7 @@ propia revisión. Detalle completo en `revision/control-de-calidad-etapa-2.md`.
 |---|---|
 | Rama activa | `main` |
 | Commits creados en la Etapa 1 | 9 |
-| Commits creados en la Etapa 2 | 4 |
+| Commits creados en la Etapa 2 | 6 |
 | Archivos versionados | 34 |
 
 ## 11. Bloqueos
@@ -173,10 +173,17 @@ Datos verificados contra el repositorio remoto.
 
 | Concepto | Valor |
 |---|---|
-| Commit de cierre de la Etapa 1 | `5411278c0baeadf273a9bc025179a508cfb2d74d` |
 | Último commit de la Etapa 1 | `8c81dc1b9b2e58189127f6279683623e72e8e5cd` |
+| Commits de la Etapa 2 | 5, más este de cierre |
+| Commit de cierre de la Etapa 2 | `0495466ffd4a0d2af6b915a33ec1cc444bdef460` (`0495466`) |
+| Mensaje de ese commit | `docs: run the stage 2 quality review and update every control file` |
+| Fecha de publicación | 2026-09-06 |
 | Rama publicada | `main` → `origin/main` |
-| Resultado del `push` de la Etapa 2 | Ver el informe final de la Etapa 2 entregado al autor, y `git ls-remote origin main` |
+| Resultado del `push` | **Correcto y verificado.** `git ls-remote origin main` devuelve `0495466ffd4a0d2af6b915a33ec1cc444bdef460`, coincidente con `HEAD` local |
+| Comandos destructivos usados | Ninguno. Sin `push --force`, sin `reset --hard`, sin reescritura de historial |
+
+Este archivo se actualiza con el identificador definitivo en un commit posterior,
+publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
