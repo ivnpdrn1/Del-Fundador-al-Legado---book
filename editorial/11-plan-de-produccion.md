@@ -17,15 +17,22 @@ disponibilidad de tiempo.
 | Etapa | Contenido | Entregable | Estado |
 |---|---|---|---|
 | 1 | Fundamentos editoriales, método, índice, estilo, investigación, controles. | Este conjunto de documentos. | **Completada** |
-| 2 | Muestra editorial: introducción, capítulo 1 y primera versión del Índice de Dependencia del Fundador. | Tres archivos y una evaluación crítica de la muestra. | Pendiente de autorización |
-| 3 | Producción por bloques de los capítulos 2 a 25 y la conclusión. | Manuscrito por capítulos. | No autorizada |
+| 2 | Muestra editorial: introducción, capítulo 1 y primera versión del Índice de Dependencia del Fundador. | Tres archivos y una evaluación crítica de la muestra. | **Completada el 2026-09-06** |
+| 3 | Producción por bloques de los capítulos 2 a 25 y la conclusión. | Manuscrito por capítulos. | Pendiente de autorización |
 | 4 | Revisión integral: coherencia, repeticiones, privacidad, fuentes, vocabulario, tono. | Manuscrito consolidado y lista de problemas pendientes. | No autorizada |
 | 5 | Entrega editorial. | Manuscrito, sinopsis, contraportada, índice de recursos, lista de fuentes y verificaciones pendientes. | No autorizada |
 
-## 3. Etapa 2 — Muestra editorial
+## 3. Etapa 2 — Muestra editorial (completada el 2026-09-06)
 
 Objetivo: comprobar tono, profundidad y utilidad antes de comprometer cincuenta mil
 palabras.
+
+**Resultado.** Los seis puntos del alcance se ejecutaron. La introducción quedó en 2.032
+palabras, el capítulo 1 en 2.309 y el Índice de Dependencia del Fundador en 1.706, con
+veinticuatro preguntas en ocho dimensiones. La autoevaluación se amplió de las diecisiete
+preguntas de la guía de estilo a trece revisiones completas, de la A a la M, recogidas en
+`revision/control-de-calidad-etapa-2.md`. Se añadió, no previsto en este plan, la
+investigación de Q-01 a Q-04, que resultó indispensable antes de escribir.
 
 Alcance exacto:
 
@@ -115,14 +122,16 @@ Solo después de las seis pasadas se genera `manuscrito/manuscrito-completo.md`.
 
 ## 8. Próximo paso
 
-Solicitar al autor:
+Las decisiones D-001 a D-005 quedaron aprobadas el 2026-09-06 y la Etapa 2 está
+completada. Ahora se solicita al autor:
 
-1. Decisión sobre el subtítulo (D-002).
-2. Decisión sobre la promesa (D-003).
-3. Decisión sobre la versión recomendada del Método LEGADO (D-004).
-4. Decisión sobre las cinco propuestas del índice, P-1 a P-5 (D-005).
-5. Autorización para comenzar la Etapa 2.
+1. Lectura y aceptación de la muestra editorial contra los cinco criterios del apartado 3.
+2. Entrega de la muestra a dos o tres propietarios del perfil del lector principal (V-51).
+   Es la comprobación que este plan no puede hacer por sí mismo y la más valiosa de todas.
+3. Decisión sobre D-005 / P-2, que afecta al bloque B1 y por tanto al trabajo inmediato.
+4. Decisión, cuando convenga, sobre P-3, P-4 y P-5, que afectan a los bloques B6 y B7.
+5. Autorización para comenzar la Etapa 3 — Producción.
 
-Las decisiones 1 a 4 pueden tomarse después de la Etapa 2 sin coste, salvo D-004 y P-1,
-que conviene resolver antes porque afectan al vocabulario de la introducción y al orden
-de la Parte III.
+**Antes de escribir el bloque B1 será necesario ejecutar Q-06** (transferencia de
+conocimiento tácito en organizaciones pequeñas), que respalda el capítulo 2, y **Q-05**
+(protección de datos), que ha subido de prioridad tras la resolución de A-06.

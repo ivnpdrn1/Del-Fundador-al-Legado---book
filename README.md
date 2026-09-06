@@ -9,15 +9,17 @@ los archivos de control del proyecto. No es una página comercial ni material pr
 
 ## Identidad del proyecto
 
-**Título provisional:** DEL FUNDADOR AL LEGADO
+**Título:** DEL FUNDADOR AL LEGADO — aprobado como título oficial de trabajo el
+2026-09-06 (D-001).
 
-**Subtítulo provisional:** Cómo preparar una empresa familiar para funcionar sin depender
-diariamente de la persona que la construyó.
+**Subtítulo:** Cómo preparar su empresa familiar para funcionar sin depender de usted, sin
+que usted pierda el control — aprobado el 2026-09-06 (D-002).
 
-**Subtítulo recomendado, pendiente de aprobación:** Cómo preparar su empresa familiar
-para funcionar sin depender de usted, sin que usted pierda el control.
+**Idioma de la primera edición:** español internacional, escrito originalmente en español.
 
-**Idioma de la primera edición:** español internacional.
+**Mercados previstos:** lectores empresariales hispanohablantes de todo el mundo, con
+distribución principal por Amazon KDP. Enfoque jurisdiccionalmente neutral (D-014). Ver
+`editorial/12-alcance-jurisdiccional.md`.
 
 **Tipo de libro:** libro empresarial práctico sobre continuidad, sucesión, conocimiento
 institucional, transformación digital e inteligencia artificial supervisada para pequeñas
@@ -40,7 +42,8 @@ permitirle pasar de administrador cotidiano a supervisor estratégico.
 
 ## Promesa central
 
-Pendiente de aprobación. Versión recomendada:
+Aprobada el 2026-09-06 (D-003). Es uno de los controles centrales de coherencia del
+manuscrito: cada capítulo debe contribuir de forma demostrable a cumplirla.
 
 > Este libro le enseña a convertir lo que hoy solo existe en su cabeza —su criterio, sus
 > relaciones, sus excepciones y sus controles— en un sistema de personas, procesos y
@@ -48,6 +51,18 @@ Pendiente de aprobación. Versión recomendada:
 > mientras usted conserva la última palabra.
 
 Desarrollo completo en `editorial/02-promesa-del-libro.md`.
+
+## Principio que gobierna todo el libro
+
+**El objetivo no es reemplazar al fundador.** Es reducir la dependencia operativa de su
+presencia permanente, de modo que su participación se convierta en una elección y no en
+una obligación. La tecnología aparece como memoria institucional, sistema de apoyo,
+mecanismo de observación y ayuda a la supervisión; nunca como una fuerza que pretenda
+apartar al fundador de su propia empresa.
+
+La secuencia conceptual del libro no se altera: personas, criterio, procesos, información,
+controles, tecnología, automatización y autonomía supervisada.
+
 
 ## Perfil del lector
 
@@ -65,17 +80,17 @@ Perfil completo en `editorial/01-perfil-del-lector.md`.
 
 ## Método LEGADO
 
-Hilo conductor del libro. Seis etapas. La versión recomendada está pendiente de
-aprobación; ambas se documentan en `editorial/07-metodo-legado.md`.
+Hilo conductor del libro. Seis etapas. Formulación aprobada el 2026-09-06 (D-004) y
+documentada en `editorial/07-metodo-legado.md`.
 
-| Letra | Versión provisional | Versión recomendada |
-|---|---|---|
-| L | Localizar la dependencia del fundador | Localizar la dependencia |
-| E | Extraer y documentar el conocimiento crítico | Extraer el conocimiento y el criterio |
-| G | Gobernar procesos, permisos y decisiones | Gobernar decisiones, permisos y controles |
-| A | Acompañar la operación con inteligencia artificial | Asistir la operación con tecnología supervisada |
-| D | Delegar progresivamente con controles | Delegar de forma progresiva y verificable |
-| O | Observar y supervisar el legado a distancia | Operar sin dependencia y sostener el legado |
+| Letra | Etapa |
+|---|---|
+| L | Localizar la dependencia |
+| E | Extraer el conocimiento y el criterio |
+| G | Gobernar decisiones, permisos y controles |
+| A | Asistir la operación con tecnología supervisada |
+| D | Delegar de forma progresiva y verificable |
+| O | Operar sin dependencia y sostener el legado |
 
 Cada etapa produce un propósito, un diagnóstico, preguntas para el fundador, acciones,
 herramientas, indicadores, riesgos, responsables, evidencia de avance y un criterio para
@@ -87,13 +102,16 @@ El libro describe además una escala de siete niveles de autonomía, del 0 al 6.
 
 ## Estado actual
 
-**Etapa 1 — Fundamentos: completada.** Fecha: 2026-09-06.
+**Etapa 2 — Muestra editorial: completada.** Fecha: 2026-09-06.
 
-- Fundamentos editoriales, método, índice comentado, guía de estilo, estrategia de
-  investigación y archivos de control: creados.
-- Manuscrito: **0 palabras**. No hay ningún capítulo escrito.
-- Fuentes verificadas: **0**. Ninguna cifra ni estudio se cita en ningún documento.
-- El proyecto está detenido a la espera de autorización expresa para comenzar la Etapa 2.
+- Fundamentos editoriales, método, índice comentado, guía de estilo y archivos de control:
+  vigentes, con las decisiones D-001 a D-005 aprobadas.
+- Manuscrito: **4.341 palabras**. Introducción y capítulo 1 en borrador.
+- Recursos: **1 de 18** redactado, el Índice de Dependencia del Fundador.
+- Investigación: **12 fuentes verificadas** y 4 descartadas con motivo. Q-01 a Q-04
+  resueltas.
+- Ninguna cifra sin fuente. Cero marcas `[POR VERIFICAR]`.
+- El proyecto está detenido a la espera de autorización expresa para comenzar la Etapa 3.
 
 Detalle en `PROJECT_STATUS.md`.
 
@@ -121,12 +139,16 @@ Del-Fundador-al-Legado---book/
 │   ├── 09-reglas-de-casos-ficticios.md
 │   ├── 10-modelo-de-negocio.md
 │   ├── 11-plan-de-produccion.md
+│   ├── 12-alcance-jurisdiccional.md  Mercados, jurisdicciones y advertencias
 │   ├── glosario.md
 │   └── decisiones-editoriales.md
-├── capitulos/                    Manuscrito por capítulos (vacío por ahora)
+├── capitulos/                    Manuscrito por capítulos
+│   ├── 00-introduccion.md
 │   ├── parte-01/ … parte-05/
 ├── recursos/                     Catálogo de las 18 herramientas prácticas
+│   └── indice-dependencia-fundador.md
 ├── revision/                     Controles de calidad
+│   ├── control-de-calidad-etapa-2.md
 │   ├── control-de-capitulos.md
 │   ├── control-de-casos.md
 │   ├── control-de-repeticiones.md
@@ -139,8 +161,8 @@ Del-Fundador-al-Legado---book/
 | Etapa | Contenido | Estado |
 |---|---|---|
 | 1 | Fundamentos editoriales, método, índice, estilo, investigación, controles. | **Completada** |
-| 2 | Muestra editorial: introducción, capítulo 1 e Índice de Dependencia del Fundador. | Pendiente de autorización |
-| 3 | Producción de los capítulos 2 a 25 y la conclusión, por bloques. | No autorizada |
+| 2 | Muestra editorial: introducción, capítulo 1 e Índice de Dependencia del Fundador. | **Completada** |
+| 3 | Producción de los capítulos 2 a 25 y la conclusión, por bloques. | Pendiente de autorización |
 | 4 | Revisión integral y manuscrito consolidado. | No autorizada |
 | 5 | Entrega editorial. | No autorizada |
 
@@ -184,9 +206,12 @@ Ninguno. El proyecto está detenido.
 
 Para continuar se requiere del autor:
 
-1. Decisión sobre D-004, versión del Método LEGADO. **Bloquea la Etapa 2.**
-2. Decisiones sobre D-001, D-002, D-003 y D-005, que pueden tomarse más adelante.
-3. Autorización expresa para comenzar la Etapa 2 — Muestra editorial.
+1. Lectura de la muestra editorial: introducción, capítulo 1 e Índice de Dependencia.
+2. Decisión sobre D-005 / P-2 a P-5, ajustes de contenido en capítulos concretos.
+3. Autorización expresa para comenzar la Etapa 3 — Producción.
+
+Se recomienda además, antes de la Etapa 3, entregar la muestra a dos o tres propietarios
+de empresa familiar del perfil del lector (V-51).
 
 Ver `editorial/decisiones-editoriales.md` y `revision/verificaciones-pendientes.md`.
 

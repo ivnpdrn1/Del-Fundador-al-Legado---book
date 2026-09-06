@@ -3,14 +3,16 @@
 La repetición es el defecto más probable de un libro de veinticinco capítulos sobre un
 solo problema. Este archivo la previene antes de escribir y la detecta después.
 
-**Estado a 2026-09-06: sin manuscrito. Solo riesgos previstos.**
+**Estado a 2026-09-06: escritas la introducción y el capítulo 1.** Los recuentos del
+apartado 3 son reales, no previstos.
 
 ---
 
 ## 1. Pares de capítulos con riesgo alto o medio
 
-Identificados en la evaluación del índice. Cada par tiene un deslinde escrito que debe
-respetarse al redactar y comprobarse en la Etapa 4.
+Identificados en la evaluación del índice y actualizados tras el reordenamiento de la
+Parte III (D-017). Cada par tiene un deslinde escrito que debe respetarse al redactar y
+comprobarse en la Etapa 4.
 
 | Par | Riesgo | Deslinde obligatorio | Comprobado |
 |---|---|---|---|
@@ -19,45 +21,49 @@ respetarse al redactar y comprobarse en la Etapa 4.
 | 19 y 20 | Medio | Cap. 19 es el **instrumento**: qué se mira y con qué frecuencia. Cap. 20 es la **conducta**: cuándo se interviene y cuándo no. | No |
 | 10, 15 y 18 | Medio | Cap. 10 fija límites **entre personas**. Cap. 15 fija límites **para la tecnología**. Cap. 18 **aplica** los del 10 a personas concretas. | No |
 | 11 y 16 | Bajo | Cap. 11 dice **qué no se entrega**. Cap. 16 dice **cómo se protege** lo que sí se entrega. | No |
-| 4 y 24 | Bajo | Cap. 4 es la ausencia **temida**. Cap. 24 es la ausencia **provocada y controlada**. El 24 abre citando al 4. | No |
+| 11 y 13 | Bajo, nuevo tras D-017 | Cap. 11 trata el **dato**: fuente única, fiabilidad, clasificación. Cap. 13 trata la **conducta del sistema** sobre datos ya ordenados. El 11 no describe comportamiento del sistema; el 13 no vuelve sobre la calidad del dato. | No |
+| 4 y 24 | Bajo, pero conviene enlazarlos | Cap. 4 es la ausencia **temida**. Cap. 24 es la ausencia **provocada y controlada**. El 24 abre citando al 4. | No |
+| Intro y cap. 1 | **Medio, real y ya comprobado** | La introducción plantea la ausencia de siete días como **encuadre emocional** y no la analiza. El capítulo 1 no repite la escena de la ausencia: usa una mañana ordinaria y descompone la dependencia en materias. La introducción no da señales de reconocimiento; el capítulo 1 no repite la promesa ni los límites. | **Sí, 2026-09-06. Sin hallazgos.** |
 
 ## 2. Argumentos que solo pueden desarrollarse una vez
 
 Cada uno se desarrolla en profundidad en un único capítulo. En los demás se menciona en
-una frase con referencia cruzada, nunca se reexplica.
+una frase con referencia cruzada, nunca se reexplica. Numeración actualizada tras D-017.
 
-| Argumento | Capítulo propietario | Dónde puede mencionarse |
-|---|---|---|
-| Digitalizar no es inteligencia artificial. | 13 | 11, 12, en una frase |
-| La inteligencia artificial no comprende el negocio. | 11 | 12, 14, 15, en una frase |
-| Delegar no es soltar. | 18 | 5, 17, 20, en una frase |
-| El fundador centralizó por buenas razones. | 1 | 5, 17, 22, en una frase |
-| El sucesor no tiene por qué ser un familiar. | 21 | 17, en una frase |
-| Toda automatización debe poder detenerse. | 15 | 12, 14, 16, en una frase |
-| Documentar el porqué, no solo el cómo. | 9 | 2, 7, 8, en una frase |
-| Retirarse no es abandonar. | 5 | 22, 25, conclusión, en una frase |
-| Lo que se mide al principio se mide al final. | 6 | 24, 25, en una frase |
+| Argumento | Capítulo propietario | Dónde puede mencionarse | Usos ya consumidos |
+|---|---|---|---|
+| Digitalizar no es inteligencia artificial. | 11 | 12, 13, en una frase | Cap. 1, una frase ("confundir digitalizar con resolver"). Admisible: no reexplica. |
+| La inteligencia artificial no comprende el negocio. | 12 | 13, 14, 15, en una frase | 0 |
+| Delegar no es soltar. | 18 | 5, 17, 20, en una frase | Cap. 1, una frase. **Aviso:** queda consumido un uso no previsto. Vigilar en el cap. 5. |
+| El fundador centralizó por buenas razones. | 1 | 5, 17, 22, en una frase | Desarrollado en intro y cap. 1. **Aviso:** la introducción lo desarrolla más que en una frase. Deslinde adoptado: la introducción lo enuncia como permiso para seguir leyendo; el capítulo 1 lo convierte en análisis. No debe volver a explicarse en el cap. 5. |
+| El sucesor no tiene por qué ser un familiar. | 21 | 17, en una frase | 0 |
+| Toda automatización debe poder detenerse. | 15 | 13, 14, 16, en una frase | Intro, media frase. Admisible. |
+| Documentar el porqué, no solo el cómo. | 9 | 2, 7, 8, en una frase | Intro y cap. 1, una frase cada uno. Admisible. |
+| Retirarse no es abandonar. | 5 | 22, 25, conclusión, en una frase | Cap. 1, una frase ("la independencia operativa no es abandono"). Admisible. |
+| Lo que se mide al principio se mide al final. | 6 | 24, 25, en una frase | Cap. 1 y herramienta 1. **Aviso:** es inevitable, porque el instrumento nace aquí. El cap. 6 deberá tratar el *cómo* medir, no el *por qué*. |
 
 ## 3. Recursos retóricos con riesgo de repetición
 
-Elementos que, por su eficacia, tienden a reaparecer sin que el autor lo advierta.
+Recuento real sobre las piezas escritas, verificado por búsqueda automática el 2026-09-06.
 
-| Recurso | Límite | Uso |
-|---|---|---|
-| La pregunta "¿qué pasa si usted no está?" | Máximo tres veces en todo el libro | 0 |
-| La imagen de la empresa que "vive en una cabeza" | Máximo cuatro veces | 0 |
-| La comparación de la inteligencia artificial con un aprendiz | Capítulo 11 y una mención posterior | 0 |
-| La expresión "sin perder el control" | Máximo cinco veces | 0 |
-| La palabra "legado" fuera de títulos | Máximo ocho veces | 0 |
+| Recurso | Límite | Usos consumidos | Dónde |
+|---|---|---|---|
+| La pregunta "¿qué pasa si usted no está?" | Máximo tres veces en todo el libro | **2** | Título de la introducción; apertura del apartado "La pregunta que da origen a este libro". **Queda uno disponible para los veinticuatro capítulos restantes.** |
+| La imagen de la empresa que "vive en una cabeza" | Máximo cuatro veces | **1** | Introducción. |
+| La comparación de la inteligencia artificial con un aprendiz | Capítulo 12 y una mención posterior | 0 | — |
+| La expresión "sin perder el control" | Máximo cinco veces | **0** en el manuscrito | Aparece en el subtítulo del libro, que no computa. |
+| La palabra "legado" fuera de títulos | Máximo ocho veces | **4** | Introducción: nombre de la etapa O, cierre del texto y dos menciones del método. |
 
-Los límites son orientativos y buscan hacer visible la acumulación, no prohibir el
-recurso.
+**Observación de vigilancia.** El recurso más comprometido es la pregunta de la ausencia:
+con dos usos consumidos en la introducción, los capítulos 4 y 24 —que tratan precisamente
+la ausencia— deberán formularla de otra manera. Se recomienda reservar el tercer uso para
+el capítulo 24, que es donde la ausencia deja de ser una hipótesis.
 
 ## 4. Procedimiento de detección en la Etapa 4
 
 1. Lectura seguida de cada parte completa, en una sola sesión, buscando la sensación de
    "esto ya lo he leído".
-2. Comprobación uno a uno de los seis deslindes del apartado 1.
+2. Comprobación uno a uno de los deslindes del apartado 1.
 3. Comprobación de que cada argumento del apartado 2 se desarrolla en un solo capítulo.
 4. Recuento de los recursos del apartado 3.
 5. Recuento de aperturas de capítulo por tipo: si más de la mitad empiezan igual, se
@@ -67,8 +73,17 @@ recurso.
 
 ## 5. Hallazgos
 
-*Vacío.*
-
 | Fecha | Hallazgo | Capítulos | Resolución |
 |---|---|---|---|
-| — | — | — | — |
+| 2026-09-06 | La introducción y el capítulo 1 podían solaparse en la escena de la ausencia. | Intro, 1 | Resuelto antes de escribir: la introducción usa la ausencia como encuadre; el capítulo 1 abre con una mañana ordinaria y no vuelve sobre ella. |
+| 2026-09-06 | El argumento "el fundador centralizó por buenas razones" se desarrolla en dos piezas. | Intro, 1 | Deslinde adoptado y anotado en el apartado 2. Queda prohibido reexplicarlo en el capítulo 5. |
+| 2026-09-06 | Dos de los tres usos permitidos de la pregunta de la ausencia se consumen en la introducción. | Intro | Aceptado: es el lugar donde más rinde. Registrada la restricción para los capítulos 4 y 24. |
+
+## 6. Aperturas de capítulo utilizadas
+
+Para evitar que la mitad del libro empiece igual.
+
+| Pieza | Tipo de apertura |
+|---|---|
+| Introducción | Reconocimiento directo al lector, en segunda persona. |
+| Capítulo 1 | Escena cotidiana con hora concreta y tres microsituaciones. |

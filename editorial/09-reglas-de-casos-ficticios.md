@@ -107,7 +107,7 @@ Riesgos evaluados para el proyecto completo, con la medida aplicada en la Etapa 
 | R-3 | Que el vocabulario de un sector excluido se filtre en un ejemplo. | Media | Alto | Lista de sectores excluidos fuera del repositorio; revisión léxica específica antes de cada publicación. | Control implantado; revisión ejecutada en la Etapa 1 sin hallazgos. |
 | R-4 | Que se publiquen credenciales, tokens o claves en el repositorio. | Baja | Alto | `.gitignore` con reglas de secretos; revisión de contenido antes de cada commit. | Controlado; revisión ejecutada, sin hallazgos. |
 | R-5 | Que se copie material desde repositorios de otros proyectos del autor. | Baja | Alto | Repositorio aislado, clonado limpio y vacío; ningún archivo importado de otro origen. | Controlado; verificado en la Etapa 1. |
-| R-6 | Que una plantilla induzca al lector a exponer datos personales de terceros. | Media | Medio | Aviso al pie de cada herramienta; capítulo 16 y lista de información restringida. | Pendiente de aplicar al redactar las herramientas. |
+| R-6 | Que una plantilla induzca al lector a exponer datos personales de terceros. | Media | Medio | Aviso al pie de cada herramienta; capítulo 16 y lista de información restringida. | **Aplicado en la herramienta 1.** Pendiente para las diecisiete restantes. |
 | R-7 | Que un personaje acumule rasgos hasta parecer un retrato. | Media | Medio | Regla 8, máximo de tres rasgos; regla 9, máximo dos capítulos. | Controlado por norma. |
 | R-8 | Que el desequilibrio de género o de sector sugiera un modelo concreto. | Media | Bajo | Reparto planificado en el apartado 3 y control en la Etapa 4. | Controlado por norma. |
 | R-9 | Que se atribuya al libro una recomendación legal o fiscal universal. | Media | Alto | Aviso de alcance en preliminares, en el capítulo 10, en el capítulo 16 y al pie de cada herramienta. | Controlado por norma. |
@@ -128,4 +128,10 @@ Lista ejecutada antes de cada `git push`. Se registra el resultado en
 8. Revisión de `git status` y del diff completo antes de confirmar.
 
 **Resultado de la revisión de la Etapa 1:** ejecutada sobre la totalidad de los archivos
-creados. Sin hallazgos. Detalle en `PROJECT_STATUS.md`.
+creados. Sin hallazgos.
+
+**Resultado de la revisión de la Etapa 2:** ejecutada sobre los archivos creados y
+modificados, incluidas las tres piezas del manuscrito. Sin hallazgos. El único caso
+ficticio, C-01, se registró antes de escribirse, con riesgo de semejanza bajo, y superó
+las diez comprobaciones obligatorias. Detalle en `PROJECT_STATUS.md`, apartado 9, y en
+`revision/control-de-calidad-etapa-2.md`, revisión I.
