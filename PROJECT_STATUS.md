@@ -28,10 +28,11 @@
 **Etapa 3.3.1 — Control conceptual del cálculo de impacto: COMPLETADA el 2026-09-07.**
 **Etapa 3.4A — Investigación Q-09: COMPLETADA el 2026-09-07.**
 **Etapa 3.4A.1 — Cierre de V-55 y ampliación de Q-09 a la ruta B: COMPLETADA el 2026-09-07.**
+**Etapa 3.4B — Capítulo 5 y herramienta 2: COMPLETADA el 2026-09-07. PARTE I CERRADA.**
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
-**El capítulo 5 no se ha escrito, el manuscrito no se ha tocado, no se ha redactado ninguna
-pregunta del cuestionario y la Etapa 3.4B no se ha iniciado.**
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
+del capítulo 5 y del cierre completo de la Parte I. **El capítulo 6 no se ha escrito y la
+Etapa 3.5 no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -216,20 +217,21 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 
 | Concepto | Valor |
 |---|---|
-| Capítulos terminados | **4 de 25** (en borrador) |
+| Capítulos terminados | **5 de 25** (en borrador). **Parte I completa.** |
 | Introducción | **Escrita**, 2.838 palabras |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
 | Capítulo 3 | **Escrito y revisado**, 1.975 palabras (objetivo 1.800) |
 | Capítulo 4 | **Escrito y revisado**, 2.163 palabras (objetivo 1.900) |
+| Capítulo 5 | **Escrito**, 1.944 palabras (objetivo 2.000) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **11.891** |
+| Palabras del manuscrito | **13.832** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 22,3 % |
-| Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
+| Avance sobre el objetivo | 26,0 % |
+| Recursos terminados | **2 de 18** (2.490 y 1.545 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
-| Decisiones registradas | 68, de las cuales 2 reemplazadas y conservadas |
+| Decisiones registradas | 69, de las cuales 2 reemplazadas y conservadas |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -353,8 +355,9 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Revisar el capítulo 4.** Es lo único que el autor ha pedido a continuación. No se
-   escribirá el capítulo 5 ni se iniciará la Etapa 3.4 sin nueva autorización.
+1. **Revisar el capítulo 5 y el cierre de la Parte I.** Es lo único que el autor ha pedido a
+   continuación. No se escribirá el capítulo 6 ni se iniciará la Etapa 3.5 sin nueva
+   autorización.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que
    pida el capítulo.

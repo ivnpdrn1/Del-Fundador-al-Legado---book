@@ -82,6 +82,22 @@ dirigida las clasificó como negaciones y universales referidos a la historia de
 lector o como instrucciones del ejercicio, no como enunciados sobre el mundo. Ninguna
 requería fuente.
 
+**Capítulo 5: tres referencias, todas en un solo apartado y ninguna con cifras.**
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 5 | «diez profesionales autónomos ya jubilados… ninguno de los diez dejó de trabajar cuando empezó a cobrar la prestación… jubilarse no supuso desvincularse del trabajo, sino una transformación del papel de trabajador… esa desvinculación no tiene por qué ser brusca» | **F-024** | Hallazgo cualitativo atribuido | Cerrada. **Única fuente de Q-09 leída íntegra.** El texto declara el tamaño (diez), el país (implícito como «un país concreto») y **reproduce la limitación de los propios autores**: no pretenden resultados generalizables. |
+| 5 | «un trabajo publicado en 2020 en el *Journal of Small Business Management* describe el retiro del empresario como una decisión voluntaria sobre la que tiene un control considerable, con inclinación al retiro parcial, y observa que la identidad empresarial influye» | **F-018** | Hallazgo atribuido | Cerrada. Se atribuye expresamente al trabajo, con año y publicación. **Solo se dice lo que consta en el resumen**, que es lo único a lo que se tuvo acceso. Sin cifras. |
+| 5 | «Un estudio sobre registros administrativos finlandeses encontró que quienes trabajaban por su cuenta sin empleados seguían trayectorias más uniformes que los propietarios de empresa, ajustadas a la normativa de pensiones de aquel país» | **F-025** | Hallazgo atribuido, **usado como contrapeso** | Cerrada. Entra precisamente para **impedir** la afirmación de que trabajar solo dé más libertad, que es lo que prohíbe V-56A. País declarado en la frase. Sin cifras. |
+
+**Ninguna afirmación regional.** El capítulo no dice nada sobre países hispanohablantes, y por
+eso **no necesita declarar el vacío de V-56B**: la solución adoptada fue no hacer
+afirmaciones regionales, no advertir de su ausencia.
+
+**El principio central del capítulo no se atribuye a nadie.** El texto dice literalmente:
+«Esto no es un hallazgo de nadie ni una conclusión de ninguna investigación. Es la propuesta
+de este libro».
+
 **Capítulo 4: cero referencias externas, y todas las cifras clasificadas.** El capítulo habla
 necesariamente de cantidades, así que se le aplicó una regla más estricta: **toda cifra del
 texto está clasificada** en A (dato real del lector), B (ejemplo ficticio identificado), C

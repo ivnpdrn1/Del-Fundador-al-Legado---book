@@ -4,7 +4,7 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: 1 de 18 herramientas redactada** (el Índice de Dependencia de la Persona Clave,
+**Estado actual: 2 de 18 herramientas redactadas** (el Índice de Dependencia de la Persona Clave,
 producido en la Etapa 2). Las diecisiete restantes se producen junto con su capítulo
 durante la Etapa 3. No se crean archivos vacíos: cada archivo nace cuando existe contenido
 real.
@@ -63,7 +63,11 @@ remite a un profesional y no fija ninguna cifra.
 ## Criterio de diseño de todas las herramientas
 
 1. Debe poder usarse en papel, sin ningún programa informático.
-2. Debe caber en un máximo de dos páginas, salvo las plantillas de manual.
+2. Debe caber en un máximo de dos páginas, salvo las plantillas de manual. **Precisión del
+   2026-09-07:** «dos páginas» se refiere a lo que el lector **imprime y rellena**, no al
+   archivo del repositorio, que incluye además propósito, instrucciones, lectura de
+   resultados, ejemplo y avisos. Las herramientas 1 y 2 cumplen la regla en ese sentido y no
+   en el literal, y conviene dejarlo escrito para no reabrirlo en cada herramienta.
 3. Debe indicar quién la llena, con qué frecuencia y quién la revisa.
 4. Debe producir una decisión o una acción, no solo un diagnóstico.
 5. Debe funcionar en una empresa de diez personas y en una de doscientas.
@@ -78,7 +82,7 @@ remite a un profesional y no fija ninguna cifra.
 | # | Recurso | Archivo previsto | Cap. | Etapa | Propósito en una línea |
 |---|---------|------------------|------|-------|------------------------|
 | 1 | Índice de Dependencia de la Persona Clave **(redactada, v2.0)** | `indice-dependencia-fundador.md` | 1 | L | Medir con un número comparable cuánto depende un negocio de una sola persona. Adaptada a las dos rutas. |
-| 2 | Cuestionario de preparación para el retiro | `cuestionario-preparacion-retiro.md` | 5 | L | Separar la disposición personal del fundador de la preparación real de la empresa. |
+| 2 | Cuestionario de preparación para elegir su participación **(redactada)** | `cuestionario-preparacion-elegir-participacion.md` | 5 | L | Separar la **disposición personal** de la **preparación del negocio**, y situar ambas sobre el Mapa de Participación. Renombrada el 2026-09-07 (D-069): el nombre anterior, *preparación para el retiro*, contradecía D-067. |
 | 3 | Inventario del conocimiento crítico | `inventario-conocimiento-critico.md` | 6 | E | Listar lo que solo una persona sabe y clasificarlo por impacto si se pierde. |
 | 4 | Mapa de decisiones | `mapa-de-decisiones.md` | 7 | E | Registrar con qué criterio se decide cada cosa, con qué información y en cuánto tiempo. La columna «quién decide» se sustituye por «con qué criterio», que sirve en ambas rutas. |
 | 5 | Mapa de relaciones críticas | `mapa-relaciones-criticas.md` | 7 | E | Identificar vínculos externos que hoy solo existen a través del fundador. |

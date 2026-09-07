@@ -133,6 +133,8 @@ Máximo dos capítulos por personaje. Sin historia continuada entre capítulos.
 | Tomás (C-04) | 3 | No |
 | Lucía (C-05) | 4 | No |
 
+**Capítulo 5: sin caso registrado, por decisión.** El capítulo es de reencuadre y necesitaba mostrar **dos elecciones distintas**, no una historia. Lleva **dos microescenas sin nombre y sin rasgos** —una propietaria que pasa a supervisión y se queda quince años, y un profesional que trabaja solo y decide no cambiar de posición—, ambas muy por debajo de las 120 palabras de la guarda de D-030 y por tanto ejemplos, no casos. **Una por ruta**, de modo que los dos lectores encuentran una manifestación concreta. No se inventó un caso para cumplir cuota, y el reparto de casos no cambia: sigue en 3 de ruta A y 2 de ruta B. El ejemplo de la herramienta 2, en agricultura, es material del anexo y tampoco es un caso.
+
 ## 6. Comprobación antes de escribir un caso
 
 Diez preguntas. Una sola respuesta afirmativa en las nueve primeras obliga a rediseñar.

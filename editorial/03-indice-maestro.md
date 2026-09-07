@@ -85,7 +85,7 @@ juzgado. Aquí se gana o se pierde al lector.*
 | 2 | El conocimiento que nunca fue escrito | E | Existe un conocimiento que no está en ningún manual porque nunca se consideró conocimiento: criterio, historia, excepciones, señales. | Ejercicio de reconocimiento | 2.000 |
 | 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | — | La suposición de que el conocimiento ya está donde hace falta. Con equipo suena «ellos ya sabrían qué hacer»; trabajando solo, «lo tengo tan claro que no hace falta escribirlo». Son la misma certeza: confundir disponibilidad presente con transferibilidad real. **Presencia no es autonomía.** Se trata la suposición, no las consecuencias. | Prueba de las tres preguntas (un principio, dos modos) | 1.800 |
 | 4 | El costo de una ausencia inesperada | — | Qué cambia porque la persona no está disponible. Distinguir seis estados —continuó, se resolvió sin usted, esperó, se detuvo, volvió a usted, se perdió— y poner cifra **solo** donde exista de verdad. **Pausa no es pérdida.** Se tratan las consecuencias, no la suposición. Se calcula; no se prueba la ausencia, que es el capítulo 24. | Cálculo del impacto de una semana de ausencia (un principio, dos modos) | 1.900 |
-| 5 | Retirarse no significa abandonar | — | Reencuadre emocional. Distinguir retirarse de la operación de retirarse de la empresa. Ofrece la ruta. | Cuestionario de preparación para el retiro | 2.000 |
+| 5 | Retirarse no significa abandonar | — | Reencuadre. El lector no elige entre trabajar y desaparecer, sino **qué papel quiere poder tener**. Columna vertebral: el **Mapa de Participación** (D-067). Distinguir retirarse de la operación de retirarse del negocio. **Obligación frente a elección.** Cierra la Parte I. | Cuestionario de preparación para elegir su participación | 2.000 |
 
 ### PARTE II — CONVERTIR EXPERIENCIA EN MEMORIA TRANSFERIBLE
 
@@ -331,7 +331,7 @@ empresarial de un modo que no se resuelve cambiando una palabra.
 | # | Herramienta | Estado |
 |---|---|---|
 | 1 | Índice de Dependencia de la Persona Clave | **Hecho.** Renombrada y adaptada (versión 2.0). |
-| 2 | Cuestionario de preparación para el retiro | Ampliar con el **Mapa de Participación** (D-067). Arquitectura de dos ejes: preparación personal y preparación del negocio. |
+| 2 | Cuestionario de preparación para elegir su participación | **Hecha.** Renombrada por D-069. Mapa de Participación más dos ejes: disposición personal y preparación del negocio. |
 | 3 | Inventario del conocimiento crítico | OK. |
 | 4 | Mapa de decisiones | **Ampliación menor.** La columna «quién decide» es trivial en un negocio de una persona; sustituirla por «con qué criterio se decide», que es lo que interesa en ambos casos. |
 | 5 | Mapa de relaciones críticas | OK. Más importante para el lector B. |

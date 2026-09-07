@@ -93,6 +93,8 @@ para comprobar que no cambian de sentido a lo largo del libro.
 | Presencia no es autonomía | **3 (principio central, ya escrito)** | — | Sí. Enunciado propio del libro. **Es el principio del capítulo 3 y no se reexplica en el 4**, comprobado el 2026-09-07: el capítulo 4 lo enlaza en una sola frase. |
 | Una pausa no es una pérdida | **4 (principio central, ya escrito)** | — | Sí. Enunciado propio del libro. Es el principio del capítulo 4 y **no debe reexplicarse en el 24**, que vuelve sobre la ausencia desde el otro lado. |
 | Estado y dinero son dos dimensiones | **4** | 6, 24, donde se vuelva a medir | Sí. **Regla fijada el 2026-09-07 (Etapa 3.3.1):** el estado dice qué ocurrió; la cifra se decide aparte, con dos preguntas —¿hay consecuencia económica real causada por la ausencia y no contada en otra línea? y ¿puedo medirla?—. **Ningún estado obliga a poner cifra ni impide ponerla.** Vale para cualquier otra herramienta del libro que clasifique y mida a la vez. |
+| Mapa de Participación | **5 (presentado)** | 22, 24, 25 | Sí. **Ocho posiciones, sin dirección obligatoria** (D-067). Prohibido tratarlo como escalera, ranking o calendario, y prohibido presentar el retiro total como meta. La sucesión y el legado **no son posiciones** (D-068). |
+| Obligación / elección | **5 (principio central)** | Todas | Sí. Enunciado propio del libro, **nunca atribuido a una fuente**. «Puede elegir trabajar; eso no es lo mismo que tener que trabajar.» |
 | Costo (en el capítulo 4) | **4** | — | Sí, **con definición expresa**: en ese capítulo significa todo lo que cambia porque la persona no está disponible, y no solo lo que tiene cifra. El capítulo lo fija antes de usarlo (D-066). No debe usarse en otros capítulos con el sentido estrecho de dinero perdido sin decirlo. |
 
 **Salvedad registrada sobre "criterio".** La palabra aparece con dos usos: el sentido fijo
@@ -137,6 +139,7 @@ El control principal está en `revision/control-de-casos.md`.
 | Personaje | Sector | Cap. de aparición | Rasgos usados | Coherente |
 |---|---|---|---|---|
 | Elena (C-01) | Distribución regional | 1 | Tres: trayectoria larga; autoriza personalmente las condiciones distintas; conserva de memoria el historial de clientes antiguos. | Sí |
+| — (cap. 5) | Dos microescenas sin nombre: una propietaria que pasa a supervisión y se queda quince años; un profesional que trabaja solo y decide no moverse de posición | 5 | Sin nombre y sin rasgos: son ejemplos, no casos. | Sí |
 | Andrés (C-02) | Servicios profesionales, ruta B | 1 | Según `control-de-casos.md`. **Fila añadida el 2026-09-07:** faltaba en esta tabla aunque sí constaba en el control principal. | Sí |
 | Marta (C-03) | Manufactura ligera, ruta A | 2 | Tres: muchos años al frente de la producción; reconoce por adelantado los encargos que se van a complicar; no ha escrito nunca ese criterio. | Sí |
 | Tomás (C-04) | Comercio mayorista, ruta A | 3 | Tres: años al frente del negocio; equipo estable y competente; nunca había comprobado la diferencia entre lo que cree que saben y lo que pueden explicar. | Sí |

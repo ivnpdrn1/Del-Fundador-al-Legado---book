@@ -140,5 +140,6 @@ Para evitar que la mitad del libro empiece igual.
 | Capítulo 2 | **Fragmento de diálogo**: una pregunta ajena y la respuesta inmediata del lector. Tipo no usado antes. |
 | Capítulo 3 | **El recuerdo del propio lector usado como prueba, y desmontado a continuación**: la última ausencia corta que salió bien. Tipo no usado antes. |
 | Capítulo 4 | **Una cuenta rápida que el lector hace de cabeza, mostrada y refutada en las dos direcciones** —por exceso y por defecto—. Tipo no usado antes. |
+| Capítulo 5 | **Una objeción del lector, enunciada y concedida de inmediato**: «yo no quiero retirarme» / «este libro no necesita que quiera». Tipo no usado antes. |
 
 **Cierres.** El del capítulo 2 **enuncia** las dos formas de la certeza que examina el capítulo 3 —«ellos ya sabrían qué hacer» con equipo, «lo tengo tan claro que no hace falta escribirlo» trabajando solo— sin analizarlas. **El capítulo 3 debe desarrollarlas, no volver a presentarlas**, y la variante de la ruta B, que la valoración 2.2 le encargaba introducir, ya está nombrada: le corresponde tratarla, no anunciarla.
