@@ -45,7 +45,7 @@ le corresponde cobrar.
 |---|---|
 | **Quién lo completa** | La persona de quien depende el negocio. A solas y por escrito. |
 | **Cuánto se tarda** | Unos treinta minutos. |
-| **Cada cuánto** | Una vez al año, y siempre que cambie algo importante. |
+| **Cada cuánto** | Cuando cambie de forma relevante su papel, el negocio o su intención. Si quiere usarlo como seguimiento, revíselo cada cierto tiempo: no hay una periodicidad demostrada, y la de un año es solo una costumbre cómoda. |
 | **Quién lo revisa** | Nadie, salvo que usted quiera. Es un documento privado. |
 | **Qué hace falta** | Un papel, y a mano lo que produjo en los capítulos 1 a 4. |
 
@@ -58,19 +58,27 @@ Marque **dos** posiciones. Pueden ser la misma.
 | | Posición | Hoy estoy | Querría poder elegir |
 |---|---|---|---|
 | 1 | **100 % operativo** — el trabajo del día pasa por usted | ☐ | ☐ |
-| 2 | **Reducción del trabajo manual** — sigue decidiendo todo, ejecuta menos | ☐ | ☐ |
-| 3 | **Supervisión** — otros hacen y deciden, usted revisa | ☐ | ☐ |
-| 4 | **Intervención por excepción** — solo entra cuando algo se sale de lo previsto | ☐ | ☐ |
-| 5 | **Asesoría estratégica** — no está en la operación; opina sobre lo importante | ☐ | ☐ |
-| 6 | **Participación voluntaria** — participa en lo que le apetece, cuando le apetece | ☐ | ☐ |
-| 7 | **Retiro parcial** — mantiene un vínculo definido y poco más | ☐ | ☐ |
+| 2 | **Reducción del trabajo manual** — sigue decidiéndolo todo, ejecuta menos | ☐ | ☐ |
+| 3 | **Supervisión** — la ejecución cotidiana ya no depende solo de usted; usted revisa | ☐ | ☐ |
+| 4 | **Intervención por excepción** — la operación sigue sin su presencia constante; entra cuando algo se sale de lo previsto | ☐ | ☐ |
+| 5 | **Asesoría estratégica** — no participa en la operación diaria; interviene en las decisiones relevantes | ☐ | ☐ |
+| 6 | **Participación voluntaria** — elige en qué interviene y cuándo, sin obligación operativa continua | ☐ | ☐ |
+| 7 | **Retiro parcial** — mantiene un vínculo definido y limitado | ☐ | ☐ |
 | 8 | **Retiro total** — no participa | ☐ | ☐ |
+
+**Las ocho valen igual trabajando solo.** Ninguna posición exige que haya empleados: lo que
+sostiene la ejecución puede ser otra persona, un procedimiento escrito, un acuerdo con
+alguien de fuera o el propio trabajo hecho por adelantado. **No invente un equipo que no
+tiene** para poder marcar una casilla.
 
 **Cómo leer esta tabla.** Las posiciones están ordenadas de más a menos participación, y ese
 orden es solo la manera de leerlas. **No son etapas, no hay que recorrerlas en orden, se
 pueden saltar, se puede volver a una de más participación y se puede permanecer en la misma
-toda la vida.** La posición 8 no es mejor que la 3. Marcar la misma casilla en las dos
-columnas es un resultado excelente: significa que ya está donde quiere estar.
+toda la vida.** La posición 8 no es mejor que la 3.
+
+**Marcar la misma casilla en las dos columnas es un resultado normal y coherente**, y dice
+una cosa concreta: hoy está donde querría estar. **No dice** que pudiera moverse si quisiera,
+ni que el negocio aguante sin usted. Eso lo contesta el otro eje, y son preguntas distintas.
 
 ## 5. Parte segunda — Eje personal
 
@@ -80,15 +88,22 @@ sobre lo que debería haber.
 | | | Sí | A medias | Todavía no |
 |---|---|---|---|---|
 | P1 | Sé qué parte de mi trabajo querría conservar aunque pudiera dejarla entera. | ☐ | ☐ | ☐ |
-| P2 | He pensado en concreto qué haría con el tiempo que dejaría de dedicar a la operación. | ☐ | ☐ | ☐ |
+| P2 | He pensado en concreto qué haría con mi tiempo si mi participación cambiara. **Si su respuesta es que la mantendría igual, y lo ha pensado, eso es un «Sí».** | ☐ | ☐ | ☐ |
 | P3 | Tengo un horizonte aproximado, **o he decidido a propósito no fijar ninguno**. | ☐ | ☐ | ☐ |
-| P4 | Reducir mi participación es hoy algo que quiero, no algo que me viene impuesto. | ☐ | ☐ | ☐ |
-| P5 | He hablado de esto con alguien de mi vida personal. | ☐ | ☐ | ☐ |
-| P6 | Si quisiera sostener este ritmo de trabajo cinco años más, podría. | ☐ | ☐ | ☐ |
+| P4 | Tengo claro qué parte de mi participación actual **elijo** mantener y qué parte mantengo **porque el negocio me la exige**. | ☐ | ☐ | ☐ |
+| P5 | He tenido en cuenta cómo afectaría esto a las personas a las que afecte, y lo he hablado con quien correspondiera. **Si no hay nadie a quien afecte, es un «Sí».** | ☐ | ☐ | ☐ |
+| P6 | Tengo identificadas las circunstancias personales o externas que podrían limitar mi capacidad de elegir este papel. | ☐ | ☐ | ☐ |
 
-**P3 se contesta «Sí» de las dos maneras.** Tener un horizonte y haber decidido no tenerlo
-son ambas respuestas con criterio. Lo que deja la casilla en «Todavía no» es no haberlo
-pensado.
+**Tres advertencias de lectura, porque estas frases se malinterpretan con facilidad.**
+
+- **P3 se contesta «Sí» de las dos maneras.** Tener un horizonte y haber decidido a propósito
+  no tenerlo son las dos respuestas con criterio. Lo que deja la casilla en «Todavía no» es
+  no haberlo pensado.
+- **Ninguna de las seis pregunta si usted quiere reducir su participación.** Preguntan si lo
+  ha pensado y si distingue lo que elige de lo que le viene impuesto. Querer seguir
+  exactamente igual es compatible con seis «Sí».
+- **P6 no pregunta por su salud ni le pide adivinar el futuro.** Pregunta si ha mirado qué
+  cosas —suyas o de fuera— podrían estrechar sus opciones.
 
 ## 6. Parte tercera — Eje del negocio
 
@@ -99,7 +114,7 @@ volver a medir nada.
 |---|---|---|---|---|
 | N1 | Tengo calculado y fechado mi Índice de Dependencia (capítulo 1). | ☐ | ☐ | ☐ |
 | N2 | Tengo por escrito al menos una muestra de lo que sé y no está documentado (capítulo 2). | ☐ | ☐ | ☐ |
-| N3 | He comprobado qué decisiones no se tomarían si no pudieran localizarme (capítulo 3). | ☐ | ☐ | ☐ |
+| N3 | He comprobado **si** hay decisiones que se detendrían si no pudieran localizarme, y sé cuáles son o que no apareció ninguna (capítulo 3). | ☐ | ☐ | ☐ |
 | N4 | Sé qué pasa si falto una semana, distinguiendo lo que espera de lo que se pierde (capítulo 4). | ☐ | ☐ | ☐ |
 | N5 | Hay al menos una decisión que antes pasaba por mí y hoy ya no. | ☐ | ☐ | ☐ |
 | N6 | Si no pudieran localizarme durante dos semanas, hay algo escrito a lo que alguien pueda acudir. | ☐ | ☐ | ☐ |
@@ -114,30 +129,39 @@ es información útil.
 
 ## 7. Lectura del resultado
 
-Cuente los **Sí** de cada eje por separado. **No sume los dos ejes: no son la misma cosa y un
-total conjunto no significaría nada.**
+**No hay puntos.** Mire cada eje por separado y observe **qué respuesta se repite más** entre
+sus seis frases:
 
-| Sí en el eje | Lectura |
+| Lo que predomina en el eje | Lectura |
 |---|---|
-| 0 a 2 | Todavía no |
-| 3 o 4 | A medias |
-| 5 o 6 | Más bien sí |
+| Predominan los **Sí** | **Más bien sí** |
+| Predominan los **Todavía no** | **Todavía no** |
+| Predominan los **A medias**, o no predomina ninguna con claridad | **A medias** |
 
-Esto no es una medición. Es una manera de ordenar la lectura, y los cortes son criterios de
-este libro, no umbrales investigados.
+Eso es todo. **No se suman respuestas, no hay puntuación, no hay porcentaje, no se suman los
+dos ejes entre sí y no hay ningún umbral validado.** Lo que hace esta tabla es leer un
+patrón, no calcular un resultado.
+
+**Seis «A medias» dan «A medias»**, no «Todavía no», y significa exactamente lo que parece:
+hay algo hecho en todo y nada terminado.
+
+Si al mirar su eje duda entre dos lecturas, quédese con la peor de las dos y siga. La
+diferencia no cambia lo que hará mañana.
 
 ### Las cuatro situaciones
 
-Cruce las dos lecturas. **Ningún cuadrante es mejor que otro, y ninguno es un juicio sobre
-usted:** describen dónde está hoy, no dónde debería estar.
+Cruce las dos lecturas. Esto es **una ayuda para interpretar**, no un clasificador: **ningún
+cuadrante es mejor que otro y ninguno es un juicio sobre usted.** Describen dónde está hoy,
+no dónde debería estar, y con seis frases por eje no se puede demostrar nada más que eso.
 
 | | **Negocio: más bien sí** | **Negocio: todavía no** |
 |---|---|---|
-| **Persona: más bien sí** | **La elección ya existe.** Puede decidir su posición. No tiene ninguna obligación de usar esa posibilidad, y no usarla tampoco la gasta. | **La voluntad va por delante.** Lo que falta está en el negocio, y es exactamente de lo que trata el resto del libro. |
-| **Persona: todavía no** | **La posibilidad está disponible y hoy no la quiere usar.** Es un resultado del método, no un fallo suyo: quiere decir «podría reducir mi participación, pero no quiero». La posibilidad no caduca. | **Todavía no es el momento, y son dos asuntos distintos.** Puede trabajar la parte del negocio sin haber decidido nada sobre la personal. No hacen falta las dos a la vez. |
+| **Persona: más bien sí** | **Las condiciones parecen favorables por los dos lados.** Es el punto desde el que una transición es planteable. No significa que deba hacer nada, ni que vaya a salir bien: significa que la conversación puede empezar. | **Su disposición va por delante del negocio.** Lo que falta no está en usted, y es exactamente de lo que trata el resto del libro. |
+| **Persona: todavía no** | **El negocio parece estar más preparado que su disposición personal.** Es un resultado del método y no un fallo suyo: puede querer decir «podría reducir mi participación, pero hoy no quiero». No necesita usar esa posibilidad ahora; puede volver a evaluarla más adelante, teniendo en cuenta que las condiciones cambian. | **Hoy no es el momento, y son dos asuntos distintos.** Puede trabajar la parte del negocio sin haber decidido nada sobre la personal. No hacen falta las dos a la vez. |
 
-Quien quede «a medias» en un eje, lea las dos casillas de esa fila o columna: la situación
-real estará entre ambas.
+**Si un eje le quedó «a medias»**, no lo fuerce hacia un lado. Lea las dos casillas de esa
+fila o columna y escriba qué parte de cada una describe su situación. Casi todo el valor
+está en esa frase, no en la casilla.
 
 ---
 
@@ -176,7 +200,9 @@ retirarse ni delegar: es *«escribir por qué decido cuándo se adelanta o se re
 recolección, antes de que acabe el mes»*. Una cosa, con fecha, que depende solo de él.
 
 Un año después vuelve a hacer el cuestionario y sigue marcando **1** en «hoy». No ha
-cambiado de posición, y no pasa nada: ahora está ahí porque quiere.
+cambiado de posición, y no pasa nada. Lo que sí ha cambiado está en el otro eje: aquel
+criterio está escrito, y en dos ocasiones se aplicó sin que nadie le llamara. Sigue haciendo
+el mismo trabajo, y ahora hay una parte que podría no hacer.
 
 ---
 

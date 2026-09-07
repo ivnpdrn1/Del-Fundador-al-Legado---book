@@ -28,7 +28,8 @@
 **Etapa 3.3.1 — Control conceptual del cálculo de impacto: COMPLETADA el 2026-09-07.**
 **Etapa 3.4A — Investigación Q-09: COMPLETADA el 2026-09-07.**
 **Etapa 3.4A.1 — Cierre de V-55 y ampliación de Q-09 a la ruta B: COMPLETADA el 2026-09-07.**
-**Etapa 3.4B — Capítulo 5 y herramienta 2: COMPLETADA el 2026-09-07. PARTE I CERRADA.**
+**Etapa 3.4B — Capítulo 5 y herramienta 2: COMPLETADA el 2026-09-07.**
+**Etapa 3.4B.1 — Control final de la Parte I: COMPLETADA el 2026-09-07. PARTE I CERRADA.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
 del capítulo 5 y del cierre completo de la Parte I. **El capítulo 6 no se ha escrito y la
@@ -223,12 +224,12 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
 | Capítulo 3 | **Escrito y revisado**, 1.975 palabras (objetivo 1.800) |
 | Capítulo 4 | **Escrito y revisado**, 2.163 palabras (objetivo 1.900) |
-| Capítulo 5 | **Escrito**, 1.944 palabras (objetivo 2.000) |
+| Capítulo 5 | **Escrito y revisado**, 1.989 palabras (objetivo 2.000) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **13.832** |
+| Palabras del manuscrito | **13.877** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
 | Avance sobre el objetivo | 26,0 % |
-| Recursos terminados | **2 de 18** (2.490 y 1.545 palabras, no computan en el manuscrito) |
+| Recursos terminados | **2 de 18** (2.490 y 1.977 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
 | Decisiones registradas | 69, de las cuales 2 reemplazadas y conservadas |

@@ -4,7 +4,7 @@ parte: 1
 titulo: "Retirarse no significa abandonar"
 etapa_metodo: "—"
 estado: borrador
-palabras: 1944
+palabras: 1989
 casos_usados: []
 recursos_producidos: ["cuestionario-preparacion-elegir-participacion.md"]
 afirmaciones_por_verificar: []
@@ -38,8 +38,9 @@ sostenerse por sí mismo. La otra habla de usted y de qué quiere hacer con su t
 primera esté resuelta no obliga a nada respecto de la segunda.
 
 Piénselo al revés, que se ve mejor. Si el negocio solo funciona cuando usted está delante,
-entonces usted no está eligiendo quedarse: está obligado a quedarse. La decisión se la toma
-la dependencia. Y una decisión que no se puede tomar de otra manera no es una decisión.
+usted conserva opciones —puede venderlo, puede cerrarlo, puede cambiar de actividad, puede
+asumir el riesgo y seguir—, pero se le ha estrechado la única que se usa todos los días:
+**decidir cuánto participa.** Esa se la está tomando la dependencia, y no usted.
 
 > **Principio central.** Su participación debe dejar de ser una obligación operativa y
 > convertirse en una elección. El objetivo no es que trabaje menos. Es que pueda decidir
@@ -57,9 +58,9 @@ Elección significa aquí una cosa concreta y limitada: **mayor capacidad de dec
 de participación operativa.** Nada más que eso, y nada menos.
 
 No significa que usted vaya a controlar su salud, su edad, la legislación de su país, el
-sistema de pensiones que le corresponda, la situación económica, lo que ocurra en su
-mercado ni las obligaciones que tenga con su familia. Sobre eso este libro no puede hacer
-nada, y quien le diga lo contrario le está vendiendo algo.
+sistema de pensiones que le corresponda, la situación económica, lo que ocurra en su mercado
+ni las obligaciones que tenga con su familia. Sobre nada de eso puede hacer nada este libro,
+y conviene decirlo aquí para no tener que matizarlo después en cada página.
 
 Lo que sí se puede reducir es la otra parte, la de dentro: la obligación que existe
 **porque el negocio depende de su presencia, de su conocimiento, de su criterio, de sus
@@ -126,9 +127,10 @@ en ese matiz.
 
 ## Lo que se sabe, con sus límites
 
-No hay mucha literatura sobre esto, y la que hay conviene usarla con cuidado.
+La búsqueda hecha para este libro encontró una literatura limitada y dispar sobre esto, y
+conviene usarla con cuidado.
 
-El estudio más útil que encontré para este capítulo es pequeño y brasileño: diez
+El estudio más útil que encontré es pequeño y brasileño: diez
 profesionales autónomos ya jubilados, entrevistados en profundidad. **Ninguno de los diez
 dejó de trabajar cuando empezó a cobrar la prestación.** La conclusión de sus autores es que,
 para esas personas, jubilarse no supuso desvincularse del trabajo, sino **una transformación
@@ -146,19 +148,21 @@ Y una cautela, porque no todo apunta en la misma dirección. Un estudio sobre re
 administrativos finlandeses encontró que quienes trabajaban por su cuenta sin empleados
 seguían trayectorias **más uniformes** que los propietarios de empresa, ajustadas a la
 normativa de pensiones de aquel país. Así que no dé por hecho que trabajar solo dé más
-libertad para decidir cuándo parar. Depende mucho de dónde se viva y de cómo funcione el
-sistema, y este libro no puede decirle cuál es su caso.
+libertad para decidir cuándo parar. El contexto nacional y el sistema de pensiones pueden
+influir en lo que se observa, y estas tres investigaciones, hechas en tres países distintos,
+no permiten decir cuánto ni predecir su caso.
 
 ## Por qué esto se parece tanto a desaparecer
 
 Queda por explicar por qué la palabra «retirarse» produce el rechazo que produce, y no tiene
 nada que ver con el dinero.
 
-Para quien lleva décadas al frente de algo, el papel no es solo lo que hace de nueve a seis.
-Es cómo se le conoce, es la razón por la que suena el teléfono, es lo que contesta cuando le
-preguntan a qué se dedica y es lo que organiza los días de la semana. Todo eso está atado al
-mismo sitio. Por eso «dejar la operación» se oye como «dejar de ser eso», que es una
-propuesta muchísimo más grande y que nadie ha hecho.
+Para algunas personas, después de décadas al frente de algo, el papel no es solo lo que
+hacen de nueve a seis. Es cómo se les conoce, es la razón por la que suena el teléfono, es lo
+que contestan cuando les preguntan a qué se dedican y es lo que organiza los días de la
+semana. Todo eso está atado al mismo sitio. Si es su caso, «dejar la operación» se oye como
+«dejar de ser eso», que es una propuesta muchísimo más grande y que nadie ha hecho. Y si no
+lo es, este apartado no va con usted y puede seguir.
 
 El trabajo publicado en 2020 que se cita más abajo observa precisamente que la identidad
 empresarial influye en cómo se afronta esta etapa. No hace falta ir más lejos ni convertir

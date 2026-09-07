@@ -2,10 +2,10 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-07: 6 de 27 piezas escritas. 13.832 palabras.**
+**Estado del manuscrito a 2026-09-07: 6 de 27 piezas escritas. 13.877 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5.
 **Piezas = 25 capítulos numerados + introducción + conclusión** (`03-indice-maestro.md` §0).
-**Recursos: 2 de 18 redactados (2.490 y 1.545 palabras; no computan en el manuscrito).**
+**Recursos: 2 de 18 redactados (2.490 y 1.977 palabras; no computan en el manuscrito).**
 
 Cifras posteriores a la **revisión conceptual 2.2** del 2026-09-07, que amplió el público
 del libro (D-021). Los objetivos de la introducción y del capítulo 1 se ajustaron en la
@@ -27,7 +27,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 2 | El conocimiento que nunca fue escrito | I | E | **borrador, revisado (3.1.1 y 3.1.2)** | **2.162** | 2.000 | Ejercicio de reconocimiento (dentro del capítulo; no es una de las 18 herramientas) | C-03 | 0 |
 | 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | I | — | **borrador, revisado (3.2.1)** | **1.975** | 1.800 | Prueba de las tres preguntas (dentro del capítulo; no es una de las 18 herramientas) | C-04 | 0 |
 | 4 | El costo de una ausencia inesperada | I | — | **borrador, revisado (3.3.1)** | **2.163** | 1.900 | Cálculo del impacto de una semana de ausencia (dentro del capítulo; no es una de las 18 herramientas) | C-05 | 0 |
-| 5 | Retirarse no significa abandonar | I | — | **borrador** | **1.944** | 2.000 | Cuestionario de preparación para elegir su participación (herramienta 2 de 18) | — (dos microescenas sin nombre) | 0 |
+| 5 | Retirarse no significa abandonar | I | — | **borrador, revisado (3.4B.1)** | **1.989** | 2.000 | Cuestionario de preparación para elegir su participación (herramienta 2 de 18) | — (dos microescenas sin nombre) | 0 |
 | 6 | Localizar la dependencia | II | L | no iniciado | 0 | 2.100 | — | — | — |
 | 7 | El mapa de procesos, decisiones y relaciones | II | E | no iniciado | 0 | 2.300 | — | — | — |
 | 8 | Cómo documentar las excepciones | II | E | no iniciado | 0 | 2.000 | — | — | — |
