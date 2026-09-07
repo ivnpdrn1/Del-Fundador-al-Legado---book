@@ -7,7 +7,7 @@ juzgado. Aquí se gana o se pierde al lector.*
 |---|---|---|---|---|
 | 1 | Cuando usted también es el sistema | L | `01-cuando-usted-tambien-es-el-sistema.md` | borrador |
 | 2 | El conocimiento que nunca fue escrito | E | — | no iniciado |
-| 3 | La peligrosa tranquilidad de «ellos sabrán qué hacer» | — | — | no iniciado |
+| 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | — | C-04 | **borrador** |
 | 4 | El costo de una ausencia inesperada | — | — | no iniciado |
 | 5 | Retirarse no significa abandonar | — | — | no iniciado |
 

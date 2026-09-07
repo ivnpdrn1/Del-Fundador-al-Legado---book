@@ -22,9 +22,10 @@
 **Etapa 3.1 — Capítulo 2: COMPLETADA el 2026-09-07.**
 **Etapa 3.1.1 — Control editorial del capítulo 2: COMPLETADA el 2026-09-07.**
 **Etapa 3.1.2 — Corrección conceptual del capítulo 2: COMPLETADA el 2026-09-07.**
+**Etapa 3.2 — Capítulo 3: COMPLETADA el 2026-09-07.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
-del capítulo 2. **El capítulo 3 no se ha escrito y la Etapa 3.2 no se ha iniciado.**
+del capítulo 3. **El capítulo 4 no se ha escrito y la Etapa 3.3 no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -209,18 +210,19 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 
 | Concepto | Valor |
 |---|---|
-| Capítulos terminados | **2 de 25** (en borrador) |
+| Capítulos terminados | **3 de 25** (en borrador) |
 | Introducción | **Escrita**, 2.838 palabras |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
+| Capítulo 3 | **Escrito**, 1.773 palabras (objetivo 1.800) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **7.753** |
+| Palabras del manuscrito | **9.526** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 14,5 % |
+| Avance sobre el objetivo | 17,9 % |
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 42 archivos |
-| Casos ficticios publicados | **3** (C-01, C-02, C-03) |
-| Decisiones registradas | 61, de las cuales 2 reemplazadas y conservadas |
+| Casos ficticios publicados | **4** (C-01, C-02, C-03, C-04) |
+| Decisiones registradas | 64, de las cuales 2 reemplazadas y conservadas |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -344,11 +346,10 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Revisar el capítulo 2.** Es lo único que el autor ha pedido a continuación. No se
-   escribirá el capítulo 3 ni se iniciará la Etapa 3.2 sin nueva autorización.
-2. Decidir sobre **D-005 / P-2**, que sigue abierta. **Comprobado el 2026-09-07: no bloquea
-   el capítulo 2**, porque afecta al deslinde entre los capítulos 3 y 4. Sí hay que
-   resolverla antes de escribir el capítulo 3.
+1. **Revisar el capítulo 3.** Es lo único que el autor ha pedido a continuación. No se
+   escribirá el capítulo 4 ni se iniciará la Etapa 3.3 sin nueva autorización.
+2. **Deuda declarada: el capítulo 4 debe llevar caso de ruta B.** El reparto de casos está
+   en 3 a 1 a favor de la ruta A y el motivo consta en `revision/control-de-casos.md` §3.
 3. Ejecutar **Q-13** —la contraparte de Q-06 a escala individual— antes de los capítulos
    que la necesiten.
 4. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso

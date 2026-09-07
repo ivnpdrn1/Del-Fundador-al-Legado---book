@@ -16,7 +16,7 @@ comprobarse en la Etapa 4.
 
 | Par | Riesgo | Deslinde obligatorio | Comprobado |
 |---|---|---|---|
-| 3 y 4 | Alto | Cap. 3 trata la **suposición** ("ellos sabrán qué hacer"): por qué se sostiene y por qué es falsa. Cap. 4 trata la **consecuencia**: qué se detiene y qué se pierde. El 3 no menciona costos. El 4 no vuelve sobre la suposición. | No |
+| 3 y 4 | Alto | **Deslinde cerrado el 2026-09-07 (D-005/P-2).** Cap. 3 trata la **suposición**: por qué se sostiene y por qué merece comprobarse. Cap. 4 trata las **consecuencias**: qué ocurre y cuánto cuesta cuando falla. El 3 no menciona costos ni cuantifica nada. El 4 no vuelve sobre la suposición. | **Sí, 2026-09-07, al escribir el cap. 3. Sin hallazgos.** |
 | 5 y 22 | Medio | Cap. 5 da el **permiso emocional** para empezar. Cap. 22 **define por escrito** el nuevo papel. El 5 no describe funciones. El 22 no repite el argumento emocional. | No |
 | 19 y 20 | Medio | Cap. 19 es el **instrumento**: qué se mira y con qué frecuencia. Cap. 20 es la **conducta**: cuándo se interviene y cuándo no. | No |
 | 10, 15 y 18 | Medio | Cap. 10 fija límites **entre personas**. Cap. 15 fija límites **para la tecnología**. Cap. 18 **aplica** los del 10 a personas concretas. | No |
@@ -133,5 +133,6 @@ Para evitar que la mitad del libro empiece igual.
 | Introducción | Reconocimiento directo al lector, en segunda persona. |
 | Capítulo 1 | Escena cotidiana con hora concreta y tres microsituaciones. |
 | Capítulo 2 | **Fragmento de diálogo**: una pregunta ajena y la respuesta inmediata del lector. Tipo no usado antes. |
+| Capítulo 3 | **El recuerdo del propio lector usado como prueba, y desmontado a continuación**: la última ausencia corta que salió bien. Tipo no usado antes. |
 
 **Cierres.** El del capítulo 2 **enuncia** las dos formas de la certeza que examina el capítulo 3 —«ellos ya sabrían qué hacer» con equipo, «lo tengo tan claro que no hace falta escribirlo» trabajando solo— sin analizarlas. **El capítulo 3 debe desarrollarlas, no volver a presentarlas**, y la variante de la ruta B, que la valoración 2.2 le encargaba introducir, ya está nombrada: le corresponde tratarla, no anunciarla.

@@ -90,6 +90,7 @@ para comprobar que no cambian de sentido a lo largo del libro.
 | Supervisar | 20 (definición formal) | Intro, herramienta 1 | Sí |
 | Observar | Reservado al sistema en nivel 2 | Intro (una vez, referido al sistema) | Sí |
 | Digitalizar | 11 | 1 (una mención, sin reexplicar) | Sí |
+| Presencia no es autonomía | **3 (principio central, ya escrito)** | — | Sí. Enunciado propio del libro. **Es el principio del capítulo 3 y no debe reexplicarse en el 4**, que trata las consecuencias de que la suposición falle, no la suposición. |
 
 **Salvedad registrada sobre "criterio".** La palabra aparece con dos usos: el sentido fijo
 del libro —el porqué de una decisión— y la locución corriente «criterio de éxito», que no
@@ -135,6 +136,7 @@ El control principal está en `revision/control-de-casos.md`.
 | Elena (C-01) | Distribución regional | 1 | Tres: trayectoria larga; autoriza personalmente las condiciones distintas; conserva de memoria el historial de clientes antiguos. | Sí |
 | Andrés (C-02) | Servicios profesionales, ruta B | 1 | Según `control-de-casos.md`. **Fila añadida el 2026-09-07:** faltaba en esta tabla aunque sí constaba en el control principal. | Sí |
 | Marta (C-03) | Manufactura ligera, ruta A | 2 | Tres: muchos años al frente de la producción; reconoce por adelantado los encargos que se van a complicar; no ha escrito nunca ese criterio. | Sí |
+| Tomás (C-04) | Comercio mayorista, ruta A | 3 | Tres: años al frente del negocio; equipo estable y competente; nunca había comprobado la diferencia entre lo que cree que saben y lo que pueden explicar. | Sí |
 
 Reglas aplicables: máximo dos capítulos por personaje, máximo tres rasgos distintivos, sin
 historia continuada entre capítulos.

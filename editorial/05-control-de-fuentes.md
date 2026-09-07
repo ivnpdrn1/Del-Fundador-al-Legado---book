@@ -71,6 +71,17 @@ excede de forma deliberada y por una sola vez, porque es allí donde se explica 
 por qué el libro no dará cifras y esa explicación exige mostrar las fuentes que sí
 resisten. **No se repetirá en ningún capítulo.**
 
+**Capítulo 3: cero referencias externas, por decisión.** Se evaluó si el capítulo necesitaba
+respaldo para hablar de autonomía, dependencia y toma de decisiones, y se concluyó que no:
+todo lo que afirma es o bien una observación cualitativa reconocible, o bien el desarrollo
+de un principio propio del libro —presencia no es autonomía—, o bien instrucciones de un
+ejercicio. **No contiene ninguna cifra, ninguna afirmación de frecuencia y ninguna
+atribución a autor o institución.** El control de dos pasos del apartado 3, «Regla corregida el 2026-09-07» se aplicó
+íntegro: la búsqueda literal devolvió «siempre», «nunca» y «todo el mundo», y la lectura
+dirigida las clasificó como negaciones y universales referidos a la historia del propio
+lector o como instrucciones del ejercicio, no como enunciados sobre el mundo. Ninguna
+requería fuente.
+
 **Afirmaciones sin fuente en el manuscrito.** Todas las demás son observaciones
 cualitativas, inferencias del autor, recomendaciones o propuestas propias del libro, y
 están escritas en la forma reconocible que exige el apartado 2. Ninguna incluye cifras.
