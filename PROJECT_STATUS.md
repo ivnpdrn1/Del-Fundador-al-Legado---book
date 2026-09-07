@@ -27,10 +27,11 @@
 **Etapa 3.3 — Capítulo 4: COMPLETADA el 2026-09-07.**
 **Etapa 3.3.1 — Control conceptual del cálculo de impacto: COMPLETADA el 2026-09-07.**
 **Etapa 3.4A — Investigación Q-09: COMPLETADA el 2026-09-07.**
+**Etapa 3.4A.1 — Cierre de V-55 y ampliación de Q-09 a la ruta B: COMPLETADA el 2026-09-07.**
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
-de la investigación Q-09. **El capítulo 5 no se ha escrito, el manuscrito no se ha tocado y
-la Etapa 3.4B no se ha iniciado.**
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
+**El capítulo 5 no se ha escrito, el manuscrito no se ha tocado, no se ha redactado ninguna
+pregunta del cuestionario y la Etapa 3.4B no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -228,7 +229,7 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
-| Decisiones registradas | 66, de las cuales 2 reemplazadas y conservadas |
+| Decisiones registradas | 68, de las cuales 2 reemplazadas y conservadas |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -237,7 +238,7 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **23**, de las cuales 3 leídas en la página del editor y 3 solo a nivel de resumen (F-018 a F-023). |
+| Fuentes verificadas | **26**. De las nueve de Q-09: **una leída íntegra** (F-024), cinco en la página del editor y tres solo a nivel de resumen. |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **9** |
 | Cifras publicadas sin fuente | **0** |
@@ -357,10 +358,10 @@ publicado a continuación.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que
    pida el capítulo.
-3. **Q-09 ejecutada el 2026-09-07** y resuelta parcialmente. Antes de escribir el capítulo 5
-   hace falta **una decisión del autor sobre V-55**: la literatura describe *tipos* de
-   aproximación al retiro y nuestro continuo es lineal. Ninguna de las dos opciones cambia
-   los escalones. Siguiente investigación: **Q-06 y Q-13, antes del capítulo 9.**
+3. **Q-09 resuelta parcialmente y ampliada a la ruta B.** **V-55 cerrada**: el continuo pasa
+   a ser el **Mapa de Participación** (D-067, D-068). **V-56A reducida** y **V-56B abierta**:
+   no hay evidencia hispanohablante y no se ha forzado. Siguiente investigación: **Q-06 y
+   Q-13, antes del capítulo 9.**
 4. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso
    comercial del nombre. No urge para publicar el libro.
 2. **Entregarla a dos o tres propietarios de empresa familiar** del perfil del lector

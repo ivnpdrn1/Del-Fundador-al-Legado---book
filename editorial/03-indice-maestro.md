@@ -284,7 +284,7 @@ Leyenda: **OK** = funciona sin cambios · **AMP** = necesita ampliación dentro 
 | 2 | El conocimiento que nunca fue escrito | OK | Universal tal cual. Es el capítulo donde el lector B se reconocerá más. |
 | 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | **Hecho** | **Título cambiado el 2026-09-07** (D-062; antes: *La peligrosa tranquilidad de «ellos sabrán qué hacer»*). La valoración 2.2 propuso conservarlo porque la suposición iba entrecomillada; al escribir el capítulo se comprobó que no bastaba: un título es una promesa sobre a quién se dirige el capítulo, y el lector B no encontraba ahí su frase. El nuevo título nombra la suposición sin presuponer equipo y anuncia el entregable, que es una prueba. **Entregable adaptado** (D-063): *Prueba de las tres preguntas*, un principio y dos modos. |
 | 4 | El costo de una ausencia inesperada | **Hecho** | **Formulación corregida el 2026-09-07 (Etapa 3.3).** La versión anterior decía que «para el lector B el costo es ingresos que no se facturan y clientes que no esperan», y era demasiado absoluta en las dos mitades: un ingreso puede facturarse después, recuperarse, perderse o no haber existido nunca, y un cliente puede esperar, reorganizarse, cancelar o seguir igual. **Redacción vigente:** para el lector B el impacto aparece en otro sitio y no siempre como pérdida —trabajo que se aplaza, capacidad de esos días que no vuelve, facturación que se desplaza, algún encargo que sí se pierde, clientes que esperan y clientes que no—, y **distinguir la pausa de la pérdida es precisamente lo que el ejercicio enseña**. El título del capítulo se conserva (D-066). |
-| 5 | Retirarse no significa abandonar | **AMP, gana mucho** | Es el capítulo natural del **continuo del retiro** (`14-publico-y-rutas.md` §7). Incorporarlo aquí como columna vertebral del capítulo. |
+| 5 | Retirarse no significa abandonar | **AMP, gana mucho** | Es el capítulo natural del **Mapa de Participación** (`14-publico-y-rutas.md` §7). Incorporarlo aquí como columna vertebral del capítulo. **Renombrado el 2026-09-07** (D-067): antes se llamaba «continuo del retiro» y se presentaba como recorrido lineal. El capítulo debe usarlo para que el lector conteste dónde está y dónde le gustaría poder estar, **nunca hasta dónde debe llegar**. |
 | 6 | Localizar la dependencia | **Título aplicado** | Antes: *Localizar la dependencia del fundador*. Ahora coincide literalmente con la etapa L del método. El contenido no cambia. |
 | 7 | El mapa de procesos, decisiones y relaciones | OK | Universal. Para el lector B, el mapa de relaciones es el más importante de los tres. |
 | 8 | Cómo documentar las excepciones | OK | Universal. |
@@ -331,7 +331,7 @@ empresarial de un modo que no se resuelve cambiando una palabra.
 | # | Herramienta | Estado |
 |---|---|---|
 | 1 | Índice de Dependencia de la Persona Clave | **Hecho.** Renombrada y adaptada (versión 2.0). |
-| 2 | Cuestionario de preparación para el retiro | Ampliar con el continuo del retiro. |
+| 2 | Cuestionario de preparación para el retiro | Ampliar con el **Mapa de Participación** (D-067). Arquitectura de dos ejes: preparación personal y preparación del negocio. |
 | 3 | Inventario del conocimiento crítico | OK. |
 | 4 | Mapa de decisiones | **Ampliación menor.** La columna «quién decide» es trivial en un negocio de una persona; sustituirla por «con qué criterio se decide», que es lo que interesa en ambos casos. |
 | 5 | Mapa de relaciones críticas | OK. Más importante para el lector B. |

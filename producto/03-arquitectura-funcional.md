@@ -33,7 +33,7 @@ Contrastados contra el orden del Método LEGADO. **El orden del método manda** 
 
 | Módulo | Nombre funcional | Etapa LEGADO | Capítulos | Produce |
 |---|---|---|---|---|
-| **0** | Perfil, objetivo y horizonte | Antesala | 5 | Destino elegido en el continuo del retiro |
+| **0** | Perfil, objetivo y horizonte | Antesala | 5 | Posición deseada en el Mapa de Participación |
 | **1** | Diagnóstico de dependencia | **L** | 1 | Índice fechado y perfil por dimensiones |
 | **2** | Mapa del ADN Empresarial | L→E | 2, 6 | Inventario priorizado por impacto |
 | **3** | Captura del conocimiento | **E** | 6, 7 | Entradas de conocimiento con evidencia |

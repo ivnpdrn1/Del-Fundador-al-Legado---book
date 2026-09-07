@@ -46,7 +46,7 @@ aquí destruye la credibilidad más que un error de fondo.
 | **Capítulos con cero C, D y E** | **1 a 10, 16, 17, 18, 20-23 y 25** | — | — |
 | **Extensión de la presentación de la plataforma** | **450 palabras, capítulo 11** | 11 | — |
 | **Escalas del proyecto** | **2, y no habrá una tercera: Índice de Dependencia 0-72 y niveles de autonomía 0-6** | 1, 8, 11-16 | ✓ |
-| **Puntos del continuo del retiro** | **8, del cien por cien operativo a la sucesión** | Intro, 5, 22 | Intro ✓ |
+| **Posiciones del Mapa de Participación** | **8, del cien por cien operativo al retiro total** | Intro, 5, 22 | Intro ✓. **Renombrado y reformulado el 2026-09-07** (D-067). La sucesión y el legado **ya no son posiciones del mapa** (D-068): son destinos del negocio, en un eje distinto. La cifra sigue siendo 8 porque antes se contaban ocho grados más un noveno elemento que no era un grado. |
 | **Pasos de la secuencia conceptual** | **12: personas, criterio, procesos, información, controles, tecnología, asistente, IA con contexto, autonomía supervisada, continuidad, libertad de elección, legado** | Intro | Intro ✓ |
 | Formulación de las seis etapas | La del apartado 3 de `07-metodo-legado.md` (D-004) | Intro, todas las partes | Intro ✓ |
 | Niveles de madurez y autonomía | 7, del 0 al 6 | 8, 11-16, 19 | — |

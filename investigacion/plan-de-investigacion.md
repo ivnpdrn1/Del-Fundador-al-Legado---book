@@ -65,7 +65,7 @@ con solidez sin resolverla.
 | Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **Resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. **Sigue abierta para el capítulo 9**, donde hará falta literatura sobre métodos de externalización del criterio, no solo sobre el diagnóstico. **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
-| Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE el 2026-09-07** (Etapa 3.4A). Seis fuentes registradas, F-018 a F-023. Resultado completo al final de este documento. **Sigue abierta para el capítulo 22** y por dos vacíos declarados: cero evidencia de países hispanohablantes y casi ninguna sobre el negocio de una sola persona. |
+| Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE.** Etapa 3.4A: seis fuentes, F-018 a F-023. **Ampliación dirigida a la ruta B en la Etapa 3.4A.1:** tres fuentes más, F-024 a F-026, una de ellas **leída íntegra**. Resultados completos al final de este documento. **Sigue abierta para el capítulo 22** y por el vacío de evidencia hispanohablante (V-56B), que no se ha podido cerrar. |
 | Q-10 | ¿Qué evidencia hay sobre efectos de la ausencia imprevista de una persona clave en organizaciones pequeñas? | 4 | Media | Sin iniciar |
 | Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | Sin iniciar |
 | Q-12 | ¿Qué límites y obligaciones plantea la prestación de servicios tecnológicos a terceros? | Modelo de negocio | Baja para el libro, alta para el negocio | Sin iniciar |
@@ -209,9 +209,8 @@ ordenado de más a menos operativo, y eso sugiere un camino que se recorre en un
 
 **No es una contradicción, pero sí un matiz que el capítulo 5 debe recoger:** el continuo es
 un mapa de posiciones posibles, no una escalera que todo el mundo suba en el mismo orden.
-Una persona puede entrar por la mitad, quedarse, o retroceder. **Queda como decisión del
-autor** si se reformula la presentación del continuo; en esta etapa no se ha modificado
-(ver V-52).
+Una persona puede entrar por la mitad, quedarse, o retroceder. **Resuelto el 2026-09-07 en la Etapa 3.4A.1:** el autor cerró V-55 y el concepto pasa a ser
+el **Mapa de Participación** (D-067), con sucesión y legado fuera del eje (D-068).
 
 ### 3. Dimensiones no financieras, cada una con su fuente
 
@@ -314,3 +313,130 @@ tipos o el de la identidad.
 **Prohibido en el capítulo 5:** cifras, porcentajes, lenguaje clínico o de diagnóstico
 psicológico, y cualquier afirmación de alcance universal. La dimensión de identidad se trata
 al nivel de la literatura de empresa y de retiro, nunca como terapia.
+
+
+---
+
+## Q-09 — Ampliación dirigida a la ruta B (Etapa 3.4A.1, 2026-09-07)
+
+Tres fuentes nuevas: **F-024, F-025 y F-026**. La primera se leyó **íntegra**.
+
+### 1. Intención y experiencia no son lo mismo
+
+La Etapa 3.4A trabajó casi entera sobre **intenciones y preferencias declaradas**. Esta
+ampliación aporta por fin **experiencia real de personas ya retiradas** (F-024) y
+**secuencias observadas en registros administrativos** (F-025). La distinción manda:
+
+| Fuente | Qué mide | Ruta |
+|---|---|---|
+| F-018, F-023 | Intenciones y preferencias declaradas | A / B |
+| F-024 | **Experiencia vivida**, personas ya jubiladas | **B directa** |
+| F-025 | **Secuencias observadas** en registros | **Comparación A/B** |
+| F-019, F-021, F-022 | Relatos y casos | A |
+| F-026 | Relatos, mayoría de antiguos empleados | Contexto |
+
+### 2. Lo que aporta F-024, y es mucho
+
+Es la fuente más alineada con el capítulo 5, y conviene decir por qué sin exagerarla.
+Entrevista a **diez profesionales autónomos ya jubilados**, de 60 a 91 años, y **ninguno
+dejó de trabajar al empezar a cobrar la prestación**. Su conclusión, en palabras de los
+autores, es casi el título del capítulo:
+
+> «o fato de estar aposentado não significa necessariamente um desligamento do trabalho, mas
+> sim uma **transformação do papel de trabalhador**».
+
+Y añade dos cosas que el libro necesitaba y no tenía:
+
+- La transición se describe como **rearranjo de papeles sociales y contextos de vida**, no
+  como abandono de uno solo.
+- «O desengajamento do papel de trabalhador **não precisa ocorrer abruptamente**,
+  possibilitando que o sujeito **controle a melhor forma e o melhor momento** de parar de
+  trabalhar.»
+
+**Límite declarado por los propios autores:** el estudio «não possuindo a intenção de
+apresentar resultados generalizáveis a qualquer tipo de público ou de contexto», y es
+transversal. Diez personas, Brasil. **No se puede convertir en una afirmación general.**
+
+### 3. Lo que aporta F-025, y complica el cuadro
+
+Aquí está el hallazgo incómodo de esta ampliación, y hay que registrarlo tal cual:
+
+> «the solo self-employed form a **homogenous group**, retiring at age 65 with an old-age
+> pension. They follow state pension regulations. In contrast, company owners form a
+> **heterogeneous group, displaying agency**.»
+
+Es decir: en los registros finlandeses, **quien trabaja solo mostró menos variedad de
+trayectorias que el propietario con empresa**, y siguió la regulación estatal. Eso tira
+contra la suposición cómoda de que el lector de la ruta B tiene el mismo margen de elección
+que el de la ruta A.
+
+**Y sin embargo no lo contradice, por dos motivos que hay que sostener a la vez.** Primero,
+F-025 mide **lo que ocurrió**, no lo que se quería: la homogeneidad puede ser efecto del
+sistema de pensiones, y el propio hallazgo lo dice al añadir que ese grupo «sigue la
+regulación estatal». Segundo, en Brasil (F-024) pasa lo contrario: ninguno de los diez dejó
+de trabajar al cobrar la prestación. Y en Países Bajos (F-023) quienes trabajan por cuenta
+propia **prefieren** retirarse más tarde que los empleados.
+
+**Conclusión honesta: no hay un patrón universal para quien trabaja solo. Lo que se observa
+depende mucho del país y del sistema de pensiones.** Eso es un resultado, no un fracaso, y
+el capítulo 5 debe escribirse sabiéndolo: **está prohibido afirmar que el lector de la ruta
+B tenga, por naturaleza, más o menos libertad de elección.**
+
+### 4. Comprobación hispanohablante
+
+**Sigue sin haber evidencia académica hispanohablante sobre el retiro de personas
+propietarias y su dimensión no financiera.** Lo único localizado en lengua española es
+F-026, colombiana, sobre empleo puente: útil como contexto, pero **ocho de sus doce
+participantes eran antiguos empleados**, así que no sostiene nada sobre propietarios.
+
+La búsqueda en español devolvió, por lo demás, prensa económica, blogs de despachos y
+publicaciones de consultoras, con cifras llamativas y sin origen trazable. **Ninguna se
+registra**, por la misma regla que hizo al libro renunciar a su dato más vendedor en Q-02.
+El descarte queda anotado en `fuentes-verificadas.md`, apartado 2.
+
+### 5. Estado de las dos mitades de V-56
+
+| | Pregunta | Estado |
+|---|---|---|
+| **V-56A** | ¿Hay evidencia suficiente para escribir con prudencia sobre la ruta B? | **REDUCIDA.** De una sola fuente sobre preferencias se pasa a tres, una de ellas leída íntegra y sobre experiencia vivida. Sigue abierta porque el cuadro es contradictorio entre países y ninguna muestra es grande. |
+| **V-56B** | ¿Hay evidencia pertinente de países hispanohablantes? | **ABIERTA.** No se ha localizado ninguna. Brasil no cuenta como hispanohablante. El vacío se mantiene declarado, sin forzarlo. |
+
+### 6. Qué puede y qué no puede decir el capítulo 5
+
+**Puede decir, con fuente:**
+
+- Que jubilarse no equivale necesariamente a dejar de trabajar, y que para muchos autónomos
+  significa **transformar el papel** en lugar de abandonarlo (F-024).
+- Que la desvinculación **no tiene por qué ser brusca**, y que la persona puede controlar la
+  forma y el momento (F-024).
+- Que el retiro del empresario se vive como **decisión voluntaria con control considerable**,
+  con inclinación al retiro parcial (F-018).
+- Que retirarse por **convicción propia** produce una experiencia distinta de retirarse por
+  **necesidad apremiante** (F-021).
+- Que la capacidad de trabajo y la satisfacción vital influyen en si uno se retira en sus
+  propios términos o forzado (F-020).
+
+**No puede decir:**
+
+- Que exista un patrón universal, y menos aún para quien trabaja solo (F-024 frente a F-025
+  frente a F-023).
+- Nada apoyado en evidencia hispanohablante, porque no la hay (V-56B).
+- Que el retiro parcial sea mejor que cualquier otra posición.
+- Ninguna cifra. **Ninguna de las cifras de F-023 ni de F-025 entra en el manuscrito.**
+- Nada en registro clínico o de diagnóstico. La identidad se trata al nivel de la literatura
+  de empresa y de retiro (§16 del encargo).
+
+### 7. Para el cuestionario de la Etapa 3.4B
+
+**No se ha redactado ninguna pregunta.** Se confirma la arquitectura de dos ejes:
+
+| Eje | Qué pregunta | Respaldo |
+|---|---|---|
+| **Personal** | ¿Estoy preparado yo? | Deseo y voluntariedad (F-018), horizonte y control (F-018, F-023, F-024), capacidad de trabajo (F-020), satisfacción (F-020), identidad y papel futuro (F-018, F-021, F-022, F-024), apoyo familiar y social (F-019, F-022, F-026) |
+| **Del negocio** | ¿Está preparado el negocio? | **Ninguno. Es construcción propia del Método LEGADO** y así debe presentarse: no es una escala validada académicamente. |
+
+**Posibilidad registrada para la Etapa 3.4B, sin construir todavía la herramienta:** una
+matriz de dos por dos que cruce los dos ejes. **Regla esencial si se adopta: ningún cuadrante
+es un juicio.** En particular, *persona no preparada + negocio preparado* **no es un
+fracaso**; puede significar exactamente «puedo retirarme, pero no quiero», que es compatible
+con la promesa central del libro y con la regla 7 del Mapa de Participación.

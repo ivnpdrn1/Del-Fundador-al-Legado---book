@@ -145,32 +145,92 @@ Cómo se escribe un libro que sirve a los dos sin partirse.
 
 `04-guia-de-estilo.md`, apartado 5, recoge esta tabla como norma de redacción.
 
-## 7. El continuo del retiro
+## 7. El Mapa de Participación
 
-El retiro no se presenta como salida total. Se presenta como un recorrido en el que el
-lector elige dónde detenerse:
+**Historial.** Hasta el 2026-09-07 este apartado se llamaba *el continuo del retiro* y
+presentaba ocho posiciones encadenadas con flechas en un solo sentido, terminando en
+«sucesión o legado». La investigación de Q-09 mostró que la literatura localizada describe
+**formas distintas de aproximarse al retiro**, no etapas que se recorran en un orden
+(F-019, F-024, F-025). Ninguna posición quedó desmentida; lo que no se sostenía era la
+**forma de escalera**. D-067 y D-068 lo reformulan. Las posiciones no cambian; cambia cómo
+se presentan y dónde termina el eje.
 
-**100 % operativo → reducción del trabajo manual → supervisión → intervención por
-excepción → asesoría estratégica → participación voluntaria → retiro parcial → retiro
-total → sucesión o legado.**
+### 7.1 Qué es
 
-Reglas:
+El **Mapa de Participación** muestra las **posiciones posibles** de una persona según su
+grado de participación operativa en el negocio. Sirve para que el lector conteste dos
+preguntas, y solo esas dos:
 
-- **Cualquier punto del continuo es un resultado legítimo.** Detenerse en «supervisión» y
-  quedarse ahí quince años es un éxito del método, no una implantación incompleta.
-- El objetivo del libro **no es que el lector trabaje menos**. Es que pueda elegir.
-- Trabajar hasta los ochenta años es una decisión respetable. El problema no es trabajar:
-  es estar **obligado** a hacerlo para que todo siga funcionando.
-- Esto vale para las dos rutas y refuerza el principio central del libro.
+> **¿Dónde estoy hoy?** · **¿Dónde me gustaría poder estar?**
 
-**Nota de investigación, 2026-09-07 (Etapa 3.4A). El continuo no se ha modificado.** La
-investigación de Q-09 lo evaluó escalón por escalón contra la literatura localizada: ninguno
-queda desmentido, *retiro parcial* y *retiro total* están directamente respaldados, dos son
-compatibles y cuatro son propuesta del método. La tensión no está en los escalones sino en
-la **forma**: F-019 describe **tipos** de aproximación al retiro, no etapas de un recorrido,
-de modo que el continuo funciona mejor como mapa de posiciones posibles que como escalera.
-**Queda como decisión del autor** (V-55). Detalle en `investigacion/plan-de-investigacion.md`,
-apartado «Q-09 — Resultado», puntos 2 y 6.
+No para contestar «¿hasta dónde debo llegar?».
+
+**Lo que no es**, y debe decirse cada vez que se presente:
+
+- **No es una escala científica.** No está validado ni medido.
+- **No es una secuencia demostrada.** Nadie ha comprobado que se recorra en ese orden.
+- **No es un modelo temporal.** No dice cuánto se tarda ni en qué edad se está.
+- **No es un ranking.** Estar más a la derecha no es estar mejor.
+
+### 7.2 Las posiciones
+
+Se conservan las ocho, sin flechas de sentido único:
+
+**100 % operativo · reducción del trabajo manual · supervisión · intervención por excepción ·
+asesoría estratégica · participación voluntaria · retiro parcial · retiro total**
+
+Están ordenadas por **grado de participación operativa**, de más a menos. Ese orden es
+descriptivo, no prescriptivo: es la manera de leer el eje, no un itinerario.
+
+### 7.3 Las ocho reglas del mapa
+
+1. **No hay dirección obligatoria.**
+2. **Se pueden saltar posiciones.** Nadie tiene que pasar por todas.
+3. **Se puede volver atrás**, a una posición de mayor participación, y eso no es un
+   retroceso del método.
+4. **Se puede permanecer indefinidamente en cualquiera.**
+5. **Ninguna posición significa haber completado mejor el método.**
+6. **El retiro total no es el objetivo superior.** No es la meta del libro.
+7. **Trabajar voluntariamente durante muchos años es un resultado válido**, y bueno.
+8. **El objetivo es transformar obligación en elección.** Esa es la única dirección que el
+   libro defiende, y no es una posición del mapa: es lo que hace que el mapa se pueda usar.
+
+**Ejemplo que fija la doctrina.** Una propietaria pasa de la operación diaria a la
+supervisión y se queda ahí quince años. **Eso no es una transición incompleta: es una
+elección conseguida.** Si el libro insinuara lo contrario en cualquier pasaje, el pasaje
+está mal escrito.
+
+### 7.4 Sucesión y legado no son posiciones del mapa
+
+**Antes estaban al final del eje, y era un error de categoría.** El mapa describe **cuánto
+participa la persona**; la sucesión y el legado describen **qué ocurre con el negocio**. Son
+cosas distintas y pueden combinarse de muchas maneras: se puede estar en «retiro parcial»
+con una sucesión ya hecha, o en «100 % operativo» sin ningún destino decidido.
+
+| Eje | Qué describe | Ejemplos |
+|---|---|---|
+| **Mapa de Participación** | Cuánto participa la persona en la operación | Las ocho posiciones de 7.2 |
+| **Resultado o destino del negocio** | Qué ocurre con el negocio | Continuidad · transferencia · sucesión · legado |
+
+No se introduce ninguna taxonomía nueva: los cuatro destinos ya estaban en la arquitectura.
+Venta y cierre no se desarrollan aquí porque no constan en los documentos vigentes.
+
+### 7.5 Respaldo, honestamente clasificado
+
+Resultado de Q-09, detallado en `investigacion/plan-de-investigacion.md`:
+
+| Posición | Clase | |
+|---|---|---|
+| 100 % operativo · reducción del trabajo manual · supervisión · intervención por excepción | **C** | Propuesta del método |
+| Asesoría estratégica · participación voluntaria | **B** | Compatible con la literatura, no estudiado |
+| **Retiro parcial · retiro total** | **A** | Directamente respaldados (F-018, F-024, F-025) |
+
+**A** directamente respaldado · **B** compatible · **C** propuesta del método. **Ninguna
+posición queda contradicha por la evidencia localizada.**
+
+La frase que el mapa representa —«su participación debe dejar de ser una obligación
+operativa y convertirse en una elección»— es **propuesta del autor respaldada por evidencia
+compatible**, nunca conclusión de una fuente. Ver el apartado 7 del resultado de Q-09.
 
 ## 8. Comprobaciones de la Etapa 4
 
@@ -178,7 +238,8 @@ apartado «Q-09 — Resultado», puntos 2 y 6.
 2. Ningún capítulo tiene todos sus ejemplos de una sola ruta.
 3. «Persona clave» no aparece como muletilla: se cuenta su frecuencia.
 4. Ninguna afirmación de frecuencia sobre profesionales independientes sin fuente.
-5. El continuo del retiro se respeta: ningún pasaje presenta el retiro total como el
-   único final correcto.
+5. **El Mapa de Participación se respeta:** ningún pasaje presenta el retiro total como el
+   único final correcto, ninguno sugiere una dirección obligatoria y ninguno trata la
+   sucesión o el legado como una posición del mapa.
 6. Un lector de cada tipo lee la introducción y el capítulo 1 y se reconoce (V-51, que
    ahora exige lectores de los dos perfiles).

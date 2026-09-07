@@ -93,7 +93,7 @@ empresarial** —con la nota obligatoria de que quien trabaja solo también lo t
 Descripción original: Presenta ahora los dos públicos en su tercer
 párrafo y en el apartado «Dos escalas del mismo problema», introduce y delimita la
 clonación del conocimiento, extiende la secuencia conceptual hasta el legado y añade el
-continuo del retiro. Parte de la realidad humana de quien está al frente —lo que construyó y lo que
+Mapa de Participación (D-067). Parte de la realidad humana de quien está al frente —lo que construyó y lo que
 sostiene sin que nadie lo haya escrito— y llega a la pregunta operativa: qué se detiene si
 falta siete días. Nombra la dependencia del fundador, explica que es consecuencia del
 acierto y no del error, resuelve la cuestión de las cifras declarando por qué no habrá
