@@ -9,11 +9,12 @@ los archivos de control del proyecto. No es una página comercial ni material pr
 
 ## Identidad del proyecto
 
-**Título:** DEL FUNDADOR AL LEGADO — aprobado como título oficial de trabajo el
-2026-09-06 (D-001).
+**Título de trabajo:** CLONACIÓN DEL CONOCIMIENTO — adoptado el 2026-09-07 (D-024).
+**Subtítulo de trabajo:** De la experiencia al legado de Inteligencia Artificial.
+*Pendiente de decisión: ver `editorial/00-concepto-editorial.md` §6 bis y A-12.*
 
-**Subtítulo:** Cómo preparar su empresa familiar para funcionar sin depender de usted, sin
-que usted pierda el control — aprobado el 2026-09-06 (D-002).
+*Del Fundador al Legado* (D-001) se conserva como **nombre del repositorio, nombre interno
+del proyecto y formulación del escenario empresarial**. El repositorio no se renombra.
 
 **Idioma de la primera edición:** español internacional, escrito originalmente en español.
 
@@ -66,17 +67,26 @@ controles, tecnología, automatización y autonomía supervisada.
 
 ## Perfil del lector
 
-Una persona de entre cincuenta y setenta y cinco años, aproximadamente, que fundó, compró
-o dirige desde hace décadas una pequeña o mediana empresa familiar. Concentra las
-decisiones importantes, confía más en su experiencia que en los sistemas, trabaja con
-procesos total o parcialmente manuales y no quiere retirarse dejando la empresa
-vulnerable. Puede no tener un sucesor preparado y puede desconfiar de la inteligencia
-artificial.
+Desde el 2026-09-07 el libro se dirige a **dos lectores** que comparten el mismo problema
+(D-021):
 
-El libro es útil además para familiares, sucesores potenciales, gerentes,
-administradores, consejeros, contadores y consultores, sin dejar de dirigirse al fundador.
+**Lector A.** Una persona de entre cincuenta y setenta y cinco años, aproximadamente, que
+fundó, compró o dirige desde hace décadas una pequeña o mediana empresa. Concentra las
+decisiones importantes, confía más en su experiencia que en los sistemas y no quiere
+retirarse dejando la empresa vulnerable.
 
-Perfil completo en `editorial/01-perfil-del-lector.md`.
+**Lector B.** Un profesional independiente o un negocio de una sola persona: consultoría,
+asesoría, oficios especializados, actividades con licencia, dueños-operadores. Su
+dependencia suele ser más extrema, porque la persona no dirige el sistema: **es** el
+sistema.
+
+Lo que los une es que una parte sustancial del negocio existe únicamente en una cabeza. La
+categoría conceptual que los abarca es **la persona clave**.
+
+El libro es útil además para familiares, sucesores potenciales, gerentes, administradores,
+consejeros, contadores y consultores, sin dejar de dirigirse a quien está al frente.
+
+Perfiles completos en `editorial/01-perfil-del-lector.md` y `editorial/14-publico-y-rutas.md`.
 
 ## Método LEGADO
 
@@ -103,11 +113,14 @@ El libro describe además una escala de siete niveles de autonomía, del 0 al 6.
 ## Estado actual
 
 **Etapa 2 — Muestra editorial: completada.** Fecha: 2026-09-06.
+**Revisiones 2.1 y 2.2: completadas.** Fecha: 2026-09-07. La 2.2 amplió el público del
+libro y adoptó la clonación del conocimiento como concepto central.
 
 - Fundamentos editoriales, método, índice comentado, guía de estilo y archivos de control:
   vigentes, con las decisiones D-001 a D-005 aprobadas.
-- Manuscrito: **4.341 palabras**. Introducción y capítulo 1 en borrador.
-- Recursos: **1 de 18** redactado, el Índice de Dependencia del Fundador.
+- Manuscrito: **5.519 palabras**. Introducción y capítulo 1 en borrador, ampliados a los
+  dos públicos.
+- Recursos: **1 de 18** redactado, el Índice de Dependencia de la Persona Clave.
 - Investigación: **12 fuentes verificadas** y 4 descartadas con motivo. Q-01 a Q-04
   resueltas.
 - Ninguna cifra sin fuente. Cero marcas `[POR VERIFICAR]`.
@@ -140,6 +153,8 @@ Del-Fundador-al-Legado---book/
 │   ├── 10-modelo-de-negocio.md
 │   ├── 11-plan-de-produccion.md
 │   ├── 12-alcance-jurisdiccional.md  Mercados, jurisdicciones y advertencias
+│   ├── 13-clonacion-del-conocimiento.md  Concepto central y sus límites
+│   ├── 14-publico-y-rutas.md      Los dos lectores y las dos rutas del método
 │   ├── glosario.md
 │   └── decisiones-editoriales.md
 ├── capitulos/                    Manuscrito por capítulos
@@ -161,7 +176,7 @@ Del-Fundador-al-Legado---book/
 | Etapa | Contenido | Estado |
 |---|---|---|
 | 1 | Fundamentos editoriales, método, índice, estilo, investigación, controles. | **Completada** |
-| 2 | Muestra editorial: introducción, capítulo 1 e Índice de Dependencia del Fundador. | **Completada** |
+| 2 | Muestra editorial: introducción, capítulo 1 e Índice de Dependencia de la Persona Clave. | **Completada** |
 | 3 | Producción de los capítulos 2 a 25 y la conclusión, por bloques. | Pendiente de autorización |
 | 4 | Revisión integral y manuscrito consolidado. | No autorizada |
 | 5 | Entrega editorial. | No autorizada |

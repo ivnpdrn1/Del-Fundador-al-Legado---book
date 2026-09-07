@@ -1,9 +1,11 @@
 # 03 — Índice maestro comentado
 
-**Etapa:** 1 — Fundamentos. Actualizado en la Etapa 2.
+**Etapa:** 1 — Fundamentos. Actualizado en las Etapas 2 y 2.2.
 **Estado:** **vigente**. La propuesta P-1 fue aprobada el 2026-09-06 y está implementada en
 el apartado 2 (D-017). Las propuestas P-2 a P-5 siguen pendientes de decisión del autor y
-no se han aplicado.
+no se han aplicado. El **apartado 5**, añadido el 2026-09-07, evalúa la arquitectura tras
+la ampliación del público (D-021) y contiene propuestas de título y de ampliación que
+**tampoco se han aplicado**: requieren decisión del autor.
 
 ---
 
@@ -14,7 +16,8 @@ no se han aplicado.
 | Objetivo total | 45.000 – 60.000 palabras |
 | Capítulos | 25 |
 | Media por capítulo | 1.800 – 2.200 palabras |
-| Introducción | 1.800 – 2.500 |
+| Introducción | 2.200 – 2.900 (objetivo 2.700) |
+| Capítulo 1 | objetivo 2.700 |
 | Conclusión | 1.200 – 1.800 |
 | Anexo de recursos | 4.000 – 6.000, no computa en el total |
 
@@ -24,6 +27,19 @@ capítulos es coherente con el objetivo de extensión.
 
 La calidad y la ausencia de repetición tienen prioridad sobre la cifra. Un capítulo de
 1.400 palabras que dice algo es preferible a uno de 2.400 que lo repite.
+
+**Ajuste del 2026-09-07 (D-030).** La introducción y el capítulo 1 suben de objetivo. La
+introducción debe presentar ahora dos públicos, un concepto central nuevo y el continuo del
+retiro; el capítulo 1 lleva dos casos en lugar de uno. Efecto sobre el total: unas 1.100
+palabras más, que dejan la estimación en unas 53.300, dentro del objetivo.
+
+**Guarda contra el efecto acumulativo, obligatoria en la Etapa 3.** Para que la ampliación
+del público no infle el libro entero:
+
+1. Un ejemplo en paralelo no puede superar las **120 palabras**.
+2. Un capítulo que trate las dos rutas no puede exceder su objetivo en más del **15 %**.
+3. Un capítulo cuyo mecanismo sea idéntico en ambas escalas **no lleva ejemplo doble**: se
+   enuncia el principio una vez y se dice que vale para los dos.
 
 ---
 
@@ -39,7 +55,7 @@ juzgado. Aquí se gana o se pierde al lector.*
 
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 1 | Cuando el propietario también es el sistema | L | La empresa parece tener sistemas, pero funciona por una persona. Distinguir "tener empleados" de "tener organización". | Índice de Dependencia del Fundador | 2.200 |
+| 1 | Cuando el propietario también es el sistema | L | La empresa parece tener sistemas, pero funciona por una persona. Distinguir "tener empleados" de "tener organización". | Índice de Dependencia de la Persona Clave | 2.200 |
 | 2 | El conocimiento que nunca fue escrito | E | Existe un conocimiento que no está en ningún manual porque nunca se consideró conocimiento: criterio, historia, excepciones, señales. | Ejercicio de reconocimiento | 2.000 |
 | 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | — | Por qué el equipo parece autónomo cuando el fundador está presente y deja de serlo cuando no lo está. Se trata la suposición, no las consecuencias. | Prueba de las tres preguntas al equipo | 1.800 |
 | 4 | El costo de una ausencia inesperada | — | Cuantificar el impacto: qué se detiene, qué se pierde y qué no se recupera. Se tratan las consecuencias, no la suposición. | Cálculo del costo de una semana | 1.900 |
@@ -216,3 +232,120 @@ Riesgo estructural principal: que la Parte III crezca por atractivo del tema y d
 el libro hacia la tecnología, contradiciendo su propia tesis. Control: el conteo de
 palabras por parte se revisa en `revision/control-de-capitulos.md` después de cada bloque
 de producción. La Parte III no debe superar el 26 % del total.
+
+---
+
+## 5. Evaluación de la arquitectura tras la ampliación del público (Etapa 2.2)
+
+Análisis pedido el 2026-09-07 al ampliarse el público a dos lectores (D-021). **No se ha
+escrito ni reordenado ningún capítulo nuevo.** Lo que sigue es diagnóstico y propuesta.
+
+**Conclusión general: la arquitectura resiste.** De los veintisiete elementos, diecinueve
+funcionan sin cambios de fondo, seis necesitan ampliación dentro del capítulo y **ninguno
+sobra ni hace falta añadir uno nuevo**. No se recomienda un capítulo dedicado al
+profesional independiente: convertiría al lector B en un apéndice y contradiría D-031.
+
+### 5.1 Capítulo a capítulo
+
+Leyenda: **OK** = funciona sin cambios · **AMP** = necesita ampliación dentro del capítulo
+· **TÍT** = conviene revisar el título.
+
+| # | Capítulo | Estado | Qué hacer |
+|---|---|---|---|
+| — | Introducción | **Hecho** | Ampliada en la Etapa 2.2. |
+| 1 | Cuando el propietario también es el sistema | **Hecho** | Ampliado. El título sirve para ambos lectores; alternativa si se quiere más neutra: *Cuando usted también es el sistema*. Propuesta, no aplicada. |
+| 2 | El conocimiento que nunca fue escrito | OK | Universal tal cual. Es el capítulo donde el lector B se reconocerá más. |
+| 3 | La peligrosa tranquilidad de «ellos sabrán qué hacer» | **AMP** | Supone equipo desde el título. Para el lector B la suposición equivalente es «ya lo tengo todo en la cabeza, no hace falta escribirlo». Ampliar con esa variante; el título puede conservarse porque la suposición se cita entre comillas. |
+| 4 | El costo de una ausencia inesperada | **AMP** | Funciona, pero el cálculo del costo supone operación con equipo. Para el lector B el costo es ingresos que no se facturan y clientes que no esperan. Añadir la variante al ejercicio. |
+| 5 | Retirarse no significa abandonar | **AMP, gana mucho** | Es el capítulo natural del **continuo del retiro** (`14-publico-y-rutas.md` §7). Incorporarlo aquí como columna vertebral del capítulo. |
+| 6 | Localizar la dependencia del fundador | **TÍT** | Proponer: *Localizar la dependencia*. El contenido no cambia. |
+| 7 | El mapa de procesos, decisiones y relaciones | OK | Universal. Para el lector B, el mapa de relaciones es el más importante de los tres. |
+| 8 | Cómo documentar las excepciones | OK | Universal. |
+| 9 | El Manual de criterio del fundador | **TÍT** | Proponer: *El Manual de criterio*. Es el capítulo insignia y el **corazón de la clonación del conocimiento**; conviene que su título no excluya a nadie. |
+| 10 | Lo que puede delegarse y lo que debe protegerse | **AMP** | La matriz de autoridad supone estructura. Para el lector B, el equivalente son límites propios escritos: hasta cuánto compromete sin pensarlo dos veces, qué no acepta nunca, qué exige por escrito. Ver 5.3. |
+| 11 | Ordenar antes de automatizar | OK | Universal y especialmente pertinente para el lector B. |
+| 12 | La inteligencia artificial como aprendiz | OK | Universal. |
+| 13 | El periodo de sombra y las primeras alertas | OK | Universal. En un negocio de una persona el modo sombra es más fácil, no más difícil. |
+| 14 | De las alertas a las recomendaciones | OK | Universal. |
+| 15 | Autonomía limitada y aprobación humana | **AMP** | Añadir el tratamiento de **profesiones reguladas** (`13-clonacion-del-conocimiento.md` §6.1): qué puede asistirse y qué reserva la licencia. |
+| 16 | Seguridad, privacidad y auditoría | **AMP** | Añadir la situación del profesional independiente: datos de clientes o pacientes, sin responsable de seguridad y sin contrato negociado con el proveedor. Su exposición es mayor, no menor. |
+| 17 | Preparar al equipo y a la familia | **AMP y TÍT** | El más orientado al lector A. Para el lector B hay que preparar a clientes y colaboradores, no a un equipo. Proponer: *Preparar a las personas que dependen de usted*. |
+| 18 | Delegación progresiva | **AMP** | Debe recoger D-026: se delega en personas, procedimientos o sistemas supervisados. Es el capítulo más afectado por la ampliación del método. |
+| 19 | El tablero del propietario | OK | Para el lector B el tablero es más corto, no distinto. |
+| 20 | Supervisar sin intervenir en todo | OK | Universal. |
+| 21 | Qué hacer cuando no existe el sucesor ideal | **OK y gana** | Ya trataba la ausencia de sucesor. Para el lector B se amplía de forma natural: traspasar la cartera, vender, asociarse o cerrar bien, que también es un final legítimo. |
+| 22 | El nuevo papel del fundador | **TÍT** | Proponer: *Su nuevo papel*. |
+| 23 | Los primeros 100 días de transición | OK | Universal. |
+| 24 | La prueba de ausencia | **OK y gana** | Es más exigente y más reveladora para el lector B, que no tiene a quién dejar al mando. |
+| 25 | La empresa que puede continuar | **TÍT** | Proponer: *El negocio que puede continuar*. |
+| — | Conclusión | OK | Retoma las cuatro preguntas, ya ampliadas. |
+
+**Resumen:** 6 títulos propuestos para revisión (1, 6, 9, 17, 22, 25), 8 capítulos con
+ampliación interna (3, 4, 5, 10, 15, 16, 17, 18), el resto sin cambios. **Ninguna propuesta
+altera el número de capítulos, las cinco partes ni el orden.**
+
+### 5.2 Nombres de las partes
+
+Dos títulos de parte suponen empresa y conviene revisarlos:
+
+| Parte | Actual | Propuesta |
+|---|---|---|
+| I | La empresa que depende de una persona | **El negocio que depende de una persona** |
+| II | Convertir experiencia en memoria empresarial | **Convertir experiencia en memoria transferible** |
+| III | Construir una mano derecha digital | Sin cambios |
+| IV | Transferir el control sin perderlo | Sin cambios |
+| V | Del fundador al legado | Sin cambios. Conserva el título histórico del proyecto en el sitio donde tiene más sentido: el cierre. |
+
+### 5.3 Impacto sobre las dieciocho herramientas
+
+**Dieciséis de las dieciocho funcionan en ambas rutas.** Solo dos suponen estructura
+empresarial de un modo que no se resuelve cambiando una palabra.
+
+| # | Herramienta | Estado |
+|---|---|---|
+| 1 | Índice de Dependencia de la Persona Clave | **Hecho.** Renombrada y adaptada (versión 2.0). |
+| 2 | Cuestionario de preparación para el retiro | Ampliar con el continuo del retiro. |
+| 3 | Inventario del conocimiento crítico | OK. |
+| 4 | Mapa de decisiones | **Ampliación menor.** La columna «quién decide» es trivial en un negocio de una persona; sustituirla por «con qué criterio se decide», que es lo que interesa en ambos casos. |
+| 5 | Mapa de relaciones críticas | OK. Más importante para el lector B. |
+| 6 | Registro de excepciones | OK. |
+| 7 | Plantilla del Manual de criterio | OK. Renombrar junto con el capítulo 9. |
+| 8 | Matriz de autoridad y aprobaciones | **La más afectada.** Supone varias personas con distintos niveles. Ver la propuesta al pie de esta tabla. |
+| 9 | Lista de información restringida | OK. Más crítica para el lector B. |
+| 10 | Lista de verificación del modo sombra | OK. |
+| 11 | Modelo de alertas críticas | OK. |
+| 12 | Matriz de niveles de autonomía | OK. |
+| 13 | Modelo de informe diario | OK, más breve para el lector B. |
+| 14 | Modelo de informe semanal | OK. |
+| 15-16 | Prueba de ausencia de 24 horas y de 7 días | OK. Más exigente para el lector B. |
+| 17 | Plan de transición de 100 días | OK. |
+| 18 | Evaluación anual de continuidad | OK. |
+
+**Propuesta para la herramienta 8, que requiere decisión.** Tres opciones:
+
+1. **Una sola herramienta con dos modos de uso.** La matriz se rellena por función y no por
+   persona; en un negocio de una sola persona todas las funciones son suyas y lo que se
+   escribe son los límites que usted se impone. Ventaja: siguen siendo 18 herramientas.
+   Es la opción recomendada.
+2. **Una herramienta adicional**, «Límites propios escritos», para la ruta B. Ventaja:
+   claridad. Coste: pasa a haber 19 herramientas, y 18 es una constante declarada en la
+   introducción y en `06-control-de-continuidad.md`.
+3. **Dejarla solo para la ruta A.** Se descarta: dejaría al lector B sin la etapa G.
+
+### 5.4 El Método LEGADO en los dos escenarios
+
+Comprobación letra por letra. **El método sobrevive con un solo cambio**, ya aplicado.
+
+| Etapa | Ruta A | Ruta B | ¿Cambia? |
+|---|---|---|---|
+| **L** Localizar | Medir la dependencia del fundador. | Medir la dependencia de quien ejerce. | No. |
+| **E** Extraer | Sacar el criterio de una cabeza. | Idéntico, y más urgente. | No. |
+| **G** Gobernar | Matriz de autoridad, separación de funciones. | Límites propios escritos, revisión externa. | No en el nombre; sí en la herramienta 8. |
+| **A** Asistir | Capa supervisada sobre los sistemas. | A menudo **la etapa más rentable**: quien trabaja solo no tiene a quién delegar, pero sí puede ordenar y asistirse. | No. |
+| **D** Delegar | En personas, en primer lugar. | En procedimientos y sistemas, en primer lugar. | **Sí. Aplicado en D-026.** |
+| **O** Operar | Supervisar sin operar. | Elegir cuánto operar. | No. |
+
+**Observación que conviene retener para la Etapa 3:** en la ruta B el orden de esfuerzo
+cambia aunque el orden de las etapas no. El lector A suele obtener el mayor alivio en G y
+D; el lector B, en E y A. El método no se reordena, pero los capítulos pueden decir dónde
+está el mayor rendimiento para cada uno.

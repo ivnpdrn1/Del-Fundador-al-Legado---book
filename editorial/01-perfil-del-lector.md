@@ -1,11 +1,28 @@
 # 01 — Perfil del lector
 
-**Etapa:** 1 — Fundamentos
-**Estado:** propuesta para revisión del autor
+**Etapa:** 1 — Fundamentos. Ampliado en la Etapa 2.2.
+**Estado:** vigente. Desde el 2026-09-07 el libro tiene **dos lectores principales**
+(D-021). Este documento describe el lector A; el lector B se describe en
+`14-publico-y-rutas.md`, apartado 3.2, y ambos comparten el problema descrito en el
+apartado 3.3 de ese mismo documento.
 
 ---
 
-## 1. Lector principal
+## 0. Los dos lectores
+
+| | Lector A | Lector B |
+|---|---|---|
+| Quién es | Propietario o directivo de una pequeña o mediana empresa, con equipo. | Profesional independiente o negocio de una sola persona. |
+| Qué le sobra | Estructura sin criterio escrito. | Criterio sin ningún sitio donde ponerlo. |
+| Qué le falta | Límites escritos y evidencia para poder soltar. | Alguien o algo a quien transferir. |
+| Destinatario de la transferencia | Personas, en primer lugar. | Procedimientos y sistemas supervisados, en primer lugar. |
+| Dónde se concentra su dependencia | Decisiones y autorizaciones. | Conocimiento y relaciones. |
+| Riesgo de tratarlo mal | Que el libro le parezca ingenuo sobre la complejidad de una organización. | Que el libro le trate como una empresa pequeña con empleados imaginarios. |
+
+**Regla que gobierna todo el manuscrito:** ningún capítulo puede suponer que existe equipo
+sin decirlo. Ver `14-publico-y-rutas.md`, apartado 5.
+
+## 1. Lector principal A
 
 Una persona que fundó, compró o dirige desde hace décadas una pequeña o mediana empresa
 familiar, que se aproxima al retiro o ya lo ha pospuesto varias veces, y cuya empresa
@@ -89,9 +106,20 @@ Deben poder usar el libro sin que el texto deje de estar dirigido al fundador.
 | Consultores y consejeros | Un método aplicable con clientes. | Método LEGADO y las dieciocho herramientas. |
 | Cónyuge o familia propietaria no operativa | Entender el riesgo sin lenguaje técnico. | Caps. 1 a 5 se leen de forma autónoma. |
 
-**Regla de escritura:** el libro se dirige siempre al fundador. Cuando un pasaje sea
-especialmente útil para un lector secundario, se señala con una nota breve al margen del
-capítulo, nunca cambiando el destinatario del texto.
+**Regla de escritura:** el libro se dirige siempre a quien está al frente —lector A o
+lector B—. Cuando un pasaje sea especialmente útil para un lector secundario, se señala con
+una nota breve al margen del capítulo, nunca cambiando el destinatario del texto.
+
+**Objeciones propias del lector B**, que se añaden a la tabla del apartado 2:
+
+| Objeción | Dónde se responde |
+|---|---|
+| «Yo soy el negocio. Esto no se puede transferir.» | Caps. 2 y 9. Se transfiere el criterio, no la persona. |
+| «No quiero contratar a nadie.» | Cap. 18 y la etapa D del método: se delega también en procedimientos y en sistemas. |
+| «Mi profesión está regulada; esto no me aplica.» | Caps. 15 y 16, con la distinción entre lo que puede asistirse y lo que la licencia reserva. |
+| «No puedo poner los datos de mis clientes en una herramienta.» | Cap. 11, lista de información restringida. Es una objeción correcta, no un obstáculo a vencer. |
+| «Si documento mi método, cualquiera podrá copiarlo.» | Cap. 9. Pendiente de investigación sobre propiedad del conocimiento. |
+| «No tengo tiempo: si no facturo, no cobro.» | Cap. 6. Se documenta primero lo crítico, y se hace mientras se trabaja. |
 
 ## 4. Diversidad y supuestos que hay que evitar
 
@@ -101,6 +129,8 @@ capítulo, nunca cambiando el destinatario del texto.
 - No se supone que los hijos quieran dirigir la empresa ni que estén capacitados por
   pertenecer a la familia.
 - No se supone una única jurisdicción, moneda, tamaño de empresa ni marco fiscal.
+- **No se supone que exista un equipo.** Ni que el lector quiera tenerlo.
+- No se supone que el objetivo sea crecer, ni contratar, ni vender el negocio.
 - No se supone que la empresa quiera crecer; muchas quieren durar.
 - No se supone que el retiro sea total. El destino puede ser una dedicación parcial
   estable, y el libro debe tratarlo como un resultado legítimo.

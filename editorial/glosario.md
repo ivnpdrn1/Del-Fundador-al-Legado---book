@@ -17,8 +17,10 @@ libro.
 |---|---|---|
 | Método LEGADO | Método de seis etapas —Localizar, Extraer, Gobernar, Asistir, Delegar, Operar— para transferir la dependencia del fundador a personas, procesos y tecnología supervisada. | Intro |
 | Empresa familiar | Empresa, de cualquier tamaño, en la que la mayoría de los derechos de decisión pertenece a quien la fundó o la adquirió, o a su familia directa, y en la que al menos una persona de esa familia participa formalmente en su gobierno. Definición adoptada por el libro (D-015); no es una definición legal ni universal. | Intro |
-| Dependencia del fundador | Grado en que la operación diaria requiere la presencia, la memoria o la autorización de una persona concreta. | 1 |
-| Índice de Dependencia del Fundador | Medida que expresa esa dependencia en un valor comparable en el tiempo. Construida para este libro; no validada científicamente (D-018). | 1 |
+| Persona clave | Persona de cuyo conocimiento, criterio, relaciones o presencia depende una parte sustancial de la capacidad de un negocio para funcionar. Categoría conceptual: en el texto se usa el término concreto que corresponda. | Intro |
+| Clonación del conocimiento | Proceso de capturar, estructurar, preservar y transferir la experiencia, el criterio y la forma de trabajar de una persona hacia procesos, sistemas y herramientas capaces de asistir, recomendar y ejecutar bajo niveles definidos de supervisión. **Propuesta propia de este libro, no un término académico.** No significa replicar a la persona. | Intro |
+| Dependencia de la persona clave | Grado en que un negocio necesita el conocimiento, el criterio o la presencia de una persona concreta para seguir funcionando. Cuando esa persona es quien fundó la empresa, el libro la llama también dependencia del fundador. | Intro |
+| Índice de Dependencia de la Persona Clave | Medida que expresa esa dependencia en un valor comparable en el tiempo. Construida para este libro; no validada científicamente (D-018). | 1 |
 | Organización | Modo conocido, repetible y verificable de que las decisiones se tomen bien aunque la persona más experimentada no esté presente. Distinta de «empresa», que designa la actividad. | 1 |
 | Conocimiento crítico | Aquello que la empresa necesita para funcionar y que hoy solo existe en la cabeza de una persona. | 2 |
 | Criterio | El porqué de una decisión: los motivos que llevan a resolver de una manera y no de otra. Distinto del procedimiento, que es el cómo. | 2 |
@@ -62,7 +64,9 @@ libro.
 
 | Término | Definición | Cap. |
 |---|---|---|
-| Continuidad | Capacidad de la empresa de seguir funcionando ante la ausencia de una persona, un sistema o un proveedor. | 4 |
+| Continuidad | Capacidad del negocio de seguir funcionando ante la ausencia de una persona, un sistema o un proveedor. | 4 |
+| Transferibilidad | Grado en que lo que sostiene un negocio puede pasar a otra persona, a un procedimiento o a un sistema. **No es lo mismo que valor**: el libro no afirma que una mayor transferibilidad aumente el precio de un negocio (D-032). | 4 |
+| Continuo del retiro | Recorrido entre trabajar el cien por cien y no trabajar nada, con puntos intermedios legítimos: reducir trabajo manual, supervisar, intervenir por excepción, asesorar, participar de forma voluntaria, retiro parcial, retiro total, sucesión. | 5 |
 | Plan de contingencia | Qué se hace, quién lo hace y con qué recursos cuando algo previsto falla. | 16 |
 | Sucesión | Traspaso formal de la dirección o de la propiedad. Distinta de la continuidad operativa, que es el objeto de este libro. | 21 |
 | Sucesor | Persona que asume la dirección. No necesariamente un familiar. | 21 |

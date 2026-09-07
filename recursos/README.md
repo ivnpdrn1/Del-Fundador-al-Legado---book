@@ -4,12 +4,23 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: 1 de 18 herramientas redactada** (el Índice de Dependencia del Fundador,
+**Estado actual: 1 de 18 herramientas redactada** (el Índice de Dependencia de la Persona Clave,
 producido en la Etapa 2). Las diecisiete restantes se producen junto con su capítulo
 durante la Etapa 3. No se crean archivos vacíos: cada archivo nace cuando existe contenido
 real.
 
 La columna «Cap.» refleja el orden de la Parte III vigente desde el 2026-09-06 (D-017).
+
+## Alcance: dos rutas
+
+Desde el 2026-09-07 (D-021) cada herramienta debe funcionar en los dos escenarios del
+libro: empresa con estructura y profesional independiente. La evaluación completa,
+herramienta por herramienta, está en `editorial/03-indice-maestro.md`, apartado 5.3.
+
+**Resultado de esa evaluación:** dieciséis de las dieciocho funcionan en ambas rutas sin
+cambios de fondo. La herramienta 4 necesita un ajuste menor y **la herramienta 8, la matriz
+de autoridad, es la única que supone estructura de un modo que no se resuelve cambiando una
+palabra**; hay tres opciones propuestas y la decisión está pendiente del autor.
 
 ## Criterio de diseño de todas las herramientas
 
@@ -20,19 +31,22 @@ La columna «Cap.» refleja el orden de la Parte III vigente desde el 2026-09-06
 5. Debe funcionar en una empresa de diez personas y en una de doscientas.
 6. No debe requerir vocabulario técnico para completarse.
 7. Debe incluir un ejemplo breve, ficticio y de un sector distinto en cada caso.
+8. **Debe poder completarse sin equipo.** Si una casilla supone que hay otras personas, la
+   herramienta indica qué hacer cuando no las hay. No se ofrece una versión reducida para
+   quien trabaja solo: se ofrece la misma, con una clave de lectura.
 
 ## Catálogo
 
 | # | Recurso | Archivo previsto | Cap. | Etapa | Propósito en una línea |
 |---|---------|------------------|------|-------|------------------------|
-| 1 | Índice de Dependencia del Fundador **(redactada)** | `indice-dependencia-fundador.md` | 1 | L | Medir con un número comparable cuánto de la empresa depende de una sola persona. |
+| 1 | Índice de Dependencia de la Persona Clave **(redactada, v2.0)** | `indice-dependencia-fundador.md` | 1 | L | Medir con un número comparable cuánto depende un negocio de una sola persona. Adaptada a las dos rutas. |
 | 2 | Cuestionario de preparación para el retiro | `cuestionario-preparacion-retiro.md` | 5 | L | Separar la disposición personal del fundador de la preparación real de la empresa. |
 | 3 | Inventario del conocimiento crítico | `inventario-conocimiento-critico.md` | 6 | E | Listar lo que solo una persona sabe y clasificarlo por impacto si se pierde. |
-| 4 | Mapa de decisiones | `mapa-de-decisiones.md` | 7 | E | Registrar quién decide qué, con qué información y en cuánto tiempo. |
+| 4 | Mapa de decisiones | `mapa-de-decisiones.md` | 7 | E | Registrar con qué criterio se decide cada cosa, con qué información y en cuánto tiempo. La columna «quién decide» se sustituye por «con qué criterio», que sirve en ambas rutas. |
 | 5 | Mapa de relaciones críticas | `mapa-relaciones-criticas.md` | 7 | E | Identificar vínculos externos que hoy solo existen a través del fundador. |
 | 6 | Registro de excepciones | `registro-de-excepciones.md` | 8 | E | Convertir "en este caso hacemos algo distinto" en una regla escrita y revisable. |
 | 7 | Plantilla del Manual de criterio del fundador | `manual-criterio-fundador.md` | 9 | E | Documentar el porqué de las decisiones, no solo el procedimiento. |
-| 8 | Matriz de autoridad y aprobaciones | `matriz-autoridad-aprobaciones.md` | 10 | G | Fijar límites de monto, alcance y firma para cada función. |
+| 8 | Matriz de autoridad y aprobaciones **(requiere decisión)** | `matriz-autoridad-aprobaciones.md` | 10 | G | Fijar límites de monto, alcance y firma para cada función. En un negocio de una sola persona, límites propios escritos. Ver `03-indice-maestro.md` §5.3. |
 | 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | G/A | Clasificar la información antes de conectar cualquier herramienta. |
 | 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |
 | 11 | Modelo de alertas críticas | `modelo-alertas-criticas.md` | 13 | A | Definir qué merece interrumpir a una persona y qué no. |

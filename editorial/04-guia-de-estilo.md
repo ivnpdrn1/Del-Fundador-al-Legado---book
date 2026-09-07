@@ -78,7 +78,27 @@ obligatorios en los veinticinco.
 
 **Formas para designar al lector.** Deben alternarse, sin usar siempre la misma:
 fundador, fundadora, propietario, propietaria, dirigente, persona al frente de la
-empresa, líder empresarial, quien construyó la empresa.
+empresa, líder empresarial, quien construyó la empresa. Cuando el pasaje valga también
+para el lector B: profesional, profesional independiente, quien ejerce por su cuenta,
+quien lleva el negocio, y sobre todo **usted**, que sirve para los dos y es la solución
+por defecto.
+
+**Vocabulario que no puede darse por supuesto (D-021).** Desde la ampliación del público,
+estas palabras solo se usan cuando el pasaje trate específicamente de una empresa con
+estructura:
+
+| No usar como término general | Usar |
+|---|---|
+| La empresa | El negocio; su actividad; su despacho, su taller, su consulta |
+| Su equipo | Quien le apoya; las personas que trabajan con usted, si las hay |
+| Sus empleados | Las personas de su equipo, cuando existan |
+| Sus responsables de área | Quien se ocupa de cada asunto |
+| La organización | El sistema; la forma de trabajar |
+| Empresa familiar | Solo cuando el pasaje trate específicamente de ella |
+
+**«Persona clave» es categoría, no muletilla.** Se usa en los documentos editoriales y en
+el nombre del Índice. En la prosa del manuscrito se emplea el término concreto del pasaje.
+Un capítulo que la repita en cada párrafo está mal escrito.
 
 **Género.** No se emplea el masculino genérico de forma sistemática ni se recurre a
 desdoblamientos constantes, que entorpecen la lectura. Se alterna deliberadamente entre
@@ -138,6 +158,11 @@ Además de las reglas de confidencialidad de `editorial/09-reglas-de-casos-ficti
 - No se supone que todas las familias funcionen igual.
 - No se emiten juicios sobre modelos familiares, religiosos ni culturales.
 - No se presenta ninguna afirmación legal, fiscal o laboral como universal.
+- No se supone que el lector tenga equipo, quiera tenerlo o deba contratarlo.
+- No se presenta la inteligencia artificial como sustituto del juicio profesional ni de una
+  decisión que una licencia reserve a una persona.
+- No se afirma que documentar el conocimiento aumente el valor financiero del negocio
+  (D-032).
 - No se citan cifras ni estudios sin fuente verificada y consultada.
 - No se rellena extensión con repeticiones.
 

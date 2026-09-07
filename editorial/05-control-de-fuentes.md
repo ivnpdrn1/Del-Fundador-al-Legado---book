@@ -87,7 +87,7 @@ una categoría, siempre con al menos una alternativa, nunca con configuraciones 
 enlaces.
 
 *Vacía. Ninguna marca, producto ni plataforma se menciona en la introducción, en el
-capítulo 1 ni en el Índice de Dependencia del Fundador. D-011 se cumple sin excepciones.*
+capítulo 1 ni en el Índice de Dependencia de la Persona Clave. D-011 se cumple sin excepciones.*
 
 | Cap. | Mención | Categoría a la que ilustra | Alternativa citada | Justificación |
 |---|---|---|---|---|

@@ -7,8 +7,14 @@ corresponde a una marca `[POR VERIFICAR]` en el texto de trabajo.
 revisión integral, cada línea de este archivo debe estar resuelta como *verificada*,
 *reformulada* o *suprimida*.
 
-**Estado a 2026-09-06: 0 afirmaciones abiertas. 0 marcas `[POR VERIFICAR]` en el
+**Estado a 2026-09-07: 0 afirmaciones abiertas. 0 marcas `[POR VERIFICAR]` en el
 manuscrito.**
+
+**Aviso de la Etapa 2.2.** El manuscrito declara ahora expresamente al lector un vacío de
+evidencia: no se localizó estadística solvente sobre la continuidad de los negocios de una
+sola persona. Es una afirmación sobre el estado del conocimiento, no sobre el mundo, y por
+eso no necesita fuente; pero **deja de ser cierta en cuanto Q-14 se investigue**. Si esa
+búsqueda encuentra algo, el pasaje de la introducción debe reescribirse.
 
 ---
 
@@ -50,6 +56,10 @@ a decisiones del proyecto. Se registran aquí para que no se pierdan.
 | A-06 | Mercados y jurisdicciones de publicación previstos. | Alcance editorial | Determina qué advertencias legales deben incluirse y qué ámbitos geográficos deben cubrir los datos. | **CERRADO 2026-09-06 por decisión del autor.** Español internacional, lector hispanohablante internacional, distribución principal por Amazon KDP. Enfoque jurisdiccionalmente neutral. Desarrollado en `editorial/12-alcance-jurisdiccional.md` (D-014). |
 | A-07 | Ausencia de estadística oficial sobre empresas familiares en América Latina. | Q-01, 2026-09-06 | El libro se dirige de forma destacada a lectores latinoamericanos y no puede ofrecerles un dato de su región. Se declara el vacío, pero convendría seguir buscando en institutos nacionales de estadística. | **abierto.** Prioridad baja: el argumento no depende de la cifra. |
 | A-08 | Accesibilidad de las normas ISO para el lector. | Q-03, 2026-09-06 | ISO 22301 e ISO 31000 son de pago. El libro no puede suponer que el lector las adquiera, y debe decirlo al citarlas. | **abierto.** Se resuelve al redactar los capítulos 4 y 16. |
+| A-09 | Disponibilidad del nombre *Clonación del Conocimiento* y de *Knowledge Cloning*: libros publicados, marcas registradas y dominios en los mercados previstos. Comprobar también si colisiona con terminología de aprendizaje automático. | D-024, 2026-09-07 | Es ahora el título de trabajo. Un conflicto obligaría a rehacer la decisión, y cuanto antes se sepa, menor el coste. | **abierto. Prioridad alta**, igual que A-01. |
+| A-10 | Herramienta 8, matriz de autoridad: cuál de las tres opciones se adopta para la ruta B. | `03-indice-maestro.md` §5.3, 2026-09-07 | Es la única de las dieciocho que supone estructura empresarial. La opción 2 rompería la constante de 18 herramientas. | **abierto — requiere decisión del autor.** Recomendada la opción 1. |
+| A-11 | Lista de sectores admitidos para casos de la ruta B. | `control-de-casos.md` §4.1, 2026-09-07 | «Servicios profesionales» llega ya a sus tres apariciones. La lista se diseñó antes de la ampliación del público. | **abierto — requiere decisión del autor.** |
+| A-12 | Subtítulo definitivo del libro. | `00-concepto-editorial.md` §6 bis, 2026-09-07 | El subtítulo propuesto sitúa la inteligencia artificial en el lugar del destino, lo que invierte la secuencia que gobierna el libro. Hay cuatro alternativas redactadas. | **abierto — requiere decisión del autor.** |
 
 ## 3. Procedimiento
 

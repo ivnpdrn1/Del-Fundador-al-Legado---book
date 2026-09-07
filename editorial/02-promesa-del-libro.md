@@ -32,8 +32,15 @@ contribuir de forma demostrable a cumplirla, y esa contribución se registra en
 
 > Este libro le enseña a convertir lo que hoy solo existe en su cabeza —su criterio, sus
 > relaciones, sus excepciones y sus controles— en un sistema de personas, procesos y
-> tecnología supervisada que permita a su empresa familiar funcionar bien sin usted,
+> tecnología supervisada que permita a su negocio funcionar bien sin depender de usted,
 > mientras usted conserva la última palabra.
+
+**Cambio del 2026-09-07 (D-025).** «Su empresa familiar funcionar bien sin usted» pasó a
+«su negocio funcionar bien sin depender de usted». Dos motivos: «empresa familiar» era el
+último elemento de la promesa que excluía al profesional independiente, y «sin depender de
+usted» es además más exacto que «sin usted», porque el libro no promete su ausencia sino el
+fin de la obligación. Ningún otro elemento cambió. **Requiere confirmación del autor, por
+ser el control central de coherencia del manuscrito.**
 
 **Versión ampliada, para la introducción:**
 

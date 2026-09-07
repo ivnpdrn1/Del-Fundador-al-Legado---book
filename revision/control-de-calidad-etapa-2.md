@@ -1,8 +1,13 @@
 # Control de calidad — Etapa 2
 
-Dos revisiones sobre las tres piezas producidas en la Etapa 2: la revisión completa A-M
-del **2026-09-06** y la **revisión intermedia 2.1** del **2026-09-07**, encargada por el
-autor, que figura al final de este archivo.
+Tres revisiones sobre las tres piezas producidas en la Etapa 2, en este orden y todas al
+final de este archivo:
+
+1. **Revisión completa A-M**, del 2026-09-06.
+2. **Revisión intermedia 2.1**, del 2026-09-07: precisión de las afirmaciones y falsa
+   validación del instrumento.
+3. **Revisión conceptual extraordinaria 2.2**, del 2026-09-07: ampliación del público y del
+   problema central del libro.
 
 Revisión ejecutada el **2026-09-06** sobre las tres piezas producidas en la Etapa 2:
 
@@ -403,3 +408,168 @@ Se incorpora al control de fuentes, para la Etapa 3, la regla que faltaba:
 
 La revisión G de cada bloque de la Etapa 3 pasa a incluir el barrido automático de estas
 fórmulas, no solo el de cifras.
+
+---
+
+# Revisión conceptual extraordinaria 2.2
+
+Ejecutada el **2026-09-07** por encargo del autor. A diferencia de la 2.1, que corrigió
+defectos de precisión, esta revisión **cambia el alcance del libro**: amplía el público de
+uno a dos lectores y adopta un concepto central nuevo. Se ejecuta ahora, con solo tres
+piezas escritas, precisamente para que el resto del manuscrito no nazca con un mercado
+innecesariamente estrecho.
+
+**No se escribió el capítulo 2 ni se inició la Etapa 3.**
+
+## 1. Diagnóstico conceptual
+
+El libro tenía un problema de encaje entre su tesis y su público. La tesis —una parte
+sustancial del negocio existe solo en una cabeza— es universal. El público al que se
+dirigía —el propietario de una empresa familiar con equipo— era un subconjunto. **El libro
+estaba resolviendo un problema más grande que el mercado al que hablaba.**
+
+El caso extremo de la tesis no es la empresa familiar: es el profesional que trabaja solo,
+donde la persona no dirige el sistema sino que **es** el sistema, y donde no hay siquiera a
+quién preguntar. Excluirlo de la portada era dejar fuera al lector que más necesita el
+libro.
+
+La ampliación no obliga a escribir otro libro. Obliga a tres cosas:
+
+1. Dejar de suponer estructura donde no la hay.
+2. Reconocer que en la ruta B el destinatario de la transferencia no son personas, sino
+   procedimientos y sistemas supervisados.
+3. Aceptar que sobre ese público **no hay evidencia**, y decirlo en lugar de rellenarlo.
+
+## 2. Qué se comprobó antes de tocar nada
+
+| Comprobación | Resultado |
+|---|---|
+| ¿Sobrevive el Método LEGADO a los dos escenarios? | Sí, con un solo cambio: la etapa D admite ahora tres destinatarios (D-026). Las otras cinco letras no cambian. |
+| ¿Sobrevive la arquitectura de 25 capítulos? | Sí. Diecinueve elementos funcionan sin cambios de fondo; ocho necesitan ampliación interna; ninguno sobra y no hace falta añadir ninguno. |
+| ¿Sobreviven las 18 herramientas? | Dieciséis sí. Una necesita ajuste menor. Una —la matriz de autoridad— requiere decisión. |
+| ¿Sobrevive el Índice de Dependencia? | Sí, con renombrado, once preguntas reformuladas y una clave de lectura para quien trabaja solo. Sin tocar número de preguntas, dimensiones, escala, fórmula ni rangos. |
+| ¿Hay que partir el libro en dos? | **No.** Se rechaza expresamente. Ver D-031. |
+
+## 3. Cambios en la introducción
+
+| Cambio | Razón |
+|---|---|
+| Tercer párrafo nuevo: «Da igual que ese "aquello" sea una empresa con cincuenta personas, un taller con tres, un despacho profesional o usted solo con una cartera de clientes». | Señal temprana. El lector B tenía que saber en la primera página que el libro le habla; si espera a la mitad, ya cerró. |
+| «Dependencia del fundador» pasa a **«dependencia de la persona clave»**, con la aclaración inmediata de que en una empresa suele ser quien la fundó. | El concepto tenía nombre de público en vez de nombre de fenómeno. |
+| Apartado nuevo, «Dos escalas del mismo problema», con el ejemplo de la consultora independiente. | Es el único sitio donde el argumento de las dos escalas se desarrolla. En los capítulos aparecerá como ejemplo, nunca reexplicado. |
+| «Cuando la empresa era pequeña…» pasa a «Al principio no había a quién delegar…». | El párrafo del perdón —el más importante del libro para que el lector siga leyendo— suponía una empresa que crece. Un profesional independiente nunca tuvo a quién delegar. |
+| La sección de datos se reordena y se reduce; se declara expresamente que **no hay estadística solvente sobre profesionales independientes**. | Honestidad y coherencia: un libro que renuncia a las cifras de supervivencia generacional no puede inventar cifras sobre el público nuevo. Refuerza el argumento en lugar de debilitarlo. |
+| La promesa cambia «su empresa familiar funcionar bien sin usted» por «su negocio funcionar bien sin depender de usted» (D-025). | Era el último elemento de la promesa que excluía al lector B. «Sin depender de usted» es además más exacto: el libro no promete su ausencia. |
+| Se introduce y se delimita **clonación del conocimiento**, con la aclaración «no se clona a la persona» en la misma página. | D-023. El nombre es llamativo y por eso el límite va pegado a la definición, no tres capítulos después. |
+| La secuencia conceptual se extiende hasta doce pasos, terminando en legado. | Encargo del autor. Se añade que buena parte del valor está en los cinco primeros, que no requieren tecnología, para que la extensión no se lea como entusiasmo tecnológico. |
+| «Lo que este libro no promete» gana dos entradas: que la tecnología sustituya el juicio profesional o la firma, y que el negocio valga más. | Profesiones reguladas (D-033) y prudencia económica (D-032). |
+| Apartado nuevo, «Retirarse no es un interruptor», con el continuo del retiro. | Encargo del autor. Refuerza el principio central: el objetivo es la capacidad de elegir. |
+| Precisión en la etapa D: delegar no significa contratar. | Regla de `14-publico-y-rutas.md` §5.5: no tratar al lector B como una empresa pequeña. |
+
+## 4. Cambios en el capítulo 1
+
+| Cambio | Razón |
+|---|---|
+| «Tener una empresa y tener una organización» pasa a **«Tener un negocio y tener un sistema»**. | Es el eje del capítulo. «Organización» no significa nada para quien trabaja solo. El cambio además hace aterrizar mejor el título del capítulo, que ya hablaba del sistema. |
+| Párrafo nuevo: donde hay equipo ese sitio se llama organización; en un negocio de una persona no tiene nombre y por eso no se construye. | Nombra con precisión por qué el lector B nunca se planteó el problema. |
+| La apertura deja de suponer oficina y personal. | «Todavía no ha llegado nadie más» suponía que llega alguien. |
+| «Los cuellos de autorización» pasan a **«los cuellos de espera»**, con las dos manifestaciones. | Un profesional solo no tiene firmas pendientes; tiene una bandeja que solo avanza cuando se sienta. |
+| Párrafo nuevo sobre el peso desigual de las cuatro materias en cada escala. | Cumple el encargo de no forzar el modelo de empresa: en la ruta B las autorizaciones casi desaparecen y el peso va a conocimiento y relaciones, que son las más lentas de transferir. Es una mala noticia y se dice. |
+| **Caso C-02, Andrés**, profesional independiente, registrado antes de escribirse. | El capítulo no podía llevar un único ejemplo de la ruta A. El caso muestra los dos intentos que fracasan —contratar apoyo y rechazar encargos— por la misma causa. |
+| Cierre conjunto de los dos casos. | Nombra lo que comparten: «Elena tiene un equipo que no puede ayudarla porque le falta información; Andrés no tiene equipo y descubre que tampoco podría usarlo». |
+| «Su equipo no se lo va a decir» pasa a «Quien trabaja con usted no se lo va a decir», con la coda de que si trabaja solo no hay ni esa respuesta suave. | El apartado entero suponía interlocutores. |
+| Apartado nuevo en «Lo que este capítulo no está diciendo»: **no está diciendo que usted tenga que contratar a nadie**. | Es la objeción número uno del lector B y aparecía sin respuesta. |
+| «El riesgo del cuello de botella» pasa a «El riesgo del techo», con su versión para quien trabaja solo. | En un negocio unipersonal el techo no se nota como oportunidad perdida sino como cansancio. |
+| «Preguntas para el fundador» pasa a «Preguntas para usted»; se ajustan dos. | La segunda persona resuelve el problema de destinatario sin fórmulas dobles. |
+
+## 5. Cambios en el Índice de Dependencia — versión 1.1 a 2.0
+
+### 5.1 Nombre
+
+**Índice de Dependencia del Fundador → Índice de Dependencia de la Persona Clave.**
+
+Se evaluaron cuatro nombres. *Dependencia Personal* se descartó por ambiguo: sugiere
+dependencia psicológica. *Dependencia Operativa* es exacto pero pierde el «de quién», que
+es justamente lo que el instrumento mide. *Persona clave* se eligió porque es la categoría
+que el propio encargo introduce y porque el nombre de un instrumento es exactamente el
+lugar donde una categoría conceptual debe vivir; la prohibición de usarla como muletilla
+afecta a la prosa, no al título de una herramienta.
+
+**Consecuencias propagadas:** doce archivos actualizados. El nombre del archivo se conserva
+por decisión editorial, documentada en el propio instrumento.
+
+### 5.2 Preguntas reformuladas por dependencia frente a prudencia (V-08, cerrada)
+
+Se revisaron las cinco alternativas propuestas en la revisión 2.1 **a la luz del público
+ampliado antes de aplicarlas**, como pedía el encargo. Cuatro se adoptaron y una se mejoró.
+
+| # | Alternativa propuesta en 2.1 | Redacción final | Por qué cambió |
+|---|---|---|---|
+| 21 | «¿debe consultársela a usted en particular, porque nadie más puede autorizarla ni sabe con qué criterio se concede?» | «Cuando hace falta una excepción, ¿debe decidirla usted en particular, porque nadie más puede autorizarla ni sabe con qué criterio se concede?» | «Consultársela» supone que alguien consulta. «Hace falta» y «decidirla» funcionan también cuando no hay nadie que pregunte. |
+| 5 | «¿es usted la única persona de la empresa que sabe qué hay que mirar primero?» | **«Ante una situación nueva, el criterio para saber qué hay que mirar primero, ¿existe solo en su cabeza?»** | **Mejora sobre la propuesta.** «La única persona» es trivialmente cierto para quien trabaja solo, y la pregunta habría dado 3 sin informar de nada. Preguntando por dónde *existe* el criterio, un profesional que lo ha escrito puede puntuar bajo. Mide lo mismo en ambas rutas. |
+| 3 | «¿el asunto se queda parado hasta que usted lo resuelve?» | «Cuando surge un desacuerdo o una discrepancia, ¿se queda parado hasta que usted lo resuelve en persona?» | Se elimina «dos áreas o dos personas», que exigía estructura. Un desacuerdo con un cliente sirve igual. |
+| 20 | «…y que solo usted recuerda» | «¿Existen acuerdos con clientes, proveedores o colaboradores que no constan por escrito y que solo usted recuerda?» | Adoptada. Se añade «colaboradores», más propio de la ruta B. |
+| 7 | «¿rechazarían o retrasarían tratar el asunto con otra persona de su empresa?» | «Los clientes principales, ¿retrasarían o rechazarían tratar un asunto importante con alguien que no fuera usted?» | «De su empresa» excluía al colaborador externo, que es la figura equivalente en la ruta B. |
+
+### 5.3 Preguntas reformuladas por suponer equipo
+
+Seis preguntas más se reformularon para que funcionen sin estructura, sin cambiar lo que
+miden: **2, 6, 11, 12, 16 y 17**. El criterio fue ampliar el referente —«otra persona» pasa
+a «otra persona, un procedimiento o una herramienta»— en lugar de crear preguntas paralelas.
+
+La 6 y la 17 merecen mención. La 6 pasa a «si mañana faltara quien más le apoya —alguien de
+su equipo, un colaborador externo o un proveedor de confianza—», y la clave de lectura
+añade que **si no hay nadie, la respuesta es 3**: un negocio sin ningún respaldo depende por
+completo de una persona, y eso es exactamente lo que el instrumento debe registrar. La 17
+añade «usted incluido», con lo que un límite de gasto que uno se impone a sí mismo pasa a
+contar como el control que es.
+
+### 5.4 Escala (V-09, cerrada)
+
+Rótulos neutros por frecuencia de casos, con una segunda columna que conserva la lectura
+por actor. **No cambian los valores 0 a 3, ni el recorrido 0-72, ni los cuatro rangos, ni
+la fórmula.** Se descartó introducir un «no aplica», que habría alterado el denominador y
+roto la comparabilidad del instrumento consigo mismo, que es su única función válida.
+
+### 5.5 Clave de lectura y limitación nueva
+
+Apartado 3.1 nuevo, con tres reglas para quien trabaja solo, y **limitación 9**: el índice
+no corrige el tamaño, un negocio de una sola persona puntúa alto por estructura, y por eso
+el instrumento no compara negocios entre sí. Se añade además una advertencia en la
+interpretación del resultado global.
+
+## 6. Control final de la Etapa 2.2
+
+| Comprobación | Resultado |
+|---|---|
+| ¿Se reconoce un fundador con empleados? | Sí. Elena sigue siendo el primer caso, la matriz de autoridad sigue siendo la herramienta de la etapa G y ningún pasaje de la ruta A se ha diluido. |
+| ¿Se reconoce un profesional independiente? | Sí, desde el tercer párrafo de la introducción, en un apartado propio, en un caso propio y en una clave de lectura del instrumento. |
+| ¿Alguno parece añadido artificialmente? | El riesgo existe y se ha controlado con tres reglas: el principio se enuncia una vez y no se duplica; los ejemplos van en paralelo y son breves; y está prohibido reexplicar «esto también vale si usted trabaja solo» en cada capítulo. **Lo comprueba definitivamente V-51, con lectores de los dos perfiles.** |
+| ¿Sigue la IA subordinada? | Sí. No aparece en el primer tercio de la introducción; la secuencia conceptual la sitúa en el sexto lugar de doce; se dice expresamente que buena parte del valor está en los cinco primeros pasos; y se añade que no sustituye el juicio profesional ni la firma. |
+| Afirmaciones empíricas y fuentes | Siete afirmaciones con fuente, sin cambios. Ninguna cifra nueva. Se declara al lector un vacío de evidencia sobre el público nuevo en lugar de rellenarlo. |
+| ¿Nueva falsa precisión? | No. Cero cifras, umbrales o porcentajes nuevos. El barrido de fórmulas de frecuencia devuelve tres coincidencias, las mismas tres legítimas de la revisión 2.1. |
+| Legibilidad | Introducción: 2.765 palabras, párrafo máximo 108, frase media 13,8. Capítulo 1: 2.754, párrafo máximo 91, frase media 12,4. Índice: 2.490, frase media 11,7. Ninguna línea supera 100 caracteres fuera de tablas. |
+| Extensión | Las dos piezas crecieron alrededor de un 20 %. Objetivos ajustados por D-030 con una guarda explícita contra el efecto acumulativo en la Etapa 3. |
+| «Persona clave» como muletilla | **No lo es.** Una sola aparición conceptual en todo el manuscrito, en la introducción; las demás son parte del nombre del instrumento. |
+| «Clonación» como muletilla | No lo es. Tres apariciones, todas en el pasaje que la define y la delimita. |
+| Privacidad y seguridad | Sin hallazgos. Caso C-02 registrado antes de escribirse, riesgo bajo, diez comprobaciones superadas, sin especialidad concreta para no rozar ninguna profesión regulada. |
+| Principio central | Intacto y literal en la introducción, retomado en el capítulo 1 y ahora también en la limitación 8 del instrumento. |
+
+## 7. Riesgos que esta ampliación introduce
+
+Conviene que consten, porque son nuevos y no estaban en el proyecto hace una semana.
+
+1. **Que el libro pierda foco.** Servir a dos públicos es más difícil que servir a uno. La
+   defensa es la arquitectura integrada y la regla de que el principio se enuncia una vez.
+   El síntoma de fracaso sería un capítulo que dedique media página a explicar, otra vez,
+   que esto también vale para quien trabaja solo.
+2. **Que el título asuste al lector A.** «Clonación» evoca replicar personas, que es el
+   miedo exacto que el libro existe para desactivar. Registrado en `00-concepto-editorial.md`
+   §6 bis y sometido a la lectura de prueba.
+3. **Que se escriba sobre el lector B sin evidencia.** No hay ninguna fuente verificada
+   sobre ese público en el repositorio. Nueve preguntas de investigación nuevas y la regla
+   V-41 aplicada con el mismo rigor a los dos públicos.
+4. **Que la extensión se descontrole.** Ver la guarda de D-030.
+5. **Que el libro roce el terreno de las profesiones reguladas.** Tratado en
+   `13-clonacion-del-conocimiento.md` §6, con la regla de no afirmar nada normativo sin
+   fuente y ámbito.

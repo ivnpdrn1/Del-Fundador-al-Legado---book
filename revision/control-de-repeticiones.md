@@ -41,6 +41,9 @@ una frase con referencia cruzada, nunca se reexplica. Numeración actualizada tr
 | Documentar el porqué, no solo el cómo. | 9 | 2, 7, 8, en una frase | Intro y cap. 1, una frase cada uno. Admisible. |
 | Retirarse no es abandonar. | 5 | 22, 25, conclusión, en una frase | Cap. 1, una frase ("la independencia operativa no es abandono"). Admisible. |
 | Lo que se mide al principio se mide al final. | 6 | 24, 25, en una frase | Cap. 1 y herramienta 1. **Aviso:** es inevitable, porque el instrumento nace aquí. El cap. 6 deberá tratar el *cómo* medir, no el *por qué*. |
+| **El mismo problema aparece a dos escalas.** | Introducción, «Dos escalas del mismo problema» | En los capítulos, solo como ejemplo o como precisión concreta. **Prohibido reexplicarlo.** | Intro. Cap. 1 lo aplica sin reexplicarlo. |
+| **No se clona a la persona.** | Introducción, al definir el concepto | 9, 12, 15, en una frase | Intro. |
+| **Delegar no significa contratar.** | 18 | Intro y 1, en una frase cada uno | Intro y cap. 1. **Aviso:** dos usos consumidos antes de su capítulo propietario. El cap. 18 debe desarrollarlo, no anunciarlo. |
 
 ## 3. Recursos retóricos con riesgo de repetición
 
@@ -49,15 +52,25 @@ Recuento real sobre las piezas escritas, verificado por búsqueda automática el
 | Recurso | Límite | Usos consumidos | Dónde |
 |---|---|---|---|
 | La pregunta "¿qué pasa si usted no está?" | Máximo tres veces en todo el libro | **2** | Título de la introducción; apertura del apartado "La pregunta que da origen a este libro". **Queda uno disponible para los veinticuatro capítulos restantes.** |
-| La imagen de la empresa que "vive en una cabeza" | Máximo cuatro veces | **1** | Introducción. |
+| La imagen del negocio que "vive en una cabeza" | Máximo cuatro veces | **4** | Intro dos veces («una cabeza sosteniendo algo que no está escrito», «vive en una sola cabeza»); cap. 1 dos veces («un sitio distinto de una cabeza», «el criterio nunca salió de una cabeza»). **Agotado.** |
 | La comparación de la inteligencia artificial con un aprendiz | Capítulo 12 y una mención posterior | 0 | — |
 | La expresión "sin perder el control" | Máximo cinco veces | **0** en el manuscrito | Aparece en el subtítulo del libro, que no computa. |
-| La palabra "legado" fuera de títulos | Máximo ocho veces | **4** | Introducción: nombre de la etapa O, cierre del texto y dos menciones del método. |
+| La palabra "legado" fuera de títulos | Máximo ocho veces | **5** | Introducción: nombre de la etapa O, la secuencia conceptual, el cierre y dos menciones del método. |
+| **La expresión "persona clave"** | Nuevo. Máximo una vez por capítulo fuera del nombre del Índice | **1** | Introducción, al definir el concepto. En el capítulo 1 solo aparece como parte del nombre de la herramienta. **Cumple D-021.** |
+| **La palabra "clonación" y derivados** | Nuevo. Solo donde nombre algo que ninguna otra palabra nombra | **3** | Las tres en el mismo pasaje de la introducción, que la define y la delimita. |
 
-**Observación de vigilancia.** El recurso más comprometido es la pregunta de la ausencia:
-con dos usos consumidos en la introducción, los capítulos 4 y 24 —que tratan precisamente
-la ausencia— deberán formularla de otra manera. Se recomienda reservar el tercer uso para
-el capítulo 24, que es donde la ausencia deja de ser una hipótesis.
+**Observación de vigilancia.** Dos recursos están al límite con solo dos piezas escritas:
+
+1. **La pregunta de la ausencia**, con dos usos de tres consumidos en la introducción. Los
+   capítulos 4 y 24 —que tratan precisamente la ausencia— deberán formularla de otra
+   manera. Se recomienda reservar el tercer uso para el capítulo 24, que es donde la
+   ausencia deja de ser una hipótesis.
+2. **La imagen de la cabeza, agotada en la Etapa 2.2.** Es la imagen insignia del libro y la
+   ampliación del público la ha reforzado, porque «una parte del negocio vive en una sola
+   cabeza» es justamente lo que une a los dos lectores. Cuatro usos consumidos de cuatro.
+   **Decisión recomendada para la Etapa 3:** elevar el límite a ocho, tratándola como la
+   imagen central del libro y no como un recurso ocasional, o aceptar que a partir del
+   capítulo 2 haya que decir lo mismo con otras palabras. Requiere decisión del autor.
 
 ## 4. Procedimiento de detección en la Etapa 4
 
@@ -75,6 +88,8 @@ el capítulo 24, que es donde la ausencia deja de ser una hipótesis.
 
 | Fecha | Hallazgo | Capítulos | Resolución |
 |---|---|---|---|
+| 2026-09-07 | La imagen de la cabeza agota su límite de cuatro usos con solo dos piezas escritas. | Intro, 1 | Registrada en el apartado 3. Requiere decisión: elevar el límite a ocho o buscar formulaciones alternativas desde el capítulo 2. |
+| 2026-09-07 | Riesgo nuevo con la ampliación del público: que cada capítulo repita el argumento «esto también vale si usted trabaja solo». | Todos | Deslinde adoptado: el argumento se desarrolla una sola vez, en la introducción, apartado «Dos escalas del mismo problema». En los capítulos se manifiesta como ejemplos y como precisiones concretas, **nunca como un párrafo explicativo repetido**. Añadido al apartado 2. |
 | 2026-09-06 | La introducción y el capítulo 1 podían solaparse en la escena de la ausencia. | Intro, 1 | Resuelto antes de escribir: la introducción usa la ausencia como encuadre; el capítulo 1 abre con una mañana ordinaria y no vuelve sobre ella. |
 | 2026-09-06 | El argumento "el fundador centralizó por buenas razones" se desarrolla en dos piezas. | Intro, 1 | Deslinde adoptado y anotado en el apartado 2. Queda prohibido reexplicarlo en el capítulo 5. |
 | 2026-09-06 | Dos de los tres usos permitidos de la pregunta de la ausencia se consumen en la introducción. | Intro | Aceptado: es el lugar donde más rinde. Registrada la restricción para los capítulos 4 y 24. |

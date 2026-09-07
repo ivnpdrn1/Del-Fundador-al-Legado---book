@@ -2,10 +2,12 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-07: 2 de 27 piezas escritas. 4.401 palabras.**
-**Recursos: 1 de 18 redactado (2.018 palabras, no computan en el manuscrito).**
+**Estado del manuscrito a 2026-09-07: 2 de 27 piezas escritas. 5.519 palabras.**
+**Recursos: 1 de 18 redactado, versión 2.0 (2.490 palabras, no computan en el manuscrito).**
 
-Cifras posteriores a la revisión intermedia 2.1 del 2026-09-07.
+Cifras posteriores a la **revisión conceptual 2.2** del 2026-09-07, que amplió el público
+del libro (D-021). Los objetivos de la introducción y del capítulo 1 se ajustaron en la
+misma etapa (D-030).
 
 **Estados:** `no iniciado` · `borrador` · `revisado` · `aprobado`
 
@@ -18,8 +20,8 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 
 | # | Capítulo | Parte | Etapa | Estado | Palabras | Objetivo | Recursos producidos | Casos | Afirmaciones abiertas |
 |---|---|---|---|---|---|---|---|---|---|
-| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.079** | 2.100 | — | — | 0 |
-| 1 | Cuando el propietario también es el sistema | I | L | **borrador** | **2.322** | 2.200 | Índice de Dependencia del Fundador | C-01 | 0 |
+| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.765** | 2.700 | — | — | 0 |
+| 1 | Cuando el propietario también es el sistema | I | L | **borrador** | **2.754** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
 | 2 | El conocimiento que nunca fue escrito | I | E | no iniciado | 0 | 2.000 | — | — | — |
 | 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | I | — | no iniciado | 0 | 1.800 | — | — | — |
 | 4 | El costo de una ausencia inesperada | I | — | no iniciado | 0 | 1.900 | — | — | — |
@@ -52,26 +54,29 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 
 | Parte | Caps. | Objetivo | Escrito | % del total |
 |---|---|---|---|---|
-| Introducción | 1 | 2.100 | 2.079 | — |
-| I | 5 | 9.900 | 2.322 | — |
+| Introducción | 1 | 2.700 | 2.765 | — |
+| I | 5 | 10.400 | 2.754 | — |
 | II | 5 | 11.000 | 0 | — |
 | III | 6 | 12.900 | 0 | 24,8 % previsto |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **52.200** | **4.401** | 8,4 % del objetivo |
+| **Total** | **27** | **53.300** | **5.519** | 10,4 % del objetivo |
 
-**Desviaciones.** La introducción quedó 21 palabras por debajo del objetivo y el
-capítulo 1, 122 por encima. Ambas están dentro de los rangos declarados en el índice
-maestro (introducción: 1.800-2.500; capítulos: 1.800-2.200 de media). No se corrige: la
-regla del proyecto es que la calidad y la ausencia de repetición tienen prioridad sobre
-la cifra.
+**Desviaciones.** Con los objetivos revisados por D-030, la introducción queda 65 palabras
+por encima y el capítulo 1, 54 por encima. Ambas dentro de tolerancia.
+
+**Advertencia para la Etapa 3.** Las dos piezas crecieron alrededor de un 20 % al ampliarse
+el público. Si ese crecimiento se repitiera en los veinticinco capítulos, el libro pasaría
+de 53.000 a más de 63.000 palabras, fuera del objetivo. Por eso D-030 fija una guarda: un
+ejemplo en paralelo no puede pasar de 120 palabras y un capítulo con las dos rutas no puede
+exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 
 ## 3. Balance por etapa del método
 
 | Etapa | Capítulos | Objetivo | Escrito |
 |---|---|---|---|
 | Contexto previo | 3, 4, 5 | 5.700 | 0 |
-| L | 1, 6 | 4.300 | 2.322 |
+| L | 1, 6 | 4.800 | 2.754 |
 | E | 2, 7, 8, 9 | 8.700 | 0 |
 | G | 10 | 2.200 | 0 |
 | A | 11–16 | 12.900 | 0 |
@@ -80,7 +85,10 @@ la cifra.
 
 ## 4. Resumen de cada capítulo
 
-**Introducción.** Parte de la realidad humana del fundador —lo que construyó y lo que
+**Introducción (revisada en la Etapa 2.2).** Presenta ahora los dos públicos en su tercer
+párrafo y en el apartado «Dos escalas del mismo problema», introduce y delimita la
+clonación del conocimiento, extiende la secuencia conceptual hasta el legado y añade el
+continuo del retiro. Parte de la realidad humana de quien está al frente —lo que construyó y lo que
 sostiene sin que nadie lo haya escrito— y llega a la pregunta operativa: qué se detiene si
 falta siete días. Nombra la dependencia del fundador, explica que es consecuencia del
 acierto y no del error, resuelve la cuestión de las cifras declarando por qué no habrá
@@ -88,12 +96,13 @@ estadísticas de supervivencia, enuncia la promesa y sus límites, presenta las 
 preguntas de comprobación y el Método LEGADO, y cierra con el encuadre de elección frente
 a obligación. No menciona inteligencia artificial hasta la mitad y solo para subordinarla.
 
-**Capítulo 1.** Distingue «tener una empresa» de «tener una organización»; da tres señales
+**Capítulo 1 (revisado en la Etapa 2.2).** Distingue «tener un negocio» de «tener un
+sistema»; da tres señales
 de reconocimiento —interrupciones, excepciones, cuellos de autorización— y descompone la
 dependencia en cuatro materias distintas: decisiones, autorizaciones, información y
 relaciones. Explica por qué nadie se lo ha dicho al lector. Delimita expresamente lo que el
 capítulo **no** dice: ni apartarse, ni delegar por confianza, ni necesitar tecnología.
-Entrega el Índice de Dependencia del Fundador y cuatro acciones para la semana en curso.
+Entrega el Índice de Dependencia de la Persona Clave y cuatro acciones para la semana en curso.
 
 ## 5. Procedimiento de actualización
 
@@ -116,3 +125,13 @@ promesa. Un capítulo que no pueda rellenar esta fila vuelve a revisión.
 |---|---|---|
 | Introducción | Nada todavía; establece el contrato: qué se va a sacar, con qué método, con qué límites y cómo se comprobará. Enuncia las cuatro preguntas de la prueba. | Sí |
 | Capítulo 1 | Convierte la sensación de dependencia en una medida fechada y en un perfil por dimensiones; produce además una lista escrita de las diez dependencias de mayor impacto y un registro de interrupciones. | Sí |
+
+## 7. Cobertura de las dos rutas
+
+Control exigido por D-031. Ningún capítulo puede tener todos sus ejemplos de una sola ruta
+cuando el mecanismo se manifieste de forma distinta en cada escala.
+
+| Pieza | Ruta A | Ruta B | ¿Equilibrada? |
+|---|---|---|---|
+| Introducción | Sí, ejemplo de la empresa que se detiene por una autorización. | Sí, ejemplo de la consultora independiente. | Sí |
+| Capítulo 1 | Caso C-01, Elena, distribución regional. | Caso C-02, Andrés, servicios profesionales. | Sí |

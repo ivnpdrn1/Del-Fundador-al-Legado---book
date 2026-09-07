@@ -90,7 +90,7 @@ delega primero en una máquina y luego en su equipo.
 | **E** | Extraer el conocimiento y el criterio. |
 | **G** | Gobernar decisiones, permisos y controles. |
 | **A** | Asistir la operación con tecnología supervisada. |
-| **D** | Delegar de forma progresiva y verificable. |
+| **D** | Delegar de forma progresiva y verificable, en personas, procedimientos o sistemas supervisados. |
 | **O** | Operar sin dependencia y sostener el legado. |
 
 ### 3.1 Cambios respecto de la versión provisional y su justificación
@@ -139,7 +139,7 @@ asuntos detenidos en su ausencia.
 Dependencia del Fundador. Conversación con dos o tres personas de confianza sobre qué
 harían sin él.
 
-**Herramientas.** Índice de Dependencia del Fundador. Cuestionario de preparación para el
+**Herramientas.** Índice de Dependencia de la Persona Clave. Cuestionario de preparación para el
 retiro.
 
 **Indicadores.** Valor inicial del índice. Número de decisiones exclusivas. Horas
@@ -295,9 +295,23 @@ detenerlo.
 
 ### D — Delegar de forma progresiva y verificable
 
-**Propósito.** Transferir responsabilidades reales a personas concretas, con límites
-escritos y con evidencia de resultado, en lugar de transferirlas de golpe o no
-transferirlas nunca.
+**Propósito.** Transferir responsabilidades reales, con límites escritos y con evidencia de
+resultado, en lugar de transferirlas de golpe o no transferirlas nunca.
+
+**Ampliación del 2026-09-07 (D-026): a quién o a qué se delega.** La formulación original
+suponía personas concretas. Sigue siendo el caso principal en una empresa con estructura,
+pero no en un negocio de una sola persona, donde contratar puede no ser deseado ni
+necesario. Los destinatarios legítimos de la transferencia son tres:
+
+1. **Personas.** Equipo, socios, colaboradores externos, un sucesor, un comprador.
+2. **Procedimientos.** Lo que antes exigía criterio pasa a estar escrito y cualquiera
+   —incluido usted dentro de dos años— puede seguirlo.
+3. **Sistemas supervisados.** Automatizaciones y herramientas dentro de límites escritos,
+   con registro y con un procedimiento de detención.
+
+Las tres exigen lo mismo: límite escrito, evidencia del resultado y una persona con nombre
+que responda. **Delegar en un sistema no traslada la responsabilidad al sistema.** Un
+capítulo que presente la contratación como el único camino incumple esta ampliación.
 
 **Diagnóstico.** ¿Qué decisiones podrían pasar hoy a otra persona sin riesgo? ¿Quién está
 preparado, quién puede estarlo y quién no lo estará?
@@ -360,7 +374,7 @@ copias de seguridad. Revisión periódica de permisos.
 **Herramientas.** Modelo de informe diario. Modelo de informe semanal. Evaluación anual
 de continuidad.
 
-**Indicadores.** Índice de Dependencia del Fundador comparado con el valor inicial. Horas
+**Indicadores.** Índice de Dependencia de la Persona Clave comparado con el valor inicial. Horas
 semanales del fundador en operación. Número de intervenciones fuera de los canales
 previstos. Resultado de la evaluación anual.
 

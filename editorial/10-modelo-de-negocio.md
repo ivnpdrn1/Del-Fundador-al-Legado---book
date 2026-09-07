@@ -109,7 +109,7 @@ argumento comercial posible: el negocio practica lo que el libro predica.
 
 ## 4. El producto de entrada
 
-**El Índice de Dependencia del Fundador es la pieza clave del modelo.**
+**El Índice de Dependencia de la Persona Clave es la pieza clave del modelo.**
 
 Razones: convierte una sensación difusa en un número; se puede autoaplicar en una hora;
 produce inquietud útil sin alarmismo; y genera de forma natural la pregunta siguiente,

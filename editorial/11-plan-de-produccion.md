@@ -17,7 +17,7 @@ disponibilidad de tiempo.
 | Etapa | Contenido | Entregable | Estado |
 |---|---|---|---|
 | 1 | Fundamentos editoriales, método, índice, estilo, investigación, controles. | Este conjunto de documentos. | **Completada** |
-| 2 | Muestra editorial: introducción, capítulo 1 y primera versión del Índice de Dependencia del Fundador. | Tres archivos y una evaluación crítica de la muestra. | **Completada el 2026-09-06** |
+| 2 | Muestra editorial: introducción, capítulo 1 y primera versión del Índice de Dependencia de la Persona Clave. | Tres archivos y una evaluación crítica de la muestra. | **Completada el 2026-09-06** |
 | 3 | Producción por bloques de los capítulos 2 a 25 y la conclusión. | Manuscrito por capítulos. | Pendiente de autorización |
 | 4 | Revisión integral: coherencia, repeticiones, privacidad, fuentes, vocabulario, tono. | Manuscrito consolidado y lista de problemas pendientes. | No autorizada |
 | 5 | Entrega editorial. | Manuscrito, sinopsis, contraportada, índice de recursos, lista de fuentes y verificaciones pendientes. | No autorizada |
@@ -28,7 +28,7 @@ Objetivo: comprobar tono, profundidad y utilidad antes de comprometer cincuenta 
 palabras.
 
 **Resultado.** Los seis puntos del alcance se ejecutaron. La introducción quedó en 2.032
-palabras, el capítulo 1 en 2.309 y el Índice de Dependencia del Fundador en 1.706, con
+palabras, el capítulo 1 en 2.309 y el Índice de Dependencia de la Persona Clave en 1.706, con
 veinticuatro preguntas en ocho dimensiones. La autoevaluación se amplió de las diecisiete
 preguntas de la guía de estilo a trece revisiones completas, de la A a la M, recogidas en
 `revision/control-de-calidad-etapa-2.md`. Se añadió, no previsto en este plan, la
@@ -48,7 +48,7 @@ Criterio de aceptación de la muestra, a juicio del autor:
 
 - El fundador se reconoce en la apertura y no se siente juzgado.
 - El capítulo entrega algo aplicable esta semana.
-- El Índice de Dependencia del Fundador puede completarse en menos de una hora sin ayuda.
+- El Índice de Dependencia de la Persona Clave puede completarse en menos de una hora sin ayuda.
 - El tono es el descrito en la guía de estilo.
 - No hay ninguna afirmación factual sin fuente.
 

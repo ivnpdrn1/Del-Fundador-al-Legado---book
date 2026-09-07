@@ -36,10 +36,15 @@ aquí destruye la credibilidad más que un error de fondo.
 | Constante | Valor fijado | Dónde aparece | Comprobado en |
 |---|---|---|---|
 | Etapas del Método LEGADO | 6 | Intro, todas las partes | Intro ✓ |
+| **Rutas del método** | **2: A (empresa con estructura) y B (profesional independiente)** | Intro, todas las partes | Intro ✓, cap. 1 ✓ |
+| **Destinatarios de la delegación (etapa D)** | **3: personas, procedimientos, sistemas supervisados** | Intro, 18 | Intro ✓, cap. 1 ✓ |
+| **Capas de la clonación del conocimiento** | **8: A conocimiento, B criterio, C procedimiento, D decisión, E automatización, F asistencia, G autonomía delegada, H supervisión** | 2, 9, 11-16 | — |
+| **Puntos del continuo del retiro** | **8, del cien por cien operativo a la sucesión** | Intro, 5, 22 | Intro ✓ |
+| **Pasos de la secuencia conceptual** | **12: personas, criterio, procesos, información, controles, tecnología, asistente, IA con contexto, autonomía supervisada, continuidad, libertad de elección, legado** | Intro | Intro ✓ |
 | Formulación de las seis etapas | La del apartado 3 de `07-metodo-legado.md` (D-004) | Intro, todas las partes | Intro ✓ |
 | Niveles de madurez y autonomía | 7, del 0 al 6 | 8, 11-16, 19 | — |
 | Techo de autonomía del libro | Nivel 6. No existe nivel 7. | 12, 15 | — |
-| Herramientas prometidas | 18 | Intro, cap. 1, anexo | Intro ✓, herramienta 1 ✓ |
+| Herramientas prometidas | 18 | Intro, cap. 1, anexo | Intro ✓, herramienta 1 ✓. **En revisión:** la herramienta 8 podría desdoblarse; ver `03-indice-maestro.md` §5.3. |
 | Duración de las pruebas de ausencia | 24 horas y 7 días | 4, 24 | — |
 | Duración del plan de transición | 100 días | 23 | — |
 | Horizonte realista de la transición completa | 18 a 36 meses desde el nivel 0 | Intro, 5, 23 | Intro ✓ |
@@ -68,7 +73,7 @@ para comprobar que no cambian de sentido a lo largo del libro.
 | Empresa familiar | Intro | — | Sí |
 | Tecnología supervisada | Intro | 1 | Sí |
 | Organización | 1 | — | Sí |
-| Índice de Dependencia del Fundador | 1 | Herramienta 1 | Sí |
+| Índice de Dependencia de la Persona Clave | 1 | Herramienta 1 | Sí |
 | Criterio | Intro (uso), 2 (definición formal) | 1, herramienta 1 | Sí, con la salvedad del párrafo siguiente |
 | Delegar | 18 (definición formal) | Intro, 1 | Sí. En el cap. 1 se usa con el sentido fijo y se contrapone expresamente a "soltar". |
 | Supervisar | 20 (definición formal) | Intro, herramienta 1 | Sí |
@@ -90,6 +95,14 @@ Términos de vigilancia prioritaria, por su propensión a deslizarse:
 - **Criterio.** No debe usarse como sinónimo de procedimiento.
 - **Observar.** Reservado a la conducta del sistema en el nivel 2. Con D-004 aprobada,
   "Observar" ha desaparecido del nombre de la etapa O y la reserva queda consolidada.
+- **Clonar / clonación.** Solo en la acepción de `13-clonacion-del-conocimiento.md`. Nunca
+  aplicado a una persona, a su identidad, a su responsabilidad ni a su firma.
+- **Persona clave.** Categoría conceptual. En la prosa se usa el término concreto del
+  pasaje. Se cuenta su frecuencia en la Etapa 4: una aparición por capítulo como máximo,
+  salvo en los pasajes que traten expresamente los dos escenarios.
+- **Empresa / negocio.** «Negocio» es el término general. «Empresa» solo cuando el pasaje
+  trate de una organización con estructura.
+- **Valor / transferibilidad.** No son sinónimos y no pueden intercambiarse (D-032).
 
 ## 4. Continuidad de casos y personajes
 

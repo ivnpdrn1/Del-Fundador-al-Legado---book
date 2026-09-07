@@ -70,6 +70,25 @@ con solidez sin resolverla.
 | Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | Sin iniciar |
 | Q-12 | ¿Qué límites y obligaciones plantea la prestación de servicios tecnológicos a terceros? | Modelo de negocio | Baja para el libro, alta para el negocio | Sin iniciar |
 
+### Preguntas añadidas en la Etapa 2.2 (2026-09-07)
+
+Derivadas de la ampliación del público (D-021) y del concepto de clonación del conocimiento
+(D-023). **Ninguna se ha investigado todavía.** Mientras no se resuelvan, el libro trata
+estos asuntos por razonamiento y mecanismo, nunca con cifras ni con afirmaciones de
+frecuencia (regla V-41).
+
+| ID | Pregunta | Cap. | Prioridad | Estado |
+|---|---|---|---|---|
+| Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | Sin iniciar |
+| Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
+| Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
+| Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | Sin iniciar |
+| Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | Sin iniciar. Parcialmente cubierta por F-007 y F-010. |
+| Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | Sin iniciar. Se fusiona en la práctica con Q-05. |
+| Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | 9, 16 | Media | Sin iniciar. Origen: `13-clonacion-del-conocimiento.md` §6.3. |
+| Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | Sin iniciar. **Muy dependiente de jurisdicción**; probablemente se resuelva remitiendo a la norma local y no citando ninguna. |
+| Q-21 | ¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el precio de venta de un negocio pequeño? | 21, 25 | Media | Sin iniciar. **Mientras no se resuelva rige D-032:** el libro habla de transferibilidad y continuidad, no de valor. |
+
 ## 4. Categorías de fuentes candidatas
 
 **Ninguna de estas fuentes ha sido consultada.** Se enumeran como categorías y como
@@ -120,4 +139,10 @@ Etapa 2. La previsión de que pudieran no aparecer fuentes sólidas se cumplió 
 se aplicó la regla prevista: **Q-02 se cerró sin cifra**. El argumento del libro no
 dependía de ella y no la echa de menos.
 
-**Siguiente ejecución:** Q-06 y Q-05, antes del bloque B1 de la Etapa 3.
+**Siguiente ejecución:** Q-06 y Q-13 —que son la misma pregunta a dos escalas y conviene
+investigar juntas—, más Q-05 y Q-18, antes del bloque B1 de la Etapa 3.
+
+**Advertencia sobre el público nuevo.** No existe todavía ninguna fuente verificada sobre
+profesionales independientes en este repositorio. Hasta que la haya, está prohibido escribir
+«la mayoría de los freelancers», «casi todos los consultores» o cualquier equivalente. La
+regla V-41 se aplica con el mismo rigor a los dos públicos.

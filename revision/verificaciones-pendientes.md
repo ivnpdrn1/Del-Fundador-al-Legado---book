@@ -3,7 +3,7 @@
 Todo lo que queda por comprobar antes de considerar el libro entregable. Se mantiene
 desde la Etapa 1 hasta la Etapa 5 y se entrega al autor como parte de la entrega final.
 
-**Actualizado: 2026-09-07, tras la revisión intermedia 2.1.**
+**Actualizado: 2026-09-07, tras la revisión conceptual 2.2.**
 
 ---
 
@@ -20,18 +20,25 @@ Bloquean o condicionan el avance.
 | V-05 | D-005 / P-2 a P-5, ajustes de contenido en capítulos concretos. | Bloques B1, B6 y B7. | **Abierta.** Conviene decidir al autorizar la Etapa 3. P-2 afecta al bloque más próximo. |
 | V-06 | A-06, mercados y jurisdicciones de publicación previstos. | Redacción de advertencias legales y ámbito de los datos. | **CERRADA 2026-09-06.** Resuelta por el autor. Desarrollada en `editorial/12-alcance-jurisdiccional.md` (D-014). |
 | V-07 | D-001, título definitivo. | Portada y registro comercial. | **Aprobado como título oficial de trabajo.** La confirmación definitiva depende de A-01. |
-| V-08 | **Nuevo.** Redacción definitiva de las cinco preguntas ambiguas del Índice: 21, 5, 3, 20 y 7. | El uso del Índice en una lectura de prueba (V-51) y su versión final. | **Abierta.** Alternativas redactadas en `control-de-calidad-etapa-2.md`, revisión 2.1, apartado 5. Prioridad: la 21 y la 5. |
-| V-09 | **Nuevo.** Rótulos de la escala 0-3: encajan peor en las preguntas de estado (17, 23, 20). | Nada. Mejora opcional. | **Abierta.** Corrección mínima propuesta: columna de rótulos neutros, sin alterar los valores. |
+| V-08 | Redacción definitiva de las cinco preguntas ambiguas del Índice: 21, 5, 3, 20 y 7. | — | **CERRADA 2026-09-07.** Autorizada e implementada en la Etapa 2.2, revisando antes cada alternativa a la luz del público ampliado. D-029. |
+| V-09 | Rótulos de la escala 0-3: encajaban peor en las preguntas de estado. | — | **CERRADA 2026-09-07.** Adoptados rótulos neutros por frecuencia de casos, con segunda columna que conserva la lectura por actor. Valores, recorrido y rangos sin cambios. D-028. |
+| V-10b | **Nuevo.** Confirmación de la promesa ampliada (D-025). | Es el control central de coherencia del manuscrito. | **Abierta — requiere confirmación del autor.** Ya aplicada en la introducción. |
+| V-17 | **Nuevo.** Subtítulo definitivo (A-12). | Portada y contraportada. | **Abierta — requiere decisión.** Cuatro alternativas en `00-concepto-editorial.md` §6 bis. |
+| V-18 | **Nuevo.** Herramienta 8, matriz de autoridad: opción para la ruta B (A-10). | Redacción del capítulo 10 y de la herramienta. | **Abierta — requiere decisión.** Tres opciones en `03-indice-maestro.md` §5.3. |
+| V-19 | **Nuevo.** Seis títulos de capítulo y dos títulos de parte propuestos para revisión. | Nada de forma inmediata; conviene decidir antes de escribirlos. | **Abierta — requiere decisión.** Listados en `03-indice-maestro.md` §5.1 y §5.2. |
+| V-20b | **Nuevo.** Límite de uso de la imagen de la cabeza: elevarlo a ocho o buscar formulaciones alternativas. | Redacción desde el capítulo 2. | **Abierta — requiere decisión.** Ver `control-de-repeticiones.md` §3. |
+| V-21b | **Nuevo.** Lista de sectores admitidos para casos de la ruta B (A-11). | Casos de la Etapa 3. | **Abierta — requiere decisión.** |
 
 ## 2. Verificaciones de investigación
 
 | ID | Verificación | Etapa límite | Estado |
 |---|---|---|---|
 | V-10 | Resolver Q-01 a Q-04 o decidir escribir la introducción sin cifras. | Antes de la Etapa 2 | **EJECUTADA 2026-09-06.** Las cuatro resueltas. Doce fuentes verificadas, cuatro descartadas. Q-02 cerrada sin cifra. |
-| V-11 | Resolver Q-05 a Q-12, por bloques, antes de cada bloque de capítulos. | Durante la Etapa 3 | Sin iniciar. **Siguiente: Q-06 (conocimiento tácito) y Q-05 (protección de datos), antes del bloque B1.** |
+| V-11 | Resolver Q-05 a Q-21, por bloques, antes de cada bloque de capítulos. | Durante la Etapa 3 | Sin iniciar. **Nueve preguntas nuevas añadidas en la Etapa 2.2 (Q-13 a Q-21).** Siguiente: Q-06 y Q-13 juntas, más Q-05 y Q-18, antes del bloque B1. |
 | V-12 | Cerrar toda entrada abierta de `afirmaciones-por-verificar.md`. | Etapa 4 | Sin entradas abiertas a fecha de hoy. Se reabre con cada capítulo nuevo. |
 | V-13 | Recomprobar vigencia de toda fuente con más de doce meses desde su consulta. | Etapa 5 | Sin iniciar. Las doce fuentes actuales se consultaron el 2026-09-06. |
 | V-14 | A-01, disponibilidad del título y ausencia de conflicto de marca. | Antes de la Etapa 5 | **Abierta y ahora ejecutable**: con D-014 los mercados están definidos. Conviene adelantarla. |
+| V-14b | **A-09: disponibilidad de *Clonación del Conocimiento* y *Knowledge Cloning***: libros, marcas, dominios y colisión con terminología de aprendizaje automático. | **Antes de la Etapa 3** | **Abierta. Prioridad alta.** Es el título de trabajo vigente; conviene comprobarlo antes de escribir veinticuatro capítulos alrededor de él. |
 | V-15 | A-07, localizar estadística oficial de empresas familiares en América Latina. | Etapa 4 | Abierta. Prioridad baja: el argumento no depende de la cifra y el vacío está declarado en el texto. |
 | V-16 | A-08, advertir al citar ISO 22301 e ISO 31000 de que son normas de pago. | Capítulos 4 y 16 | Abierta. |
 
@@ -72,7 +79,7 @@ No pueden resolverse desde el repositorio. Se recomiendan al autor.
 | ID | Verificación | Quién | Cuándo |
 |---|---|---|---|
 | V-50 | Revisión legal de los avisos de alcance y de las afirmaciones sobre autoridad, contratos y datos personales. | Profesional de la jurisdicción de publicación | Antes de la Etapa 5 |
-| V-51 | Lectura de prueba por dos o tres personas del perfil del lector principal. | Fundadores o propietarias de pyme familiar | **AHORA.** La muestra editorial está lista y es el momento de máximo valor. |
+| V-51 | Lectura de prueba por personas de **los dos perfiles**. | Al menos un fundador o propietaria de pyme con equipo **y al menos un profesional independiente** | **AHORA, y ahora es más importante.** La ampliación del público solo puede validarse con lectores de ambos tipos. Preguntar expresamente a cada uno si se sintió el destinatario del texto o un añadido. |
 | V-52 | Revisión técnica de los capítulos 11 a 16. | Profesional de seguridad de la información | Etapa 4 |
 | V-53 | Corrección de estilo y ortotipográfica en español internacional. | Corrector profesional | Etapa 5 |
 | V-54 | Revisión de las herramientas por un profesional de control interno o auditoría. | Contador o auditor | Etapa 4. El Índice de Dependencia ya puede revisarse. |

@@ -12,9 +12,34 @@
 
 **Etapa 2 — Muestra editorial: COMPLETADA.**
 **Revisión intermedia 2.1: COMPLETADA el 2026-09-07.**
+**Revisión conceptual extraordinaria 2.2: COMPLETADA el 2026-09-07.**
 
 El proyecto está **detenido** a la espera de autorización expresa del autor para comenzar
 la Etapa 3 — Producción. El capítulo 2 no se ha escrito, por instrucción expresa.
+
+### Revisión conceptual extraordinaria 2.2 (2026-09-07)
+
+**El cambio de alcance más importante del proyecto hasta la fecha.** El libro pasa de un
+público a dos: el propietario de una empresa con estructura (sin cambios) y el profesional
+independiente o negocio de una sola persona. Se ejecutó con solo tres piezas escritas para
+que el resto del manuscrito no naciera con un mercado innecesariamente estrecho.
+
+| Concepto | Valor |
+|---|---|
+| Problema central | Reformulado (D-022): de «que una empresa deje de depender de su fundador» a «que un negocio deje de depender obligatoriamente del conocimiento, el criterio y la presencia de la persona que concentra su mayor valor». |
+| Concepto central nuevo | **Clonación del conocimiento**, con definición propia del autor, ocho capas diferenciadas y ocho límites expresos (D-023). |
+| Título de trabajo | **CLONACIÓN DEL CONOCIMIENTO** (D-024). *Del Fundador al Legado* se conserva como nombre del repositorio y del proyecto. **El subtítulo requiere decisión: ver A-12.** |
+| Método LEGADO | Sobrevive con **un solo cambio**: la etapa D admite personas, procedimientos o sistemas supervisados (D-026). |
+| Arquitectura de 25 capítulos | **Resiste.** 19 elementos sin cambios de fondo, 8 con ampliación interna, 6 títulos propuestos para revisión, ninguno sobra y no hace falta añadir ninguno. |
+| Herramientas | 16 de 18 funcionan en ambas rutas. 1 con ajuste menor. **1 requiere decisión** (matriz de autoridad, A-10). |
+| Índice de Dependencia | Renombrado, 11 preguntas reformuladas, escala de rótulos neutros, clave de lectura para quien trabaja solo, limitación 9 nueva. **Sin tocar número de preguntas, dimensiones, escala, fórmula ni rangos.** Versión 2.0. |
+| V-08 y V-09 | **Cerradas**, revisando antes cada alternativa a la luz del público ampliado. |
+| Preguntas de investigación nuevas | 9 (Q-13 a Q-21). Ninguna investigada. |
+| Casos ficticios | 2. Añadido C-02, ruta B, registrado antes de escribirse. |
+| Cifras o afirmaciones de frecuencia nuevas | **0.** Se declara al lector el vacío de evidencia sobre el público nuevo. |
+
+**Decisiones pendientes que esta revisión genera:** A-09 a A-12, y las verificaciones V-10b
+y V-17 a V-21b. Detalle en `revision/verificaciones-pendientes.md`.
 
 ### Revisión intermedia 2.1 (2026-09-07)
 
@@ -56,13 +81,14 @@ las ocho dimensiones, la escala 0-3 ni la estructura general.
 | 9 | Registro previo del caso ficticio C-01 | Hecho | `revision/control-de-casos.md` |
 | 10 | Redacción de la introducción | Hecho | `capitulos/00-introduccion.md` |
 | 11 | Redacción del capítulo 1 | Hecho | `capitulos/parte-01/01-...md` |
-| 12 | Desarrollo del Índice de Dependencia del Fundador | Hecho | `recursos/indice-dependencia-fundador.md` |
+| 12 | Desarrollo del Índice de Dependencia de la Persona Clave | Hecho | `recursos/indice-dependencia-fundador.md` |
 | 13 | Control de calidad de trece revisiones (A a M) | Hecho | `revision/control-de-calidad-etapa-2.md` |
 | 14 | Actualización de todos los archivos de control | Hecho | `revision/`, `editorial/`, `investigacion/` |
 | 15 | Revisión de privacidad previa a la publicación | Hecho | Apartado 9 |
 | 16 | Commits y publicación en `origin/main` | Hecho | Apartado 12 |
 | 17 | Detención a la espera de autorización de la Etapa 3 | **En vigor** | — |
 | 18 | **Revisión intermedia 2.1**, encargada por el autor | Hecho | `revision/control-de-calidad-etapa-2.md` |
+| 19 | **Revisión conceptual extraordinaria 2.2**: ampliación del público y del problema central | Hecho | `revision/control-de-calidad-etapa-2.md`; `editorial/13-` y `14-` |
 
 ## 3. Trabajo en progreso
 
@@ -101,14 +127,14 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Concepto | Valor |
 |---|---|
 | Capítulos terminados | **1 de 25** (en borrador) |
-| Introducción | **Escrita**, 2.079 palabras |
-| Capítulo 1 | **Escrito**, 2.322 palabras |
+| Introducción | **Escrita**, 2.765 palabras |
+| Capítulo 1 | **Escrito**, 2.754 palabras |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **4.401** |
-| Objetivo del manuscrito | 45.000 – 60.000 |
-| Avance sobre el objetivo | 8,4 % |
-| Recursos terminados | **1 de 18**, versión 1.1 (2.018 palabras, no computan en el manuscrito) |
-| Documentación del proyecto | 33 archivos |
+| Palabras del manuscrito | **5.519** |
+| Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
+| Avance sobre el objetivo | 10,4 % |
+| Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
+| Documentación del proyecto | 35 archivos |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -123,7 +149,9 @@ por separado para que no haya confusión sobre el avance real.
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **4 de 12** (Q-01 a Q-04) |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
-| Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04) |
+| Asuntos abiertos del proyecto | **9** (A-01, A-02, A-07, A-08, A-09, A-10, A-11, A-12 y el seguimiento de A-04) |
+| Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
+| Fuentes verificadas sobre el público nuevo | **0.** Vacío declarado al lector en la introducción. |
 
 **Resultado más importante de la investigación:** no se logró leer la fuente primaria de
 las cifras de supervivencia entre generaciones de empresas familiares. Se aplicó la regla
@@ -142,7 +170,11 @@ comprobarlo** (D-016).
 | Que el lector interprete la coincidencia con marcos internacionales como cumplimiento normativo. | **Media, nuevo** | D-020: la coincidencia puede señalarse; el cumplimiento, nunca afirmarse. |
 | Que el modelo de negocio contamine el contenido del libro. | Media | D-010 vigente. La primera herramienta se publica completa. |
 | Que el contenido tecnológico caduque. | Media | Escritura por función, no por producto. Cero menciones de marca. |
-| Que el libro no haya sido leído nunca por su lector real. | **Alta** | **No controlado.** Ver V-51. Es la recomendación principal antes de la Etapa 3. |
+| Que el libro no haya sido leído nunca por su lector real. | **Alta** | **No controlado.** Ver V-51, que ahora exige lectores de **los dos perfiles**. Es la recomendación principal antes de la Etapa 3. |
+| Que servir a dos públicos haga perder foco al libro. | **Media, nuevo** | Arquitectura integrada (D-031), el principio se enuncia una sola vez y está prohibido reexplicar la doble escala en cada capítulo. |
+| Que el título *Clonación del Conocimiento* asuste al lector A por evocar la réplica de personas. | **Media-alta, nuevo** | Evaluado en `00-concepto-editorial.md` §6 bis. El libro lo desactiva en la introducción; la portada no tiene esa oportunidad. Se somete a V-51 y a A-09. |
+| Que se escriba sobre profesionales independientes sin evidencia. | **Media, nuevo** | Nueve preguntas de investigación nuevas. Regla V-41 aplicada a los dos públicos por igual. |
+| Que la ampliación infle la extensión del libro. | **Media, nuevo** | Las dos piezas crecieron un 20 %. Guarda de D-030: ejemplos en paralelo de 120 palabras como máximo y 15 % de tolerancia por capítulo. |
 | Que una afirmación de frecuencia sin cifra se lea como un hecho comprobado. | **Media, nuevo** | Detectado por el autor en la revisión 2.1. Once enunciados corregidos. Barrido automático incorporado a la revisión G de cada bloque. |
 | Que el Índice puntúe como dependencia lo que es prudencia de gestión. | **Media, nuevo** | Corregida la pregunta 16; añadida la limitación 8; cinco preguntas más señaladas y pendientes de decisión del autor. |
 
@@ -218,10 +250,15 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Decidir sobre las cinco preguntas ambiguas del Índice** (21, 5, 3, 20 y 7). Las
-   alternativas están redactadas en `revision/control-de-calidad-etapa-2.md`, apartado 5 de
-   la revisión 2.1. Conviene cerrarlo antes de que la herramienta se use en una lectura de
-   prueba.
+1. **Comprobar A-09: disponibilidad de *Clonación del Conocimiento*** como título, marca y
+   dominio, y su posible colisión con terminología de aprendizaje automático. Es ahora el
+   título de trabajo y conviene saberlo antes de escribir veinticuatro capítulos alrededor
+   de él.
+2. **Decidir el subtítulo (A-12).** El propuesto sitúa la inteligencia artificial en el
+   lugar del destino, lo que invierte la secuencia que gobierna el libro. Hay cuatro
+   alternativas redactadas.
+3. **Confirmar la promesa ampliada (D-025, V-10b).** Ya está aplicada; requiere su
+   confirmación por ser el control central de coherencia.
 2. **Entregarla a dos o tres propietarios de empresa familiar** del perfil del lector
    principal (V-51). Es la verificación de mayor valor y la más barata en este momento:
    corregir el tono ahora cuesta poco; corregirlo con veinticinco capítulos escritos,
