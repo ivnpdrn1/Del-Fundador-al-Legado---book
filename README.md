@@ -9,13 +9,17 @@ los archivos de control del proyecto. No es una página comercial ni material pr
 
 ## Identidad del proyecto
 
-**Título de trabajo:** CLONACIÓN DEL CONOCIMIENTO — adoptado el 2026-09-07 (D-024).
+**Título de trabajo:** CLONACIÓN DEL ADN EMPRESARIAL — candidato principal desde el
+2026-09-07 (D-047). *Clonación del Conocimiento* queda como título de respaldo.
 **Subtítulo:** Cómo convertir su experiencia y su criterio en un negocio que funcione sin
 depender de usted — adoptado el 2026-09-07 (D-034).
 
-**Tres activos distintos (D-035):** el título del libro, el nombre de la metodología
+**Cuatro activos distintos (D-035, D-046):** el título del libro, el concepto y proceso
+—**Clonación del ADN Empresarial**, en inglés *Business DNA Cloning*—, la metodología
 —**MÉTODO LEGADO**, que no se renombra— y la futura marca comercial de servicios se deciden
 por separado. Ver `editorial/15-titulo-metodo-y-marca.md`.
+
+**Business DNA Cloning es qué hacemos. Método LEGADO es cómo lo hacemos.**
 
 *Del Fundador al Legado* (D-001) se conserva como **nombre del repositorio, nombre interno
 del proyecto y formulación del escenario empresarial**. El repositorio no se renombra.
@@ -117,16 +121,16 @@ El libro describe además una escala de siete niveles de autonomía, del 0 al 6.
 ## Estado actual
 
 **Etapa 2 — Muestra editorial: completada.** Fecha: 2026-09-06.
-**Revisiones 2.1, 2.2 y 2.3: completadas.** Fecha: 2026-09-07. La 2.2 amplió el público del
-libro y adoptó la clonación del conocimiento como concepto central; la 2.3 cerró las
-decisiones estratégicas: título, subtítulo, promesa, herramienta 8 y títulos de capítulo.
+**Revisiones 2.1 a 2.4: completadas.** Fecha: 2026-09-07. La 2.2 amplió el público del
+libro; la 2.3 cerró las decisiones estratégicas; la 2.4 adoptó el **ADN Empresarial** como
+concepto paraguas, definió el Gemelo de IA y el Legado Inteligente, y reabrió el título.
 
 - Fundamentos editoriales, método, índice comentado, guía de estilo y archivos de control:
   vigentes, con las decisiones D-001 a D-005 aprobadas.
-- Manuscrito: **5.519 palabras**. Introducción y capítulo 1 en borrador, ampliados a los
+- Manuscrito: **5.591 palabras**. Introducción y capítulo 1 en borrador, ampliados a los
   dos públicos.
 - Recursos: **1 de 18** redactado, el Índice de Dependencia de la Persona Clave.
-- Investigación: **14 fuentes verificadas** y 4 descartadas con motivo. Q-01 a Q-04
+- Investigación: **15 fuentes verificadas** y 4 descartadas con motivo. Q-01 a Q-04
   resueltas.
 - Ninguna cifra sin fuente. Cero marcas `[POR VERIFICAR]`.
 - El proyecto está detenido a la espera de autorización expresa para comenzar la Etapa 3.
@@ -158,7 +162,7 @@ Del-Fundador-al-Legado---book/
 │   ├── 10-modelo-de-negocio.md
 │   ├── 11-plan-de-produccion.md
 │   ├── 12-alcance-jurisdiccional.md  Mercados, jurisdicciones y advertencias
-│   ├── 13-clonacion-del-conocimiento.md  Concepto central y sus límites
+│   ├── 13-adn-empresarial.md      ADN Empresarial, su clonación y sus límites
 │   ├── 14-publico-y-rutas.md      Los dos lectores y las dos rutas del método
 │   ├── 15-titulo-metodo-y-marca.md   Título, método y marca como activos separados
 │   ├── glosario.md

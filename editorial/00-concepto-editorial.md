@@ -26,7 +26,7 @@ El libro enseña un método para transferir esa dependencia —de forma gradual 
 a una combinación de personas, procesos, sistemas, datos confiables, controles,
 indicadores, documentación e inteligencia artificial supervisada. A ese trabajo el libro lo
 llama **clonación del conocimiento**, con la definición y los límites estrictos de
-`13-clonacion-del-conocimiento.md`.
+`13-adn-empresarial.md`.
 
 ## 2. Qué no es
 

@@ -14,9 +14,35 @@
 **Revisión intermedia 2.1: COMPLETADA el 2026-09-07.**
 **Revisión conceptual extraordinaria 2.2: COMPLETADA el 2026-09-07.**
 **Revisión de decisiones 2.3: COMPLETADA el 2026-09-07.**
+**Refinamiento conceptual 2.4: COMPLETADO el 2026-09-07.**
 
 El proyecto está **detenido** a la espera de autorización expresa del autor para comenzar
 la Etapa 3 — Producción. El capítulo 2 no se ha escrito, por instrucción expresa.
+
+### Refinamiento conceptual 2.4 (2026-09-07)
+
+Adopción del **ADN Empresarial** como concepto paraguas, en sustitución de la clonación del
+conocimiento. **No es una etapa de escritura:** el único cambio en el manuscrito fue un
+pasaje de la introducción.
+
+| Concepto | Resultado |
+|---|---|
+| **El activo** | **ADN Empresarial**: conocimiento, experiencia, criterio, patrones de decisión, procesos, excepciones, relaciones, cultura y principios, memoria histórica y estilo de supervisión. Diez componentes, cada uno con su dificultad de transferencia. |
+| **El proceso** | **Clonación del ADN Empresarial** / *Business DNA Cloning*: identificar, capturar, estructurar, preservar y transferir ese activo, bajo niveles definidos de supervisión. |
+| **«Clonación del conocimiento»** | **No se elimina.** Deja de ser el paraguas y pasa a designar la parte del proceso que trata el conocimiento propiamente dicho (D-043). D-023 queda **reemplazada**, no borrada. |
+| **La metodología** | **MÉTODO LEGADO, sin cambios.** Comprobado que no hay contradicción: *Business DNA Cloning es qué hacemos; Método LEGADO es cómo lo hacemos* (D-046). |
+| **Arquitectura** | Siete escalones (D-044). Los cuatro primeros producen valor **sin ninguna tecnología**, y el Gemelo de IA **no es el final necesario**. |
+| **Gemelo de IA** | Definido conceptualmente (D-045): no es réplica de nadie, no tiene identidad propia, **no es obligatorio** y no aparece antes del capítulo 15. Exige persona en el circuito o sobre el circuito según el riesgo. |
+| **Legado Inteligente** | Definido (D-045). **No es inmortalidad digital, ni conciencia artificial, ni sustitución.** |
+| **Título** | Candidato principal: **CLONACIÓN DEL ADN EMPRESARIAL** (D-047). *Clonación del Conocimiento* pasa a respaldo. **Dos riesgos suben** y quedan registrados: doble metáfora biológica y menor distintividad. |
+| **Subtítulo** | **Sin cambios** (D-048). Es la pieza que contrapesa el título y la que salva la palabra «empresarial», porque dice «un negocio». |
+| **Cuatro activos** | El concepto se separa del título (D-046): título, concepto, metodología y marca comercial se deciden por separado. |
+| **Disponibilidad** | BUSINESS DNA (serie 85947961, clase 035): **muerta desde 2014**, verificado en el USPTO. Pero «Business DNA» **está en uso comercial por terceros** y el espacio del ADN organizativo está poblado. Un espacio poblado es bueno para la comprensión y malo para la distintividad. |
+
+**Fuente verificada nueva:** F-015 (expediente USPTO de BUSINESS DNA). Total: 15.
+
+**Cambio en el manuscrito:** uno. El pasaje de la introducción que definía el concepto
+central. Ningún otro texto se reescribió.
 
 ### Revisión de decisiones 2.3 (2026-09-07)
 
@@ -111,6 +137,7 @@ las ocho dimensiones, la escala 0-3 ni la estructura general.
 | 18 | **Revisión intermedia 2.1**, encargada por el autor | Hecho | `revision/control-de-calidad-etapa-2.md` |
 | 19 | **Revisión conceptual extraordinaria 2.2**: ampliación del público y del problema central | Hecho | `revision/control-de-calidad-etapa-2.md`; `editorial/13-` y `14-` |
 | 20 | **Revisión de decisiones 2.3**: título, subtítulo, promesa, herramienta 8, títulos de capítulo y casos de ruta B | Hecho | `editorial/15-titulo-metodo-y-marca.md` |
+| 21 | **Refinamiento conceptual 2.4**: ADN Empresarial, Gemelo de IA, Legado Inteligente y reevaluación del título | Hecho | `editorial/13-adn-empresarial.md` |
 
 ## 3. Trabajo en progreso
 
@@ -149,14 +176,15 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Concepto | Valor |
 |---|---|
 | Capítulos terminados | **1 de 25** (en borrador) |
-| Introducción | **Escrita**, 2.765 palabras |
-| Capítulo 1 | **Escrito**, 2.754 palabras |
+| Introducción | **Escrita**, 2.838 palabras |
+| Capítulo 1 | **Escrito**, 2.753 palabras |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **5.519** |
+| Palabras del manuscrito | **5.591** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 10,4 % |
+| Avance sobre el objetivo | 10,5 % |
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 36 archivos |
+| Decisiones registradas | 49, de las cuales 2 reemplazadas y conservadas |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -165,7 +193,7 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **14** |
+| Fuentes verificadas | **15** |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **7** |
 | Cifras publicadas sin fuente | **0** |
@@ -195,7 +223,10 @@ comprobarlo** (D-016).
 | Que el libro no haya sido leído nunca por su lector real. | **Alta** | **No controlado.** Ver V-51, que ahora exige lectores de **los dos perfiles**. Es la recomendación principal antes de la Etapa 3. |
 | Que servir a dos públicos haga perder foco al libro. | **Media, nuevo** | Arquitectura integrada (D-031), el principio se enuncia una sola vez y está prohibido reexplicar la doble escala en cada capítulo. |
 | Que el título *Clonación del Conocimiento* asuste al lector A por evocar la réplica de personas. | **Media-alta** | Evaluado en `15-titulo-metodo-y-marca.md` §3. El libro lo desactiva en la introducción; la portada no tiene esa oportunidad. **Riesgo de marca reducido** tras A-09. Se somete a V-51: si un propietario del perfil A reacciona con recelo, se reabre la decisión. |
-| Que el nombre del libro arrastre al método y a la futura marca comercial. | **Resuelto** | D-035: tres activos separados. El método sigue siendo MÉTODO LEGADO, que es donde el riesgo de clase 035 no llega. |
+| Que el nombre del libro arrastre al método y a la futura marca comercial. | **Resuelto** | D-035 y D-046: cuatro activos separados. El método sigue siendo MÉTODO LEGADO, que es donde el riesgo de clase 035 no llega. |
+| Que la doble metáfora biológica del título nuevo —«clonación» más «ADN»— refuerce el miedo a la sustitución. | **Media-alta, nuevo** | Contrapesado por el subtítulo, que no contiene ni tecnología ni biología, y por la aclaración obligatoria en la primera aparición. **Se prueban los dos títulos en V-51** (V-24). |
+| Que «empresarial» excluya al lector B, justo la palabra que D-021 prohíbe como término general. | **Media, nuevo** | Excepción declarada (D-049), neutralizada en el subtítulo y en la definición. **Es la primera pregunta de la prueba de lectura al lector B.** |
+| Que el Gemelo de IA se lea como el destino obligatorio del libro. | **Media, nueva** | D-044 y D-045: es opcional, no es el final necesario y no aparece antes del capítulo 15. Comprobación V-25b en la Etapa 4. |
 | Que se escriba sobre profesionales independientes sin evidencia. | **Media, nuevo** | Nueve preguntas de investigación nuevas. Regla V-41 aplicada a los dos públicos por igual. |
 | Que la ampliación infle la extensión del libro. | **Media, nuevo** | Las dos piezas crecieron un 20 %. Guarda de D-030: ejemplos en paralelo de 120 palabras como máximo y 15 % de tolerancia por capítulo. |
 | Que una afirmación de frecuencia sin cifra se lea como un hecho comprobado. | **Media, nuevo** | Detectado por el autor en la revisión 2.1. Once enunciados corregidos. Barrido automático incorporado a la revisión G de cada bloque. |

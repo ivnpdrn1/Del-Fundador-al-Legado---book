@@ -8,6 +8,9 @@ final de este archivo:
    validación del instrumento.
 3. **Revisión conceptual extraordinaria 2.2**, del 2026-09-07: ampliación del público y del
    problema central del libro.
+4. **Refinamiento conceptual 2.4**, del 2026-09-07: adopción del ADN Empresarial como
+   concepto paraguas. *(La revisión de decisiones 2.3 no generó apartado propio aquí; su
+   registro está en `editorial/15-titulo-metodo-y-marca.md` y en `PROJECT_STATUS.md`.)*
 
 Revisión ejecutada el **2026-09-06** sobre las tres piezas producidas en la Etapa 2:
 
@@ -571,5 +574,144 @@ Conviene que consten, porque son nuevos y no estaban en el proyecto hace una sem
    V-41 aplicada con el mismo rigor a los dos públicos.
 4. **Que la extensión se descontrole.** Ver la guarda de D-030.
 5. **Que el libro roce el terreno de las profesiones reguladas.** Tratado en
-   `13-clonacion-del-conocimiento.md` §6, con la regla de no afirmar nada normativo sin
+   `13-adn-empresarial.md` §6, con la regla de no afirmar nada normativo sin
    fuente y ámbito.
+
+---
+
+# Refinamiento conceptual 2.4
+
+Ejecutado el **2026-09-07** por encargo del autor. Adopta el **ADN Empresarial** como
+concepto paraguas del libro, en sustitución de la clonación del conocimiento.
+
+**No es una etapa de escritura.** Alcance estricto: arquitectura conceptual. Un único
+pasaje del manuscrito se modificó, y se explica más abajo por qué era obligatorio.
+
+## 1. Diagnóstico conceptual
+
+El diagnóstico del autor es correcto y la revisión lo confirma: **«conocimiento» describía
+solo una parte del activo que el libro preserva.**
+
+Cuando la Etapa 2.2 adoptó «clonación del conocimiento» ya se enumeraban ocho capas —de
+conocimiento a supervisión— y la introducción hablaba de «criterio, relaciones, excepciones
+y controles». Es decir: **el libro ya trataba más que conocimiento, pero lo llamaba
+conocimiento.** El nombre iba por detrás del contenido, y eso genera una deriva silenciosa:
+capítulo a capítulo, el término se habría ido estirando hasta significar cualquier cosa.
+
+Lo que el ADN Empresarial aporta no es solo un nombre más amplio. Aporta **una lista
+cerrada de diez componentes con dificultades de transferencia distintas**, que es
+exactamente lo que el libro necesitaba para no prometer que todo se documenta igual. Los
+componentes 4 —patrones de decisión— y 8 —cultura y principios— solo se capturan en parte, y
+ahora el libro tiene dónde decirlo.
+
+**Riesgo que introduce el cambio, y conviene no maquillarlo:** la metáfora del ADN aplicada
+a organizaciones no es original ni nueva. Circulan desde hace años el ADN organizativo, el
+ADN de marca y el genoma empresarial, algunos con marca registrada. El libro gana
+comprensión inmediata y **pierde originalidad conceptual**. Queda prohibido presentar la
+metáfora como hallazgo propio; lo propio del libro es sostener que ese ADN puede
+identificarse, estructurarse y transferirse con un método.
+
+## 2. Clasificación de las apariciones, sin reemplazos ciegos
+
+Se inventariaron **80 apariciones** de «clonación», «clonación del conocimiento» y
+*knowledge cloning* en todo el repositorio, y se clasificaron una a una según lo pedido.
+
+| Tipo | Qué se hizo | Nº |
+|---|---|---|
+| **A — pasa a ADN Empresarial** | Donde designaba el activo. | 4 |
+| **B — pasa a Clonación del ADN Empresarial** | Donde designaba el proceso paraguas. | 9 |
+| **C — se mantiene** | Donde se refiere realmente solo al conocimiento, o al uso genérico del verbo. | 12 |
+| **D — histórica, se conserva** | Decisiones anteriores, evaluaciones de la Etapa 2.3, expediente de marca KNOWLEDGE CLONING, registros de control. | 55 |
+
+**No se hizo ningún reemplazo global.** Las apariciones de tipo D son mayoría precisamente
+porque la trazabilidad exige conservarlas: una decisión reemplazada se marca, no se
+reescribe.
+
+## 3. Cambio en el manuscrito: uno
+
+**El único pasaje que generaba contradicción directa** con la nueva arquitectura era el de
+la introducción que establecía «clonación del conocimiento» como el nombre del trabajo. Se
+sustituyó por tres párrafos que definen el ADN empresarial, añaden la nota de vocabulario
+obligatoria y definen la clonación del ADN empresarial.
+
+| Antes | Ahora |
+|---|---|
+| «A ese trabajo lo llamaremos en estas páginas **clonación del conocimiento**…» | «Eso que hay en su cabeza tiene nombre en este libro. Lo llamaremos su **ADN empresarial**…» + «Y al trabajo de sacarlo de ahí lo llamaremos **clonación del ADN empresarial**…» |
+
+**Se añadió además la nota obligatoria de D-049**, que no existía y que es lo que hace
+viable la palabra «empresarial»: *no hace falta tener una sociedad ni empleados para
+tenerlo… una persona que trabaja sola también tiene ADN empresarial, y suele tenerlo más
+concentrado.*
+
+**Ningún otro texto del manuscrito se tocó.** El capítulo 1 no contenía el término y no
+necesitaba cambios. Efecto en extensión: la introducción pasa de 2.765 a 2.838 palabras,
+dentro del rango de D-030.
+
+## 4. Control de coherencia: las cinco preguntas
+
+Comprobación obligatoria del encargo. Cada respuesta se verificó contra los documentos, no
+contra la intención.
+
+| Pregunta | Respuesta | ¿Está en el repositorio? |
+|---|---|---|
+| ¿Qué preservamos? | El **ADN Empresarial**. | Sí: definido en `13-adn-empresarial.md` §2, en el glosario y en la introducción. |
+| ¿Qué proceso realizamos? | La **Clonación del ADN Empresarial**. | Sí: §3 del mismo documento, glosario e introducción. |
+| ¿Cómo lo hacemos? | Mediante el **Método LEGADO**. | Sí: §10, más la tabla etapa por etapa. Comprobado que no contradice `07-metodo-legado.md`. |
+| ¿Qué papel tiene la IA? | Instrumento, nunca destino. Aumenta memoria, accesibilidad, consulta, detección de patrones, asistencia y supervisión; eventualmente mediante un Gemelo de IA. | Sí: §6, con la regla de que si un capítulo introduce IA sin aumentar ninguna de las seis, sobra. |
+| ¿Cuál es el resultado? | Un **Legado Inteligente**. | Sí: §9, con sus cuatro negaciones expresas. |
+
+**Las cinco resultan claras. La etapa puede cerrarse.**
+
+## 5. Comprobación de consistencia con lo ya decidido
+
+Se revisaron los documentos existentes buscando contradicciones con la nueva arquitectura.
+
+| Documento | Resultado |
+|---|---|
+| `07-metodo-legado.md` | **Sin contradicción.** El método nunca se definió como el proceso, sino como el procedimiento que lo ejecuta. La relación «qué hacemos / cómo lo hacemos» encaja sin forzar nada. |
+| `14-publico-y-rutas.md` | **Sin contradicción, y refuerzo.** El ADN Empresarial explica mejor que «conocimiento» por qué las dos rutas comparten problema: lo que se concentra en una cabeza son diez cosas, no una. |
+| `08-niveles-de-autonomia.md` | **Sin contradicción.** El Gemelo de IA es el nombre de lo que el nivel 6 puede llegar a ser; no añade ningún nivel. El techo sigue siendo 6 (D-008). |
+| `02-promesa-del-libro.md` | **Sin contradicción.** La promesa enumera «criterio, relaciones, excepciones y controles», que son componentes del ADN. El principio permanente de D-040 no se toca. |
+| `12-alcance-jurisdiccional.md` | **Sin contradicción.** El tratamiento de profesiones reguladas se trasladó íntegro al documento nuevo. |
+| `04-guia-de-estilo.md` | **Una tensión, resuelta y declarada.** «Empresarial» es la palabra que la tabla de vocabulario prohíbe como término general. Ver D-049. |
+
+## 6. Lo que NO se hizo, y es deliberado
+
+1. **No se rehízo el libro.** Dos documentos editoriales y un pasaje del manuscrito.
+2. **No se renombró el Método LEGADO.** No había motivo.
+3. **No se eliminó «clonación del conocimiento»** del vocabulario: se le asignó un
+   significado más estrecho y preciso.
+4. **No se borró ninguna decisión.** D-023 y D-024 se marcan como reemplazadas, con el
+   motivo y la decisión que las sustituye. Se añadió el estado `reemplazada` a la convención
+   del repositorio.
+5. **No se desarrolló la tecnología del Gemelo de IA.** Solo arquitectura conceptual, como
+   se pidió.
+6. **No se escribió el capítulo 2 ni se inició la Etapa 3.**
+
+## 7. Comprobaciones finales
+
+| Comprobación | Resultado |
+|---|---|
+| ¿Se escribió el capítulo 2? | **No.** `capitulos/` contiene la introducción y el capítulo 1. |
+| ¿Se inició la Etapa 3? | **No.** |
+| Constantes de continuidad | Tres nuevas registradas: diez componentes del ADN, ocho capas de tratamiento, siete escalones de la arquitectura. |
+| Legibilidad tras el cambio | Introducción: 2.838 palabras, párrafo máximo 108, frase media 13,7. Dentro del rango de D-030. |
+| ¿Nueva falsa precisión? | No. Cero cifras, umbrales o porcentajes nuevos. |
+| Muletillas | «ADN empresarial»: 3 apariciones, todas en el pasaje que lo define. «Gemelo de IA» y «Legado Inteligente»: 0 en el manuscrito, como corresponde. |
+| Datos personales de los expedientes de marca | **Ninguno incorporado.** Solo entidad, serie, fechas, clase y estado. Verificado con barrido específico. |
+| Privacidad y seguridad | Sin hallazgos. |
+
+## 8. Riesgos que esta etapa introduce
+
+1. **Doble metáfora biológica en el título.** «Clonación» más «ADN» refuerzan la lectura que
+   el libro existe para desactivar. Contrapesado por el subtítulo y por la aclaración
+   obligatoria; **se prueba en V-51 con los dos títulos** (V-24).
+2. **Menor distintividad.** El espacio del ADN organizativo está poblado. Bueno para
+   comprender, malo para diferenciar y para registrar.
+3. **«Empresarial» contra la regla de vocabulario.** Excepción declarada (D-049) y primera
+   pregunta de la prueba de lectura al lector B.
+4. **Que el Gemelo de IA se lea como destino obligatorio.** D-044 y D-045 lo impiden por
+   escrito; V-25b lo comprueba en la Etapa 4.
+5. **Que el vocabulario nuevo se vuelva jerga.** Tres términos nuevos entran a la vez. Los
+   límites de repetición del apartado 3 de `control-de-repeticiones.md` los vigilan desde
+   el capítulo 2.

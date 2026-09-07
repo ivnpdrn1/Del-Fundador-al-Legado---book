@@ -4,7 +4,7 @@ parte: 0
 titulo: "Introducción. Si usted no está, ¿qué deja de funcionar?"
 etapa_metodo: ""
 estado: borrador
-palabras: 2079
+palabras: 2838
 casos_usados: []
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -143,19 +143,28 @@ De trasladar eso a un sitio donde no dependa de una sola persona.
 > tecnología supervisada que permita a su negocio funcionar bien sin depender de usted,
 > mientras usted conserva la última palabra.
 
-A ese trabajo lo llamaremos en estas páginas **clonación del conocimiento**: capturar,
-ordenar, conservar y transferir la experiencia, el criterio y la forma de trabajar de una
-persona hacia procedimientos, sistemas y herramientas capaces de asistir, recomendar y
-—llegado el caso, y dentro de límites escritos— ejecutar.
+Eso que hay en su cabeza tiene nombre en este libro. Lo llamaremos su **ADN empresarial**:
+el conjunto de conocimiento, experiencia, criterio, decisiones, relaciones y formas de
+trabajar que hacen que su negocio funcione de la manera particular en que funciona.
 
-Es una expresión propia de este libro, no un término técnico ni una disciplina reconocida,
-y como es deliberadamente llamativa conviene desactivar enseguida lo que no quiere decir.
+No hace falta tener una sociedad ni empleados para tenerlo. Aquí «empresarial» quiere decir
+«de su actividad», no «de una empresa con oficinas». Una persona que trabaja sola también
+tiene ADN empresarial, y suele tenerlo más concentrado, porque está todo en el mismo sitio.
+
+Y al trabajo de sacarlo de ahí lo llamaremos **clonación del ADN empresarial**:
+identificarlo, capturarlo, ordenarlo, conservarlo y hacerlo transferible a personas,
+procedimientos, sistemas y herramientas capaces de asistir, recomendar y —llegado el caso,
+y dentro de límites escritos— ejecutar.
+
+Son expresiones propias de este libro, no términos técnicos ni disciplinas reconocidas. Y
+como la segunda es deliberadamente llamativa, conviene desactivar enseguida lo que no
+quiere decir.
 
 **No se clona a la persona.** No se copia su carácter, ni su responsabilidad profesional,
-ni su firma. Se clona lo que esa persona sabe hacer y el porqué de sus decisiones, y solo
-la parte que puede escribirse, comprobarse y supervisarse. El resto —el olfato, el trato,
-lo que usted percibe en una reunión antes de que nadie lo diga— no se transfiere, y este
-libro no le va a decir lo contrario.
+ni su firma. Se clona la forma en que su negocio sabe funcionar, y solo la parte que puede
+escribirse, comprobarse y supervisarse. El resto —el olfato, el trato, lo que usted percibe
+en una reunión antes de que nadie lo diga— no se transfiere, y este libro no le va a decir
+lo contrario.
 
 **El objetivo tampoco es reemplazarle.** No es que usted sobre, ni que se aparte, ni que
 construya con sus propias manos el mecanismo que lo va a jubilar. El objetivo es que su

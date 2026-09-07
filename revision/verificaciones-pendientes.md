@@ -3,7 +3,7 @@
 Todo lo que queda por comprobar antes de considerar el libro entregable. Se mantiene
 desde la Etapa 1 hasta la Etapa 5 y se entrega al autor como parte de la entrega final.
 
-**Actualizado: 2026-09-07, tras la revisión de decisiones 2.3.**
+**Actualizado: 2026-09-07, tras el refinamiento conceptual 2.4.**
 
 ---
 
@@ -23,13 +23,15 @@ Bloquean o condicionan el avance.
 | V-08 | Redacción definitiva de las cinco preguntas ambiguas del Índice: 21, 5, 3, 20 y 7. | — | **CERRADA 2026-09-07.** Autorizada e implementada en la Etapa 2.2, revisando antes cada alternativa a la luz del público ampliado. D-029. |
 | V-09 | Rótulos de la escala 0-3: encajaban peor en las preguntas de estado. | — | **CERRADA 2026-09-07.** Adoptados rótulos neutros por frecuencia de casos, con segunda columna que conserva la lectura por actor. Valores, recorrido y rangos sin cambios. D-028. |
 | V-10b | Confirmación de la promesa ampliada (D-025). | — | **CERRADA 2026-09-07.** Confirmada por el autor, junto con el enunciado permanente del principio central (D-040). |
-| V-17 | Subtítulo (A-12). | — | **CERRADA 2026-09-07.** Adoptado *Cómo convertir su experiencia y su criterio en un negocio que funcione sin depender de usted* (D-034). Tres alternativas conservadas. Revisable antes de publicar, registrando la decisión. |
+| V-17 | Subtítulo (A-12). | — | **CERRADA 2026-09-07.** Adoptado *Cómo convertir su experiencia y su criterio en un negocio que funcione sin depender de usted* (D-034). **Reevaluado en la Etapa 2.4 junto al título nuevo y confirmado sin cambios (D-048).** Tres alternativas conservadas. |
 | V-18 | Herramienta 8, matriz de autoridad para la ruta B (A-10). | — | **CERRADA 2026-09-07.** Una herramienta con dos modos (D-037). Arquitectura conceptual en `recursos/README.md`; la herramienta completa se redacta con el capítulo 10. |
 | V-19 | Títulos de capítulo y de parte. | — | **CERRADA 2026-09-07.** Aplicados seis títulos de capítulo y dos de parte (D-041); uno se adoptó en versión distinta de la propuesta y se explica por qué. Sigue abierta la **ampliación interna** de ocho capítulos, que se resuelve al escribir cada uno. |
 | V-20b | Límite de uso de la imagen de la cabeza. | — | **CERRADA 2026-09-07.** No se eleva. Pasa de cuota a control estilístico, con seis alternativas semánticas (D-039). |
 | V-21b | Actividades admitidas para casos de la ruta B (A-11). | — | **CERRADA 2026-09-07.** Matriz de diez tipos de actividad (D-038), con cautela reforzada para el profesional con licencia. |
-| V-22 | **Nuevo.** Búsqueda profesional de marcas antes de cualquier **uso comercial** del nombre: España, UE, América Latina, versión española, derechos de uso anterior y dominios; clases 016, 035, 041 y 042. | El activo C, marca de productos y servicios. **No bloquea la publicación del libro.** | **Abierta — requiere profesional de propiedad intelectual.** |
-| V-23b | **Nuevo.** Nombre de una eventual edición en inglés. **No traducir por inercia:** *Knowledge Cloning* es la denominación de la solicitud abandonada y circula comercialmente. | Edición internacional. | **Abierta.** Sin urgencia. |
+| V-22 | Búsqueda profesional de marcas antes de cualquier **uso comercial**: España, UE, América Latina, versiones en ambos idiomas, derechos de uso anterior, marcas próximas vivas y dominios; clases 016, 035, 041 y 042. **Ampliada el 2026-09-07** a BUSINESS DNA, BUSINESS DNA CLONING y CLONACIÓN DEL ADN EMPRESARIAL. | El activo D, marca de productos y servicios. **No bloquea la publicación del libro.** | **Abierta — requiere profesional de propiedad intelectual.** |
+| V-24 | **Nuevo.** Prueba de los **dos títulos** en la lectura de prueba: *Clonación del ADN Empresarial* y *Clonación del Conocimiento*, con lectores de los dos perfiles. Pregunta obligatoria al lector B: «¿este libro le habla a usted?». | Título definitivo. | **Abierta.** Se ejecuta dentro de V-51. |
+| V-25b | **Nuevo.** Comprobar en la Etapa 4 que el Gemelo de IA no aparece antes del capítulo 15, nunca como paso obligatorio y nunca descrito como réplica de una persona. | Coherencia conceptual. | **Abierta.** |
+| V-23b | Nombre de una eventual edición en inglés. **No traducir por inercia.** *Business DNA Cloning* no está tomado como marca viva, pero «Business DNA» sí está en uso comercial por terceros. | Edición internacional. | **Abierta.** Sin urgencia. |
 
 ## 2. Verificaciones de investigación
 

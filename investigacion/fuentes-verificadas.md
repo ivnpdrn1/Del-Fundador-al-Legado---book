@@ -1,6 +1,6 @@
 # Fuentes verificadas
 
-**Fuentes verificadas a fecha 2026-09-07: 14.**
+**Fuentes verificadas a fecha 2026-09-07: 15.**
 
 Este archivo contiene únicamente fuentes que han sido **abiertas y leídas directamente**
 en el pasaje pertinente. Una fuente que no se haya consultado no se anota aquí, ni
@@ -26,6 +26,7 @@ siquiera como referencia probable. Las candidatas a consultar están en
 | F-011 | *Business Impact Analysis* | U.S. Department of Homeland Security, Ready.gov | oficial | Consultada en 2026 | `https://www.ready.gov/business-impact-analysis` | 2026-09-06 | El análisis de impacto en el negocio prevé las consecuencias de una interrupción y reúne la información necesaria para diseñar estrategias de recuperación; identifica procesos y recursos críticos. | 4 | Estados Unidos, material gratuito |
 | F-012 | *New Commission guidance will make it easier to transfer ownership of SMEs* | Comisión Europea, DG Mercado Interior, Industria, Emprendimiento y Pymes | oficial | 2026-06-23 | `https://single-market-economy.ec.europa.eu/news/new-commission-guidance-will-make-it-easier-transfer-ownership-smes-2026-06-23_en` | 2026-09-06 | Un número creciente de propietarios de pequeñas empresas de la UE se acerca al retiro sin sucesor designado. No aporta cifras. | Intro | Unión Europea |
 | F-013 | Expediente de la solicitud de marca de servicio **KNOWLEDGE CLONING**, número de serie 87479780 | United States Patent and Trademark Office, sistema TSDR (Trademark Status and Document Retrieval) | oficial | Solicitud presentada 2017-06-07 | `https://tsdr.uspto.gov/statusview/sn87479780` | 2026-09-07 | Estado **abandonada** por falta de respuesta a una acción oficial; fecha de abandono 2018-03-09; clase internacional 035, «business knowledge management services»; titular Motion Builders, LLC. No existe registro vivo. | — | Estados Unidos |
+| F-015 | Expediente de la solicitud de marca de servicio **BUSINESS DNA**, número de serie 85947961 | United States Patent and Trademark Office, sistema TSDR | oficial | Solicitud presentada 2013-05-31 | `https://tsdr.uspto.gov/statusview/sn85947961` | 2026-09-07 | Estado **muerta / abandonada** desde el 2014-03-18 por falta de respuesta a una acción oficial; descriptor común del USPTO *DEAD/APPLICATION/Refused/Dismissed or Invalidated*; clase internacional 035, servicios de consultoría de marketing y de marca; titular 2Q Solutions, LLC. No existe registro vivo derivado de esta solicitud. | — | Estados Unidos |
 | F-014 | *Title of a single work refusal and how to overcome the refusal* | United States Patent and Trademark Office | oficial | Consultada en 2026 | `https://www.uspto.gov/trademarks/laws/title-single-work-refusal-and-how-overcome-refusal` | 2026-09-07 | En la práctica estadounidense, el título de una obra única no funciona como marca y no es registrable; el título de una **serie** de obras sí puede registrarse si se acredita su uso como indicador de origen de la serie. | — | Estados Unidos |
 
 ## 2. Fuentes consultadas y descartadas
@@ -258,3 +259,58 @@ Se declara con la misma claridad que lo comprobado:
 libro— encargar una búsqueda profesional de marcas en los mercados previstos, que cubra
 las clases 016, 035, 041 y 042 y ambas versiones lingüísticas. El coste de esa búsqueda es
 muy inferior al de renombrar una línea de servicios ya lanzada.
+
+
+## 8. Conclusión de la Etapa 2.4 — disponibilidad de BUSINESS DNA y derivados
+
+Investigación ejecutada el 2026-09-07 al adoptarse el ADN Empresarial como concepto
+paraguas (D-043). **Esto no es asesoría jurídica.**
+
+### 8.1 Lo comprobado en fuente primaria
+
+**BUSINESS DNA**, marca de servicio, serie 85947961, clase 035 (consultoría de marketing,
+de marca y de comunicación), presentada el 2013-05-31 por 2Q Solutions, LLC.
+**MUERTA / ABANDONADA desde el 2014-03-18**, por no responder a una acción oficial de 2013
+(F-015). El propio USPTO la clasifica como *DEAD/APPLICATION/Refused/Dismissed or
+Invalidated*.
+
+Es el segundo caso idéntico: también KNOWLEDGE CLONING murió por falta de respuesta a una
+acción oficial. **No se leyeron los documentos de ninguna de las dos acciones**, así que no
+puede afirmarse por qué fueron objetadas.
+
+### 8.2 Lo observado en el mercado, sin verificación registral
+
+- **«Business DNA» está en uso comercial activo por terceros**, pese a que la marca
+  estadounidense esté muerta: nombre de un producto de análisis de comportamiento, de al
+  menos dos sociedades constituidas en el Reino Unido y en los Emiratos, y de varias
+  iniciativas de consultoría.
+- **La metáfora del ADN organizativo es un espacio conceptual poblado:** ADN de marca —con
+  metodología y marca propias—, genoma empresarial —con marca registrada—, ADN organizativo
+  y ADN de estrategia —marca registrada en clase 035—.
+- **No se localizó uso asentado de «Business DNA Cloning» ni de «Clonación del ADN
+  Empresarial».** La combinación parece nueva; sus componentes no lo son.
+
+### 8.3 Lo que NO se ha comprobado
+
+EUIPO, WIPO, España, América Latina, dominios, y la existencia de marcas próximas vivas en
+cualquier jurisdicción. Los buscadores públicos de EUIPO y TMview no devuelven resultados
+consultables sin credenciales.
+
+### 8.4 Conclusión
+
+| Afirmación | Grado |
+|---|---|
+| No existe registro estadounidense vivo derivado de la solicitud BUSINESS DNA 85947961. | **Comprobado en fuente primaria.** |
+| «Business DNA» se usa comercialmente por terceros pese a ello. | Observado; no verificado en registros. |
+| El espacio conceptual del ADN organizativo está poblado. | Observado. |
+| Que una solicitud esté muerta **no significa** que la expresión esté libre. | Principio, no hallazgo. |
+| El uso como **título de libro** presenta riesgo bajo. | Inferencia razonada a partir de F-014, no dictamen. |
+| El uso como **nombre de servicios** exige búsqueda profesional previa. | Recomendación. |
+
+**Consecuencia editorial:** un espacio conceptual poblado es **bueno para la comprensión y
+malo para la distintividad**. El lector entenderá «ADN empresarial» sin explicación; y por
+eso mismo el término es más débil como marca que como concepto. Refuerza la decisión de
+mantener separados los cuatro activos (D-046) y de no precipitar la marca comercial.
+
+**V-22 se amplía** a BUSINESS DNA, BUSINESS DNA CLONING y CLONACIÓN DEL ADN EMPRESARIAL, en
+las clases 016, 035, 041 y 042.

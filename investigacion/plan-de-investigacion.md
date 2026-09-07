@@ -85,7 +85,7 @@ frecuencia (regla V-41).
 | Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | Sin iniciar |
 | Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | Sin iniciar. Parcialmente cubierta por F-007 y F-010. |
 | Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | Sin iniciar. Se fusiona en la práctica con Q-05. |
-| Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | 9, 16 | Media | Sin iniciar. Origen: `13-clonacion-del-conocimiento.md` §6.3. |
+| Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | 9, 16 | Media | Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
 | Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | Sin iniciar. **Muy dependiente de jurisdicción**; probablemente se resuelva remitiendo a la norma local y no citando ninguna. |
 | Q-21 | ¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el precio de venta de un negocio pequeño? | 21, 25 | Media | Sin iniciar. **Mientras no se resuelva rige D-032:** el libro habla de transferibilidad y continuidad, no de valor. |
 

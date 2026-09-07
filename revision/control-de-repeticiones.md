@@ -43,6 +43,7 @@ una frase con referencia cruzada, nunca se reexplica. Numeración actualizada tr
 | Lo que se mide al principio se mide al final. | 6 | 24, 25, en una frase | Cap. 1 y herramienta 1. **Aviso:** es inevitable, porque el instrumento nace aquí. El cap. 6 deberá tratar el *cómo* medir, no el *por qué*. |
 | **El mismo problema aparece a dos escalas.** | Introducción, «Dos escalas del mismo problema» | En los capítulos, solo como ejemplo o como precisión concreta. **Prohibido reexplicarlo.** | Intro. Cap. 1 lo aplica sin reexplicarlo. |
 | **No se clona a la persona.** | Introducción, al definir el concepto | 9, 12, 15, en una frase | Intro. |
+| **Una persona que trabaja sola también tiene ADN empresarial.** | Introducción, junto a la definición | 2, 6, 9, en una frase | Intro. **Obligatorio en la primera aparición** (D-049). |
 | **Delegar no significa contratar.** | 18 | Intro y 1, en una frase cada uno | Intro y cap. 1. **Aviso:** dos usos consumidos antes de su capítulo propietario. El cap. 18 debe desarrollarlo, no anunciarlo. |
 
 ## 3. Recursos retóricos con riesgo de repetición
@@ -57,7 +58,10 @@ Recuento real sobre las piezas escritas, verificado por búsqueda automática el
 | La expresión "sin perder el control" | Máximo cinco veces | **0** en el manuscrito | Aparece en el subtítulo del libro, que no computa. |
 | La palabra "legado" fuera de títulos | Máximo ocho veces | **5** | Introducción: nombre de la etapa O, la secuencia conceptual, el cierre y dos menciones del método. |
 | **La expresión "persona clave"** | Nuevo. Máximo una vez por capítulo fuera del nombre del Índice | **1** | Introducción, al definir el concepto. En el capítulo 1 solo aparece como parte del nombre de la herramienta. **Cumple D-021.** |
-| **La palabra "clonación" y derivados** | Nuevo. Solo donde nombre algo que ninguna otra palabra nombra | **3** | Las tres en el mismo pasaje de la introducción, que la define y la delimita. |
+| **La palabra "clonación" y derivados** | Solo donde nombre algo que ninguna otra palabra nombra | **3** | Las tres en el mismo pasaje de la introducción, que la define y la delimita. |
+| **La expresión "ADN empresarial"** | Nuevo (D-043). Se usa cuando nombre el activo completo; no como sinónimo elegante de «lo que usted sabe» | **3** | Introducción, en el pasaje que la define y le añade la nota de vocabulario obligatoria. |
+| **"Gemelo de IA"** | Nuevo. **No puede aparecer antes del capítulo 15** | **0** | — |
+| **"Legado Inteligente"** | Nuevo. Reservado al resultado; nunca como sinónimo de inmortalidad ni de sustitución | **0** | — |
 
 **Observación de vigilancia.** Dos recursos están al límite con solo dos piezas escritas:
 

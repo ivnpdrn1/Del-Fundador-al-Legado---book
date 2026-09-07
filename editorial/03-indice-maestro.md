@@ -56,7 +56,7 @@ juzgado. Aquí se gana o se pierde al lector.*
 
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 1 | Cuando usted también es el sistema | L | La empresa parece tener sistemas, pero funciona por una persona. Distinguir "tener empleados" de "tener organización". | Índice de Dependencia de la Persona Clave | 2.200 |
+| 1 | Cuando usted también es el sistema | L | El negocio parece tener sistemas, pero funciona por una persona. Distinguir **tener un negocio** de **tener un sistema**. Dos casos en paralelo, uno por ruta. | Índice de Dependencia de la Persona Clave | 2.700 |
 | 2 | El conocimiento que nunca fue escrito | E | Existe un conocimiento que no está en ningún manual porque nunca se consideró conocimiento: criterio, historia, excepciones, señales. | Ejercicio de reconocimiento | 2.000 |
 | 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | — | Por qué el equipo parece autónomo cuando el fundador está presente y deja de serlo cuando no lo está. Se trata la suposición, no las consecuencias. | Prueba de las tres preguntas al equipo | 1.800 |
 | 4 | El costo de una ausencia inesperada | — | Cuantificar el impacto: qué se detiene, qué se pierde y qué no se recupera. Se tratan las consecuencias, no la suposición. | Cálculo del costo de una semana | 1.900 |
@@ -268,7 +268,7 @@ Leyenda: **OK** = funciona sin cambios · **AMP** = necesita ampliación dentro 
 | 12 | La inteligencia artificial como aprendiz | OK | Universal. |
 | 13 | El periodo de sombra y las primeras alertas | OK | Universal. En un negocio de una persona el modo sombra es más fácil, no más difícil. |
 | 14 | De las alertas a las recomendaciones | OK | Universal. |
-| 15 | Autonomía limitada y aprobación humana | **AMP** | Añadir el tratamiento de **profesiones reguladas** (`13-clonacion-del-conocimiento.md` §6.1): qué puede asistirse y qué reserva la licencia. |
+| 15 | Autonomía limitada y aprobación humana | **AMP** | Añadir el tratamiento de **profesiones reguladas** (`13-adn-empresarial.md` §6.1): qué puede asistirse y qué reserva la licencia. |
 | 16 | Seguridad, privacidad y auditoría | **AMP** | Añadir la situación del profesional independiente: datos de clientes o pacientes, sin responsable de seguridad y sin contrato negociado con el proveedor. Su exposición es mayor, no menor. |
 | 17 | Preparar al equipo, a la familia y a los clientes | **AMP; título aplicado** | Antes: *Preparar al equipo y a la familia*. **Se descartó la propuesta original** —*Preparar a las personas que dependen de usted*— por genérica y por desplazar el referente: un cliente no «depende de usted» en ese sentido. La versión adoptada amplía sin perder las tres constituencias concretas. Falta la ampliación interna. |
 | 18 | Delegación progresiva | **AMP** | Debe recoger D-026: se delega en personas, procedimientos o sistemas supervisados. Es el capítulo más afectado por la ampliación del método. |

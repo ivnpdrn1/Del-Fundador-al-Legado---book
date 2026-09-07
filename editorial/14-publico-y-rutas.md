@@ -62,7 +62,7 @@ muy reducido.
 | **Puede no querer contratar a nadie.** Muchos eligieron trabajar solos. | Contratar no puede presentarse como el paso natural ni como el objetivo. |
 | Su negocio y su persona son casi lo mismo ante el cliente. | La transferencia de relaciones es más difícil, no más fácil. |
 | La dependencia suele ser más extrema, no menor. | El libro no es «una versión reducida» para este lector. |
-| A menudo ejerce una profesión regulada. | Ver `13-clonacion-del-conocimiento.md`, apartado 6. |
+| A menudo ejerce una profesión regulada. | Ver `13-adn-empresarial.md`, apartado 6. |
 | Su información contiene datos de clientes o pacientes. | La lista de información restringida le concierne más, no menos. |
 | No tiene departamento de sistemas ni asesor tecnológico. | La tecnología debe explicarse todavía con más cuidado y menos supuestos. |
 | Su horizonte de salida puede ser vender, transferir la cartera o simplemente cerrar bien. | La sucesión no se puede dar por supuesta ni tratar solo como relevo familiar. |

@@ -2,7 +2,7 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-07: 2 de 27 piezas escritas. 5.519 palabras.**
+**Estado del manuscrito a 2026-09-07: 2 de 27 piezas escritas. 5.591 palabras.**
 **Recursos: 1 de 18 redactado, versión 2.0 (2.490 palabras, no computan en el manuscrito).**
 
 Cifras posteriores a la **revisión conceptual 2.2** del 2026-09-07, que amplió el público
@@ -20,8 +20,8 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 
 | # | Capítulo | Parte | Etapa | Estado | Palabras | Objetivo | Recursos producidos | Casos | Afirmaciones abiertas |
 |---|---|---|---|---|---|---|---|---|---|
-| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.765** | 2.700 | — | — | 0 |
-| 1 | Cuando usted también es el sistema | I | L | **borrador** | **2.754** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
+| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.838** | 2.700 | — | — | 0 |
+| 1 | Cuando usted también es el sistema | I | L | **borrador** | **2.753** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
 | 2 | El conocimiento que nunca fue escrito | I | E | no iniciado | 0 | 2.000 | — | — | — |
 | 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | I | — | no iniciado | 0 | 1.800 | — | — | — |
 | 4 | El costo de una ausencia inesperada | I | — | no iniciado | 0 | 1.900 | — | — | — |
@@ -54,13 +54,13 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 
 | Parte | Caps. | Objetivo | Escrito | % del total |
 |---|---|---|---|---|
-| Introducción | 1 | 2.700 | 2.765 | — |
-| I | 5 | 10.400 | 2.754 | — |
+| Introducción | 1 | 2.700 | 2.838 | — |
+| I | 5 | 10.400 | 2.753 | — |
 | II | 5 | 11.000 | 0 | — |
 | III | 6 | 12.900 | 0 | 24,8 % previsto |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **5.519** | 10,4 % del objetivo |
+| **Total** | **27** | **53.300** | **5.591** | 10,5 % del objetivo |
 
 **Desviaciones.** Con los objetivos revisados por D-030, la introducción queda 65 palabras
 por encima y el capítulo 1, 54 por encima. Ambas dentro de tolerancia.
@@ -76,7 +76,7 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 | Etapa | Capítulos | Objetivo | Escrito |
 |---|---|---|---|
 | Contexto previo | 3, 4, 5 | 5.700 | 0 |
-| L | 1, 6 | 4.800 | 2.754 |
+| L | 1, 6 | 4.800 | 2.753 |
 | E | 2, 7, 8, 9 | 8.700 | 0 |
 | G | 10 | 2.200 | 0 |
 | A | 11–16 | 12.900 | 0 |
@@ -85,7 +85,11 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 
 ## 4. Resumen de cada capítulo
 
-**Introducción (revisada en la Etapa 2.2).** Presenta ahora los dos públicos en su tercer
+**Introducción (revisada en las Etapas 2.2 y 2.4).** En la 2.4 se sustituyó el pasaje del
+concepto central: donde decía «clonación del conocimiento» ahora define el **ADN
+empresarial** —con la nota obligatoria de que quien trabaja solo también lo tiene— y la
+**clonación del ADN empresarial**. Fue el único cambio en el manuscrito de esa etapa.
+Descripción original: Presenta ahora los dos públicos en su tercer
 párrafo y en el apartado «Dos escalas del mismo problema», introduce y delimita la
 clonación del conocimiento, extiende la secuencia conceptual hasta el legado y añade el
 continuo del retiro. Parte de la realidad humana de quien está al frente —lo que construyó y lo que
