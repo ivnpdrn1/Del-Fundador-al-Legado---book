@@ -82,6 +82,22 @@ dirigida las clasificó como negaciones y universales referidos a la historia de
 lector o como instrucciones del ejercicio, no como enunciados sobre el mundo. Ninguna
 requería fuente.
 
+**Capítulo 4: cero referencias externas, y todas las cifras clasificadas.** El capítulo habla
+necesariamente de cantidades, así que se le aplicó una regla más estricta: **toda cifra del
+texto está clasificada** en A (dato real del lector), B (ejemplo ficticio identificado), C
+(valor de la herramienta) o D (afirmación sobre el mundo, que exigiría fuente).
+
+| Categoría | Qué hay en el capítulo 4 |
+|---|---|
+| **A** | Ninguna. Las cifras del lector las pone el lector en su hoja. |
+| **B** | Solo los recuentos del caso C-05: seis encargos, cuatro aplazados, uno perdido, uno sin decidir, dos semanas de recuperación. **Sin moneda y sin importes.** |
+| **C** | La ventana de una semana, los seis estados, los cinco pasos, las cinco reglas y la orientación de diez o quince entradas, declarada expresamente como recomendación y no como umbral. |
+| **D** | **Ninguna.** No se afirma nada sobre costos de interrupción, pérdida de clientes, productividad ni pequeñas empresas, y por eso el capítulo no necesita ninguna fuente. |
+
+**Cero símbolos de moneda y cero importes en todo el capítulo**, comprobado por búsqueda. La
+regla se declara además dentro del propio texto: cuando no hay cifra real se escribe «no
+medido», que no es cero ni es una pérdida.
+
 **Afirmaciones sin fuente en el manuscrito.** Todas las demás son observaciones
 cualitativas, inferencias del autor, recomendaciones o propuestas propias del libro, y
 están escritas en la forma reconocible que exige el apartado 2. Ninguna incluye cifras.
@@ -109,7 +125,11 @@ es opcional:
 1. **Búsqueda literal**, con la lista tratada como *ejemplos de una clase*, nunca como lista
    cerrada. Se añaden al menos: rara vez, raras veces, a menudo, con frecuencia,
    habitualmente, generalmente, típicamente, de ordinario, por lo común, lo normal, casi
-   todo, muchas veces, pocas veces, lo bastante.
+   todo, muchas veces, pocas veces, lo bastante, **tanta gente, mucha gente, todo el mundo**.
+   Estas tres últimas se añadieron el 2026-09-07: la lectura dirigida del capítulo 4 encontró
+   «por qué tanta gente lo confunde con marcharse», que la búsqueda literal no había visto.
+   **Es la segunda vez que la lista cerrada falla y la lectura dirigida acierta**, que es
+   exactamente para lo que existe el paso 2.
 2. **Lectura dirigida**: recorrer toda frase que **atribuya una propiedad al mundo** y no sea
    ni cita ni parte de un caso, y clasificarla en cuatro categorías:
 

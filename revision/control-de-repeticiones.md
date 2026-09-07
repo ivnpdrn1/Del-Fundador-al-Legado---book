@@ -22,7 +22,8 @@ comprobarse en la Etapa 4.
 | 10, 15 y 18 | Medio | Cap. 10 fija límites **entre personas**. Cap. 15 fija límites **para la tecnología**. Cap. 18 **aplica** los del 10 a personas concretas. | No |
 | 11 y 16 | Bajo | Cap. 11 dice **qué no se entrega**. Cap. 16 dice **cómo se protege** lo que sí se entrega. | No |
 | 11 y 13 | Bajo, nuevo tras D-017 | Cap. 11 trata el **dato**: fuente única, fiabilidad, clasificación. Cap. 13 trata la **conducta del sistema** sobre datos ya ordenados. El 11 no describe comportamiento del sistema; el 13 no vuelve sobre la calidad del dato. | No |
-| 4 y 24 | Bajo, pero conviene enlazarlos | Cap. 4 es la ausencia **temida**. Cap. 24 es la ausencia **provocada y controlada**. El 24 abre citando al 4. | No |
+| 4 y 5 | Bajo | Cap. 4 mide consecuencias y se detiene ahí. Cap. 5 es el reencuadre emocional: culpa, identidad, miedo al retiro y el continuo del retiro. **El capítulo 4 no contiene ninguna de esas palabras**, comprobado por búsqueda; su cierre solo formula la pregunta con la que el 5 abre. | **Sí, 2026-09-07. Sin hallazgos.** |
+| 4 y 24 | Bajo, pero conviene enlazarlos | Cap. 4 es la ausencia **temida**, y se calcula sobre el papel: sobre una ausencia pasada, una semana imaginada o una reconstruida. Cap. 24 es la ausencia **provocada y controlada**. El 24 abre citando al 4. | **Sí, 2026-09-07, al escribir el cap. 4. Sin hallazgos.** El capítulo 4 dice expresamente «no le estoy pidiendo que se ausente» y remite esa prueba a más adelante, sin nombrarla ni describirla. |
 | Intro y cap. 1 | **Medio, real y ya comprobado** | La introducción plantea la ausencia de siete días como **encuadre emocional** y no la analiza. El capítulo 1 no repite la escena de la ausencia: usa una mañana ordinaria y descompone la dependencia en materias. La introducción no da señales de reconocimiento; el capítulo 1 no repite la promesa ni los límites. | **Sí, 2026-09-06. Sin hallazgos.** |
 
 ## 2. Argumentos que solo pueden desarrollarse una vez
@@ -138,5 +139,6 @@ Para evitar que la mitad del libro empiece igual.
 | Capítulo 1 | Escena cotidiana con hora concreta y tres microsituaciones. |
 | Capítulo 2 | **Fragmento de diálogo**: una pregunta ajena y la respuesta inmediata del lector. Tipo no usado antes. |
 | Capítulo 3 | **El recuerdo del propio lector usado como prueba, y desmontado a continuación**: la última ausencia corta que salió bien. Tipo no usado antes. |
+| Capítulo 4 | **Una cuenta rápida que el lector hace de cabeza, mostrada y refutada en las dos direcciones** —por exceso y por defecto—. Tipo no usado antes. |
 
 **Cierres.** El del capítulo 2 **enuncia** las dos formas de la certeza que examina el capítulo 3 —«ellos ya sabrían qué hacer» con equipo, «lo tengo tan claro que no hace falta escribirlo» trabajando solo— sin analizarlas. **El capítulo 3 debe desarrollarlas, no volver a presentarlas**, y la variante de la ruta B, que la valoración 2.2 le encargaba introducir, ya está nombrada: le corresponde tratarla, no anunciarla.
