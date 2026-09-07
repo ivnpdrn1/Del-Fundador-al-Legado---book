@@ -10,12 +10,37 @@ capítulos siguen pendientes y se resolverán al escribir cada capítulo en la E
 
 ---
 
+## 0. Terminología estructural
+
+**Fijada el 2026-09-07 (Etapa 2.5.1) para eliminar una ambigüedad.** Los documentos del
+proyecto usaban «25» y «27» sin decir de qué, y eso hacía parecer contradictorias dos
+afirmaciones que ambas eran ciertas. **Estos son los únicos términos admitidos:**
+
+| Término | Valor | Qué incluye |
+|---|---|---|
+| **Capítulo numerado** | **25** | Del 1 al 25. Es lo que el lector ve numerado. |
+| **Pieza del manuscrito** | **27** | Los 25 capítulos numerados **más la introducción y la conclusión**. |
+| **Parte** | **5** | I a V. |
+| **Anexo de recursos** | 18 herramientas | **No es una pieza del manuscrito** y **no computa** en el objetivo de palabras. |
+
+**Aritmética:** 25 capítulos numerados + introducción + conclusión = **27 piezas**.
+
+**Regla de redacción:** nunca se escribe «los 25» ni «los 27» a secas. Se escribe «los
+veinticinco capítulos numerados» o «las veintisiete piezas del manuscrito». Un documento que
+diga solo la cifra vuelve a revisión.
+
+**Ninguna de las dos cifras cambia en esta corrección.** No se añade, quita ni reordena
+ningún capítulo.
+
+---
+
 ## 1. Presupuestos de extensión
 
 | Concepto | Valor |
 |---|---|
 | Objetivo total | 45.000 – 60.000 palabras |
-| Capítulos | 25 |
+| Capítulos numerados | 25 |
+| Piezas del manuscrito | 27 (25 + introducción + conclusión) |
 | Media por capítulo | 1.800 – 2.200 palabras |
 | Introducción | 2.200 – 2.900 (objetivo 2.700) |
 | Capítulo 1 | objetivo 2.700 |
@@ -241,9 +266,10 @@ de producción. La Parte III no debe superar el 26 % del total.
 Análisis pedido el 2026-09-07 al ampliarse el público a dos lectores (D-021). **No se ha
 escrito ni reordenado ningún capítulo nuevo.** Lo que sigue es diagnóstico y propuesta.
 
-**Conclusión general: la arquitectura resiste.** De los veintisiete elementos, diecinueve
-funcionan sin cambios de fondo, seis necesitan ampliación dentro del capítulo y **ninguno
-sobra ni hace falta añadir uno nuevo**. No se recomienda un capítulo dedicado al
+**Conclusión general: la arquitectura resiste.** De las veintisiete piezas del manuscrito
+—25 capítulos numerados más introducción y conclusión, según el apartado 0—, diecinueve
+funcionan sin cambios de fondo, seis necesitan ampliación dentro del capítulo y **ninguna
+sobra ni hace falta añadir una nueva**. No se recomienda un capítulo dedicado al
 profesional independiente: convertiría al lector B en un apéndice y contradiría D-031.
 
 ### 5.1 Capítulo a capítulo

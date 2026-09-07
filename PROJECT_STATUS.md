@@ -32,7 +32,7 @@ código, ni stack, ni proveedores, ni marca.
 | **Reparto de papeles** | El libro dice **qué** y **por qué**; el método, **cómo**; la plataforma ayuda a **hacerlo**. |
 | **Momento de aparición** | Presentación explícita en el **capítulo 11**, en 450 palabras. Se descartó la frontera Parte II / Parte III: el capítulo 11 trata exactamente de ordenar la información, y deja la plataforma **antes** de los capítulos de IA. |
 | **Presupuesto de menciones** | **Máximo cinco destacadas** en todo el libro y siete funcionales. **Cero en las Partes I y IV.** Se cuentan en la Etapa 4 (D-053). |
-| **Capítulo propio** | **No.** Se mantienen los 27. Presencia progresiva + sección en el 11 + recurso en el anexo. |
+| **Capítulo propio** | **No.** Se mantienen los **25 capítulos numerados** y las **27 piezas del manuscrito**. Presencia progresiva + sección en el capítulo 11 + recurso en el anexo. |
 | **Escala de madurez** | **No se crea.** El proyecto ya tiene dos escalas; la progresión es el propio Método LEGADO expresado como estado del usuario (D-058). |
 | **Las 18 herramientas** | Todas mapeadas a un módulo. **Ninguna sobra y no hace falta ninguna nueva.** El único vacío posible ya lo cubría el modo B de la herramienta 8. |
 | **Propiedad de los datos** | El ADN Empresarial es del cliente: exportable, portable, eliminable. **Prohibida la retención artificial** (D-055). |
@@ -104,7 +104,7 @@ que el resto del manuscrito no naciera con un mercado innecesariamente estrecho.
 | Concepto central nuevo | **Clonación del conocimiento**, con definición propia del autor, ocho capas diferenciadas y ocho límites expresos (D-023). |
 | Título de trabajo | **CLONACIÓN DEL CONOCIMIENTO** (D-024). *Del Fundador al Legado* se conserva como nombre del repositorio y del proyecto. **El subtítulo requiere decisión: ver A-12.** |
 | Método LEGADO | Sobrevive con **un solo cambio**: la etapa D admite personas, procedimientos o sistemas supervisados (D-026). |
-| Arquitectura de 25 capítulos | **Resiste.** 19 elementos sin cambios de fondo, 8 con ampliación interna, 6 títulos propuestos para revisión, ninguno sobra y no hace falta añadir ninguno. |
+| Arquitectura de las 27 piezas | **Resiste.** 19 sin cambios de fondo, 8 con ampliación interna, 6 títulos propuestos para revisión, ninguna sobra y no hace falta añadir ninguna. |
 | Herramientas | 16 de 18 funcionan en ambas rutas. 1 con ajuste menor. **1 requiere decisión** (matriz de autoridad, A-10). |
 | Índice de Dependencia | Renombrado, 11 preguntas reformuladas, escala de rótulos neutros, clave de lectura para quien trabaja solo, limitación 9 nueva. **Sin tocar número de preguntas, dimensiones, escala, fórmula ni rangos.** Versión 2.0. |
 | V-08 y V-09 | **Cerradas**, revisando antes cada alternativa a la luz del público ampliado. |

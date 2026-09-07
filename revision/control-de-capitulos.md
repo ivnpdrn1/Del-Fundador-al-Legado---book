@@ -3,6 +3,7 @@
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
 **Estado del manuscrito a 2026-09-07: 2 de 27 piezas escritas. 5.591 palabras.**
+**Piezas = 25 capítulos numerados + introducción + conclusión** (`03-indice-maestro.md` §0).
 **Recursos: 1 de 18 redactado, versión 2.0 (2.490 palabras, no computan en el manuscrito).**
 
 Cifras posteriores a la **revisión conceptual 2.2** del 2026-09-07, que amplió el público

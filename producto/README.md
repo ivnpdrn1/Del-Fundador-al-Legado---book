@@ -46,7 +46,7 @@ Y su corolario:
 | Archivo | Qué contiene |
 |---|---|
 | `01-vision-y-principios.md` | Qué es la plataforma, los doce principios, el embudo de valor, el modelo de suscripción conceptual, propiedad de los datos, privacidad, profesiones reguladas y el backlog de investigación. |
-| `02-mapa-libro-plataforma.md` | La matriz de los veintisiete capítulos: qué comprende el lector, qué genera, qué activo digital le corresponde y qué puede hacer la plataforma en cada punto. |
+| `02-mapa-libro-plataforma.md` | La matriz de las **veintisiete piezas del manuscrito** —25 capítulos numerados más introducción y conclusión—: qué comprende el lector, qué genera, qué activo digital le corresponde y qué puede hacer la plataforma en cada punto. |
 | `03-arquitectura-funcional.md` | Módulos, capas técnicas conceptuales, modelo del ADN Empresarial, onboarding, progreso, prueba de ausencia, asistente, progresión de la IA y madurez. |
 | `04-mapa-herramientas.md` | Las dieciocho herramientas del libro, una a una, con su equivalente digital, su IA posible, su supervisión y su ruta. |
 

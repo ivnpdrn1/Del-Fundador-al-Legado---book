@@ -66,25 +66,38 @@ se hace sola.
 
 ## 3. Los cuatro niveles de presencia editorial
 
-| Nivel | Qué se dice | Dónde empieza |
-|---|---|---|
-| **1 — Necesidad** | El lector descubre que necesita registrar, documentar, organizar, medir, transferir y verificar. **No se menciona ningún producto.** | Capítulos 1 a 5 |
-| **2 — Herramientas** | Se dice que esto puede llevarse en papel, en documentos, en hojas de cálculo, en un repositorio compartido o en un sistema. **Sin plataforma concreta.** | Capítulo 6 (alusión), capítulo 9 (mención explícita de opciones) |
-| **3 — Plataforma** | Se presenta que existe —o puede existir— una plataforma diseñada para ejecutar el Método LEGADO. | **Capítulo 11**, una sola vez |
-| **4 — IA y Gemelo** | Funciones asistidas por IA. **Gemelo de IA solo desde el capítulo 15.** | 12-14; gemelo en 15 |
+Los niveles describen el recorrido del lector. **La regla operativa son las cinco categorías
+del apartado 5**, y en caso de discrepancia manda el apartado 5.
+
+| Nivel | Qué se dice | Dónde | Categoría |
+|---|---|---|---|
+| **1 — Necesidad** | El lector descubre que necesita registrar, documentar, organizar, medir, transferir y verificar. **No se menciona ningún producto ni ninguna herramienta.** | Capítulos 1 a 8, y 10 | **A** |
+| **1 bis — Organización explícita** | Se dice que estos documentos necesitan un sitio, una fecha y un responsable. Sigue sin hablarse de herramientas. | Capítulo 6 | **A** |
+| **2 — Herramientas** | Se dice que esto puede llevarse en papel, en documentos, en hojas de cálculo, en un repositorio compartido o en un sistema. **Genérico, en plural y sin plataforma concreta.** | Final del capítulo 9 | **B** |
+| **3 — Plataforma** | Se presenta que existe —o puede existir— una plataforma diseñada para ejecutar el Método LEGADO. | **Capítulo 11**, una sola vez | **C + D + E** |
+| **4 — IA y Gemelo** | Funciones asistidas por IA. **Gemelo de IA solo desde el capítulo 15.** | 12-15; gemelo en 15 | **C** |
 
 ## 4. Momentos exactos, decididos
 
 Ninguno de estos se mueve sin registrar una decisión.
 
-| Clave | Momento | Forma | Extensión máxima |
-|---|---|---|---|
-| **A. Primera alusión indirecta** | Capítulo 6 | Una frase: estos documentos necesitan un sitio, una fecha y un responsable. Sin decir «digital». | 1 frase |
-| **B. Primera mención de herramientas digitales** | Final del capítulo 9 | Párrafo breve: a partir de aquí el material crece; puede llevarse en papel, en documentos, en un repositorio o en un sistema. **Neutro, sin marca.** | 1 párrafo |
-| **C. Presentación explícita de la plataforma** | **Capítulo 11**, sección delimitada al final | Qué es, qué hace, que es opcional y que el libro funciona sin ella. | **450 palabras** |
-| **D. Primera invitación al lector** | Pie de la herramienta 1, en el anexo de recursos | Versión digital gratuita del Índice. **No en el cuerpo del capítulo 1.** | 2 frases |
-| **E. Primeras funciones de IA** | Capítulos 12 a 14 | Menciones funcionales de una frase. El **Asistente de ADN Empresarial** se nombra en el 14, donde ya se exige mostrar la evidencia. | 1 frase por capítulo |
-| **F. Gemelo de IA** | **Capítulo 15 o posterior. Nunca antes.** | Según D-045 y V-25b. | — |
+**Aviso de nomenclatura.** Los momentos se numeran **M1 a M6** para no confundirlos con las
+cinco **categorías A a E** del apartado 5. Momento = cuándo ocurre; categoría = qué clase de
+frase es.
+
+| Momento | Cuándo | Forma | Categoría | Extensión máxima |
+|---|---|---|---|---|
+| **M1. Primera alusión de organización** | Capítulo 6 | Una frase: estos documentos necesitan un sitio, una fecha y un responsable. Sin decir «digital». | **A** | 1 frase |
+| **M2. Primera alusión a herramientas o sistemas** | Final del capítulo 9 | Párrafo breve: a partir de aquí el material crece; puede llevarse en papel, en documentos, en un repositorio o en un sistema. **Genérico, en plural, sin marca.** | **B** | 1 párrafo |
+| **M3. Presentación explícita de la plataforma** | **Capítulo 11**, sección delimitada al final | Qué es, qué hace, que es opcional y que el libro funciona sin ella. **Primera vez que el libro identifica la plataforma.** | **D** (+ C, + 1 E al cierre) | **450 palabras** |
+| **M4. Primera invitación al lector** | Pie de la herramienta 1, en el anexo de recursos | Versión digital gratuita del Índice. **No en el cuerpo del capítulo 1.** | **E** | 2 frases |
+| **M5. Primeras funciones de IA** | Capítulos 12 a 15 | Menciones de una frase. El **Asistente del ADN Empresarial** se nombra en el 14, donde ya se exige mostrar la evidencia. | **C** | 1 frase por capítulo |
+| **M6. Gemelo de IA** | **Capítulo 15 o posterior. Nunca antes.** | Según D-045 y V-25b. | **C** | — |
+
+**M4 es cronológicamente anterior a M1**, porque el pie de la herramienta 1 se lee al hacer
+el ejercicio del capítulo 1. No es una contradicción: el anexo no es un capítulo, y por eso
+la invitación no cae bajo la prohibición de los capítulos 1 a 10. Es la única puerta de
+entrada temprana, es gratuita y entrega un instrumento que el libro ya publica completo.
 
 **Por qué el capítulo 11 y no la frontera entre las Partes II y III.** Se evaluó esa
 frontera, que era la hipótesis de partida, y se descartó por precisión: el capítulo 11 trata
@@ -94,26 +107,88 @@ capítulo está explicando. Además, situarla en el 11 la deja **antes** de los 
 inteligencia artificial, de modo que el lector la conoce como un sitio donde ordenar cosas y
 no como un producto de IA. Eso protege la secuencia del libro.
 
-**Por qué la invitación va al pie de la herramienta y no al capítulo 1.** Chapter 1 es donde
-se gana o se pierde al lector. Una invitación en su cuerpo lo convertiría en un embudo. En
+**Por qué la invitación va al pie de la herramienta y no al capítulo 1.** El capítulo 1 es
+donde se gana o se pierde al lector. Una invitación en su cuerpo lo convertiría en un embudo. En
 el pie de la herramienta, en el anexo, es lo que es: una comodidad opcional para un
 instrumento que el libro ya entrega completo.
 
-## 5. Presupuesto de menciones: máximo cinco
+## 5. Qué cuenta como mención: cinco categorías
 
-Contadas en todo el manuscrito. **Se cuentan en la Etapa 4 y un exceso vuelve a revisión.**
+**Corregido el 2026-09-07 (Etapa 2.5.1).** La versión anterior de este apartado y de D-053
+usaban la palabra «mención» con dos significados distintos y enunciaban la regla como una
+prohibición con excepciones, lo que la hacía ambigua. Se sustituye por cinco categorías
+definidas y una tabla que dice, para cada capítulo, qué está permitido.
 
-| Tipo | Máximo | Dónde |
-|---|---|---|
-| **Presentación explícita** | 1 | Capítulo 11 |
-| **Invitación con enlace o código** | **3** | Pie de la herramienta 1; final de la sección del capítulo 11; anexo de recursos |
-| **Menciones funcionales** de una frase | 7 | 11, 12, 13, 14, 15, 19, 24 |
-| En las Partes I y IV | **0 invitaciones** | Prohibido |
-| En la conclusión | 0 o 1, y solo si no rompe el cierre emocional | A decidir en la Etapa 3 |
+### 5.1 Las cinco categorías
 
-**Prohibido**: llamada a la acción al final de un capítulo que no sea el 11; mencionar la
-plataforma en un pie de herramienta que no sea el de la herramienta 1; y cualquier mención
-en los capítulos 1 a 5, 17, 18, 20, 21, 22, 23 y 25.
+| | Categoría | Qué es | ¿Es una mención de la plataforma? |
+|---|---|---|---|
+| **A** | **Lenguaje genérico de organización** | Hablar de ordenar, archivar, fechar, asignar un responsable, mantener algo vivo. | **No.** Es contenido del método. |
+| **B** | **Alusión funcional a herramientas o sistemas** | Decir que esto puede llevarse en papel, en documentos, en hojas de cálculo, en un repositorio compartido o en un sistema. Genérico y en plural. | **No**, siempre que no identifique ninguna plataforma concreta ni sugiera que existe una nuestra. |
+| **C** | **Mención identificable de nuestra plataforma** | Cualquier frase de la que un lector pueda deducir que existe, o existirá, una plataforma de este proyecto. | **Sí.** |
+| **D** | **Presentación explícita del producto** | Qué es, qué hace, para qué sirve, que es opcional. | **Sí.** |
+| **E** | **Invitación o llamada a la acción** | Enlace, código, «entre en», «regístrese», «pruébelo». | **Sí.** |
+
+**Prueba para distinguir B de C**, cuando haya duda al redactar:
+
+> Si al leer la frase el lector puede pensar *«ah, entonces estos autores tienen una
+> herramienta»*, es **C**. Si solo puede pensar *«tendré que buscar dónde guardar esto»*, es
+> **B**.
+
+En caso de duda irresoluble, la frase se trata como **C** y se aplica la restricción más
+severa.
+
+### 5.2 Qué está permitido en cada capítulo
+
+Regla enunciada en positivo, para que no haga falta interpretar excepciones.
+
+| Capítulos | A | B | C | D | E |
+|---|---|---|---|---|---|
+| **1 a 5** | ✅ siempre | ❌ | ❌ | ❌ | ❌ |
+| **6** | ✅ **incluida la alusión decidida**: estos documentos necesitan un sitio, una fecha y un responsable | ❌ | ❌ | ❌ | ❌ |
+| **7, 8, 10** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **9** | ✅ | ✅ **una vez**, el párrafo neutro del final | ❌ | ❌ | ❌ |
+| **11** | ✅ | ✅ | ✅ | ✅ **1 vez, 450 palabras máximo** | ✅ **1** |
+| **12, 13, 14, 15** | ✅ | ✅ | ✅ **1 frase por capítulo** | ❌ | ❌ |
+| **16** | ✅ | ✅ | ❌ | ❌ | ❌ |
+| **17, 18, 20, 21, 22, 23, 25** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **19 y 24** | ✅ | ✅ | ✅ **1 frase por capítulo** | ❌ | ❌ |
+| **Pie de la herramienta 1**, en el anexo | ✅ | ✅ | ✅ | ❌ | ✅ **1** |
+| **Anexo de recursos** | ✅ | ✅ | ✅ | ❌ | ✅ **1** |
+| **Conclusión** | ✅ | ❌ | 0 o 1, **a decidir en la Etapa 3** (V-30b) | ❌ | ❌ |
+
+### 5.3 La regla de los capítulos 1 a 10, sin ambigüedad
+
+> **En los capítulos 1 a 10 no hay ninguna mención identificable de nuestra plataforma,
+> ningún nombre de producto, ninguna venta y ninguna llamada a la acción.** Es decir: **cero
+> de C, cero de D y cero de E.**
+>
+> Lo que sí puede haber: **A en cualquiera de ellos**, y **B una sola vez, en el capítulo 9**.
+
+Esto no es una excepción a la prohibición: es que **A y B no son menciones de la
+plataforma**. La alusión del capítulo 6 es categoría A —habla de organizar documentos, no de
+herramientas— y el párrafo del capítulo 9 es categoría B —nombra opciones genéricas en
+plural, ninguna nuestra—.
+
+### 5.4 Presupuesto numérico
+
+| Tipo | Máximo en todo el manuscrito |
+|---|---|
+| **D — presentación explícita** | **1** (capítulo 11) |
+| **E — invitaciones** | **3** (pie de la herramienta 1; final de la sección del capítulo 11; anexo de recursos) |
+| **D + E, más la posible línea de la conclusión** | **5 menciones destacadas** |
+| **C — menciones identificables de una frase** | **7** (11, 12, 13, 14, 15, 19, 24) |
+| **B — alusiones funcionales** | 1 en el capítulo 9; libres en los capítulos 11 a 16, 19 y 24 |
+| **A — lenguaje de organización** | Sin límite. Es contenido del libro. |
+
+**Se cuentan en la Etapa 4 (V-26b) y un exceso vuelve a revisión.**
+
+### 5.5 Prohibiciones que no dependen del capítulo
+
+1. Llamada a la acción al final de un capítulo que no sea el 11.
+2. Mencionar la plataforma en el pie de una herramienta que no sea la 1.
+3. Cualquier C, D o E en los capítulos 1 a 10, 16, 17, 18, 20, 21, 22, 23 y 25.
+4. Cualquier B en los capítulos 1 a 8, 10, 17, 18, 20, 21, 22, 23 y 25.
 
 ## 6. Cómo se escribe cuando se menciona
 
@@ -170,3 +245,6 @@ Señales de alarma que obligan a revisar:
 8. La pregunta del apartado 8 se responde afirmativamente para cada mención.
 9. Lectura seguida de la Parte II a la Parte III comprobando que la aparición de la
    plataforma no rompe el tono.
+10. **Clasificación de cada aparición según las cinco categorías del apartado 5.1**, y
+    contraste con la tabla del 5.2. Una frase mal clasificada como B cuando es C es el
+    error más probable de la Etapa 3.

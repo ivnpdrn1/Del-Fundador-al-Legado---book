@@ -41,7 +41,9 @@ aquí destruye la credibilidad más que un error de fondo.
 | **Componentes del ADN Empresarial** | **10: conocimiento, experiencia, criterio, patrones de decisión, procesos, excepciones, relaciones, cultura y principios, memoria histórica, estilo de supervisión** | Intro, 2, 6-9 | Intro (definición breve) ✓ |
 | **Capas de tratamiento** | **8: A conocimiento, B criterio, C procedimiento, D decisión, E automatización, F asistencia, G autonomía delegada, H supervisión** | 2, 9, 11-16 | — |
 | **Escalones de la arquitectura conceptual** | **7: inteligencia de la persona, ADN Empresarial, clonación del ADN, Método LEGADO, sistemas y personas con IA supervisada, Gemelo de IA (opcional), Legado Inteligente** | Intro, 15, 25 | — |
-| **Menciones de la plataforma en el manuscrito** | **Máximo 5 destacadas + 7 funcionales** | 6, 9, 11, 12, 13, 14, 15, 19, 24, anexo | Ninguna escrita todavía |
+| **Categorías de mención de la plataforma** | **5: A lenguaje de organización · B alusión a herramientas · C mención identificable · D presentación explícita · E invitación. A y B no son menciones** | Norma en `16-...` §5 | — |
+| **Menciones de la plataforma en el manuscrito** | **Máximo 5 destacadas (D+E) + 7 de categoría C** | C en 11-15, 19, 24; D en 11; E en el pie de la herramienta 1, el 11 y el anexo | Ninguna escrita todavía |
+| **Capítulos con cero C, D y E** | **1 a 10, 16, 17, 18, 20-23 y 25** | — | — |
 | **Extensión de la presentación de la plataforma** | **450 palabras, capítulo 11** | 11 | — |
 | **Escalas del proyecto** | **2, y no habrá una tercera: Índice de Dependencia 0-72 y niveles de autonomía 0-6** | 1, 8, 11-16 | ✓ |
 | **Puntos del continuo del retiro** | **8, del cien por cien operativo a la sucesión** | Intro, 5, 22 | Intro ✓ |
@@ -55,7 +57,8 @@ aquí destruye la credibilidad más que un error de fondo.
 | Horizonte realista de la transición completa | 18 a 36 meses desde el nivel 0 | Intro, 5, 23 | Intro ✓ |
 | Preguntas de la promesa | 4 | Intro, conclusión | Intro ✓ |
 | Partes del libro | 5 | Todas | Intro ✓ |
-| Capítulos | 25, más introducción y conclusión | Todas | Intro ✓ |
+| Capítulos numerados | **25** | Todas | Intro ✓ |
+| Piezas del manuscrito | **27** = 25 capítulos numerados + introducción + conclusión. Terminología obligatoria en `03-indice-maestro.md` §0 | Todas | ✓ |
 | **Preguntas del Índice de Dependencia** | **24** | 1, herramienta 1, 6, 24, 25 | Cap. 1 ✓, herramienta 1 ✓ |
 | **Dimensiones del Índice** | **8** | 1, herramienta 1, 6 | Cap. 1 ✓, herramienta 1 ✓ |
 | **Escala de respuesta del Índice** | **0 a 3** | Herramienta 1 | Herramienta 1 ✓ |

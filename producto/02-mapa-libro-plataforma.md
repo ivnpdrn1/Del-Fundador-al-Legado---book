@@ -2,9 +2,13 @@
 
 **Etapa:** 2.5 · **Estado:** arquitectura conceptual.
 
-Matriz de los veintisiete elementos del manuscrito. **No es un mapa de pantallas.** Un
-capítulo no equivale a una pantalla: algunos son conceptuales o emocionales y no generan
-nada digital, y otros alimentan varios módulos a la vez.
+Matriz de las **veintisiete piezas del manuscrito**: los 25 capítulos numerados más la
+introducción y la conclusión. Terminología fijada en `editorial/03-indice-maestro.md`
+apartado 0.
+
+**No es un mapa de pantallas.** Un capítulo no equivale a una pantalla: algunos son
+conceptuales o emocionales y no generan nada digital, y otros alimentan varios módulos a la
+vez.
 
 **La aplicación sigue la lógica del método, no el índice del libro.** Este mapa sirve para
 saber qué entiende el usuario en cada punto, no para copiar la tabla de contenidos.
@@ -99,22 +103,24 @@ y no antes.
 | Momento | Capítulo | Qué |
 |---|---|---|
 | Primera invitación | Pie de la herramienta 1, en el anexo | Versión digital gratuita del Índice |
-| Primera alusión indirecta | 6 | Una frase: esto necesita sitio, fecha y responsable |
-| Primera mención de herramientas digitales | Final del 9 | Un párrafo neutro, sin plataforma concreta |
-| **Presentación explícita** | **11** | Sección de 450 palabras, al final |
+| Primera alusión de organización (**categoría A**) | 6 | Una frase: esto necesita sitio, fecha y responsable. **No es una mención de la plataforma** |
+| Primera alusión a herramientas o sistemas (**categoría B**) | Final del 9 | Un párrafo neutro, genérico y en plural. **No es una mención de la plataforma** |
+| **Presentación explícita (categoría D)** | **11** | Sección de 450 palabras, al final. **Primera vez que el libro identifica la plataforma** |
 | Funciones de IA | 12, 13, 14 | Una frase por capítulo |
 | Asistente del ADN Empresarial | 14 | Se nombra por primera vez |
 | **Gemelo de IA** | **15 o posterior** | Nunca antes (V-25b) |
 | Menciones funcionales | 19, 24 | Una frase cada una |
 | Recurso final | Anexo de recursos | Enlace y explicación |
 
-**Capítulos donde la plataforma no puede mencionarse de ninguna forma en el manuscrito:**
-1 a 10, 16, 17, 18, 20, 21, 22, 23 y 25. La conclusión queda a decidir en la Etapa 3.
+**Capítulos sin ninguna mención identificable de nuestra plataforma** —cero de las
+categorías C, D y E de `editorial/16-libro-metodo-y-plataforma.md` §5—: **1 a 10, 16, 17,
+18, 20, 21, 22, 23 y 25.** La conclusión queda a decidir en la Etapa 3 (V-30b).
 
-Que un capítulo aparezca en esa lista **no impide que el producto tenga funciones
+**Esto no impide que esos capítulos hablen de organizar el material.** La alusión del
+capítulo 6 es **categoría A**, lenguaje genérico de organización, y el párrafo del capítulo
+9 es **categoría B**, opciones genéricas en plural. Ninguna de las dos es una mención de la
+plataforma, y por eso no son excepciones a la regla: están fuera de ella.
+
+Que un capítulo aparezca en esa lista **tampoco impide que el producto tenga funciones
 asociadas** a lo que ese capítulo enseña: impide que el libro hable de ellas. Es la
 distinción del aviso de lectura del principio, y es la que mantiene el manuscrito limpio.
-
-Las excepciones dentro de ese bloque son las ya decididas: la alusión indirecta del capítulo
-6, que no nombra nada digital, y el párrafo neutro del final del capítulo 9, que no nombra
-ninguna plataforma.
