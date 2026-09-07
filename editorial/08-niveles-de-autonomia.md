@@ -147,7 +147,7 @@ que cumplen una función**, nunca como una lista de compra.
 | Procesos digitalizados | Que lo que hoy se hace de memoria deje rastro. |
 | Repositorio documental | Que los documentos estén donde alguien más pueda encontrarlos. |
 | Manual operativo | Que se sepa cómo se hace cada cosa. |
-| Manual de criterio del fundador | Que se sepa por qué se hace así. |
+| Manual de criterio | Que se sepa por qué se hace así. |
 | Permisos por responsabilidad | Que cada persona vea y pueda hacer lo que le corresponde. |
 | Registros de auditoría | Que quede constancia de quién hizo qué y cuándo. |
 | Tableros de indicadores | Que el estado del negocio se vea sin preguntar. |

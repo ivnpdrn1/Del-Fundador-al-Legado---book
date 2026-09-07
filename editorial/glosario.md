@@ -24,7 +24,7 @@ libro.
 | Organización | Modo conocido, repetible y verificable de que las decisiones se tomen bien aunque la persona más experimentada no esté presente. Distinta de «empresa», que designa la actividad. | 1 |
 | Conocimiento crítico | Aquello que la empresa necesita para funcionar y que hoy solo existe en la cabeza de una persona. | 2 |
 | Criterio | El porqué de una decisión: los motivos que llevan a resolver de una manera y no de otra. Distinto del procedimiento, que es el cómo. | 2 |
-| Manual de criterio del fundador | Documento que recoge los motivos de las decisiones habituales, no los pasos para ejecutarlas. | 9 |
+| Manual de criterio | Documento que recoge los motivos de las decisiones habituales, no los pasos para ejecutarlas. | 9 |
 | Excepción | Desviación autorizada de una regla, registrada con su motivo, su vigencia y la persona que la revisa. | 8 |
 | Memoria institucional | Conocimiento que pertenece a la organización y sobrevive a la salida de cualquier persona. | 2 |
 | Prueba de ausencia | Ejercicio controlado en el que la empresa opera sin el fundador durante un plazo definido, con observación y registro. | 24 |

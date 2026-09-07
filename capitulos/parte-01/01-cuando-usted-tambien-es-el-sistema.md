@@ -1,7 +1,7 @@
 ---
 capitulo: 01
 parte: 1
-titulo: "Cuando el propietario también es el sistema"
+titulo: "Cuando usted también es el sistema"
 etapa_metodo: "L"
 estado: borrador
 palabras: 2322
@@ -11,7 +11,7 @@ afirmaciones_por_verificar: []
 ultima_actualizacion: "2026-09-07"
 ---
 
-# 1. Cuando el propietario también es el sistema
+# 1. Cuando usted también es el sistema
 
 Son las siete y veinte de la mañana. Nadie le ha interrumpido todavía y usted ya ha
 resuelto tres cosas.

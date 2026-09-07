@@ -13,9 +13,30 @@
 **Etapa 2 — Muestra editorial: COMPLETADA.**
 **Revisión intermedia 2.1: COMPLETADA el 2026-09-07.**
 **Revisión conceptual extraordinaria 2.2: COMPLETADA el 2026-09-07.**
+**Revisión de decisiones 2.3: COMPLETADA el 2026-09-07.**
 
 El proyecto está **detenido** a la espera de autorización expresa del autor para comenzar
 la Etapa 3 — Producción. El capítulo 2 no se ha escrito, por instrucción expresa.
+
+### Revisión de decisiones 2.3 (2026-09-07)
+
+Cierre de las decisiones estratégicas que la Etapa 2.2 dejó abiertas. **No es una etapa de
+escritura**: no se tocó el manuscrito salvo el título del capítulo 1.
+
+| Asunto | Resultado |
+|---|---|
+| **A-09, disponibilidad del título** | **Cerrado en parte.** La solicitud estadounidense KNOWLEDGE CLONING (serie 87479780, clase 035, Motion Builders, LLC) está **abandonada desde 2018**; no hay registro vivo. Verificado en el expediente oficial del USPTO. **Un agregador comercial la presentaba como activa: era incorrecto.** Lo no comprobado —España, UE, América Latina, versión española, derechos de uso anterior, dominios— pasa a V-22, para profesional de propiedad intelectual, y **no bloquea la publicación del libro**. |
+| **Tres activos separados (D-035)** | Título del libro, nombre del método y futura marca comercial dejan de tratarse como uno solo. **La metodología sigue llamándose MÉTODO LEGADO.** El riesgo de marca se concentra en el uso comercial, no en el título. |
+| **A-12, subtítulo** | **Cerrado (D-034):** *Cómo convertir su experiencia y su criterio en un negocio que funcione sin depender de usted.* Se descartó la opción A por terminar en la tecnología, y se corrigieron los dos defectos de la opción B: el tuteo, que D-006 prohíbe, y el referente desplazado. |
+| **D-025 / V-10b, promesa** | **Cerrado.** Confirmada por el autor, junto con el enunciado **permanente** del principio central (D-040): la participación debe dejar de ser una obligación y convertirse en una elección. |
+| **A-10, herramienta 8** | **Cerrado (D-037):** una herramienta con modo A y modo B. Arquitectura conceptual redactada; la herramienta completa se hará con el capítulo 10. **Se mantienen las 18 herramientas.** |
+| **V-19, títulos** | **Cerrado (D-041):** seis títulos de capítulo y dos de parte aplicados. El del capítulo 17 se adoptó en versión distinta de la propuesta, por ser esta demasiado genérica. La Parte V conserva «Del fundador al legado» como homenaje deliberado. |
+| **V-20b, imagen de la cabeza** | **Cerrado (D-039):** no se eleva el límite. Pasa de cuota a control estilístico, con seis alternativas semánticas que no son sustituciones mecánicas. |
+| **A-11, casos de ruta B** | **Cerrado (D-038):** matriz de diez tipos de actividad, con cautela reforzada para el profesional con licencia, que nunca se nombra. |
+| **V-51** | **Sigue abierta**, como pidió el autor. El protocolo de lectura se preparará más adelante; no se ejecuta ahora. |
+
+**Fuentes verificadas nuevas:** 2 (F-013, expediente USPTO; F-014, práctica del USPTO sobre
+títulos de obra única). Total: 14.
 
 ### Revisión conceptual extraordinaria 2.2 (2026-09-07)
 
@@ -89,6 +110,7 @@ las ocho dimensiones, la escala 0-3 ni la estructura general.
 | 17 | Detención a la espera de autorización de la Etapa 3 | **En vigor** | — |
 | 18 | **Revisión intermedia 2.1**, encargada por el autor | Hecho | `revision/control-de-calidad-etapa-2.md` |
 | 19 | **Revisión conceptual extraordinaria 2.2**: ampliación del público y del problema central | Hecho | `revision/control-de-calidad-etapa-2.md`; `editorial/13-` y `14-` |
+| 20 | **Revisión de decisiones 2.3**: título, subtítulo, promesa, herramienta 8, títulos de capítulo y casos de ruta B | Hecho | `editorial/15-titulo-metodo-y-marca.md` |
 
 ## 3. Trabajo en progreso
 
@@ -134,7 +156,7 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
 | Avance sobre el objetivo | 10,4 % |
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
-| Documentación del proyecto | 35 archivos |
+| Documentación del proyecto | 36 archivos |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -143,13 +165,13 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **12** |
+| Fuentes verificadas | **14** |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **7** |
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **4 de 12** (Q-01 a Q-04) |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
-| Asuntos abiertos del proyecto | **9** (A-01, A-02, A-07, A-08, A-09, A-10, A-11, A-12 y el seguimiento de A-04) |
+| Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
 | Fuentes verificadas sobre el público nuevo | **0.** Vacío declarado al lector en la introducción. |
 
@@ -172,7 +194,8 @@ comprobarlo** (D-016).
 | Que el contenido tecnológico caduque. | Media | Escritura por función, no por producto. Cero menciones de marca. |
 | Que el libro no haya sido leído nunca por su lector real. | **Alta** | **No controlado.** Ver V-51, que ahora exige lectores de **los dos perfiles**. Es la recomendación principal antes de la Etapa 3. |
 | Que servir a dos públicos haga perder foco al libro. | **Media, nuevo** | Arquitectura integrada (D-031), el principio se enuncia una sola vez y está prohibido reexplicar la doble escala en cada capítulo. |
-| Que el título *Clonación del Conocimiento* asuste al lector A por evocar la réplica de personas. | **Media-alta, nuevo** | Evaluado en `00-concepto-editorial.md` §6 bis. El libro lo desactiva en la introducción; la portada no tiene esa oportunidad. Se somete a V-51 y a A-09. |
+| Que el título *Clonación del Conocimiento* asuste al lector A por evocar la réplica de personas. | **Media-alta** | Evaluado en `15-titulo-metodo-y-marca.md` §3. El libro lo desactiva en la introducción; la portada no tiene esa oportunidad. **Riesgo de marca reducido** tras A-09. Se somete a V-51: si un propietario del perfil A reacciona con recelo, se reabre la decisión. |
+| Que el nombre del libro arrastre al método y a la futura marca comercial. | **Resuelto** | D-035: tres activos separados. El método sigue siendo MÉTODO LEGADO, que es donde el riesgo de clase 035 no llega. |
 | Que se escriba sobre profesionales independientes sin evidencia. | **Media, nuevo** | Nueve preguntas de investigación nuevas. Regla V-41 aplicada a los dos públicos por igual. |
 | Que la ampliación infle la extensión del libro. | **Media, nuevo** | Las dos piezas crecieron un 20 %. Guarda de D-030: ejemplos en paralelo de 120 palabras como máximo y 15 % de tolerancia por capítulo. |
 | Que una afirmación de frecuencia sin cifra se lea como un hecho comprobado. | **Media, nuevo** | Detectado por el autor en la revisión 2.1. Once enunciados corregidos. Barrido automático incorporado a la revisión G de cada bloque. |
@@ -250,15 +273,11 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Comprobar A-09: disponibilidad de *Clonación del Conocimiento*** como título, marca y
-   dominio, y su posible colisión con terminología de aprendizaje automático. Es ahora el
-   título de trabajo y conviene saberlo antes de escribir veinticuatro capítulos alrededor
-   de él.
-2. **Decidir el subtítulo (A-12).** El propuesto sitúa la inteligencia artificial en el
-   lugar del destino, lo que invierte la secuencia que gobierna el libro. Hay cuatro
-   alternativas redactadas.
-3. **Confirmar la promesa ampliada (D-025, V-10b).** Ya está aplicada; requiere su
-   confirmación por ser el control central de coherencia.
+1. **Autorizar la Etapa 3**, o pedir antes la lectura de prueba (V-51). Las decisiones
+   estratégicas están cerradas y no queda nada que bloquee la producción.
+2. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso
+   comercial del nombre. No urge para publicar el libro.
+3. Decidir sobre **D-005 / P-2**, que afecta al primer bloque de la Etapa 3.
 2. **Entregarla a dos o tres propietarios de empresa familiar** del perfil del lector
    principal (V-51). Es la verificación de mayor valor y la más barata en este momento:
    corregir el tono ahora cuesta poco; corregirlo con veinticinco capítulos escritos,

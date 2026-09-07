@@ -39,8 +39,17 @@ contribuir de forma demostrable a cumplirla, y esa contribución se registra en
 «su negocio funcionar bien sin depender de usted». Dos motivos: «empresa familiar» era el
 último elemento de la promesa que excluía al profesional independiente, y «sin depender de
 usted» es además más exacto que «sin usted», porque el libro no promete su ausencia sino el
-fin de la obligación. Ningún otro elemento cambió. **Requiere confirmación del autor, por
-ser el control central de coherencia del manuscrito.**
+fin de la obligación. Ningún otro elemento cambió.
+
+**CONFIRMADO POR EL AUTOR el 2026-09-07.** D-025 y V-10b quedan cerradas. Con la
+confirmación, el autor fijó además el enunciado permanente del principio central:
+
+> **El objetivo no es retirar obligatoriamente a esa persona. El objetivo es que su
+> participación deje de ser una obligación operativa y se convierta en una elección.**
+
+Este enunciado es **permanente** (D-040): no se revisa en la Etapa 4 ni en ninguna otra, y
+ningún capítulo puede contradecirlo. Aparece literalmente en la introducción y se retoma en
+el capítulo 1. Su comprobación se añade a la tabla del apartado 2.1.
 
 **Versión ampliada, para la introducción:**
 
@@ -64,7 +73,8 @@ saca este capítulo de la cabeza del fundador, o qué hace verificable lo que ya
 | Criterio, relaciones, excepciones, controles | El capítulo trabaja al menos uno de los cuatro, y lo dice. |
 | Personas, procesos y tecnología supervisada | El capítulo no propone tecnología antes de haber ordenado lo anterior. |
 | Funcionar bien sin usted | El capítulo mejora alguna de las cuatro preguntas del apartado 5. |
-| Conservar la última palabra | El capítulo no reduce la autoridad del fundador, la traslada a un plano de supervisión. |
+| Conservar la última palabra | El capítulo no reduce la autoridad de quien está al frente, la traslada a un plano de supervisión. |
+| **Elección frente a obligación (D-040)** | **Ningún pasaje del capítulo presenta el retiro como obligatorio ni la participación como un problema.** Lo que se combate es la obligación, no la presencia. |
 
 La columna de comprobación se rellena para cada capítulo en
 `revision/control-de-capitulos.md`, apartado 6.

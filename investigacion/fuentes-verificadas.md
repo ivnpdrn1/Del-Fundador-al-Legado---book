@@ -1,6 +1,6 @@
 # Fuentes verificadas
 
-**Fuentes verificadas a fecha 2026-09-06: 12.**
+**Fuentes verificadas a fecha 2026-09-07: 14.**
 
 Este archivo contiene únicamente fuentes que han sido **abiertas y leídas directamente**
 en el pasaje pertinente. Una fuente que no se haya consultado no se anota aquí, ni
@@ -25,6 +25,8 @@ siquiera como referencia probable. Las candidatas a consultar están en
 | F-010 | Reglamento (UE) 2024/1689, artículo 14, sobre supervisión humana | Parlamento Europeo y Consejo | normativa | Adoptado 2024-06-13; DOUE 2024-07-12 | `https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689` | 2026-09-06 | Para sistemas de IA de alto riesgo: supervisión por personas físicas; conciencia del sesgo de automatización; posibilidad de no usar, ignorar, anular o revertir la salida del sistema; e interrumpirlo mediante un botón de parada o procedimiento equivalente. | 12, 14, 15, 16 | Unión Europea, solo alto riesgo |
 | F-011 | *Business Impact Analysis* | U.S. Department of Homeland Security, Ready.gov | oficial | Consultada en 2026 | `https://www.ready.gov/business-impact-analysis` | 2026-09-06 | El análisis de impacto en el negocio prevé las consecuencias de una interrupción y reúne la información necesaria para diseñar estrategias de recuperación; identifica procesos y recursos críticos. | 4 | Estados Unidos, material gratuito |
 | F-012 | *New Commission guidance will make it easier to transfer ownership of SMEs* | Comisión Europea, DG Mercado Interior, Industria, Emprendimiento y Pymes | oficial | 2026-06-23 | `https://single-market-economy.ec.europa.eu/news/new-commission-guidance-will-make-it-easier-transfer-ownership-smes-2026-06-23_en` | 2026-09-06 | Un número creciente de propietarios de pequeñas empresas de la UE se acerca al retiro sin sucesor designado. No aporta cifras. | Intro | Unión Europea |
+| F-013 | Expediente de la solicitud de marca de servicio **KNOWLEDGE CLONING**, número de serie 87479780 | United States Patent and Trademark Office, sistema TSDR (Trademark Status and Document Retrieval) | oficial | Solicitud presentada 2017-06-07 | `https://tsdr.uspto.gov/statusview/sn87479780` | 2026-09-07 | Estado **abandonada** por falta de respuesta a una acción oficial; fecha de abandono 2018-03-09; clase internacional 035, «business knowledge management services»; titular Motion Builders, LLC. No existe registro vivo. | — | Estados Unidos |
+| F-014 | *Title of a single work refusal and how to overcome the refusal* | United States Patent and Trademark Office | oficial | Consultada en 2026 | `https://www.uspto.gov/trademarks/laws/title-single-work-refusal-and-how-overcome-refusal` | 2026-09-07 | En la práctica estadounidense, el título de una obra única no funciona como marca y no es registrable; el título de una **serie** de obras sí puede registrarse si se acredita su uso como indicador de origen de la serie. | — | Estados Unidos |
 
 ## 2. Fuentes consultadas y descartadas
 
@@ -68,6 +70,8 @@ libro.**
 | Q-03 — Marcos de continuidad y riesgo operativo | F-005, F-006, F-011 | **Resuelta.** |
 | Q-04 — Marcos de riesgo de IA y supervisión humana | F-007, F-008, F-009, F-010 | **Resuelta.** |
 | Q-05 a Q-12 | 0 | Sin iniciar. Se ejecutan por bloques durante la Etapa 3. |
+| Q-13 a Q-21 | 0 | Sin iniciar. Añadidas en la Etapa 2.2. |
+| **A-09 — disponibilidad del título** | F-013, F-014 | **Resuelta 2026-09-07.** Ver apartado 7. |
 
 ## 6. Conclusiones de la investigación previa a la Etapa 2
 
@@ -185,3 +189,72 @@ favorable y conviene aprovecharlo con sobriedad:
 3. Ninguna de estas obligaciones se presentará como aplicable al lector. Tres de los cuatro
    marcos son voluntarios y el cuarto es europeo y limitado a sistemas de alto riesgo.
    Advertencia de jurisdicción obligatoria en los capítulos 15 y 16.
+
+
+## 7. Conclusión de A-09 — la marca KNOWLEDGE CLONING
+
+Investigación ejecutada el 2026-09-07 a partir de la información aportada por el autor.
+**Esto no es asesoría jurídica**; es una comprobación documental cuyo alcance se declara
+al final.
+
+### 7.1 Lo que dice la fuente primaria
+
+La consulta se hizo en el sistema oficial del USPTO (F-013), no en agregadores.
+
+| Dato | Valor |
+|---|---|
+| Marca | KNOWLEDGE CLONING, caracteres estándar |
+| Número de serie | 87479780 |
+| Tipo | Marca de **servicio**, Registro Principal |
+| Presentada | 2017-06-07 |
+| Titular | Motion Builders, LLC |
+| Clase internacional | **035** — «business knowledge management services» |
+| Primer uso declarado | 2017-04-17; en el comercio, 2017-05-22 |
+| **Estado** | **ABANDONADA** por no responder a una acción oficial |
+| Fecha de abandono | **2018-03-09** (notificación 2018-04-18) |
+
+Historial de tramitación: acción oficial no definitiva emitida el 2017-09-08; el
+solicitante nunca respondió; abandono en 2018. **El motivo de esa acción oficial no consta
+en la vista consultada** y no se leyó el documento, de modo que no puede afirmarse si hubo
+objeción por descriptividad, por confusión con otra marca o por otra causa.
+
+### 7.2 Corrección importante sobre las fuentes secundarias
+
+Un agregador comercial de marcas consultado durante la búsqueda presentaba esta solicitud
+como **activa**. **Es incorrecto.** El dato del agregador está desactualizado respecto del
+expediente oficial, que declara el abandono desde 2018.
+
+Se registra porque ilustra por qué el proyecto exige fuente primaria (D-013): una decisión
+estratégica tomada con el dato del agregador habría descartado un título perfectamente
+disponible.
+
+### 7.3 Lo que NO se ha comprobado
+
+Se declara con la misma claridad que lo comprobado:
+
+1. **No se ha buscado en España, la Unión Europea ni América Latina.** Los buscadores
+   públicos de EUIPO y TMview no devolvieron resultados consultables sin credenciales.
+2. **No se ha buscado «CLONACIÓN DEL CONOCIMIENTO»** como marca en ningún registro.
+3. **No se ha comprobado si existen derechos de uso anterior** («common law») derivados del
+   uso comercial que el solicitante declaró en 2017. El abandono de una solicitud federal
+   no extingue por sí mismo los derechos que pueda generar el uso efectivo en el comercio,
+   que suelen ser de alcance geográfico limitado y dependen de que el uso continúe.
+4. **No se ha analizado la doctrina de equivalentes extranjeros**, que en algunos sistemas
+   permite comparar una marca con la traducción de otra. Si es aplicable aquí es
+   exactamente el tipo de cuestión que requiere criterio profesional.
+5. **No se han comprobado dominios.**
+
+### 7.4 Qué se puede concluir, y con qué grado de certeza
+
+| Afirmación | Grado |
+|---|---|
+| No existe registro estadounidense vivo de KNOWLEDGE CLONING derivado de la solicitud 87479780. | **Comprobado en fuente primaria.** |
+| Esa solicitud cubría servicios de consultoría de gestión del conocimiento, clase 035. | **Comprobado.** |
+| En Estados Unidos, el título de un libro único no es registrable como marca; el de una serie sí. | **Comprobado** (F-014). |
+| El riesgo se concentra, por tanto, en el uso **comercial** del nombre —consultoría, formación, software—, no en su uso como título de un libro. | **Inferencia razonada**, no dictamen. |
+| La versión española es un signo literalmente distinto. | Comprobado como hecho lingüístico. **Que eso reduzca el riesgo jurídico no puede afirmarse aquí.** |
+
+**Recomendación:** antes de cualquier uso comercial del nombre —no antes de publicar el
+libro— encargar una búsqueda profesional de marcas en los mercados previstos, que cubra
+las clases 016, 035, 041 y 042 y ambas versiones lingüísticas. El coste de esa búsqueda es
+muy inferior al de renombrar una línea de servicios ya lanzada.

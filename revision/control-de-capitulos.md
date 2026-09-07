@@ -21,15 +21,15 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | # | Capítulo | Parte | Etapa | Estado | Palabras | Objetivo | Recursos producidos | Casos | Afirmaciones abiertas |
 |---|---|---|---|---|---|---|---|---|---|
 | — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.765** | 2.700 | — | — | 0 |
-| 1 | Cuando el propietario también es el sistema | I | L | **borrador** | **2.754** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
+| 1 | Cuando usted también es el sistema | I | L | **borrador** | **2.754** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
 | 2 | El conocimiento que nunca fue escrito | I | E | no iniciado | 0 | 2.000 | — | — | — |
 | 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | I | — | no iniciado | 0 | 1.800 | — | — | — |
 | 4 | El costo de una ausencia inesperada | I | — | no iniciado | 0 | 1.900 | — | — | — |
 | 5 | Retirarse no significa abandonar | I | — | no iniciado | 0 | 2.000 | — | — | — |
-| 6 | Localizar la dependencia del fundador | II | L | no iniciado | 0 | 2.100 | — | — | — |
+| 6 | Localizar la dependencia | II | L | no iniciado | 0 | 2.100 | — | — | — |
 | 7 | El mapa de procesos, decisiones y relaciones | II | E | no iniciado | 0 | 2.300 | — | — | — |
 | 8 | Cómo documentar las excepciones | II | E | no iniciado | 0 | 2.000 | — | — | — |
-| 9 | El Manual de criterio del fundador | II | E | no iniciado | 0 | 2.400 | — | — | — |
+| 9 | El Manual de criterio | II | E | no iniciado | 0 | 2.400 | — | — | — |
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | G | no iniciado | 0 | 2.200 | — | — | — |
 | 11 | Ordenar antes de automatizar | III | A (G previa) | no iniciado | 0 | 2.300 | — | — | — |
 | 12 | La inteligencia artificial como aprendiz | III | A | no iniciado | 0 | 2.200 | — | — | — |
@@ -37,15 +37,15 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 14 | De las alertas a las recomendaciones | III | A | no iniciado | 0 | 2.000 | — | — | — |
 | 15 | Autonomía limitada y aprobación humana | III | A | no iniciado | 0 | 2.200 | — | — | — |
 | 16 | Seguridad, privacidad y auditoría | III | A | no iniciado | 0 | 2.100 | — | — | — |
-| 17 | Preparar al equipo y a la familia | IV | D | no iniciado | 0 | 2.000 | — | — | — |
+| 17 | Preparar al equipo, a la familia y a los clientes | IV | D | no iniciado | 0 | 2.000 | — | — | — |
 | 18 | Delegación progresiva | IV | D | no iniciado | 0 | 2.200 | — | — | — |
 | 19 | El tablero del propietario | IV | O | no iniciado | 0 | 2.000 | — | — | — |
 | 20 | Supervisar sin intervenir en todo | IV | O | no iniciado | 0 | 1.900 | — | — | — |
 | 21 | Qué hacer cuando no existe el sucesor ideal | IV | D | no iniciado | 0 | 2.300 | — | — | — |
-| 22 | El nuevo papel del fundador | V | O | no iniciado | 0 | 2.000 | — | — | — |
+| 22 | Su nuevo papel | V | O | no iniciado | 0 | 2.000 | — | — | — |
 | 23 | Los primeros 100 días de transición | V | D | no iniciado | 0 | 2.200 | — | — | — |
 | 24 | La prueba de ausencia | V | D | no iniciado | 0 | 2.200 | — | — | — |
-| 25 | La empresa que puede continuar | V | O | no iniciado | 0 | 2.000 | — | — | — |
+| 25 | El negocio que puede continuar | V | O | no iniciado | 0 | 2.000 | — | — | — |
 | — | Conclusión | V | O | no iniciado | 0 | 1.500 | — | — | — |
 
 ## 2. Balance por parte

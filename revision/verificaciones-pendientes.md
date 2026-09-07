@@ -3,7 +3,7 @@
 Todo lo que queda por comprobar antes de considerar el libro entregable. Se mantiene
 desde la Etapa 1 hasta la Etapa 5 y se entrega al autor como parte de la entrega final.
 
-**Actualizado: 2026-09-07, tras la revisión conceptual 2.2.**
+**Actualizado: 2026-09-07, tras la revisión de decisiones 2.3.**
 
 ---
 
@@ -22,12 +22,14 @@ Bloquean o condicionan el avance.
 | V-07 | D-001, título definitivo. | Portada y registro comercial. | **Aprobado como título oficial de trabajo.** La confirmación definitiva depende de A-01. |
 | V-08 | Redacción definitiva de las cinco preguntas ambiguas del Índice: 21, 5, 3, 20 y 7. | — | **CERRADA 2026-09-07.** Autorizada e implementada en la Etapa 2.2, revisando antes cada alternativa a la luz del público ampliado. D-029. |
 | V-09 | Rótulos de la escala 0-3: encajaban peor en las preguntas de estado. | — | **CERRADA 2026-09-07.** Adoptados rótulos neutros por frecuencia de casos, con segunda columna que conserva la lectura por actor. Valores, recorrido y rangos sin cambios. D-028. |
-| V-10b | **Nuevo.** Confirmación de la promesa ampliada (D-025). | Es el control central de coherencia del manuscrito. | **Abierta — requiere confirmación del autor.** Ya aplicada en la introducción. |
-| V-17 | **Nuevo.** Subtítulo definitivo (A-12). | Portada y contraportada. | **Abierta — requiere decisión.** Cuatro alternativas en `00-concepto-editorial.md` §6 bis. |
-| V-18 | **Nuevo.** Herramienta 8, matriz de autoridad: opción para la ruta B (A-10). | Redacción del capítulo 10 y de la herramienta. | **Abierta — requiere decisión.** Tres opciones en `03-indice-maestro.md` §5.3. |
-| V-19 | **Nuevo.** Seis títulos de capítulo y dos títulos de parte propuestos para revisión. | Nada de forma inmediata; conviene decidir antes de escribirlos. | **Abierta — requiere decisión.** Listados en `03-indice-maestro.md` §5.1 y §5.2. |
-| V-20b | **Nuevo.** Límite de uso de la imagen de la cabeza: elevarlo a ocho o buscar formulaciones alternativas. | Redacción desde el capítulo 2. | **Abierta — requiere decisión.** Ver `control-de-repeticiones.md` §3. |
-| V-21b | **Nuevo.** Lista de sectores admitidos para casos de la ruta B (A-11). | Casos de la Etapa 3. | **Abierta — requiere decisión.** |
+| V-10b | Confirmación de la promesa ampliada (D-025). | — | **CERRADA 2026-09-07.** Confirmada por el autor, junto con el enunciado permanente del principio central (D-040). |
+| V-17 | Subtítulo (A-12). | — | **CERRADA 2026-09-07.** Adoptado *Cómo convertir su experiencia y su criterio en un negocio que funcione sin depender de usted* (D-034). Tres alternativas conservadas. Revisable antes de publicar, registrando la decisión. |
+| V-18 | Herramienta 8, matriz de autoridad para la ruta B (A-10). | — | **CERRADA 2026-09-07.** Una herramienta con dos modos (D-037). Arquitectura conceptual en `recursos/README.md`; la herramienta completa se redacta con el capítulo 10. |
+| V-19 | Títulos de capítulo y de parte. | — | **CERRADA 2026-09-07.** Aplicados seis títulos de capítulo y dos de parte (D-041); uno se adoptó en versión distinta de la propuesta y se explica por qué. Sigue abierta la **ampliación interna** de ocho capítulos, que se resuelve al escribir cada uno. |
+| V-20b | Límite de uso de la imagen de la cabeza. | — | **CERRADA 2026-09-07.** No se eleva. Pasa de cuota a control estilístico, con seis alternativas semánticas (D-039). |
+| V-21b | Actividades admitidas para casos de la ruta B (A-11). | — | **CERRADA 2026-09-07.** Matriz de diez tipos de actividad (D-038), con cautela reforzada para el profesional con licencia. |
+| V-22 | **Nuevo.** Búsqueda profesional de marcas antes de cualquier **uso comercial** del nombre: España, UE, América Latina, versión española, derechos de uso anterior y dominios; clases 016, 035, 041 y 042. | El activo C, marca de productos y servicios. **No bloquea la publicación del libro.** | **Abierta — requiere profesional de propiedad intelectual.** |
+| V-23b | **Nuevo.** Nombre de una eventual edición en inglés. **No traducir por inercia:** *Knowledge Cloning* es la denominación de la solicitud abandonada y circula comercialmente. | Edición internacional. | **Abierta.** Sin urgencia. |
 
 ## 2. Verificaciones de investigación
 
@@ -38,7 +40,7 @@ Bloquean o condicionan el avance.
 | V-12 | Cerrar toda entrada abierta de `afirmaciones-por-verificar.md`. | Etapa 4 | Sin entradas abiertas a fecha de hoy. Se reabre con cada capítulo nuevo. |
 | V-13 | Recomprobar vigencia de toda fuente con más de doce meses desde su consulta. | Etapa 5 | Sin iniciar. Las doce fuentes actuales se consultaron el 2026-09-06. |
 | V-14 | A-01, disponibilidad del título y ausencia de conflicto de marca. | Antes de la Etapa 5 | **Abierta y ahora ejecutable**: con D-014 los mercados están definidos. Conviene adelantarla. |
-| V-14b | **A-09: disponibilidad de *Clonación del Conocimiento* y *Knowledge Cloning***: libros, marcas, dominios y colisión con terminología de aprendizaje automático. | **Antes de la Etapa 3** | **Abierta. Prioridad alta.** Es el título de trabajo vigente; conviene comprobarlo antes de escribir veinticuatro capítulos alrededor de él. |
+| V-14b | A-09: disponibilidad de *Clonación del Conocimiento* / *Knowledge Cloning*. | — | **CERRADA EN PARTE 2026-09-07.** Comprobado en fuente primaria que la solicitud estadounidense está abandonada desde 2018 y no hay registro vivo (F-013). Riesgo bajo como título de libro. **Lo no comprobado pasa a V-22.** |
 | V-15 | A-07, localizar estadística oficial de empresas familiares en América Latina. | Etapa 4 | Abierta. Prioridad baja: el argumento no depende de la cifra y el vacío está declarado en el texto. |
 | V-16 | A-08, advertir al citar ISO 22301 e ISO 31000 de que son normas de pago. | Capítulos 4 y 16 | Abierta. |
 

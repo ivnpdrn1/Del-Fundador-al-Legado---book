@@ -109,8 +109,13 @@ Tres diferencias son las defendibles comercialmente:
 
 ## 6. Evaluación del título provisional
 
-**Título de trabajo vigente desde el 2026-09-07 (D-024): CLONACIÓN DEL CONOCIMIENTO**
-Subtítulo de trabajo: *De la experiencia al legado de Inteligencia Artificial*.
+**Título de trabajo vigente (D-024): CLONACIÓN DEL CONOCIMIENTO**
+**Subtítulo vigente desde el 2026-09-07 (D-034):** *Cómo convertir su experiencia y su
+criterio en un negocio que funcione sin depender de usted.*
+
+El desarrollo completo de las tres decisiones —título del libro, nombre del método y futura
+marca comercial, que **son tres activos distintos**— está en `15-titulo-metodo-y-marca.md`,
+junto con la evaluación de disponibilidad y las alternativas de subtítulo conservadas.
 
 *Del Fundador al Legado* (D-001, aprobado el 2026-09-06) se conserva como **nombre interno
 del proyecto, nombre del repositorio y formulación del escenario empresarial**. No se
@@ -209,7 +214,7 @@ al título, conviene reabrir la decisión antes de la Etapa 5, no después.
 
 | # | Título | A favor | En contra |
 |---|--------|---------|-----------|
-| 1 | **La empresa que puede continuar** | Nombra el resultado, no el problema. Tono esperanzador. Reutilizable como nombre de certificación. | Genérico y poco distintivo en portada. Ya es el título del capítulo 25. |
+| 1 | **El negocio que puede continuar** | Nombra el resultado, no el problema. Tono esperanzador. Reutilizable como nombre de certificación. | Genérico y poco distintivo en portada. Ya es el título del capítulo 25. |
 | 2 | **Cuando el dueño es el sistema** | Enuncia el diagnóstico con precisión y provoca reconocimiento inmediato en el lector. | Puede leerse como reproche. Riesgo de que el fundador se sienta señalado. |
 | 3 | **De la experiencia al sistema** | Resume la tesis completa y encaja con el método. | Suena a manual de procesos. Frío. Pierde la carga emocional del legado. |
 | 4 | **El relevo silencioso** | Sugiere que la transición ocurre antes del acto formal de sucesión, que es la idea. | Ambiguo. "Silencioso" puede insinuar ocultamiento o maniobra. |
@@ -227,13 +232,17 @@ Diagnóstico: es exacto y respetuoso, pero tiene tres problemas. Es largo para u
 portada, dieciocho palabras. Habla del lector en tercera persona, lo que aleja. Y no
 menciona lo que más le preocupa: perder el control.
 
-**Subtítulo de trabajo aprobado el 2026-09-06 (D-002):**
+**Subtítulo vigente desde el 2026-09-07 (D-034):**
 
-> Cómo preparar su empresa familiar para funcionar sin depender de usted, sin que usted
-> pierda el control.
+> Cómo convertir su experiencia y su criterio en un negocio que funcione sin depender de
+> usted.
 
-Puede revisarse estilísticamente antes de la publicación si durante el desarrollo aparece
-una formulación claramente superior. No puede cambiarse sin registrar la decisión.
+Sustituye al aprobado en D-002, que quedaba limitado a la empresa familiar y por tanto
+excluía al lector B. Razonamiento completo y tres alternativas conservadas en
+`15-titulo-metodo-y-marca.md`, apartado 6.
+
+**Subtítulo anterior (D-002, sustituido):** *Cómo preparar su empresa familiar para
+funcionar sin depender de usted, sin que usted pierda el control.*
 
 Razones: se dirige al lector directamente; nombra la promesa y la objeción principal en
 la misma frase; y la simetría "sin depender de usted / sin que usted pierda el control"

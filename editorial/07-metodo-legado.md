@@ -12,7 +12,7 @@ registro histórico de la versión provisional recibida; no debe citarse como vi
 
 | Letra | Etapa |
 |---|---|
-| L | Localizar la dependencia del fundador. |
+| L | Localizar la dependencia. |
 | E | Extraer y documentar el conocimiento crítico. |
 | G | Gobernar procesos, permisos y decisiones. |
 | A | Acompañar la operación con inteligencia artificial. |
@@ -416,8 +416,8 @@ Se aplican en las seis etapas y ninguna es negociable:
 
 | Parte | Capítulos | Etapas del método |
 |---|---|---|
-| I — La empresa que depende de una persona | 1–5 | Antesala de L: reconocimiento del problema. |
-| II — Convertir experiencia en memoria empresarial | 6–10 | L, E y el inicio de G. |
+| I — El negocio que depende de una persona | 1–5 | Antesala de L: reconocimiento del problema. |
+| II — Convertir experiencia en memoria transferible | 6–10 | L, E y el inicio de G. |
 | III — Construir una mano derecha digital | 11–16 | A, con G como requisito previo. |
 | IV — Transferir el control sin perderlo | 17–21 | D, apoyada en G. |
 | V — Del fundador al legado | 22–25 | O. |

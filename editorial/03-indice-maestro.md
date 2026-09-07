@@ -4,8 +4,9 @@
 **Estado:** **vigente**. La propuesta P-1 fue aprobada el 2026-09-06 y está implementada en
 el apartado 2 (D-017). Las propuestas P-2 a P-5 siguen pendientes de decisión del autor y
 no se han aplicado. El **apartado 5**, añadido el 2026-09-07, evalúa la arquitectura tras
-la ampliación del público (D-021) y contiene propuestas de título y de ampliación que
-**tampoco se han aplicado**: requieren decisión del autor.
+la ampliación del público (D-021). **Sus propuestas de título se aplicaron el 2026-09-07
+(D-041)** y están recogidas en el apartado 2; las propuestas de ampliación interna de ocho
+capítulos siguen pendientes y se resolverán al escribir cada capítulo en la Etapa 3.
 
 ---
 
@@ -48,30 +49,30 @@ del público no infle el libro entero:
 Leyenda de la columna **Etapa**: L, E, G, A, D, O corresponden a las etapas del Método
 LEGADO (`editorial/07-metodo-legado.md`). "—" indica capítulo de contexto previo.
 
-### PARTE I — LA EMPRESA QUE DEPENDE DE UNA PERSONA
+### PARTE I — EL NEGOCIO QUE DEPENDE DE UNA PERSONA
 
 *Función de la parte: que el lector se reconozca y acepte el diagnóstico sin sentirse
 juzgado. Aquí se gana o se pierde al lector.*
 
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 1 | Cuando el propietario también es el sistema | L | La empresa parece tener sistemas, pero funciona por una persona. Distinguir "tener empleados" de "tener organización". | Índice de Dependencia de la Persona Clave | 2.200 |
+| 1 | Cuando usted también es el sistema | L | La empresa parece tener sistemas, pero funciona por una persona. Distinguir "tener empleados" de "tener organización". | Índice de Dependencia de la Persona Clave | 2.200 |
 | 2 | El conocimiento que nunca fue escrito | E | Existe un conocimiento que no está en ningún manual porque nunca se consideró conocimiento: criterio, historia, excepciones, señales. | Ejercicio de reconocimiento | 2.000 |
 | 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | — | Por qué el equipo parece autónomo cuando el fundador está presente y deja de serlo cuando no lo está. Se trata la suposición, no las consecuencias. | Prueba de las tres preguntas al equipo | 1.800 |
 | 4 | El costo de una ausencia inesperada | — | Cuantificar el impacto: qué se detiene, qué se pierde y qué no se recupera. Se tratan las consecuencias, no la suposición. | Cálculo del costo de una semana | 1.900 |
 | 5 | Retirarse no significa abandonar | — | Reencuadre emocional. Distinguir retirarse de la operación de retirarse de la empresa. Ofrece la ruta. | Cuestionario de preparación para el retiro | 2.000 |
 
-### PARTE II — CONVERTIR EXPERIENCIA EN MEMORIA EMPRESARIAL
+### PARTE II — CONVERTIR EXPERIENCIA EN MEMORIA TRANSFERIBLE
 
 *Función: convertir memoria personal en memoria institucional. Es el corazón del libro y
 lo que ningún competidor trata con esta profundidad.*
 
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 6 | Localizar la dependencia del fundador | L | Medir antes de actuar. Cómo hacer el recuento sin que se convierta en un juicio personal. | Inventario del conocimiento crítico | 2.100 |
+| 6 | Localizar la dependencia | L | Medir antes de actuar. Cómo hacer el recuento sin que se convierta en un juicio personal. | Inventario del conocimiento crítico | 2.100 |
 | 7 | El mapa de procesos, decisiones y relaciones | E | Documentar el proceso real, no el oficial. Tres mapas distintos y complementarios. | Mapa de decisiones y mapa de relaciones críticas | 2.300 |
 | 8 | Cómo documentar las excepciones | E | La excepción no documentada es la principal fuente de dependencia y de riesgo. Registrar el motivo, la vigencia y el revisor. | Registro de excepciones | 2.000 |
-| 9 | El Manual de criterio del fundador | E | Documentar el porqué, no el cómo. Capítulo insignia del libro. | Plantilla del Manual de criterio | 2.400 |
+| 9 | El Manual de criterio | E | Documentar el porqué, no el cómo. Capítulo insignia del libro. | Plantilla del Manual de criterio | 2.400 |
 | 10 | Lo que puede delegarse y lo que debe protegerse | G | Clasificar decisiones por riesgo y reversibilidad. Fijar límites por escrito. | Matriz de autoridad y aprobaciones | 2.200 |
 
 ### PARTE III — CONSTRUIR UNA MANO DERECHA DIGITAL
@@ -99,7 +100,7 @@ familia.*
 
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 17 | Preparar al equipo y a la familia | D | Cómo se comunica una transición sin que se lea como abandono ni como desconfianza. Separar propiedad de dirección. | Guion de conversación | 2.000 |
+| 17 | Preparar al equipo, a la familia y a los clientes | D | Cómo se comunica una transición sin que se lea como abandono ni como desconfianza. Separar propiedad de dirección. | Guion de conversación | 2.000 |
 | 18 | Delegación progresiva | D | Delegar por bloques, de menor a mayor riesgo. Revisar después y no antes. Qué hacer ante el primer error. | Plan de delegación por bloques | 2.200 |
 | 19 | El tablero del propietario | O | El instrumento: qué mira el fundador cada día, cada semana y cada mes. Pocas cifras, bien elegidas. | Modelos de informe diario y semanal | 2.000 |
 | 20 | Supervisar sin intervenir en todo | O | La disciplina: cuándo intervenir y cuándo callarse. Trata la conducta, no el instrumento. | Reglas de intervención | 1.900 |
@@ -111,10 +112,10 @@ familia.*
 
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 22 | El nuevo papel del fundador | O | Definir por escrito lo que sí hace y lo que ya no hace. El propósito personal después de la operación. | Descripción del nuevo papel | 2.000 |
+| 22 | Su nuevo papel | O | Definir por escrito lo que sí hace y lo que ya no hace. El propósito personal después de la operación. | Descripción del nuevo papel | 2.000 |
 | 23 | Los primeros 100 días de transición | D | Secuencia concreta con responsables y fechas. | Plan de transición de 100 días | 2.200 |
 | 24 | La prueba de ausencia | D | El examen del libro: 24 horas y 7 días. Cómo se prepara, se observa y se corrige. | Prueba de ausencia | 2.200 |
-| 25 | La empresa que puede continuar | O | Qué significa que una empresa pueda continuar y cómo se sostiene en el tiempo. | Evaluación anual de continuidad | 2.000 |
+| 25 | El negocio que puede continuar | O | Qué significa que una empresa pueda continuar y cómo se sostiene en el tiempo. | Evaluación anual de continuidad | 2.000 |
 | — | Conclusión. Retirarse con tranquilidad y propósito | O | Cierre emocional. Retoma las cuatro preguntas de la promesa. | — | 1.500 |
 
 **Total estimado: 52.100 palabras**, dentro del objetivo.
@@ -253,15 +254,15 @@ Leyenda: **OK** = funciona sin cambios · **AMP** = necesita ampliación dentro 
 | # | Capítulo | Estado | Qué hacer |
 |---|---|---|---|
 | — | Introducción | **Hecho** | Ampliada en la Etapa 2.2. |
-| 1 | Cuando el propietario también es el sistema | **Hecho** | Ampliado. El título sirve para ambos lectores; alternativa si se quiere más neutra: *Cuando usted también es el sistema*. Propuesta, no aplicada. |
+| 1 | Cuando usted también es el sistema | **Hecho** | Ampliado en la Etapa 2.2. **Título cambiado el 2026-09-07** (antes: *Cuando el propietario también es el sistema*). El archivo se renombró con `git mv`. |
 | 2 | El conocimiento que nunca fue escrito | OK | Universal tal cual. Es el capítulo donde el lector B se reconocerá más. |
 | 3 | La peligrosa tranquilidad de «ellos sabrán qué hacer» | **AMP** | Supone equipo desde el título. Para el lector B la suposición equivalente es «ya lo tengo todo en la cabeza, no hace falta escribirlo». Ampliar con esa variante; el título puede conservarse porque la suposición se cita entre comillas. |
 | 4 | El costo de una ausencia inesperada | **AMP** | Funciona, pero el cálculo del costo supone operación con equipo. Para el lector B el costo es ingresos que no se facturan y clientes que no esperan. Añadir la variante al ejercicio. |
 | 5 | Retirarse no significa abandonar | **AMP, gana mucho** | Es el capítulo natural del **continuo del retiro** (`14-publico-y-rutas.md` §7). Incorporarlo aquí como columna vertebral del capítulo. |
-| 6 | Localizar la dependencia del fundador | **TÍT** | Proponer: *Localizar la dependencia*. El contenido no cambia. |
+| 6 | Localizar la dependencia | **Título aplicado** | Antes: *Localizar la dependencia del fundador*. Ahora coincide literalmente con la etapa L del método. El contenido no cambia. |
 | 7 | El mapa de procesos, decisiones y relaciones | OK | Universal. Para el lector B, el mapa de relaciones es el más importante de los tres. |
 | 8 | Cómo documentar las excepciones | OK | Universal. |
-| 9 | El Manual de criterio del fundador | **TÍT** | Proponer: *El Manual de criterio*. Es el capítulo insignia y el **corazón de la clonación del conocimiento**; conviene que su título no excluya a nadie. |
+| 9 | El Manual de criterio | **Título aplicado** | Antes: *El Manual de criterio del fundador*. Un documento se nombra por lo que contiene, no por el cargo de quien lo dicta. Capítulo insignia y corazón de la clonación del conocimiento. |
 | 10 | Lo que puede delegarse y lo que debe protegerse | **AMP** | La matriz de autoridad supone estructura. Para el lector B, el equivalente son límites propios escritos: hasta cuánto compromete sin pensarlo dos veces, qué no acepta nunca, qué exige por escrito. Ver 5.3. |
 | 11 | Ordenar antes de automatizar | OK | Universal y especialmente pertinente para el lector B. |
 | 12 | La inteligencia artificial como aprendiz | OK | Universal. |
@@ -269,15 +270,15 @@ Leyenda: **OK** = funciona sin cambios · **AMP** = necesita ampliación dentro 
 | 14 | De las alertas a las recomendaciones | OK | Universal. |
 | 15 | Autonomía limitada y aprobación humana | **AMP** | Añadir el tratamiento de **profesiones reguladas** (`13-clonacion-del-conocimiento.md` §6.1): qué puede asistirse y qué reserva la licencia. |
 | 16 | Seguridad, privacidad y auditoría | **AMP** | Añadir la situación del profesional independiente: datos de clientes o pacientes, sin responsable de seguridad y sin contrato negociado con el proveedor. Su exposición es mayor, no menor. |
-| 17 | Preparar al equipo y a la familia | **AMP y TÍT** | El más orientado al lector A. Para el lector B hay que preparar a clientes y colaboradores, no a un equipo. Proponer: *Preparar a las personas que dependen de usted*. |
+| 17 | Preparar al equipo, a la familia y a los clientes | **AMP; título aplicado** | Antes: *Preparar al equipo y a la familia*. **Se descartó la propuesta original** —*Preparar a las personas que dependen de usted*— por genérica y por desplazar el referente: un cliente no «depende de usted» en ese sentido. La versión adoptada amplía sin perder las tres constituencias concretas. Falta la ampliación interna. |
 | 18 | Delegación progresiva | **AMP** | Debe recoger D-026: se delega en personas, procedimientos o sistemas supervisados. Es el capítulo más afectado por la ampliación del método. |
 | 19 | El tablero del propietario | OK | Para el lector B el tablero es más corto, no distinto. |
 | 20 | Supervisar sin intervenir en todo | OK | Universal. |
 | 21 | Qué hacer cuando no existe el sucesor ideal | **OK y gana** | Ya trataba la ausencia de sucesor. Para el lector B se amplía de forma natural: traspasar la cartera, vender, asociarse o cerrar bien, que también es un final legítimo. |
-| 22 | El nuevo papel del fundador | **TÍT** | Proponer: *Su nuevo papel*. |
+| 22 | Su nuevo papel | **Título aplicado** | Antes: *El nuevo papel del fundador*. Más corto, más directo y sirve a los dos lectores. |
 | 23 | Los primeros 100 días de transición | OK | Universal. |
 | 24 | La prueba de ausencia | **OK y gana** | Es más exigente y más reveladora para el lector B, que no tiene a quién dejar al mando. |
-| 25 | La empresa que puede continuar | **TÍT** | Proponer: *El negocio que puede continuar*. |
+| 25 | El negocio que puede continuar | **Título aplicado** | Antes: *La empresa que puede continuar*. «Negocio» es el término general según la regla de vocabulario de D-021. |
 | — | Conclusión | OK | Retoma las cuatro preguntas, ya ampliadas. |
 
 **Resumen:** 6 títulos propuestos para revisión (1, 6, 9, 17, 22, 25), 8 capítulos con
@@ -286,15 +287,15 @@ altera el número de capítulos, las cinco partes ni el orden.**
 
 ### 5.2 Nombres de las partes
 
-Dos títulos de parte suponen empresa y conviene revisarlos:
+Dos títulos de parte suponían empresa. **Ambos cambiados el 2026-09-07 (D-041).**
 
-| Parte | Actual | Propuesta |
+| Parte | Antes | Ahora |
 |---|---|---|
-| I | La empresa que depende de una persona | **El negocio que depende de una persona** |
-| II | Convertir experiencia en memoria empresarial | **Convertir experiencia en memoria transferible** |
+| I | La empresa que depende de una persona | **El negocio que depende de una persona** — aplicado |
+| II | Convertir experiencia en memoria empresarial | **Convertir experiencia en memoria transferible** — aplicado. «Transferible» nombra la propiedad que de verdad importa y sirve a los dos lectores. |
 | III | Construir una mano derecha digital | Sin cambios |
 | IV | Transferir el control sin perderlo | Sin cambios |
-| V | Del fundador al legado | Sin cambios. Conserva el título histórico del proyecto en el sitio donde tiene más sentido: el cierre. |
+| V | Del fundador al legado | **Sin cambios, y es deliberado.** Conserva el título histórico del proyecto en el único sitio donde no excluye a nadie: el cierre, cuando el lector ya sabe que el libro le habla. Excepción consciente a la regla de vocabulario de D-021; se revisa en la Etapa 4. |
 
 ### 5.3 Impacto sobre las dieciocho herramientas
 

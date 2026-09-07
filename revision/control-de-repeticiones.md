@@ -52,7 +52,7 @@ Recuento real sobre las piezas escritas, verificado por búsqueda automática el
 | Recurso | Límite | Usos consumidos | Dónde |
 |---|---|---|---|
 | La pregunta "¿qué pasa si usted no está?" | Máximo tres veces en todo el libro | **2** | Título de la introducción; apertura del apartado "La pregunta que da origen a este libro". **Queda uno disponible para los veinticuatro capítulos restantes.** |
-| La imagen del negocio que "vive en una cabeza" | Máximo cuatro veces | **4** | Intro dos veces («una cabeza sosteniendo algo que no está escrito», «vive en una sola cabeza»); cap. 1 dos veces («un sitio distinto de una cabeza», «el criterio nunca salió de una cabeza»). **Agotado.** |
+| La imagen del negocio que "vive en una cabeza" | **Control estilístico, no cuota** (D-039). Se usa donde tenga verdadero impacto. | **4** | Intro dos veces; cap. 1 dos veces. Ver el apartado 3.1. |
 | La comparación de la inteligencia artificial con un aprendiz | Capítulo 12 y una mención posterior | 0 | — |
 | La expresión "sin perder el control" | Máximo cinco veces | **0** en el manuscrito | Aparece en el subtítulo del libro, que no computa. |
 | La palabra "legado" fuera de títulos | Máximo ocho veces | **5** | Introducción: nombre de la etapa O, la secuencia conceptual, el cierre y dos menciones del método. |
@@ -65,12 +65,35 @@ Recuento real sobre las piezas escritas, verificado por búsqueda automática el
    capítulos 4 y 24 —que tratan precisamente la ausencia— deberán formularla de otra
    manera. Se recomienda reservar el tercer uso para el capítulo 24, que es donde la
    ausencia deja de ser una hipótesis.
-2. **La imagen de la cabeza, agotada en la Etapa 2.2.** Es la imagen insignia del libro y la
-   ampliación del público la ha reforzado, porque «una parte del negocio vive en una sola
-   cabeza» es justamente lo que une a los dos lectores. Cuatro usos consumidos de cuatro.
-   **Decisión recomendada para la Etapa 3:** elevar el límite a ocho, tratándola como la
-   imagen central del libro y no como un recurso ocasional, o aceptar que a partir del
-   capítulo 2 haya que decir lo mismo con otras palabras. Requiere decisión del autor.
+2. **La imagen de la cabeza.** Ver el apartado 3.1: el autor decidió el 2026-09-07 **no
+   elevar el límite**, y tratarla como control estilístico en lugar de como cuota.
+
+### 3.1 La imagen de la cabeza — control estilístico (D-039)
+
+**Decisión del autor, 2026-09-07: el límite no se eleva.** La expresión es potente
+precisamente porque es escasa. Se conserva como **imagen insignia del libro** y se reserva
+para los pasajes donde tenga verdadero impacto.
+
+**Esto no es una cuota matemática.** No se cuenta para prohibir a partir de un número: se
+cuenta para hacer visible la acumulación. Un capítulo puede necesitarla y otro no.
+
+**Alternativas semánticas disponibles desde el capítulo 2.** No son sustituciones
+mecánicas: cada una dice algo ligeramente distinto y se elige la que corresponda al pasaje.
+
+| Alternativa | Qué matiza |
+|---|---|
+| Memoria | El almacenamiento: está guardado, pero en un solo sitio. |
+| Criterio no documentado | El porqué de las decisiones, que es lo más valioso. |
+| Conocimiento concentrado | La distribución: existe, pero no está repartido. |
+| Experiencia no transferida | El proceso fallido: pudo pasar a otro sitio y no pasó. |
+| Dependencia personal | El efecto sobre el negocio, no sobre la persona. |
+| Saber tácito | El registro más técnico. Usar con moderación. |
+
+**Regla:** prohibido encadenar dos de estas expresiones en el mismo párrafo para evitar la
+imagen. Si un pasaje pide la imagen de la cabeza, se usa la imagen de la cabeza.
+
+**Comprobación en la Etapa 4:** lectura seguida buscando acumulación, no recuento contra un
+número.
 
 ## 4. Procedimiento de detección en la Etapa 4
 

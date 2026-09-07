@@ -1,11 +1,11 @@
-# Parte I — La empresa que depende de una persona
+# Parte I — El negocio que depende de una persona
 
 *Función de la parte: que el lector se reconozca y acepte el diagnóstico sin sentirse
 juzgado. Aquí se gana o se pierde al lector.*
 
 | # | Capítulo | Etapa | Archivo | Estado |
 |---|---|---|---|---|
-| 1 | Cuando el propietario también es el sistema | L | `01-cuando-el-propietario-tambien-es-el-sistema.md` | borrador |
+| 1 | Cuando usted también es el sistema | L | `01-cuando-usted-tambien-es-el-sistema.md` | borrador |
 | 2 | El conocimiento que nunca fue escrito | E | — | no iniciado |
 | 3 | La peligrosa tranquilidad de «ellos sabrán qué hacer» | — | — | no iniciado |
 | 4 | El costo de una ausencia inesperada | — | — | no iniciado |

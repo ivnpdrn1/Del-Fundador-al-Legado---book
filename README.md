@@ -10,8 +10,12 @@ los archivos de control del proyecto. No es una página comercial ni material pr
 ## Identidad del proyecto
 
 **Título de trabajo:** CLONACIÓN DEL CONOCIMIENTO — adoptado el 2026-09-07 (D-024).
-**Subtítulo de trabajo:** De la experiencia al legado de Inteligencia Artificial.
-*Pendiente de decisión: ver `editorial/00-concepto-editorial.md` §6 bis y A-12.*
+**Subtítulo:** Cómo convertir su experiencia y su criterio en un negocio que funcione sin
+depender de usted — adoptado el 2026-09-07 (D-034).
+
+**Tres activos distintos (D-035):** el título del libro, el nombre de la metodología
+—**MÉTODO LEGADO**, que no se renombra— y la futura marca comercial de servicios se deciden
+por separado. Ver `editorial/15-titulo-metodo-y-marca.md`.
 
 *Del Fundador al Legado* (D-001) se conserva como **nombre del repositorio, nombre interno
 del proyecto y formulación del escenario empresarial**. El repositorio no se renombra.
@@ -113,15 +117,16 @@ El libro describe además una escala de siete niveles de autonomía, del 0 al 6.
 ## Estado actual
 
 **Etapa 2 — Muestra editorial: completada.** Fecha: 2026-09-06.
-**Revisiones 2.1 y 2.2: completadas.** Fecha: 2026-09-07. La 2.2 amplió el público del
-libro y adoptó la clonación del conocimiento como concepto central.
+**Revisiones 2.1, 2.2 y 2.3: completadas.** Fecha: 2026-09-07. La 2.2 amplió el público del
+libro y adoptó la clonación del conocimiento como concepto central; la 2.3 cerró las
+decisiones estratégicas: título, subtítulo, promesa, herramienta 8 y títulos de capítulo.
 
 - Fundamentos editoriales, método, índice comentado, guía de estilo y archivos de control:
   vigentes, con las decisiones D-001 a D-005 aprobadas.
 - Manuscrito: **5.519 palabras**. Introducción y capítulo 1 en borrador, ampliados a los
   dos públicos.
 - Recursos: **1 de 18** redactado, el Índice de Dependencia de la Persona Clave.
-- Investigación: **12 fuentes verificadas** y 4 descartadas con motivo. Q-01 a Q-04
+- Investigación: **14 fuentes verificadas** y 4 descartadas con motivo. Q-01 a Q-04
   resueltas.
 - Ninguna cifra sin fuente. Cero marcas `[POR VERIFICAR]`.
 - El proyecto está detenido a la espera de autorización expresa para comenzar la Etapa 3.
@@ -155,6 +160,7 @@ Del-Fundador-al-Legado---book/
 │   ├── 12-alcance-jurisdiccional.md  Mercados, jurisdicciones y advertencias
 │   ├── 13-clonacion-del-conocimiento.md  Concepto central y sus límites
 │   ├── 14-publico-y-rutas.md      Los dos lectores y las dos rutas del método
+│   ├── 15-titulo-metodo-y-marca.md   Título, método y marca como activos separados
 │   ├── glosario.md
 │   └── decisiones-editoriales.md
 ├── capitulos/                    Manuscrito por capítulos

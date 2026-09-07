@@ -96,6 +96,42 @@ Cobertura: doce sectores para veinticinco capítulos, sin repetición en capítu
 consecutivos y con un máximo de tres apariciones por sector. Los capítulos 16 y la
 conclusión no llevan caso.
 
+**Esta tabla corresponde a la ruta A.** La lista se diseñó antes de la ampliación del
+público de la Etapa 2.2 y no daba cabida a los casos del profesional independiente, que se
+concentraban todos en «servicios profesionales». Ver el apartado 3 bis.
+
+## 3 bis. Matriz de actividades para los casos de la ruta B
+
+Cierra A-11 (D-038). **Ningún caso está escrito todavía**: esto es el terreno disponible,
+no un reparto asignado.
+
+**Principio:** un caso de la ruta B se elige porque el mecanismo se ve mejor en esa
+actividad, no para cubrir una casilla. Un caso puesto por representación se nota y no
+enseña nada.
+
+| # | Tipo de actividad | Qué mecanismo ilustra especialmente bien | Cautelas propias |
+|---|---|---|---|
+| B-1 | Consultoría o asesoría independiente | Criterio no escrito: por qué se cotiza así, qué encargo se acepta. | El más obvio; **no abusar de él**. Máximo tres apariciones, como cualquier otro. |
+| B-2 | Oficio especializado por cuenta propia | Conocimiento tácito de manos: lo que se sabe hacer y no se sabe explicar. | No describir técnicas identificables de un taller concreto. |
+| B-3 | Técnico o instalador autónomo | Historial del cliente y del equipo instalado, que solo existe en su memoria. | Sin marcas ni modelos. |
+| B-4 | Agente o comisionista | La cartera como activo intransferible; la relación es la persona. | Sin cifras de comisión ni de cartera. |
+| B-5 | Comercio pequeño atendido por su propietario | Excepciones de precio y de crédito concedidas de palabra. | Sin ubicación ni tamaño de local. |
+| B-6 | Creador, autor o formador independiente | Método propio no documentado; la producción se detiene con la persona. | No describir un catálogo de obra reconocible. |
+| B-7 | Negocio digital de una sola persona | Automatizaciones que solo su autor sabe reparar; dependencia de proveedores. | Sin nombres de plataformas (D-011). |
+| B-8 | Contratista o pequeña operación de obra | Criterio de presupuesto y de aceptación de trabajo; proveedores de confianza. | Sin obras identificables. |
+| B-9 | Pequeña operación familiar sin estructura | El punto intermedio entre las dos rutas: hay personas, pero no hay organización. | **Es el caso puente**: útil para mostrar que las dos rutas son un continuo. |
+| B-10 | Profesional con licencia, **sin nombrar la profesión** | Lo que la licencia reserva frente a lo que puede asistirse. | **Cautela máxima.** Nunca se nombra la profesión concreta ni se describe un acto profesional reglado. Se habla de «una actividad con licencia». |
+
+**Reglas de uso de esta matriz:**
+
+1. Máximo **tres apariciones** por tipo de actividad, igual que en la ruta A.
+2. Sin repetición en capítulos consecutivos, contando conjuntamente las dos rutas.
+3. Las reglas 1 a 18 de este documento se aplican íntegras. La lista de sectores excluidos
+   sigue fuera del repositorio y prevalece sobre esta matriz.
+4. **B-10 exige registro con cautela reforzada** y no puede usarse más de una vez.
+5. Un capítulo puede no llevar caso de ruta B si el mecanismo es idéntico en ambas escalas.
+   La regla de `14-publico-y-rutas.md` §5.3 lo prevé expresamente.
+
 ## 4. Evaluación de riesgos de privacidad e identificación
 
 Riesgos evaluados para el proyecto completo, con la medida aplicada en la Etapa 1.

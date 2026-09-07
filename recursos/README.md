@@ -18,9 +18,47 @@ libro: empresa con estructura y profesional independiente. La evaluación comple
 herramienta por herramienta, está en `editorial/03-indice-maestro.md`, apartado 5.3.
 
 **Resultado de esa evaluación:** dieciséis de las dieciocho funcionan en ambas rutas sin
-cambios de fondo. La herramienta 4 necesita un ajuste menor y **la herramienta 8, la matriz
-de autoridad, es la única que supone estructura de un modo que no se resuelve cambiando una
-palabra**; hay tres opciones propuestas y la decisión está pendiente del autor.
+cambios de fondo. La herramienta 4 necesita un ajuste menor y la herramienta 8, la matriz
+de autoridad, era la única que suponía estructura de un modo que no se resuelve cambiando
+una palabra. **Resuelto el 2026-09-07 (D-037):** una sola herramienta con dos modos de uso.
+Arquitectura conceptual en el apartado siguiente. **Se mantienen las dieciocho
+herramientas.**
+
+## Herramienta 8 — arquitectura conceptual de los dos modos
+
+*Solo la arquitectura. La herramienta completa se redacta con el capítulo 10, en la
+Etapa 3.*
+
+**Qué mide la herramienta, en ambos modos.** Hasta dónde puede llegar un compromiso sin que
+intervenga la persona clave, y quién o qué lo comprueba después. La pregunta es la misma;
+lo que cambia es quién ocupa las casillas.
+
+| Elemento | **Modo A** — organización con personas | **Modo B** — profesional independiente o negocio unipersonal |
+|---|---|---|
+| **Sujeto de la autoridad** | Funciones y personas con nombre. | La propia persona clave, más colaboradores externos ocasionales y sistemas. |
+| **Qué se escribe** | Quién puede decidir qué, hasta qué límite. | Qué decide usted sin pensarlo, qué exige una pausa y qué no acepta nunca. |
+| **Forma del límite** | Importe, alcance y firma por función. | Reglas propias: umbrales de compromiso, condiciones que no se negocian, tipos de encargo que se rechazan. |
+| **Quién ejecuta dentro del límite** | La persona con la función asignada. | Un procedimiento, una plantilla, una automatización o un colaborador externo. |
+| **Separación de funciones** | Quien inicia no aprueba ni registra. | No es posible con una sola persona. Se sustituye por **doble comprobación diferida** —revisar en otro momento, con una lista— y, cuando el importe lo justifique, por **revisión de un tercero**, como quien lleva la contabilidad. |
+| **Quién revisa** | Un revisor interno o externo designado. | Un tercero externo, periódico y con alcance escrito. |
+| **Evidencia** | Registro de quién aprobó qué. | Registro de qué se decidió, con qué regla y en qué fecha. |
+| **Señal de que la matriz funciona** | Las decisiones dentro del límite dejan de subir. | Las decisiones dentro del límite dejan de repensarse cada vez. |
+
+**Tres reglas que impiden que el modo B invente una jerarquía inexistente:**
+
+1. **No se crean cargos.** Si no hay a quién asignar una función, la casilla no se rellena
+   con un puesto imaginario: se rellena con una regla escrita o se deja vacía y se anota
+   como riesgo asumido.
+2. **La separación de funciones no se finge.** En un negocio de una sola persona no existe,
+   y decir lo contrario sería falso. Se declara el límite y se ofrecen los dos sustitutos
+   parciales de la tabla, diciendo que son parciales.
+3. **El límite propio cuenta como control.** Una regla que usted se impone por escrito y
+   revisa periódicamente es un control real, aunque el controlado y el controlador sean la
+   misma persona. Es más débil que la separación de funciones y así se dirá.
+
+**Aviso obligatorio del modo B:** los umbrales, la conservación de documentos y las
+obligaciones contables dependen de la jurisdicción y de la forma jurídica. La herramienta
+remite a un profesional y no fija ninguna cifra.
 
 ## Criterio de diseño de todas las herramientas
 
@@ -45,7 +83,7 @@ palabra**; hay tres opciones propuestas y la decisión está pendiente del autor
 | 4 | Mapa de decisiones | `mapa-de-decisiones.md` | 7 | E | Registrar con qué criterio se decide cada cosa, con qué información y en cuánto tiempo. La columna «quién decide» se sustituye por «con qué criterio», que sirve en ambas rutas. |
 | 5 | Mapa de relaciones críticas | `mapa-relaciones-criticas.md` | 7 | E | Identificar vínculos externos que hoy solo existen a través del fundador. |
 | 6 | Registro de excepciones | `registro-de-excepciones.md` | 8 | E | Convertir "en este caso hacemos algo distinto" en una regla escrita y revisable. |
-| 7 | Plantilla del Manual de criterio del fundador | `manual-criterio-fundador.md` | 9 | E | Documentar el porqué de las decisiones, no solo el procedimiento. |
+| 7 | Plantilla del Manual de criterio | `manual-criterio-fundador.md` | 9 | E | Documentar el porqué de las decisiones, no solo el procedimiento. |
 | 8 | Matriz de autoridad y aprobaciones **(requiere decisión)** | `matriz-autoridad-aprobaciones.md` | 10 | G | Fijar límites de monto, alcance y firma para cada función. En un negocio de una sola persona, límites propios escritos. Ver `03-indice-maestro.md` §5.3. |
 | 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | G/A | Clasificar la información antes de conectar cualquier herramienta. |
 | 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |

@@ -37,7 +37,7 @@ investigación de Q-01 a Q-04, que resultó indispensable antes de escribir.
 Alcance exacto:
 
 1. `capitulos/00-introduccion.md`, entre 1.800 y 2.500 palabras.
-2. `capitulos/parte-01/01-cuando-el-propietario-tambien-es-el-sistema.md`, entre 2.000 y
+2. `capitulos/parte-01/01-cuando-usted-tambien-es-el-sistema.md`, entre 2.000 y
    2.400 palabras.
 3. `recursos/indice-dependencia-fundador.md`, primera versión completa y utilizable.
 4. Autoevaluación de la muestra contra las diecisiete preguntas de la guía de estilo.
@@ -65,7 +65,7 @@ interna de una parte es más fácil de sostener que la de capítulos sueltos.
 |---|---|---|---|
 | B1 | 2, 3, 4, 5 | 7.700 | Cuestionario de preparación para el retiro |
 | B2 | 6, 7, 8 | 6.400 | Inventario del conocimiento crítico, mapa de decisiones, mapa de relaciones, registro de excepciones |
-| B3 | 9, 10 | 4.600 | Manual de criterio del fundador, matriz de autoridad |
+| B3 | 9, 10 | 4.600 | Manual de criterio, matriz de autoridad |
 | B4 | 11, 12, 13 | 6.600 | Información restringida, verificación de modo sombra, alertas críticas |
 | B5 | 14, 15, 16 | 6.300 | Matriz de niveles de autonomía |
 | B6 | 17, 18, 19, 20, 21 | 10.400 | Informe diario, informe semanal |

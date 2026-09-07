@@ -10,10 +10,10 @@ la conclusión pertenecen a la Etapa 3 y **no están autorizados**.
 
 ```
 capitulos/00-introduccion.md
-capitulos/parte-01/01-cuando-el-propietario-tambien-es-el-sistema.md
+capitulos/parte-01/01-cuando-usted-tambien-es-el-sistema.md
 capitulos/parte-01/02-el-conocimiento-que-nunca-fue-escrito.md
 ...
-capitulos/parte-05/25-la-empresa-que-puede-continuar.md
+capitulos/parte-05/25-el-negocio-que-puede-continuar.md
 capitulos/99-conclusion.md
 ```
 
@@ -50,7 +50,7 @@ Ver `editorial/11-plan-de-produccion.md`.
 
 | Archivo | Palabras | Estado |
 |---|---|---|
-| `00-introduccion.md` | 2.032 | borrador |
-| `parte-01/01-cuando-el-propietario-tambien-es-el-sistema.md` | 2.309 | borrador |
+| `00-introduccion.md` | 2.765 | borrador |
+| `parte-01/01-cuando-usted-tambien-es-el-sistema.md` | 2.754 | borrador |
 
 Seguimiento completo en `revision/control-de-capitulos.md`.
