@@ -21,6 +21,7 @@
 **Etapa 3 — Producción: INICIADA el 2026-09-07 por autorización expresa del autor.**
 **Etapa 3.1 — Capítulo 2: COMPLETADA el 2026-09-07.**
 **Etapa 3.1.1 — Control editorial del capítulo 2: COMPLETADA el 2026-09-07.**
+**Etapa 3.1.2 — Corrección conceptual del capítulo 2: COMPLETADA el 2026-09-07.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
 del capítulo 2. **El capítulo 3 no se ha escrito y la Etapa 3.2 no se ha iniciado.**
@@ -211,11 +212,11 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Capítulos terminados | **2 de 25** (en borrador) |
 | Introducción | **Escrita**, 2.838 palabras |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
-| Capítulo 2 | **Escrito y revisado**, 2.061 palabras (objetivo 2.000) |
+| Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **7.652** |
+| Palabras del manuscrito | **7.753** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 14,4 % |
+| Avance sobre el objetivo | 14,5 % |
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **3** (C-01, C-02, C-03) |

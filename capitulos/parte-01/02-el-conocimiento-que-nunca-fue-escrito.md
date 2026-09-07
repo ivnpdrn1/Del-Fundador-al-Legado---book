@@ -4,7 +4,7 @@ parte: 1
 titulo: "El conocimiento que nunca fue escrito"
 etapa_metodo: "E"
 estado: borrador
-palabras: 2061
+palabras: 2162
 casos_usados: ["C-03"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -80,9 +80,17 @@ de los dedos» y no es capaz de explicar los principios en que se apoya. No hace
 un taller ni tener empleados para reconocerse en esa descripción: basta haber hecho algo muy
 bien durante mucho tiempo.
 
-La segunda es más incómoda, y es exactamente el problema de este libro: mientras ese
-conocimiento no se hace explícito, no puede ser aprovechado por el conjunto del negocio.
-Sigue siendo de la persona. Nunca llega a ser del negocio.
+La segunda es más incómoda, y es exactamente el problema de este libro. Ese conocimiento sí
+puede pasar de una persona a otra sin escribirse: el mismo artículo describe al aprendiz que
+se coloca junto al maestro y aprende observando, imitando y practicando. Pero advierte de
+que esa vía, por sí sola, tiene un límite: ni el aprendiz ni el maestro llegan a entender de
+forma ordenada lo que saben hacer, y mientras ese conocimiento no se hace explícito no
+resulta fácil que lo aproveche el conjunto del negocio.
+
+Conviene decirlo con precisión, porque de ello depende lo que viene después. **El objetivo
+no es convertir en documentos todo lo que usted sabe.** Algunas cosas habrá que escribirlas;
+otras se enseñan trabajando al lado de alguien. Lo que no puede seguir es que ese
+conocimiento exista únicamente dentro de una persona.
 
 En la introducción llamamos **ADN empresarial** al conjunto de lo que hace que su negocio
 funcione como funciona y no de otra manera. Lo que este capítulo hace es señalar la parte
