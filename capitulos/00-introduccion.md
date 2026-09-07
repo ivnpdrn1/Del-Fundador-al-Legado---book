@@ -4,11 +4,11 @@ parte: 0
 titulo: "Introducción. Si usted no está, ¿qué deja de funcionar?"
 etapa_metodo: ""
 estado: borrador
-palabras: 2032
+palabras: 2079
 casos_usados: []
 recursos_producidos: []
 afirmaciones_por_verificar: []
-ultima_actualizacion: "2026-09-06"
+ultima_actualizacion: "2026-09-07"
 ---
 
 # Introducción. Si usted no está, ¿qué deja de funcionar?
@@ -37,11 +37,10 @@ días sin contestar el teléfono.
 
 ¿Qué se detiene?
 
-Casi todos los propietarios saben responder de inmediato, y la respuesta rara vez es
-tranquilizadora. Se detiene una autorización que solo usted firma. Se enfría una relación
-que solo usted sostiene. Se toma mal una decisión porque nadie sabía por qué, en ese caso
-concreto, se hacía una excepción. Alguien busca un documento que sí existe, pero solo usted
-sabe dónde.
+Probablemente usted ya sepa la respuesta, y probablemente no sea tranquilizadora. Se
+detiene una autorización que solo usted firma. Se enfría una relación que solo usted
+sostiene. Se toma mal una decisión porque nadie sabía por qué, en ese caso concreto, se
+hacía una excepción. Alguien busca un documento que sí existe, pero solo usted sabe dónde.
 
 Esa lista tiene un nombre en este libro: **dependencia del fundador**. Es el grado en que
 la operación diaria de una empresa necesita la presencia, la memoria o la autorización de
@@ -51,7 +50,7 @@ Y aquí conviene decir algo antes de seguir, porque de ello depende que usted si
 
 ## Esa dependencia no es un error suyo
 
-Es, casi siempre, un residuo de su acierto.
+Es, en buena medida, un residuo de su acierto.
 
 Cuando la empresa era pequeña no había a quién delegar, y usted era realmente la persona
 más capaz de hacer casi todo. Centralizar no fue una manía de control: fue la decisión
@@ -74,9 +73,9 @@ experiencia, mientras no se traslade a otro soporte, no se hereda: se pierde.
 Aquí este libro va a ser más prudente de lo habitual en su género, y conviene explicar por
 qué.
 
-Las empresas familiares son la parte principal del tejido empresarial de casi cualquier
-país. Pero no existe una cifra mundial que sirva para todos, y la razón es menos aburrida
-de lo que parece.
+Las empresas familiares constituyen una parte importante del tejido empresarial en
+numerosos países. Cuánta exactamente, es otra cuestión: no existe una cifra mundial que
+sirva para todos, y la razón es menos aburrida de lo que parece.
 
 En 2009, el grupo de expertos sobre empresa familiar de la Comisión Europea publicó su
 informe final. El estudio en que se apoya identificó **más de 90 definiciones distintas**
@@ -95,12 +94,17 @@ Económica para América Latina y el Caribe advierte que en la región ni siquie
 definición común de micro, pequeña y mediana empresa, y que la información disponible es
 escasa y a menudo de mala calidad. Conviene decirlo antes que inventarlo.
 
-La distancia entre el 60 % y el 27 % no describe dos realidades distintas. Describe dos
-definiciones distintas. De esto se sigue algo que gobernará todo el libro: **aquí no habrá
-cifras espectaculares sin fuente**, ni porcentajes de supervivencia entre generaciones de
-esos que circulan en conferencias y en contraportadas. Los busqué. No pude verificarlos en
-su fuente original y, por tanto, no los va a leer en estas páginas. Prefiero un libro con
-menos cifras y con todas comprobadas.
+La distancia entre esas dos cifras no puede interpretarse como una comparación directa.
+Refleja, entre otras cosas, definiciones distintas de empresa familiar, además de países,
+métodos y años distintos. La lección no es cuál de las dos es la verdadera: es que un
+porcentaje sobre empresas familiares no dice nada si no se dice, a la vez, qué se ha
+contado como empresa familiar.
+
+De esto se sigue algo que gobernará todo el libro: **aquí no habrá cifras espectaculares
+sin fuente**, ni porcentajes de supervivencia entre generaciones de esos que circulan en
+conferencias y en contraportadas. Los busqué. No pude verificarlos en su fuente original
+y, por tanto, no los va a leer en estas páginas. Prefiero un libro con menos cifras y con
+todas comprobadas.
 
 Sí hay un hecho verificado que conviene retener, porque nombra exactamente el riesgo del
 que trata este libro. En 2006, al analizar la transmisión de empresas en la Unión Europea,

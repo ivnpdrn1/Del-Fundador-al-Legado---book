@@ -1,5 +1,9 @@
 # Control de calidad — Etapa 2
 
+Dos revisiones sobre las tres piezas producidas en la Etapa 2: la revisión completa A-M
+del **2026-09-06** y la **revisión intermedia 2.1** del **2026-09-07**, encargada por el
+autor, que figura al final de este archivo.
+
 Revisión ejecutada el **2026-09-06** sobre las tres piezas producidas en la Etapa 2:
 
 - `capitulos/00-introduccion.md`
@@ -92,6 +96,8 @@ capítulos siguientes.
 **Cómo se comprobó.** Medición automática de longitud de párrafo y de frase sobre el texto
 narrativo, excluidas tablas, listas y encabezados.
 
+Cifras del 2026-09-06. Las posteriores a la revisión 2.1 están en su propio apartado 6.
+
 | Pieza | Palabras | Párrafo más largo | Palabras por frase (media) | Frase más larga | Frases de más de 30 palabras |
 |---|---|---|---|---|---|
 | Introducción | 2.032 | 93 | 13,4 | 44 | 6 de 122 (4,9 %) |
@@ -111,10 +117,18 @@ convenía aligerarlo.
 **Cómo se comprobó.** Lectura frase a frase de las tres piezas, clasificando cada
 enunciado según los siete tipos del apartado 2 de `editorial/05-control-de-fuentes.md`.
 
-**Resultado: conforme.** Ocho afirmaciones factuales, todas con fuente registrada. Todas
+**Resultado: conforme.** Siete afirmaciones factuales, todas con fuente registrada. Todas
 las demás son observaciones cualitativas, inferencias, recomendaciones o propuestas
 propias, escritas en la forma reconocible que exige la guía y **ninguna con cifras**.
 Cero marcas `[POR VERIFICAR]`.
+
+*(Corregido el 2026-09-07: este apartado decía «ocho»; las filas registradas son siete.)*
+
+**Punto ciego detectado el 2026-09-07.** Esta revisión comprobó que ninguna **cifra**
+careciera de fuente, y así era. No comprobó que ninguna **afirmación de frecuencia sin
+cifra** —«casi todos», «la mayoría», «el caso normal»— se presentara con forma de hallazgo.
+Once enunciados de ese tipo se corrigieron en la revisión 2.1. Ver el apartado 7 de esa
+revisión para la regla que se incorpora al procedimiento.
 
 **Excepción declarada.** La introducción cita cinco fuentes distintas, por encima del
 máximo orientativo de tres por capítulo. Es deliberado y se justifica en el registro:
@@ -246,3 +260,146 @@ introduce.
 **Correcciones aplicadas durante la revisión:** dos. La división de un párrafo denso y una
 frase larga en la introducción (revisión F), y la incorporación del año y del ámbito
 geográfico a la cita de la Comisión Europea de 2006 (revisión H y D-014, regla 3).
+
+---
+
+# Revisión intermedia 2.1
+
+Ejecutada el **2026-09-07** por encargo expreso del autor, sobre las mismas tres piezas.
+Alcance estricto: precisión de las afirmaciones, falsa validación del instrumento y
+ambigüedad conceptual de las preguntas del Índice. **No se amplió el alcance ni se escribió
+material nuevo.**
+
+## 1. Motivo
+
+El autor detectó tres defectos que la revisión A-M no había capturado, todos de la misma
+familia: **enunciados con forma de hallazgo empírico que ninguna fuente sostiene.** La
+revisión G comprobó que ninguna *cifra* careciera de fuente, y eso se cumplía. Lo que no se
+comprobó es que ninguna *afirmación de frecuencia sin cifra* se presentara como hecho. Es
+un punto ciego real del control anterior y queda corregido en el procedimiento.
+
+## 2. Cambios en la introducción
+
+| Antes | Ahora | Razón |
+|---|---|---|
+| «Las empresas familiares son la parte principal del tejido empresarial de casi cualquier país.» | «Las empresas familiares constituyen una parte importante del tejido empresarial en numerosos países. Cuánta exactamente, es otra cuestión…» | La formulación era casi universal y las fuentes no la sostienen. Solo hay dato para Europa y Estados Unidos, y para América Latina se declara el vacío. |
+| «La distancia entre el 60 % y el 27 % no describe dos realidades distintas. Describe dos definiciones distintas.» | «…no puede interpretarse como una comparación directa. Refleja, entre otras cosas, definiciones distintas de empresa familiar, además de países, métodos y años distintos.» | Atribuía **toda** la diferencia a la definición. Las fuentes permiten decir que la definición influye, no que lo explique todo. La enseñanza editorial se conserva y se enuncia aparte: un porcentaje no dice nada sin decir qué se contó. |
+| «Casi todos los propietarios saben responder de inmediato…» | «Probablemente usted ya sepa la respuesta…» | Afirmación empírica sobre una población. Sustituida por una interpelación al lector, que no afirma nada verificable. |
+| «Es, casi siempre, un residuo de su acierto.» | «Es, en buena medida, un residuo de su acierto.» | Pasa de una afirmación de frecuencia a una de grado. Conserva la tesis del libro sin fingir haberla medido. |
+
+## 3. Cambios en el capítulo 1
+
+| Antes | Ahora | Razón |
+|---|---|---|
+| «Millones de propietarios tienen eso… la mayoría son organizaciones maduras» | «No es poco… son muchas las empresas familiares que llevan largo tiempo haciéndolo. Al menos en Estados Unidos hay dato oficial: … el 57,9 % … No son ensayos recientes.» | «Millones» era un recuento inventado y «la mayoría» generalizaba fuera del ámbito del dato. Ahora el alcance geográfico va delante de la cifra. |
+| «Hay tres señales que casi nunca fallan» | «Hay tres señales que conviene mirar antes que ninguna otra» | «Casi nunca fallan» es una afirmación de fiabilidad diagnóstica que nadie ha comprobado. |
+| «Está ante el caso normal.» | «Está ante el caso para el que se escribió este libro.» | «El caso normal» afirma una frecuencia desconocida. La nueva frase conserva íntegro el efecto tranquilizador y solo afirma algo sobre el libro. |
+| «Casi todos los propietarios intentan resolver las cuatro con la misma herramienta» | «Lo natural es intentar resolver las cuatro con la misma herramienta» | Igual que arriba: de recuento implícito a observación cualitativa. |
+| «Es una situación extendida y, sin embargo, casi nunca se habla de ella» | «Puede que esto le esté ocurriendo desde hace años sin que nadie se lo haya mencionado nunca dentro de la empresa» | «Extendida» es una afirmación de prevalencia. Se sustituye por una hipótesis dirigida al lector. |
+| «…una dependencia crítica; de hecho, suele ser su consecuencia» | «…una dependencia crítica, y puede incluso ser fruto de ella» | Afirmaba una relación causal habitual. Ahora enuncia una posibilidad. |
+| «la forma más común de no terminar nada» | «la forma más segura de no terminar nada» | «Más común» se lee como dato; «más segura» se lee como lo que es, una advertencia. |
+| «porque son las que van a mejorar» | «porque son las que querrá volver a mirar dentro de seis meses» | Prometía un resultado. Roza el control J, falsas promesas. |
+
+## 4. Cambios en el Índice de Dependencia del Fundador
+
+Versión 1.0 → **1.1**.
+
+| Antes | Ahora | Razón |
+|---|---|---|
+| «Una dependencia alta es compatible con una empresa excelente. **De hecho, es lo más habitual.**» | Se suprime la segunda frase y se refuerza la primera. | Afirmaba cuál es el resultado más frecuente. No existe muestra que lo sostenga: contradecía directamente el apartado 2 del propio documento. |
+| «Es el resultado más frecuente en empresas maduras bien dirigidas, y el punto de partida habitual de este libro.» (rango 36-53) | «Es el punto de partida desde el que está escrito este libro, y no dice nada sobre la calidad de su dirección.» | Misma razón. La nueva formulación es una declaración sobre el libro, comprobable, y mantiene el efecto de no culpabilizar. |
+| «Existen zonas concretas —normalmente una o dos dimensiones— donde todo vuelve a usted.» (rango 18-35) | «Conviene mirar el perfil antes que el total: un mismo resultado puede venir de una dependencia repartida o de una o dos dimensiones muy altas…» | «Normalmente» afirmaba un patrón no observado. La nueva versión describe la aritmética del instrumento, que sí es verificable, y remite al perfil. |
+| «Una ausencia de una semana produce retrasos, errores silenciosos y desgaste» | «Es previsible que una ausencia de una semana produzca…» | De predicción categórica a expectativa razonada. |
+| «Una ausencia imprevista y prolongada pondría en riesgo…» | «…podría poner en riesgo…» | Igual. |
+| «Una diferencia de dos o tres puntos no significa nada… Una diferencia de diez puntos sí significa algo.» | Cuatro párrafos nuevos: no existe umbral calculado y cualquier cifra sería inventada; las variaciones pequeñas se leen con prudencia; merece atención un cambio **amplio, sostenido en una tercera medición y explicable** por lo que se hizo; y por encima del total, lo que informa es el patrón por dimensiones. | Fijar diez puntos como frontera era falsa precisión estadística. **No se usa la palabra «significativo» en ningún sentido.** |
+| «Las diferencias entre las dos respuestas **suelen ser** más informativas» | «…**pueden ser** más informativas» | Afirmación de frecuencia sobre un instrumento que nunca se ha administrado. |
+| «El mismo cuestionario, repetido, **es la prueba** de que el método funcionó» | «…permite ver si la dependencia se está moviendo… No demuestra por sí solo que el método haya funcionado; es un indicio.» | «Prueba» es incompatible con una autoevaluación no validada. Contradecía las limitaciones 1 y 2. |
+| «Repita a los seis meses. Antes es pronto para ver cambios; más tarde se pierde el hábito.» | «Es un plazo de compromiso, no un plazo calculado: lo bastante largo para que algo haya podido cambiar y lo bastante corto para no perder el hábito.» | Presentaba como conocido el ritmo al que cambia la dependencia. Ahora declara que el plazo es una convención. |
+| «Un mes con una crisis eleva artificialmente el resultado.» | «…**puede** elevar el resultado sin que nada de fondo haya cambiado.» | Categórico sin base. |
+| «Un valor alto… **casi siempre** indica que nunca se le dio la información ni el permiso.» | «Es **igual de compatible** con un equipo capaz al que nunca se le dio la información ni el permiso… El instrumento no distingue entre ambos casos; esa distinción la hace usted.» | Afirmaba la causa más frecuente. Ahora enuncia compatibilidad, que es lo único que el instrumento permite. |
+
+### 4.1 Pregunta 16, reformulada por encargo
+
+| Antes | Ahora |
+|---|---|
+| «¿Revisa usted personalmente los movimientos de dinero?» | «Los movimientos importantes de dinero, ¿necesitan su revisión personal para poder seguir adelante, aunque haya otra persona responsable?» |
+
+**Razón.** La versión anterior puntuaba alto a quien practica una supervisión financiera
+prudente. El instrumento debe medir **dependencia**, no diligencia. La nueva redacción mide
+si el circuito se detiene sin el propietario, que es otra cosa.
+
+**Ajuste derivado.** La fila F del apartado 8 pasa de «No hay separación de funciones ni
+límites escritos» a «El circuito del dinero no puede cerrarse sin usted: faltan límites
+escritos, separación de funciones o un segundo control en quien apoyarse», para describir
+lo que la dimensión mide ahora.
+
+### 4.2 Limitación añadida
+
+Se añade la limitación **8**, que nombra el problema de forma general y lo devuelve al
+lector como pregunta: algunas preguntas no distinguen la dependencia de la prudencia, el
+instrumento cuenta ambas igual, y el resultado se lee junto a la pregunta «de todo lo que
+hoy pasa por sus manos, ¿cuánto pasa porque usted lo ha elegido y cuánto porque no hay otra
+manera?». Enlaza con el principio central del libro: elección frente a obligación.
+
+## 5. Auditoría de las veinticuatro preguntas
+
+Criterio aplicado a cada una: *¿una puntuación alta demuestra razonablemente dependencia
+del fundador, o podría reflejar simplemente una buena práctica de gestión?*
+
+**Dieciocho preguntas quedan sin objeción** —1, 2, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17,
+18, 19, 22, 23, 24—. Casi todas se apoyan en un cuantificador de exclusividad («solo
+usted», «únicamente con usted», «el único control efectivo») o miden una consecuencia, y
+por eso no confunden dependencia con diligencia. La 2 y la 11 están además protegidas por
+una cláusula explícita: «aunque el importe sea moderado», «que otra persona podría
+responder con la información disponible».
+
+**Cinco preguntas presentan ambigüedad y NO se han modificado.** Se proponen alternativas
+para aprobación del autor, según lo instruido.
+
+| # | Pregunta actual | Problema | Alternativa propuesta |
+|---|---|---|---|
+| **21** | «Cuando alguien necesita una excepción, ¿debe consultársela a usted?» | **El mismo defecto que tenía la 16, y es el caso más claro que queda.** Que las excepciones se autoricen por una persona con nombre es exactamente lo que el libro prescribirá en los capítulos 8 y 10. Una empresa bien gobernada puntúa 3 por hacer lo correcto. | «Cuando alguien necesita una excepción, ¿debe consultársela a usted en particular, porque nadie más puede autorizarla ni sabe con qué criterio se concede?» |
+| **5** | «Ante una situación nueva, ¿es usted quien sabe qué hay que mirar primero?» | Tener más experiencia que nadie es un activo, no una dependencia. La dependencia aparece cuando ese saber es **exclusivo**. Tal como está, un fundador experimentado puntúa 3 por serlo. | «Ante una situación nueva, ¿es usted la única persona de la empresa que sabe qué hay que mirar primero?» |
+| **3** | «Cuando dos áreas o dos personas discrepan, ¿lo resuelve usted?» | Una empresa con una vía de escalado documentada hacia el propietario está mejor gobernada que otra sin ninguna, y ambas puntúan igual. | «Cuando dos áreas o dos personas discrepan, ¿el asunto se queda parado hasta que usted lo resuelve?» |
+| **20** | «¿Existen acuerdos con clientes, proveedores o personas que no constan por escrito?» | Mide falta de documentación, no dependencia del fundador. Un acuerdo no escrito que conocen cuatro personas depende poco de usted. | «¿Existen acuerdos con clientes, proveedores o personas que no constan por escrito y que solo usted recuerda?» |
+| **7** | «Los clientes principales, ¿esperan tratar con usted los asuntos importantes?» | Atender personalmente a los clientes principales puede ser excelente práctica comercial. La 9 mide la consecuencia, pero la 7 puntúa alto por una virtud. | «Los clientes principales, ¿rechazarían o retrasarían tratar el asunto con otra persona de su empresa?» |
+
+Prioridad sugerida: **la 21 y la 5 son las que conviene resolver**; la 3, la 20 y la 7 son
+mejoras de precisión. Ninguna de las cinco alteraría el número de preguntas, las ocho
+dimensiones, la escala 0-3 ni la estructura general.
+
+### 5.1 Observación adicional sobre la escala
+
+No es un problema de una pregunta, sino del apartado 4. Los rótulos de la escala están
+redactados para preguntas con sujeto que actúa —«Otras personas lo hacen habitualmente sin
+usted», «Solo se hace con su aprobación previa»— y encajan peor en las preguntas de estado
+que empiezan por «¿Falta…?» (17 y 23) o «¿Existen…?» (20).
+
+Se leen sin dificultad interpretándolas como proporción de casos, y por eso **no se ha
+tocado nada**. Si el autor quiere afinarlo, la corrección mínima sería añadir a la tabla de
+la escala una columna con rótulos neutros —«En ningún caso / En algunos casos / En la
+mayoría de los casos / En todos los casos»— sin alterar los valores 0 a 3.
+
+## 6. Comprobaciones finales de esta revisión
+
+| Comprobación | Resultado |
+|---|---|
+| Barrido automático de fórmulas de frecuencia en las tres piezas | Tres coincidencias residuales, todas legítimas: «casi todo» referido al pasado del propio lector, «normalmente» describiendo la categoría de las autorizaciones y «lo sabe casi todo» describiendo a un personaje hipotético. Ninguna es una afirmación sobre una población. |
+| ¿Se introdujo nueva falsa precisión? | No. Cero umbrales numéricos nuevos, cero porcentajes nuevos, cero usos de «significativo». Una frase que yo mismo introduje en el borrador de esta revisión —«un cambio que no sabe explicar es, casi siempre, ruido»— se detectó y se corrigió antes de cerrar. |
+| Coherencia entre las tres piezas | Conforme. Las descripciones del Índice en la introducción y en el capítulo 1 siguen coincidiendo con la herramienta: veinticuatro preguntas, ocho dimensiones, no validado, valor en la comparación a seis meses. Ninguna de las dos menciona umbrales. |
+| Constantes de `06-control-de-continuidad.md` | Sin cambios: 24 preguntas, 8 dimensiones, escala 0-3, recorrido 0-72, cuatro rangos, segunda medición a los seis meses. |
+| Principio central preservado | Sí. «Que su participación deje de ser una obligación operativa y se convierta en una elección» permanece literal en la introducción, se retoma en el capítulo 1 y ahora sostiene además la limitación 8 del Índice. |
+| Respeto al fundador, tecnología subordinada, no reemplazo, secuencia conceptual, español internacional, tono empresarial | Conformes. Ninguna corrección tocó esos pasajes. |
+| Legibilidad tras los cambios | Introducción: 2.079 palabras, frase media 13,4. Capítulo 1: 2.322 palabras, frase media 12,9. Ninguna línea supera 100 caracteres fuera de tablas. |
+| Privacidad y seguridad | Sin hallazgos. |
+
+## 7. Corrección del procedimiento
+
+Se incorpora al control de fuentes, para la Etapa 3, la regla que faltaba:
+
+> Una afirmación de frecuencia sin cifra —«casi todos», «la mayoría», «lo normal», «lo más
+> habitual»— necesita fuente igual que una cifra, o se escribe como observación cualitativa
+> del autor. La ausencia de porcentaje no convierte un enunciado empírico en una opinión.
+
+La revisión G de cada bloque de la Etapa 3 pasa a incluir el barrido automático de estas
+fórmulas, no solo el de cifras.

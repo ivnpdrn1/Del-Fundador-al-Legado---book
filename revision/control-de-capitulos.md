@@ -2,8 +2,10 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-06: 2 de 27 piezas escritas. 4.341 palabras.**
-**Recursos: 1 de 18 redactado (1.706 palabras, no computan en el manuscrito).**
+**Estado del manuscrito a 2026-09-07: 2 de 27 piezas escritas. 4.401 palabras.**
+**Recursos: 1 de 18 redactado (2.018 palabras, no computan en el manuscrito).**
+
+Cifras posteriores a la revisión intermedia 2.1 del 2026-09-07.
 
 **Estados:** `no iniciado` · `borrador` · `revisado` · `aprobado`
 
@@ -16,8 +18,8 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 
 | # | Capítulo | Parte | Etapa | Estado | Palabras | Objetivo | Recursos producidos | Casos | Afirmaciones abiertas |
 |---|---|---|---|---|---|---|---|---|---|
-| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.032** | 2.100 | — | — | 0 |
-| 1 | Cuando el propietario también es el sistema | I | L | **borrador** | **2.309** | 2.200 | Índice de Dependencia del Fundador | C-01 | 0 |
+| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.079** | 2.100 | — | — | 0 |
+| 1 | Cuando el propietario también es el sistema | I | L | **borrador** | **2.322** | 2.200 | Índice de Dependencia del Fundador | C-01 | 0 |
 | 2 | El conocimiento que nunca fue escrito | I | E | no iniciado | 0 | 2.000 | — | — | — |
 | 3 | La peligrosa tranquilidad de "ellos sabrán qué hacer" | I | — | no iniciado | 0 | 1.800 | — | — | — |
 | 4 | El costo de una ausencia inesperada | I | — | no iniciado | 0 | 1.900 | — | — | — |
@@ -50,16 +52,16 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 
 | Parte | Caps. | Objetivo | Escrito | % del total |
 |---|---|---|---|---|
-| Introducción | 1 | 2.100 | 2.032 | — |
-| I | 5 | 9.900 | 2.309 | — |
+| Introducción | 1 | 2.100 | 2.079 | — |
+| I | 5 | 9.900 | 2.322 | — |
 | II | 5 | 11.000 | 0 | — |
 | III | 6 | 12.900 | 0 | 24,8 % previsto |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **52.200** | **4.341** | 8,3 % del objetivo |
+| **Total** | **27** | **52.200** | **4.401** | 8,4 % del objetivo |
 
-**Desviaciones.** La introducción quedó 68 palabras por debajo del objetivo y el
-capítulo 1, 109 por encima. Ambas están dentro de los rangos declarados en el índice
+**Desviaciones.** La introducción quedó 21 palabras por debajo del objetivo y el
+capítulo 1, 122 por encima. Ambas están dentro de los rangos declarados en el índice
 maestro (introducción: 1.800-2.500; capítulos: 1.800-2.200 de media). No se corrige: la
 regla del proyecto es que la calidad y la ausencia de repetición tienen prioridad sobre
 la cifra.
@@ -69,7 +71,7 @@ la cifra.
 | Etapa | Capítulos | Objetivo | Escrito |
 |---|---|---|---|
 | Contexto previo | 3, 4, 5 | 5.700 | 0 |
-| L | 1, 6 | 4.300 | 2.309 |
+| L | 1, 6 | 4.300 | 2.322 |
 | E | 2, 7, 8, 9 | 8.700 | 0 |
 | G | 10 | 2.200 | 0 |
 | A | 11–16 | 12.900 | 0 |

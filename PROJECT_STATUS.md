@@ -4,16 +4,42 @@
 **Repositorio:** Del-Fundador-al-Legado---book
 **Remoto:** https://github.com/ivnpdrn1/Del-Fundador-al-Legado---book.git
 **Rama activa:** `main`
-**Actualizado:** 2026-09-06
+**Actualizado:** 2026-09-07
 
 ---
 
 ## 1. Etapa actual
 
 **Etapa 2 — Muestra editorial: COMPLETADA.**
+**Revisión intermedia 2.1: COMPLETADA el 2026-09-07.**
 
 El proyecto está **detenido** a la espera de autorización expresa del autor para comenzar
 la Etapa 3 — Producción. El capítulo 2 no se ha escrito, por instrucción expresa.
+
+### Revisión intermedia 2.1 (2026-09-07)
+
+Revisión editorial puntual encargada por el autor sobre las tres piezas de la muestra, sin
+ampliar el alcance ni escribir material nuevo. Corrigió una única familia de defectos:
+**enunciados con forma de hallazgo empírico que ninguna fuente sostiene.**
+
+| Concepto | Valor |
+|---|---|
+| Frases modificadas | 23 (4 en la introducción, 8 en el capítulo 1, 11 en el Índice) |
+| Preguntas del Índice reformuladas | 1, la número 16, por encargo expreso |
+| Preguntas señaladas como ambiguas y **no** modificadas | 5 (21, 5, 3, 20, 7), con alternativa propuesta para aprobación |
+| Limitaciones del Índice | De 7 a 8 |
+| Versión del Índice | 1.0 → 1.1 |
+| Nuevas cifras, umbrales o porcentajes introducidos | **0** |
+
+**Punto ciego corregido en el procedimiento.** La revisión A-M comprobaba que ninguna
+*cifra* careciera de fuente. No comprobaba que una *afirmación de frecuencia sin cifra*
+—«casi todos», «la mayoría», «el caso normal»— no se presentara como hecho. La revisión G
+de cada bloque de la Etapa 3 pasa a incluir ese barrido. Detalle en
+`revision/control-de-calidad-etapa-2.md`, «Revisión intermedia 2.1».
+
+**Pendiente de decisión del autor:** las cinco preguntas del Índice señaladas como
+ambiguas. Las alternativas están redactadas y ninguna alteraría el número de preguntas,
+las ocho dimensiones, la escala 0-3 ni la estructura general.
 
 ## 2. Trabajo completado en la Etapa 2
 
@@ -36,6 +62,7 @@ la Etapa 3 — Producción. El capítulo 2 no se ha escrito, por instrucción ex
 | 15 | Revisión de privacidad previa a la publicación | Hecho | Apartado 9 |
 | 16 | Commits y publicación en `origin/main` | Hecho | Apartado 12 |
 | 17 | Detención a la espera de autorización de la Etapa 3 | **En vigor** | — |
+| 18 | **Revisión intermedia 2.1**, encargada por el autor | Hecho | `revision/control-de-calidad-etapa-2.md` |
 
 ## 3. Trabajo en progreso
 
@@ -74,13 +101,13 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Concepto | Valor |
 |---|---|
 | Capítulos terminados | **1 de 25** (en borrador) |
-| Introducción | **Escrita**, 2.032 palabras |
-| Capítulo 1 | **Escrito**, 2.309 palabras |
+| Introducción | **Escrita**, 2.079 palabras |
+| Capítulo 1 | **Escrito**, 2.322 palabras |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **4.341** |
+| Palabras del manuscrito | **4.401** |
 | Objetivo del manuscrito | 45.000 – 60.000 |
-| Avance sobre el objetivo | 8,3 % |
-| Recursos terminados | **1 de 18** (1.706 palabras, no computan en el manuscrito) |
+| Avance sobre el objetivo | 8,4 % |
+| Recursos terminados | **1 de 18**, versión 1.1 (2.018 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 33 archivos |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
@@ -92,7 +119,7 @@ por separado para que no haya confusión sobre el avance real.
 |---|---|
 | Fuentes verificadas | **12** |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
-| Afirmaciones con fuente en el manuscrito | **8** |
+| Afirmaciones con fuente en el manuscrito | **7** |
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **4 de 12** (Q-01 a Q-04) |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
@@ -116,6 +143,8 @@ comprobarlo** (D-016).
 | Que el modelo de negocio contamine el contenido del libro. | Media | D-010 vigente. La primera herramienta se publica completa. |
 | Que el contenido tecnológico caduque. | Media | Escritura por función, no por producto. Cero menciones de marca. |
 | Que el libro no haya sido leído nunca por su lector real. | **Alta** | **No controlado.** Ver V-51. Es la recomendación principal antes de la Etapa 3. |
+| Que una afirmación de frecuencia sin cifra se lea como un hecho comprobado. | **Media, nuevo** | Detectado por el autor en la revisión 2.1. Once enunciados corregidos. Barrido automático incorporado a la revisión G de cada bloque. |
+| Que el Índice puntúe como dependencia lo que es prudencia de gestión. | **Media, nuevo** | Corregida la pregunta 16; añadida la limitación 8; cinco preguntas más señaladas y pendientes de decisión del autor. |
 
 ## 9. Verificaciones ejecutadas
 
@@ -157,7 +186,7 @@ propia revisión. Detalle completo en `revision/control-de-calidad-etapa-2.md`.
 |---|---|
 | Rama activa | `main` |
 | Commits creados en la Etapa 1 | 9 |
-| Commits creados en la Etapa 2 | 6 |
+| Commits creados en la Etapa 2 | 6, más 1 de la revisión 2.1 |
 | Archivos versionados | 34 |
 
 ## 11. Bloqueos
@@ -179,7 +208,9 @@ Datos verificados contra el repositorio remoto.
 | Mensaje de ese commit | `docs: run the stage 2 quality review and update every control file` |
 | Fecha de publicación | 2026-09-06 |
 | Rama publicada | `main` → `origin/main` |
-| Resultado del `push` | **Correcto y verificado.** `git ls-remote origin main` devuelve `0495466ffd4a0d2af6b915a33ec1cc444bdef460`, coincidente con `HEAD` local |
+| Resultado del `push` | **Correcto y verificado.** `git ls-remote origin main` devolvió `0495466ffd4a0d2af6b915a33ec1cc444bdef460`, coincidente con `HEAD` local |
+| Último commit de la Etapa 2 | `5f601256a8bdd2cb620cb4728c14a59b4f4577b0` |
+| Commit de la revisión 2.1 | Ver el informe entregado al autor y `git ls-remote origin main` |
 | Comandos destructivos usados | Ninguno. Sin `push --force`, sin `reset --hard`, sin reescritura de historial |
 
 Este archivo se actualiza con el identificador definitivo en un commit posterior,
@@ -187,8 +218,10 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Leer la muestra editorial**: introducción, capítulo 1 e Índice de Dependencia del
-   Fundador.
+1. **Decidir sobre las cinco preguntas ambiguas del Índice** (21, 5, 3, 20 y 7). Las
+   alternativas están redactadas en `revision/control-de-calidad-etapa-2.md`, apartado 5 de
+   la revisión 2.1. Conviene cerrarlo antes de que la herramienta se use en una lectura de
+   prueba.
 2. **Entregarla a dos o tres propietarios de empresa familiar** del perfil del lector
    principal (V-51). Es la verificación de mayor valor y la más barata en este momento:
    corregir el tono ahora cuesta poco; corregirlo con veinticinco capítulos escritos,

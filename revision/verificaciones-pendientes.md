@@ -3,7 +3,7 @@
 Todo lo que queda por comprobar antes de considerar el libro entregable. Se mantiene
 desde la Etapa 1 hasta la Etapa 5 y se entrega al autor como parte de la entrega final.
 
-**Actualizado: 2026-09-06, al cierre de la Etapa 2.**
+**Actualizado: 2026-09-07, tras la revisión intermedia 2.1.**
 
 ---
 
@@ -20,6 +20,8 @@ Bloquean o condicionan el avance.
 | V-05 | D-005 / P-2 a P-5, ajustes de contenido en capítulos concretos. | Bloques B1, B6 y B7. | **Abierta.** Conviene decidir al autorizar la Etapa 3. P-2 afecta al bloque más próximo. |
 | V-06 | A-06, mercados y jurisdicciones de publicación previstos. | Redacción de advertencias legales y ámbito de los datos. | **CERRADA 2026-09-06.** Resuelta por el autor. Desarrollada en `editorial/12-alcance-jurisdiccional.md` (D-014). |
 | V-07 | D-001, título definitivo. | Portada y registro comercial. | **Aprobado como título oficial de trabajo.** La confirmación definitiva depende de A-01. |
+| V-08 | **Nuevo.** Redacción definitiva de las cinco preguntas ambiguas del Índice: 21, 5, 3, 20 y 7. | El uso del Índice en una lectura de prueba (V-51) y su versión final. | **Abierta.** Alternativas redactadas en `control-de-calidad-etapa-2.md`, revisión 2.1, apartado 5. Prioridad: la 21 y la 5. |
+| V-09 | **Nuevo.** Rótulos de la escala 0-3: encajan peor en las preguntas de estado (17, 23, 20). | Nada. Mejora opcional. | **Abierta.** Corrección mínima propuesta: columna de rótulos neutros, sin alterar los valores. |
 
 ## 2. Verificaciones de investigación
 
@@ -60,6 +62,8 @@ Bloquean o condicionan el avance.
 | V-38 | Las dieciocho herramientas existen, están completas y son utilizables en papel. | Etapa 4 | 1 de 18 redactada. |
 | V-39 | Ninguna mención de marca incumple D-011. | Etapa 4 | Cero menciones de marca a fecha de hoy. |
 | V-40 | **Nuevo.** Comprobar que ninguna referencia cruzada del manuscrito apunte a la numeración antigua de los capítulos 11, 12 y 13. | Etapa 4 | Abierta, derivada de D-017. |
+| V-41 | **Nuevo.** Barrido de afirmaciones de frecuencia sin cifra —«casi todos», «la mayoría», «lo normal», «lo más habitual»— en cada bloque. | Durante la Etapa 3, en cada bloque | **En vigor desde el 2026-09-07.** Se incorpora a la revisión G. Origen: revisión intermedia 2.1. |
+| V-42 | **Nuevo.** Comprobar que ninguna herramienta contradiga sus propias limitaciones declaradas. | Al redactar cada una de las 18 | **En vigor desde el 2026-09-07.** El Índice lo incumplía en cuatro puntos antes de la revisión 2.1. |
 
 ## 5. Verificaciones que requieren personas ajenas al proyecto
 

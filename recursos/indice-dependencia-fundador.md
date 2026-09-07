@@ -1,7 +1,7 @@
 # Índice de Dependencia del Fundador
 
 **Herramienta 1 de 18** · Capítulo 1 · Etapa **L** del Método LEGADO
-**Versión:** 1.0 · **Fecha:** 2026-09-06
+**Versión:** 1.1 · **Fecha:** 2026-09-07
 
 ---
 
@@ -15,12 +15,14 @@ El índice sirve para tres cosas y solo para tres:
 1. **Situar el punto de partida.** Un valor inicial fechado.
 2. **Localizar dónde se concentra la dependencia.** Es lo más útil de todo el instrumento.
    Dos empresas con el mismo total pueden necesitar trabajos completamente distintos.
-3. **Medir el avance.** El mismo cuestionario, repetido, es la prueba de que el método
-   funcionó o de que no funcionó.
+3. **Observar el avance.** El mismo cuestionario, repetido, permite ver si la dependencia
+   se está moviendo y en qué dimensiones. No demuestra por sí solo que el método haya
+   funcionado; es un indicio, y se lee junto a lo que usted haya hecho en ese periodo.
 
 **Para lo que no sirve:** no mide la calidad de la gestión, ni la salud financiera, ni la
-capacidad del equipo, ni el valor de la empresa. Una dependencia alta es compatible con
-una empresa excelente. De hecho, es lo más habitual.
+capacidad del equipo, ni el valor de la empresa. Una dependencia alta es perfectamente
+compatible con una empresa excelente: son cosas distintas, y este instrumento solo mide una
+de ellas.
 
 ## 2. Advertencia sobre su naturaleza
 
@@ -44,11 +46,12 @@ sostener.
 4. **No consulte a nadie mientras responde.**
 5. **Recomendado:** pida a una persona de su confianza —dirección, administración, un
    familiar no operativo— que responda el mismo cuestionario por separado, pensando en
-   usted. Las diferencias entre las dos respuestas suelen ser más informativas que el
+   usted. Las diferencias entre las dos respuestas pueden ser más informativas que el
    número.
 6. **Feche el resultado y archívelo.** Sin fecha, el instrumento pierde su función
    principal.
-7. **Repita a los seis meses.** Antes es pronto para ver cambios; más tarde se pierde el
+7. **Repita a los seis meses.** Es un plazo de compromiso, no un plazo calculado: lo
+   bastante largo para que algo haya podido cambiar y lo bastante corto para no perder el
    hábito.
 
 ## 4. Escala de respuesta
@@ -110,7 +113,7 @@ Ocho dimensiones, tres preguntas cada una. Anote el valor a la derecha.
 
 | # | Pregunta | 0-3 |
 |---|---|---|
-| 16 | ¿Revisa usted personalmente los movimientos de dinero? | |
+| 16 | Los movimientos importantes de dinero, ¿necesitan su revisión personal para poder seguir adelante, aunque haya otra persona responsable? | |
 | 17 | ¿Falta un límite de gasto escrito para cada responsable? | |
 | 18 | En las operaciones que mueven dinero, ¿es usted el único control efectivo? | |
 
@@ -163,13 +166,23 @@ da un valor de 0 a 9.
 | Índice | Nivel | Qué significa |
 |---|---|---|
 | **0-17** | Dependencia baja | La empresa funciona con criterios conocidos por más de una persona. Su presencia aporta valor, pero no es un requisito de la operación. El trabajo pendiente es de sostenimiento: que no se degrade. |
-| **18-35** | Dependencia moderada | La empresa resiste ausencias cortas. Existen zonas concretas —normalmente una o dos dimensiones— donde todo vuelve a usted. El trabajo es quirúrgico, no general. |
-| **36-53** | Dependencia alta | La empresa funciona bien **porque** usted está. Una ausencia de una semana produce retrasos, errores silenciosos y desgaste del equipo. Es el resultado más frecuente en empresas maduras bien dirigidas, y el punto de partida habitual de este libro. |
-| **54-72** | Dependencia crítica | La operación y el criterio están concentrados en una sola persona. Una ausencia imprevista y prolongada pondría en riesgo relaciones, ingresos y continuidad. Conviene empezar por lo esencial, no por lo ideal. |
+| **18-35** | Dependencia moderada | La empresa resiste ausencias cortas. Conviene mirar el perfil antes que el total: un mismo resultado puede venir de una dependencia repartida por igual o de una o dos dimensiones muy altas, y el trabajo que exige cada caso es distinto. |
+| **36-53** | Dependencia alta | La empresa funciona bien **porque** usted está. Es previsible que una ausencia de una semana produzca retrasos, errores silenciosos y desgaste en quien se queda sin respaldo. Es el punto de partida desde el que está escrito este libro, y no dice nada sobre la calidad de su dirección. |
+| **54-72** | Dependencia crítica | La operación y el criterio están concentrados en una sola persona. Una ausencia imprevista y prolongada podría poner en riesgo relaciones, ingresos y continuidad. Conviene empezar por lo esencial, no por lo ideal. |
 
-**Sobre el número.** No lo interprete con más precisión de la que tiene. Una diferencia de
-dos o tres puntos entre dos mediciones no significa nada: puede deberse al ánimo del día.
-Una diferencia de diez puntos sí significa algo.
+**Sobre el número.** No lo interprete con más precisión de la que tiene. Este instrumento
+no permite decir a partir de cuántos puntos un cambio «cuenta»: no existe umbral calculado,
+y cualquier cifra que se diera aquí sería inventada.
+
+Lea las variaciones pequeñas con prudencia. Pueden deberse al ánimo del día, a un mes
+atípico o, sencillamente, a que hoy responde usted con más franqueza que hace seis meses.
+
+Merece atención un cambio que reúna tres condiciones: que sea amplio, que se sostenga en
+una tercera medición y que usted pueda explicarlo señalando lo que hizo entre una y otra.
+Un cambio que no sabe explicar no es todavía un avance: es una pregunta pendiente.
+
+Y por encima del total, lo que más informa es el patrón: qué dimensiones bajaron, cuáles
+se resistieron y cuáles no se movieron en absoluto.
 
 ## 8. Cómo leer el perfil, que es lo que importa
 
@@ -183,7 +196,7 @@ dos dimensiones más altas y siga la fila correspondiente.
 | **C. Relaciones** | Los vínculos externos son personales, no de la empresa. | Mapa de relaciones críticas y segundo contacto interno (cap. 7). |
 | **D. Operación** | La empresa funciona por interrupciones. | Registro de interrupciones (cap. 1) y delegación por bloques (cap. 18). |
 | **E. Información** | No hay una fuente única de datos fiable. | Ordenar los datos antes de automatizar (cap. 11). |
-| **F. Dinero y controles** | No hay separación de funciones ni límites escritos. | Matriz de autoridad (cap. 10). Conviene revisión de un profesional. |
+| **F. Dinero y controles** | El circuito del dinero no puede cerrarse sin usted: faltan límites escritos, separación de funciones o un segundo control en quien apoyarse. | Matriz de autoridad (cap. 10). Conviene la revisión de un profesional de la jurisdicción. |
 | **G. Excepciones** | Lo excepcional no está registrado y por tanto no es transferible. | Registro de excepciones (cap. 8). |
 | **H. Supervisión** | No existe un modo de saber cómo va la empresa sin estar dentro. | Tablero del propietario (cap. 19) y prueba de ausencia (cap. 24). |
 
@@ -200,11 +213,20 @@ Se enumeran para que usted sepa exactamente qué tiene en las manos.
 4. **No mide el riesgo, sino la dependencia.** Una empresa con dependencia crítica y un
    sector estable puede vivir años sin incidentes. La dependencia describe la exposición,
    no la probabilidad.
-5. **Es sensible al momento.** Un mes con una crisis eleva artificialmente el resultado.
+5. **Es sensible al momento.** Un mes con una crisis puede elevar el resultado sin que
+   nada de fondo haya cambiado.
 6. **No sustituye a un análisis de continuidad.** Existen marcos internacionales para eso,
    con otro alcance y otro coste.
-7. **No dice nada sobre las personas.** Un valor alto no indica que el equipo sea débil.
-   Casi siempre indica que nunca se le dio la información ni el permiso para decidir.
+7. **No dice nada sobre las personas.** Un valor alto no indica que el equipo sea débil. Es
+   igual de compatible con un equipo capaz al que nunca se le dio la información ni el
+   permiso para decidir. El instrumento no distingue entre ambos casos; esa distinción la
+   hace usted.
+8. **Algunas preguntas no distinguen la dependencia de la prudencia.** Una misma respuesta
+   alta puede describir una empresa que no puede avanzar sin usted o una en la que usted
+   ha decidido, con buen criterio, reservarse ciertos asuntos. El instrumento cuenta ambas
+   cosas igual. Por eso el resultado se lee junto a esta pregunta, que ningún cuestionario
+   puede responder por usted: **de todo lo que hoy pasa por sus manos, ¿cuánto pasa porque
+   usted lo ha elegido y cuánto porque no hay otra manera?**
 
 ## 10. Qué hacer después de obtener el resultado
 

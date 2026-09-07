@@ -4,11 +4,11 @@ parte: 1
 titulo: "Cuando el propietario también es el sistema"
 etapa_metodo: "L"
 estado: borrador
-palabras: 2309
+palabras: 2322
 casos_usados: ["C-01"]
 recursos_producidos: ["indice-dependencia-fundador.md"]
 afirmaciones_por_verificar: []
-ultima_actualizacion: "2026-09-06"
+ultima_actualizacion: "2026-09-07"
 ---
 
 # 1. Cuando el propietario también es el sistema
@@ -40,12 +40,11 @@ mejorar.
 
 Son dos cosas distintas, y en español las llamamos igual.
 
-**Tener una empresa** es tener actividad, clientes, ingresos y personas trabajando.
-Millones de propietarios tienen eso, y no es poco: sostenerlo durante años es un logro
-considerable. Los datos oficiales estadounidenses lo confirman en el caso de las empresas
-familiares: la mayoría son organizaciones maduras, no ensayos recientes. Según la Oficina
-de Defensa de la Pequeña Empresa, con datos censales de 2021, el 57,9 % de las empresas
-familiares del país tenía más de diez años de vida.
+**Tener una empresa** es tener actividad, clientes, ingresos y personas trabajando. No es
+poco: sostenerlo durante años es un logro considerable, y son muchas las empresas
+familiares que llevan largo tiempo haciéndolo. Al menos en Estados Unidos hay dato oficial:
+según la Oficina de Defensa de la Pequeña Empresa, con datos censales de 2021, el 57,9 % de
+las empresas familiares del país tenía más de diez años de vida. No son ensayos recientes.
 
 **Tener una organización** es otra cosa. Es que exista un modo conocido, repetible y
 verificable de que las decisiones se tomen bien aunque la persona más experimentada no
@@ -62,8 +61,8 @@ se ausenta. Por eso puede permanecer invisible durante décadas.
 
 ## Cómo se reconoce desde dentro
 
-Hay tres señales que casi nunca fallan, y ninguna tiene que ver con el tamaño de la
-empresa.
+Hay tres señales que conviene mirar antes que ninguna otra, y ninguna tiene que ver con el
+tamaño de la empresa.
 
 **La primera son las interrupciones.** No las urgencias reales: las consultas rutinarias.
 Preguntas que llegan a usted no porque sean difíciles, sino porque nadie sabe con
@@ -81,7 +80,7 @@ dónde puede llegar cada persona. Buena parte de esas firmas no necesitan su cri
 Necesitan un límite escrito que nadie ha escrito todavía.
 
 Si al leer esto ha reconocido las tres, no está usted ante un caso grave. Está ante el
-caso normal.
+caso para el que se escribió este libro.
 
 ## Las cuatro cosas que en realidad pasan por usted
 
@@ -105,10 +104,9 @@ entidad financiera— trata con la empresa a través de usted y solo de usted. E
 tarda en transferirse, porque no se transfiere con un documento: se transfiere con
 presencia compartida durante meses.
 
-Casi todos los propietarios intentan resolver las cuatro con la misma herramienta, que
-suele ser «voy a explicárselo mejor al equipo». Explicar sirve para la primera. Para las
-otras tres hace falta otra cosa. Este libro dedica capítulos separados a cada una,
-precisamente por eso.
+Lo natural es intentar resolver las cuatro con la misma herramienta: «voy a explicárselo
+mejor al equipo». Explicar sirve para la primera. Para las otras tres hace falta otra cosa.
+Este libro dedica capítulos separados a cada una, precisamente por eso.
 
 ## Un ejemplo
 
@@ -162,8 +160,9 @@ ocurriría si dejara de hacerlo.
 
 ## Por qué probablemente nadie se lo ha dicho
 
-Es una situación extendida y, sin embargo, casi nunca se habla de ella dentro de la propia
-empresa. Hay tres motivos, y ninguno tiene que ver con la mala fe.
+Puede que esto le esté ocurriendo desde hace años sin que nadie se lo haya mencionado nunca
+dentro de la empresa. Hay tres motivos que lo explican, y ninguno tiene que ver con la mala
+fe.
 
 **Su equipo no se lo va a decir.** Decirle a la persona que dirige la empresa que la
 empresa depende demasiado de ella suena, dicho en voz alta, a reproche o a ambición. La
@@ -172,8 +171,8 @@ se explica cómo preguntarlo, obtendrá respuestas más suaves que la realidad.
 
 **Sus asesores externos miran otra cosa.** Quien lleva las cuentas ve resultados, no
 dependencias. Un resultado excelente es perfectamente compatible con una dependencia
-crítica; de hecho, suele ser su consecuencia. Nadie que revise números va a detectar que
-el criterio no está escrito en ninguna parte.
+crítica, y puede incluso ser fruto de ella. Nadie que revise números va a detectar que el
+criterio no está escrito en ninguna parte.
 
 **Desde fuera no se ve.** Clientes y proveedores tratan con una empresa que responde bien.
 Que responda porque hay una organización o porque hay una persona atenta es una diferencia
@@ -197,8 +196,8 @@ en posición de hacerlo, y nadie más va a hacerlo por usted.
 
 ## Errores frecuentes al abordarlo
 
-1. **Empezar documentándolo todo.** Se documenta lo crítico primero. Documentar todo es
-   la forma más común de no terminar nada.
+1. **Empezar documentándolo todo.** Se documenta lo crítico primero. Documentarlo todo es
+   la forma más segura de no terminar nada.
 2. **Confundir digitalizar con resolver.** Poner en un programa un proceso que nadie
    entiende produce un proceso que nadie entiende, más caro.
 3. **Anunciarlo como una reorganización.** El equipo lo leerá como desconfianza o como
@@ -249,8 +248,8 @@ de dentro de seis meses, obtenido con las mismas preguntas y con la misma sincer
 
 ## Indicadores de progreso
 
-Cuatro cifras que conviene anotar hoy, aunque no le gusten, porque son las que van a
-mejorar:
+Cuatro cifras que conviene anotar hoy, aunque no le gusten, porque son las que querrá
+volver a mirar dentro de seis meses:
 
 | Indicador | Cómo se obtiene |
 |---|---|
