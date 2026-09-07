@@ -4,7 +4,7 @@ parte: 2
 titulo: "Localizar la dependencia"
 etapa_metodo: "L"
 estado: borrador
-palabras: 1974
+palabras: 2141
 casos_usados: []
 recursos_producidos: ["inventario-conocimiento-critico.md"]
 afirmaciones_por_verificar: []
@@ -23,8 +23,8 @@ Aquí empieza otra cosa. Los cinco capítulos anteriores servían para mirar; lo
 sirven para trabajar. Y el trabajo empieza por lo único que se puede hacer primero: **poner
 nombre y sitio a las dependencias concretas.** No a todas. A las que importan.
 
-Va a hacer una lista. Al final del capítulo tendrá diez cosas escritas en una hoja, con su
-nombre, su sitio y su orden. Con eso se puede trabajar. Con un número, no.
+Va a hacer una lista. Al final del capítulo tendrá alrededor de diez cosas escritas en una
+hoja, con su nombre, su sitio y su orden. Con eso se puede trabajar. Con un número, no.
 
 ## Qué es y qué no es esta lista
 
@@ -52,8 +52,12 @@ abrir.
 Lo que se busca es más estrecho. **Crítico no quiere decir importante.** Quiere decir dos
 cosas a la vez, y las dos tienen que cumplirse:
 
-> **Un elemento es crítico cuando (1) algo se detiene, se retrasa o se hace mal si no está
-> disponible, y (2) hoy está concentrado en una sola persona.**
+> **Un elemento es crítico cuando (1) si no está disponible cambia algo relevante para el
+> negocio, y (2) hoy está concentrado en una sola persona.**
+
+«Cambia algo relevante» es más ancho que «se para la producción», y a propósito: algo se
+detiene, algo se retrasa, algo se decide peor, una relación queda expuesta, una obligación
+puede incumplirse o deja de poder recuperarse una información. Cualquiera de esas cuenta.
 
 Las dos condiciones hacen trabajo. Hay cosas importantísimas que están bien repartidas —el
 precio de catálogo, el horario, dónde se guardan las facturas— y esas no son este problema.
@@ -82,21 +86,22 @@ está escrita en ninguna parte porque la hace usted.
 
 Todo eso son partes de lo que en la introducción llamamos **ADN empresarial**. Esta lista no
 lo recoge entero ni lo pretende: recoge **la parte que hoy sigue concentrada en una sola
-persona**, que es la que estorba. Lo demás ya funciona sin usted, y con eso no hay nada que
-hacer.
+persona**, que es la que estorba. Lo demás no es asunto de este inventario, y eso no
+significa que esté resuelto: significa que hoy no es lo que hay que mirar.
 
 ## Cómo encontrar lo que no se ve
 
-Preguntarse «¿qué sé yo que nadie más sabe?» y esperar a que la respuesta llegue sola no
-funciona, y la razón es la misma del capítulo 2: lo que uno hace automáticamente no se
-presenta como algo que haya que recordar.
+Preguntarse «¿qué sé yo que nadie más sabe?» ayuda, pero no basta, y la razón es la misma
+del capítulo 2: lo que uno hace automáticamente no se presenta como algo que haya que
+recordar. La memoria da la mitad de la lista; la otra mitad hay que ir a buscarla.
 
 Así que no se busca en la memoria. **Se busca en el rastro que dejó su propio trabajo.**
 Coja una semana reciente y normal —ni la mejor ni la peor— y revise lo que quedó de ella:
 mensajes, llamadas, la agenda, lo que aprobó, lo que buscó. No hace falta ningún programa ni
 apuntar nada nuevo: la semana ya ocurrió y las huellas están ahí.
 
-Y sobre ese rastro, tres señales. Son las tres formas que tiene la dependencia de aparecer.
+Y sobre ese rastro, tres señales principales. Son tres maneras distintas que tiene la
+dependencia de dejarse ver, y conviene mirar las tres.
 
 **Señal 1 — Me lo preguntan.** Cosas que llegan a usted porque otro no puede resolverlas.
 Con equipo son las consultas, las autorizaciones y los asuntos que suben. Trabajando solo
@@ -135,14 +140,21 @@ carencia, tache la línea y vuelva a empezarla por el elemento.
 Al ir anotando aparecerá una distinción que vale por sí sola.
 
 Muchas cosas **existen**: están en un correo de hace dos años, en un contrato archivado, en
-una conversación que alguien recuerda a medias. Existir no sirve de nada si nadie sabe que
-existe ni dónde buscarlo. **Disponible** significa otra cosa: que alguien que no sea usted
-podría encontrarlo y entenderlo sin llamarle.
+una conversación que alguien recuerda a medias. Existir no basta si nadie sabe que existe ni
+dónde buscarlo.
 
-Por eso la lista pregunta dónde está cada elemento hoy, con cinco respuestas posibles: solo
-en su memoria, escrito a medias, repartido entre correos y conversaciones, documentado y
-localizable, o ya conocido por alguien más. Las dos últimas se pueden tachar de la lista y
-es una alegría tacharlas. Las tres primeras son el trabajo que viene.
+Y hay un escalón más, que es el que cuesta ver. **Documentado tampoco es transferido.** Un
+procedimiento puede estar escrito, guardado y perfectamente localizable, y seguir dependiendo
+de usted, porque no dice cuándo se aplica, porque no explica por qué se hace así, o
+sencillamente porque nadie lo ha usado nunca sin preguntarle. Está escrito, y usted sigue
+siendo necesario.
+
+Por eso la lista pregunta dónde está cada elemento hoy, con cinco respuestas: solo en su
+memoria, escrito a medias, repartido entre correos y conversaciones, **documentado y
+localizable**, o **alguien lo ha encontrado y usado sin llamarle**. **Solo la última sale de
+la lista**, y no por optimismo: sale cuando ya ha ocurrido. Un elemento documentado se queda,
+anotado como *documentado, pero todavía dependiente*, que es una situación de lo más común y
+no quiere decir que el documento esté mal.
 
 ## Una hoja que no necesita guardar secretos
 
@@ -167,8 +179,10 @@ no estaba en ningún calendario: la llevaba él, y se acordaba porque coincidía
 personal. Nadie más sabía que ese trámite existía. No era un asunto de conocimiento
 sofisticado ni de criterio acumulado. Era una fecha.
 
-La puso la primera de la lista, por delante de todas las tarifas. Y en eso consiste el
-ejercicio: lo que más pesa no siempre es lo que más se nota.
+La puso la primera de la lista, por delante de todas las tarifas. Y ahí está la lección que
+más se olvida: **ese trámite ocurre una vez cada mucho tiempo.** Si él hubiera mirado
+solamente lo que aparece a menudo, no lo habría visto nunca. Lo que más pesa no es lo que más
+se repite.
 
 ## Ordenar sin inventarse una fórmula
 
@@ -209,7 +223,8 @@ estuvieran ahí.
 
 ## Señales de que puede avanzar al capítulo siguiente
 
-- Tiene la lista escrita y fechada, con diez elementos o menos.
+- Tiene la lista escrita, fechada y priorizada lo suficiente como para saber con cuáles va
+  a empezar.
 - Cada uno dice dónde está hoy, y no solo qué es.
 - Ha resistido la tentación de empezar a documentar alguno mientras lo anotaba.
 - Puede decir en voz alta por qué el primero es el primero.

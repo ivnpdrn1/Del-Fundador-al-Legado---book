@@ -17,7 +17,7 @@ cada una con su sitio actual y con lo que ocurre si no está disponible.
 - **No documenta nada.** Si aparece «solo yo sé por qué rechazamos cierto tipo de encargo»,
   se anota esa frase y se pasa a la siguiente. El porqué se escribe más adelante, con otro
   instrumento.
-- **No inventaría el negocio entero.** Busca dependencia relevante, no todas las tareas.
+- **No intenta inventariar todo el negocio.** Busca dependencia relevante, no todas las tareas.
 - **No evalúa a nadie.** La pregunta no es qué no sabe su gente. Es qué sigue concentrado en
   usted.
 - **No puntúa.** No hay índices, ni porcentajes, ni niveles de riesgo calculados.
@@ -77,11 +77,23 @@ Seis columnas. No añada más: la hoja tiene que caber y tiene que terminarse.
 | **P** | Escrito a medias |
 | **R** | Repartido entre correos, documentos y conversaciones |
 | **D** | Documentado y localizable |
-| **O** | Ya lo conoce otra persona, o lo resuelve un procedimiento |
+| **T** | **Alguien lo ha encontrado y usado sin llamarme** |
 
-**Existir no es estar disponible.** Algo que está en un correo de hace dos años existe, pero
-si nadie sabe que existe ni dónde buscarlo, para el negocio no está. Las líneas **D** y **O**
-se pueden tachar del inventario, y tacharlas es el mejor resultado posible.
+**Cuatro cosas distintas que es fácil confundir.** Que algo **exista** no es que esté
+**documentado**; que esté documentado no es que esté **disponible**; y que esté disponible no
+es que **alguien pueda usarlo bien sin usted**. Cada escalón de esos es un paso más, y el
+inventario solo puede dar por resuelto el último.
+
+Por eso **solo sale del inventario la línea que llegue a T**, y T no se marca por optimismo:
+se marca cuando ha ocurrido. Alguien distinto encontró aquello, entendió qué hacer y lo hizo
+sin llamarle. **Un elemento en D sigue en la lista**, y se anota tal cual: *documentado, pero
+todavía dependiente*. Es una situación corriente y no significa que el documento esté mal;
+significa que nadie ha comprobado todavía que sirva sin usted.
+
+**Qué no hay que hacer aquí.** Si al mirar un documento ve que le falta el porqué —cuándo se
+aplica, por qué se decidió así—, **no lo arregle ahora**. Anótelo como D y siga. Escribir el
+criterio es trabajo de otro capítulo, y ponerse a ello aquí es la forma más rápida de no
+terminar la lista.
 
 **Si no está disponible.** Qué ocurre, sin convertirlo en dinero: se detiene algo, se bloquea
 una decisión, se enfría una relación, se hace mal, se incumple un plazo o una obligación, se
@@ -91,10 +103,15 @@ pierde información. **El costo económico ya lo miró en el capítulo 4 y no se
 
 Sin fórmula. Cruce dos preguntas y salen tres montones:
 
-| | **Solo yo lo tengo** | **Alguien más podría** |
+| | **Solo yo lo tengo** | **Alguien podría reconstruirlo** |
 |---|---|---|
-| **Si falta, algo se detiene o se hace mal** | **Alta** | Media |
-| **Si falta, se retrasa o se resuelve peor** | Media | **Baja** |
+| **Si falta, cambia algo relevante** | **Alta** | Media |
+| **Si falta, se resuelve peor o más tarde** | Media | **Baja** |
+
+**«Alguien podría reconstruirlo» no es «alguien puede usarlo hoy».** Lo primero baja la
+concentración y por tanto la prioridad; lo segundo es la marca **T**, y esa saca el elemento
+de la lista. No las confunda: entre poder reconstruir algo con tiempo y esfuerzo y poder
+usarlo mañana hay bastante distancia.
 
 Alta, media y baja son **criterios de lectura de este libro**, no una escala medida. Sirven
 para poner las líneas en orden y para nada más.
@@ -103,12 +120,12 @@ para poner las líneas en orden y para nada más.
 
 ## 6. Paso 4 — Los diez
 
-De la lista ordenada, quédese con **hasta diez**.
+De la lista ordenada, quédese con **alrededor de diez**.
 
-**Diez es un límite práctico, no un número demostrado.** Es lo bastante para que el trabajo
-tenga sentido y lo bastante poco para que se pueda hacer. Si le salen ocho, son ocho. Si
-tiene claro que son doce, que sean doce. Lo que no funciona es quedarse con cuarenta, porque
-cuarenta es lo mismo que ninguna.
+**Diez es una referencia práctica, no una condición.** Es lo bastante para que el trabajo
+tenga sentido y lo bastante poco para que se pueda hacer. Ocho está bien, doce está bien, y
+el número exacto no cambia nada. Lo que sí importa es que **haya selección**: quedarse con
+cuarenta es lo mismo que no haber priorizado, y entonces el ejercicio no ha terminado.
 
 ### Mis dependencias prioritarias
 
@@ -129,10 +146,16 @@ Una sola, y es esta:
 > viven —en qué proceso, en qué decisión y en qué relación—, que es el paso que permite
 > empezar a sacarlos de usted.
 
-Y si quiere comprobar que la lista es la buena antes de seguir, hay una manera barata:
-**durante los próximos cinco días, marque una raya cada vez que aparezca uno de los diez.**
-Los que no aparezcan ninguna vez probablemente no eran los diez. Los que aparezcan cada día
-son el primero y el segundo, se hubieran puesto donde se hubieran puesto.
+Y si quiere enriquecer la lista antes de seguir, hay una manera barata: **durante los
+próximos cinco días, marque una raya cada vez que aparezca uno de los elementos, y apunte
+aparte los que le salgan y no estuvieran en la lista.** Esos hallazgos nuevos son lo valioso
+del ejercicio.
+
+**La frecuencia no cambia la prioridad, y conviene decirlo claro.** Que un elemento no
+aparezca en cinco días no lo baja de sitio: puede ser poco frecuente y seguir siendo lo más
+crítico que tiene. Un trámite que vence una vez al año, y cuya fecha solo recuerda una
+persona, aparecerá cero veces en esa cuenta y puede ser perfectamente el número uno de la
+lista. Lo que estos días aportan es **qué se le había olvidado**, no en qué orden va.
 
 **No empiece a documentar ninguno.** Es la tentación de este ejercicio y estropea las dos
 cosas: se documenta mal y no se termina la lista.
@@ -172,6 +195,11 @@ copia.
    cosa y conviene volver al filtro del paso 1.
 5. **No sustituye a las herramientas 1 y 2.** El Índice mide, el Cuestionario sitúa a la
    persona, y este localiza. Son tres preguntas distintas.
+6. **El nombre se queda corto, y conviene saberlo.** Se llama «inventario del conocimiento
+   crítico» por continuidad con el catálogo, pero lo que recoge es más ancho que
+   conocimiento: criterios, relaciones, acuerdos, historia, ubicaciones, obligaciones
+   periódicas y señales. El capítulo lo explica. Si algún día estorba, se renombra; hoy no
+   hay contradicción, solo un nombre estrecho.
 
 > Esta herramienta es material educativo. No constituye asesoría legal, fiscal, laboral,
 > financiera, contable, regulatoria ni de ciberseguridad. Los límites de autoridad, la
