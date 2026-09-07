@@ -104,8 +104,8 @@ Un profesional que trabaja solo lo hace de otra manera. No tiene a quién delega
 dejarlo, y su decisión fue quedarse donde estaba: sigue haciendo el trabajo él. Lo que
 cambió es que escribió cómo decide las cosas que decidía sin pensar, y dejó preparado a
 quién puede llamar un cliente si él no aparece durante dos semanas. Sigue en la misma
-posición del mapa. La diferencia es que ahora está ahí por decisión, y que unas vacaciones
-no ponen nada en riesgo.
+posición del mapa. La diferencia es que ahora está ahí por decisión, y que dos semanas
+fuera ya no dejan a un cliente sin saber a quién llamar.
 
 Los dos hicieron lo mismo, aunque no se parezca: dejaron de estar obligados. Ninguno de los
 dos se retiró.
@@ -177,7 +177,7 @@ solo se puede contestar restando, conviene esta otra:
 Busque la respuesta despacio, y fíjese en su tamaño. Puede ser bastante más pequeña de lo
 que temía: dos relaciones, una clase de decisión, estar en la conversación cuando se decide
 algo grande. Si es así, lo que pesaba no era la carga entera, sino el miedo a perder esa
-parte. Y esa parte es perfectamente conservable.
+parte. Y esa parte, según cuál sea, puede ser de las que se conservan.
 
 ## Una pregunta mejor que «cuándo»
 

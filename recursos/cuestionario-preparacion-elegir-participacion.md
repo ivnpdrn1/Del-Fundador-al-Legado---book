@@ -145,8 +145,8 @@ patrón, no calcular un resultado.
 **Seis «A medias» dan «A medias»**, no «Todavía no», y significa exactamente lo que parece:
 hay algo hecho en todo y nada terminado.
 
-Si al mirar su eje duda entre dos lecturas, quédese con la peor de las dos y siga. La
-diferencia no cambia lo que hará mañana.
+Si al mirar su eje duda entre dos lecturas, no elija: quédese en «A medias» y anote las dos
+que se disputaban. Ninguna es peor que la otra, y esa duda ya es una descripción.
 
 ### Las cuatro situaciones
 

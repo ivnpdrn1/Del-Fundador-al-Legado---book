@@ -43,7 +43,7 @@ Máximo tres apariciones por sector. Sin repetición en capítulos consecutivos.
 | Comercio mayorista | 1 | 3, 18 | 3 |
 | Servicios profesionales | 1 | 1, 4, 20 | 1 |
 | Agricultura | 0 | 5, 21 | — |
-| Logística | 0 | 6, 19 | — |
+| Logística | 0 (una microescena sin nombre, cap. 6) | 6, 19 | — |
 | Mantenimiento | 0 | 7 | — |
 | Construcción | 0 | 8, 23 | — |
 | Comercio minorista | 0 | 9, 22 | — |

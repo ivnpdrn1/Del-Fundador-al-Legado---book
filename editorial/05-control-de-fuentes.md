@@ -82,6 +82,14 @@ dirigida las clasificó como negaciones y universales referidos a la historia de
 lector o como instrucciones del ejercicio, no como enunciados sobre el mundo. Ninguna
 requería fuente.
 
+**Capítulo 6: cero referencias externas, por decisión razonada.** Antes de escribirlo se
+comprobó si necesitaba alguna afirmación factual externa. No la necesita: lo que el capítulo
+sostiene es una **definición operativa propia** de conocimiento crítico —dos condiciones que
+deben cumplirse a la vez—, un **procedimiento de búsqueda** sobre el rastro del propio
+lector, **instrucciones** y una **microescena**. Ninguna cifra, ninguna afirmación sobre el
+mundo y ninguna atribución. **Q-16 estaba mapeada a este capítulo y no se ejecutó**, para no
+citar marcos de gestión del conocimiento como adorno; su plazo real es antes del capítulo 9.
+
 **Capítulo 5: tres referencias, todas en un solo apartado y ninguna con cifras.**
 
 | Cap. | Afirmación en el texto | ID | Tipo | Estado |

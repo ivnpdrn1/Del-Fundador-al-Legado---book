@@ -4,9 +4,9 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: 2 de 18 herramientas redactadas** (el Índice de Dependencia de la Persona Clave,
-producido en la Etapa 2). Las diecisiete restantes se producen junto con su capítulo
-durante la Etapa 3. No se crean archivos vacíos: cada archivo nace cuando existe contenido
+**Estado actual: 3 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; la 2 y la
+3, con sus capítulos, en la Etapa 3. **Quedan quince**, y cada una se produce junto con su
+capítulo. No se crean archivos vacíos: cada archivo nace cuando existe contenido
 real.
 
 La columna «Cap.» refleja el orden de la Parte III vigente desde el 2026-09-06 (D-017).
@@ -83,7 +83,7 @@ remite a un profesional y no fija ninguna cifra.
 |---|---------|------------------|------|-------|------------------------|
 | 1 | Índice de Dependencia de la Persona Clave **(redactada, v2.0)** | `indice-dependencia-fundador.md` | 1 | L | Medir con un número comparable cuánto depende un negocio de una sola persona. Adaptada a las dos rutas. |
 | 2 | Cuestionario de preparación para elegir su participación **(redactada)** | `cuestionario-preparacion-elegir-participacion.md` | 5 | L | Separar la **disposición personal** de la **preparación del negocio**, y situar ambas sobre el Mapa de Participación. Renombrada el 2026-09-07 (D-069): el nombre anterior, *preparación para el retiro*, contradecía D-067. |
-| 3 | Inventario del conocimiento crítico | `inventario-conocimiento-critico.md` | 6 | E | Listar lo que solo una persona sabe y clasificarlo por impacto si se pierde. |
+| 3 | Inventario del conocimiento crítico **(redactada)** | `inventario-conocimiento-critico.md` | 6 | **L** | Localizar dónde está concentrada la dependencia y ordenarla por impacto, sin documentarla todavía. **Etapa corregida:** cierra L, no abre E. |
 | 4 | Mapa de decisiones | `mapa-de-decisiones.md` | 7 | E | Registrar con qué criterio se decide cada cosa, con qué información y en cuánto tiempo. La columna «quién decide» se sustituye por «con qué criterio», que sirve en ambas rutas. |
 | 5 | Mapa de relaciones críticas | `mapa-relaciones-criticas.md` | 7 | E | Identificar vínculos externos que hoy solo existen a través del fundador. |
 | 6 | Registro de excepciones | `registro-de-excepciones.md` | 8 | E | Convertir "en este caso hacemos algo distinto" en una regla escrita y revisable. |

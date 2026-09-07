@@ -16,6 +16,9 @@ comprobarse en la Etapa 4.
 
 | Par | Riesgo | Deslinde obligatorio | Comprobado |
 |---|---|---|---|
+| 1 y 6 | **Alto, y es el deslinde que abre la Parte II** | Cap. 1 contesta **cuánto** depende el negocio de una persona y produce el Índice. Cap. 6 contesta **dónde** está esa dependencia y produce el inventario. El 6 **no recalcula el índice, no repite sus ocho dimensiones y no vuelve a demostrar que hay dependencia**: lo da por hecho en su primer párrafo y sigue. | **Sí, 2026-09-07, al escribir el cap. 6. Sin hallazgos.** |
+| 2 y 6 | Medio | Cap. 2 enseña a **reconocer** el conocimiento no escrito. Cap. 6 lo **busca, lista y ordena**. El 6 no reexplica el conocimiento tácito ni vuelve sobre Nonaka: remite al 2 en una frase. | **Sí, 2026-09-07. Sin hallazgos.** |
+| 6 y 9 | **Alto** | Cap. 6 **localiza y no documenta**: si aparece un criterio que solo tiene una persona, se anota que existe y se pasa de línea. Cap. 9 lo escribe. **El capítulo 6 lo dice expresamente dos veces**, en el cuerpo y en la herramienta, porque es la tentación que arruina el ejercicio. | **Sí, 2026-09-07. Sin hallazgos.** |
 | 3 y 4 | Alto | **Deslinde cerrado el 2026-09-07 (D-005/P-2).** Cap. 3 trata la **suposición**: por qué se sostiene y por qué merece comprobarse. Cap. 4 trata las **consecuencias**: qué ocurre y cuánto cuesta cuando falla. El 3 no menciona costos ni cuantifica nada. El 4 no vuelve sobre la suposición. | **Sí, 2026-09-07, al escribir el cap. 3. Sin hallazgos.** |
 | 5 y 22 | Medio | Cap. 5 da el **permiso emocional** para empezar. Cap. 22 **define por escrito** el nuevo papel. El 5 no describe funciones. El 22 no repite el argumento emocional. | No |
 | 19 y 20 | Medio | Cap. 19 es el **instrumento**: qué se mira y con qué frecuencia. Cap. 20 es la **conducta**: cuándo se interviene y cuándo no. | No |
@@ -141,5 +144,6 @@ Para evitar que la mitad del libro empiece igual.
 | Capítulo 3 | **El recuerdo del propio lector usado como prueba, y desmontado a continuación**: la última ausencia corta que salió bien. Tipo no usado antes. |
 | Capítulo 4 | **Una cuenta rápida que el lector hace de cabeza, mostrada y refutada en las dos direcciones** —por exceso y por defecto—. Tipo no usado antes. |
 | Capítulo 5 | **Una objeción del lector, enunciada y concedida de inmediato**: «yo no quiero retirarme» / «este libro no necesita que quiera». Tipo no usado antes. |
+| Capítulo 6 | **Una afirmación seca que reencuadra la fase**: «Un número no se puede arreglar». Cambio de energía al abrir la Parte II. Tipo no usado antes. |
 
 **Cierres.** El del capítulo 2 **enuncia** las dos formas de la certeza que examina el capítulo 3 —«ellos ya sabrían qué hacer» con equipo, «lo tengo tan claro que no hace falta escribirlo» trabajando solo— sin analizarlas. **El capítulo 3 debe desarrollarlas, no volver a presentarlas**, y la variante de la ruta B, que la valoración 2.2 le encargaba introducir, ya está nombrada: le corresponde tratarla, no anunciarla.

@@ -124,38 +124,45 @@ catalogadas en `recursos/README.md` y todavía no están redactadas.
 **Propósito.** Sustituir la sensación de que "aquí todo pasa por mí" por una medida
 comparable en el tiempo.
 
-**Diagnóstico.** Recuento durante dos semanas de: interrupciones recibidas por el
-fundador, decisiones que solo él puede tomar, autorizaciones que solo él puede firmar y
-asuntos detenidos en su ausencia.
+**Diagnóstico.** Recuento durante dos semanas de: interrupciones recibidas por la persona
+clave, decisiones que solo ella puede tomar, compromisos que solo ella puede cerrar y
+asuntos que quedan detenidos cuando no está disponible. **Trabajando sola**, el recuento es
+el mismo cambiando quién interrumpe: lo que llega de clientes y proveedores, lo que solo
+ella sabe empezar y lo que queda esperando a que vuelva.
 
-**Preguntas al fundador.**
+**Preguntas a la persona clave.**
 1. ¿Qué se detiene hoy si usted no contesta el teléfono?
 2. ¿A cuántas personas debe usted responder al día para que la operación siga?
 3. ¿Qué tres relaciones externas se enfriarían si usted dejara de atenderlas?
 4. ¿Cuándo fue la última vez que se ausentó siete días seguidos, y qué pasó?
 5. ¿Qué información solo usted sabe dónde encontrar?
 
-**Acciones.** Registro de interrupciones. Recuento de decisiones. Cálculo del Índice de
-Dependencia del Fundador. Conversación con dos o tres personas de confianza sobre qué
-harían sin él.
+**Acciones.** Registro de interrupciones. Recuento de decisiones. Cálculo del **Índice de
+Dependencia de la Persona Clave**. Inventario de lo que sigue concentrado en una sola
+persona. Con equipo, además, conversación con dos o tres personas que participen en las
+decisiones; trabajando solo, ese contraste se sustituye por el ejercicio de explicar una
+decisión por escrito sin ejecutarla.
 
-**Herramientas.** Índice de Dependencia de la Persona Clave. Cuestionario de preparación para el
-retiro.
+**Herramientas.** Índice de Dependencia de la Persona Clave (1). Cuestionario de preparación
+para elegir su participación (2, renombrada por D-069). Inventario del conocimiento crítico
+(3).
 
 **Indicadores.** Valor inicial del índice. Número de decisiones exclusivas. Horas
 semanales dedicadas a asuntos operativos. Duración máxima de ausencia sin incidencias.
 
-**Riesgos.** Que el fundador conteste lo que cree que debería ocurrir en lugar de lo que
-ocurre. Que el equipo suavice sus respuestas por respeto. Que el diagnóstico se viva como
-una evaluación personal.
+**Riesgos.** Que se conteste lo que se cree que debería ocurrir en lugar de lo que ocurre.
+Que quien responda suavice por respeto. Que el diagnóstico se viva como una evaluación
+personal, siendo que **no evalúa a nadie: localiza dónde está concentrado el conocimiento**.
 
-**Responsables.** El fundador, con un observador externo o un familiar no operativo que
-registre los datos sin interpretarlos.
+**Responsables.** La persona clave. Con equipo, puede ayudar alguien que registre los datos
+sin interpretarlos. **Trabajando sola no hace falta observador**: el registro lo lleva ella
+misma, por escrito y con fecha.
 
-**Evidencia de avance.** El índice calculado, fechado y archivado.
+**Evidencia de avance.** El índice calculado, fechado y archivado, y el inventario iniciado.
 
-**Criterio de paso a E.** Existe una lista escrita de las diez dependencias de mayor
-impacto, ordenadas y aceptadas por el fundador.
+**Criterio de paso a E.** Existe una lista escrita y ordenada de las dependencias de mayor
+impacto, aceptada por la persona clave. **El número diez es un límite práctico por dónde
+empezar, no un umbral demostrado.**
 
 ---
 
