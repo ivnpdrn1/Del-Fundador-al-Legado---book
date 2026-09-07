@@ -58,12 +58,13 @@ tabla.
 | Intro | «La Comisión Europea, al analizar en 2006 la transmisión de empresas en la Unión Europea, señaló que cuando una compañía cierra únicamente por problemas en la fase de traspaso se destruye conocimiento, contactos establecidos y otros activos intangibles.» | F-003 | Hecho verificable | 2026-09-06 | Cerrada. Institución, año y ámbito declarados en el texto. |
 | Intro | «Veinte años después, la misma institución sigue advirtiendo de que un número creciente de propietarios se acerca al retiro sin sucesor designado.» | F-012 | Hecho verificable | 2026-09-06 | Cerrada. Sin cifras, por decisión: la fuente no las aporta. |
 | 1 | «Según la Oficina de Defensa de la Pequeña Empresa, con datos censales de 2021, el 57,9 % de las empresas familiares del país tenía más de diez años de vida.» | F-002 | Hecho verificable | 2026-09-06 | Cerrada. País y año declarados en el texto. **Revisado el 2026-09-07:** se suprimió la generalización «la mayoría son organizaciones maduras», que excedía el ámbito del dato. |
-| 2 | «En 1991, el investigador Ikujiro Nonaka publicó en la *Harvard Business Review* un artículo que popularizó una distinción…», con las citas entrecomilladas de conocimiento explícito y tácito, la del maestro artesano y la de que el conocimiento no explicitado no puede aprovecharse por el conjunto. | F-016 | **Distinción conceptual atribuida**, no dato ni norma | 2026-09-07 | Cerrada. Autor, publicación y año declarados en el texto. Traducción propia del original en inglés; el original de cada frase consta en F-016. **No se le atribuye ninguna cifra ni ninguna afirmación de frecuencia.** |
-| 2 | «podemos saber más de lo que podemos decir», atribuida a Michael Polanyi. | F-016 (donde se leyó) + F-017 (corrobora obra y frase) | Cita atribuida | 2026-09-07 | Cerrada. **No se ha leído el libro de Polanyi**; la frase se leyó citada en F-016 y se corroboró en la ficha del editor (F-017), que la reproduce como frase inicial de *The Tacit Dimension*. No se atribuye a Polanyi ninguna otra idea. |
+| 2 | «En 1991, el investigador Ikujiro Nonaka publicó en la *Harvard Business Review* un artículo que popularizó una distinción…»: la distinción entre conocimiento explícito y tácito, el maestro artesano y el enunciado de que el conocimiento no explicitado no puede aprovecharlo el conjunto. | F-016 | **Distinción conceptual atribuida**, no dato ni norma | 2026-09-07 | Cerrada. Autor, publicación y año declarados en el texto. **Revisado el 2026-09-07 (Etapa 3.1.1):** siete de los ocho fragmentos entrecomillados se convirtieron en paráfrasis; solo se conserva entre comillas «en la punta de los dedos». El original en inglés de cada frase consta íntegro en F-016, de modo que la paráfrasis sigue siendo verificable. **Alcance comprobado:** la fuente sostiene la distinción tácito/explícito, la dificultad de formalizar, el ejemplo del artesano y la importancia de hacer el conocimiento compartible, y **no se usa para nada más**: ni eficacia del Método LEGADO, ni valor financiero, ni prevalencia en negocios pequeños, ni facilidad de transferencia, ni ventajas cuantitativas, ni IA. |
+| 2 | «podemos saber más de lo que podemos decir», atribuida a Michael Polanyi. | F-016 (donde se leyó) + F-017 (corrobora obra y frase) | Cita atribuida | 2026-09-07 | Cerrada. **Conservada tras la revisión 3.1.1** como la única cita memorable que justifica serlo. **No se ha leído el libro de Polanyi**; la frase se leyó citada en F-016 y se corroboró en la ficha del editor (F-017), que la reproduce como frase inicial de *The Tacit Dimension*. El texto la atribuye a Polanyi **a través de Nonaka**, que es como se leyó. No se le atribuye ninguna otra idea, **no se cita número de página** y el capítulo no menciona ningún contenido del libro de Polanyi. |
 
 **Recuento de referencias externas por pieza.** Introducción: cinco fuentes distintas
 (F-001, F-002, F-003, F-004, F-012), en seis afirmaciones. Capítulo 1: una (F-002).
-Capítulo 2: dos (F-016 y F-017), concentradas en un solo apartado y sin ninguna cifra. El
+Capítulo 2: dos (F-016 y F-017), concentradas en un solo apartado, sin ninguna cifra y, tras
+la revisión 3.1.1, con una sola cita textual breve. El
 máximo orientativo del plan de investigación es de tres por capítulo; la introducción lo
 excede de forma deliberada y por una sola vez, porque es allí donde se explica al lector
 por qué el libro no dará cifras y esa explicación exige mostrar las fuentes que sí
@@ -81,6 +82,36 @@ era de forma, no de dato. El detalle está en `revision/control-de-calidad-etapa
 apartado «Revisión intermedia 2.1». **Regla añadida para la Etapa 3:** un enunciado de
 frecuencia sin fuente se escribe como observación cualitativa o no se escribe, y en ningún
 caso con la apariencia de un hallazgo.
+
+### Regla corregida el 2026-09-07 (Etapa 3.1.1)
+
+**La búsqueda literal no cierra el control de frecuencias.** En el capítulo 2 el control
+automático informó de cero enunciados de frecuencia y la lectura humana encontró cinco. El
+fallo no fue del texto sino del control: buscaba una **lista cerrada de cadenas** —«casi
+todos», «la mayoría», «suele», «normalmente»— y no contenía «rara vez», «habitualmente», «a
+menudo» ni «casi todo», que son la misma clase de enunciado.
+
+**Regla mínima, obligatoria desde el capítulo 3.** El control tiene dos pasos y el segundo no
+es opcional:
+
+1. **Búsqueda literal**, con la lista tratada como *ejemplos de una clase*, nunca como lista
+   cerrada. Se añaden al menos: rara vez, raras veces, a menudo, con frecuencia,
+   habitualmente, generalmente, típicamente, de ordinario, por lo común, lo normal, casi
+   todo, muchas veces, pocas veces, lo bastante.
+2. **Lectura dirigida**: recorrer toda frase que **atribuya una propiedad al mundo** y no sea
+   ni cita ni parte de un caso, y clasificarla en cuatro categorías:
+
+| | Qué es | Qué se hace |
+|---|---|---|
+| **A** | La respalda una fuente registrada | Se conserva |
+| **B** | Pertenece a una cita o a un caso ficticio | Se conserva; no es una afirmación del libro |
+| **C** | Innecesaria | Se suprime |
+| **D** | Reformulable sin afirmar frecuencia | Se reescribe |
+
+**Lo que no cuenta como enunciado de frecuencia**, para no volver a discutirlo en cada
+capítulo: las preguntas al lector sobre su propia conducta, los condicionales explícitos
+sobre su situación («es posible que ya lo tenga documentado») y las negaciones definitorias
+(«ninguna de las cuatro depende de tener equipo»).
 
 ## 4. Registro de menciones a productos y marcas
 
