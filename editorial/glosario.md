@@ -26,11 +26,11 @@ libro.
 | Dependencia de la persona clave | Grado en que un negocio necesita el conocimiento, el criterio o la presencia de una persona concreta para seguir funcionando. Cuando esa persona es quien fundó la empresa, el libro la llama también dependencia del fundador. | Intro |
 | Índice de Dependencia de la Persona Clave | Medida que expresa esa dependencia en un valor comparable en el tiempo. Construida para este libro; no validada científicamente (D-018). | 1 |
 | Organización | Modo conocido, repetible y verificable de que las decisiones se tomen bien aunque la persona más experimentada no esté presente. Distinta de «empresa», que designa la actividad. | 1 |
-| Conocimiento crítico | Aquello que la empresa necesita para funcionar y que hoy solo existe en la cabeza de una persona. | 2 |
+| Conocimiento crítico | Aquello que el negocio necesita para funcionar y que hoy solo existe dentro de una persona. | 2 |
 | Criterio | El porqué de una decisión: los motivos que llevan a resolver de una manera y no de otra. Distinto del procedimiento, que es el cómo. | 2 |
 | Manual de criterio | Documento que recoge los motivos de las decisiones habituales, no los pasos para ejecutarlas. | 9 |
 | Excepción | Desviación autorizada de una regla, registrada con su motivo, su vigencia y la persona que la revisa. | 8 |
-| Memoria institucional | Conocimiento que pertenece a la organización y sobrevive a la salida de cualquier persona. | 2 |
+| Memoria institucional | Conocimiento que pertenece al negocio y no a una persona, y que sigue disponible cuando esa persona no está. Si el lector trabaja solo, su memoria institucional es exactamente lo que queda escrito fuera de él. | 2 |
 | Prueba de ausencia | Ejercicio controlado en el que la empresa opera sin el fundador durante un plazo definido, con observación y registro. | 24 |
 
 ## Términos de gobierno y control

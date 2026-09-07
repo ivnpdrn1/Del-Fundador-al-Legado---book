@@ -82,7 +82,10 @@ para comprobar que no cambian de sentido a lo largo del libro.
 | Tecnología supervisada | Intro | 1 | Sí |
 | Organización | 1 | — | Sí |
 | Índice de Dependencia de la Persona Clave | 1 | Herramienta 1 | Sí |
-| Criterio | Intro (uso), 2 (definición formal) | 1, herramienta 1 | Sí, con la salvedad del párrafo siguiente |
+| Criterio | Intro (uso), **2 (definición formal, ya escrita)** | 1, herramienta 1 | Sí, con la salvedad del párrafo siguiente. **Comprobado el 2026-09-07:** en el capítulo 2 aparece seis veces, siempre con el sentido fijo y contrapuesto expresamente al procedimiento. |
+| Conocimiento crítico | **2 (definición formal, ya escrita)** | — | Sí |
+| Memoria institucional | **2 (definición formal, ya escrita)** | — | Sí. Definición corregida el 2026-09-07 para cumplir D-021: «pertenece al negocio», no «a la organización», con frase explícita para quien trabaja solo. |
+| Conocimiento tácito / explícito | 2 | — | Sí. **No son términos propios del libro**: se atribuyen a Nonaka (F-016) y se usan una sola vez, para dar nombre al fenómeno. No sustituyen a «conocimiento crítico», que sí es del libro. |
 | Delegar | 18 (definición formal) | Intro, 1 | Sí. En el cap. 1 se usa con el sentido fijo y se contrapone expresamente a "soltar". |
 | Supervisar | 20 (definición formal) | Intro, herramienta 1 | Sí |
 | Observar | Reservado al sistema en nivel 2 | Intro (una vez, referido al sistema) | Sí |
@@ -130,6 +133,8 @@ El control principal está en `revision/control-de-casos.md`.
 | Personaje | Sector | Cap. de aparición | Rasgos usados | Coherente |
 |---|---|---|---|---|
 | Elena (C-01) | Distribución regional | 1 | Tres: trayectoria larga; autoriza personalmente las condiciones distintas; conserva de memoria el historial de clientes antiguos. | Sí |
+| Andrés (C-02) | Servicios profesionales, ruta B | 1 | Según `control-de-casos.md`. **Fila añadida el 2026-09-07:** faltaba en esta tabla aunque sí constaba en el control principal. | Sí |
+| Marta (C-03) | Manufactura ligera, ruta A | 2 | Tres: muchos años al frente de la producción; reconoce por adelantado los encargos que se van a complicar; no ha escrito nunca ese criterio. | Sí |
 
 Reglas aplicables: máximo dos capítulos por personaje, máximo tres rasgos distintivos, sin
 historia continuada entre capítulos.

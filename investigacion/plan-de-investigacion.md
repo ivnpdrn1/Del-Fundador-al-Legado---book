@@ -62,7 +62,7 @@ con solidez sin resolverla.
 | Q-03 | ¿Qué marcos reconocidos existen sobre continuidad del negocio y gestión de riesgos operativos? | 4, 16 | Alta | **Resuelta 2026-09-06.** F-005, F-006, F-011. |
 | Q-04 | ¿Qué marcos existen sobre gestión de riesgos de la inteligencia artificial y qué recomiendan sobre supervisión humana? | 12, 15, 16 | Alta | **Resuelta 2026-09-06.** F-007, F-008, F-009, F-010. Coinciden con las reglas 4 y 5 del método (D-020). |
 | Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | Sin iniciar. Prioridad alta por D-014. |
-| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | Sin iniciar. **Sube a alta:** es el respaldo del capítulo 2, que es el siguiente. |
+| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **Resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. **Sigue abierta para el capítulo 9**, donde hará falta literatura sobre métodos de externalización del criterio, no solo sobre el diagnóstico. **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | Media | Sin iniciar |
@@ -139,8 +139,9 @@ Etapa 2. La previsión de que pudieran no aparecer fuentes sólidas se cumplió 
 se aplicó la regla prevista: **Q-02 se cerró sin cifra**. El argumento del libro no
 dependía de ella y no la echa de menos.
 
-**Siguiente ejecución:** Q-06 y Q-13 —que son la misma pregunta a dos escalas y conviene
-investigar juntas—, más Q-05 y Q-18, antes del bloque B1 de la Etapa 3.
+**Siguiente ejecución:** Q-13 —la contraparte de Q-06 a escala individual, aún sin iniciar—,
+más Q-05 y Q-18, antes de continuar el bloque B1 de la Etapa 3. **Q-06 quedó resuelta para
+el capítulo 2** el 2026-09-07 y sigue abierta para el capítulo 9.
 
 **Investigación de producto, separada.** Desde la Etapa 2.5 existe un backlog de
 investigación de producto y de categorías competidoras en

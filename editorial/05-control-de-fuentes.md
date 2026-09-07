@@ -46,7 +46,7 @@ frecuente que…". Si no hay fuente, se escribe la segunda forma y se elimina la
 
 ## 3. Registro de fuentes usadas en el manuscrito
 
-Siete afirmaciones con fuente en las dos piezas escritas. Ninguna cifra sin fila en esta
+Nueve afirmaciones con fuente en las tres piezas escritas. Ninguna cifra sin fila en esta
 tabla.
 
 | Cap. | Afirmación en el texto | ID de fuente | Tipo de enunciado | Verificado el | Estado |
@@ -58,9 +58,12 @@ tabla.
 | Intro | «La Comisión Europea, al analizar en 2006 la transmisión de empresas en la Unión Europea, señaló que cuando una compañía cierra únicamente por problemas en la fase de traspaso se destruye conocimiento, contactos establecidos y otros activos intangibles.» | F-003 | Hecho verificable | 2026-09-06 | Cerrada. Institución, año y ámbito declarados en el texto. |
 | Intro | «Veinte años después, la misma institución sigue advirtiendo de que un número creciente de propietarios se acerca al retiro sin sucesor designado.» | F-012 | Hecho verificable | 2026-09-06 | Cerrada. Sin cifras, por decisión: la fuente no las aporta. |
 | 1 | «Según la Oficina de Defensa de la Pequeña Empresa, con datos censales de 2021, el 57,9 % de las empresas familiares del país tenía más de diez años de vida.» | F-002 | Hecho verificable | 2026-09-06 | Cerrada. País y año declarados en el texto. **Revisado el 2026-09-07:** se suprimió la generalización «la mayoría son organizaciones maduras», que excedía el ámbito del dato. |
+| 2 | «En 1991, el investigador Ikujiro Nonaka publicó en la *Harvard Business Review* un artículo que popularizó una distinción…», con las citas entrecomilladas de conocimiento explícito y tácito, la del maestro artesano y la de que el conocimiento no explicitado no puede aprovecharse por el conjunto. | F-016 | **Distinción conceptual atribuida**, no dato ni norma | 2026-09-07 | Cerrada. Autor, publicación y año declarados en el texto. Traducción propia del original en inglés; el original de cada frase consta en F-016. **No se le atribuye ninguna cifra ni ninguna afirmación de frecuencia.** |
+| 2 | «podemos saber más de lo que podemos decir», atribuida a Michael Polanyi. | F-016 (donde se leyó) + F-017 (corrobora obra y frase) | Cita atribuida | 2026-09-07 | Cerrada. **No se ha leído el libro de Polanyi**; la frase se leyó citada en F-016 y se corroboró en la ficha del editor (F-017), que la reproduce como frase inicial de *The Tacit Dimension*. No se atribuye a Polanyi ninguna otra idea. |
 
 **Recuento de referencias externas por pieza.** Introducción: cinco fuentes distintas
-(F-001, F-002, F-003, F-004, F-012), en seis afirmaciones. Capítulo 1: una (F-002). El
+(F-001, F-002, F-003, F-004, F-012), en seis afirmaciones. Capítulo 1: una (F-002).
+Capítulo 2: dos (F-016 y F-017), concentradas en un solo apartado y sin ninguna cifra. El
 máximo orientativo del plan de investigación es de tres por capítulo; la introducción lo
 excede de forma deliberada y por una sola vez, porque es allí donde se explica al lector
 por qué el libro no dará cifras y esa explicación exige mostrar las fuentes que sí

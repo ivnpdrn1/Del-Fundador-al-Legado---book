@@ -16,9 +16,13 @@
 **Revisión de decisiones 2.3: COMPLETADA el 2026-09-07.**
 **Refinamiento conceptual 2.4: COMPLETADO el 2026-09-07.**
 **Arquitectura del ecosistema 2.5: COMPLETADA el 2026-09-07.**
+**Corrección documental 2.5.1: COMPLETADA el 2026-09-07.**
 
-El proyecto está **detenido** a la espera de autorización expresa del autor para comenzar
-la Etapa 3 — Producción. El capítulo 2 no se ha escrito, por instrucción expresa.
+**Etapa 3 — Producción: INICIADA el 2026-09-07 por autorización expresa del autor.**
+**Etapa 3.1 — Capítulo 2: COMPLETADA el 2026-09-07.**
+
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
+del capítulo 2. **El capítulo 3 no se ha escrito y la Etapa 3.2 no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -203,15 +207,17 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 
 | Concepto | Valor |
 |---|---|
-| Capítulos terminados | **1 de 25** (en borrador) |
+| Capítulos terminados | **2 de 25** (en borrador) |
 | Introducción | **Escrita**, 2.838 palabras |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
+| Capítulo 2 | **Escrito**, 1.981 palabras (objetivo 2.000) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **5.591** |
+| Palabras del manuscrito | **7.572** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 10,5 % |
+| Avance sobre el objetivo | 14,2 % |
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 42 archivos |
+| Casos ficticios publicados | **3** (C-01, C-02, C-03) |
 | Decisiones registradas | 61, de las cuales 2 reemplazadas y conservadas |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
@@ -221,11 +227,11 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **15** |
+| Fuentes verificadas | **17** |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
-| Afirmaciones con fuente en el manuscrito | **7** |
+| Afirmaciones con fuente en el manuscrito | **9** |
 | Cifras publicadas sin fuente | **0** |
-| Preguntas de investigación resueltas | **4 de 12** (Q-01 a Q-04) |
+| Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04), más **Q-06 resuelta para el capítulo 2** y abierta para el 9. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
 | Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
@@ -336,12 +342,15 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Autorizar la Etapa 3**, o pedir antes la lectura de prueba (V-51). Las decisiones
-   estratégicas y la arquitectura del ecosistema están cerradas y no queda nada que bloquee
-   la producción.
-2. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso
+1. **Revisar el capítulo 2.** Es lo único que el autor ha pedido a continuación. No se
+   escribirá el capítulo 3 ni se iniciará la Etapa 3.2 sin nueva autorización.
+2. Decidir sobre **D-005 / P-2**, que sigue abierta. **Comprobado el 2026-09-07: no bloquea
+   el capítulo 2**, porque afecta al deslinde entre los capítulos 3 y 4. Sí hay que
+   resolverla antes de escribir el capítulo 3.
+3. Ejecutar **Q-13** —la contraparte de Q-06 a escala individual— antes de los capítulos
+   que la necesiten.
+4. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso
    comercial del nombre. No urge para publicar el libro.
-3. Decidir sobre **D-005 / P-2**, que afecta al primer bloque de la Etapa 3.
 2. **Entregarla a dos o tres propietarios de empresa familiar** del perfil del lector
    principal (V-51). Es la verificación de mayor valor y la más barata en este momento:
    corregir el tono ahora cuesta poco; corregirlo con veinticinco capítulos escritos,
@@ -352,4 +361,4 @@ publicado a continuación.
 
 ---
 
-**Actualizado: 2026-09-06**
+**Actualizado: 2026-09-07**
