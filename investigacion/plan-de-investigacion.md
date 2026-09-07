@@ -142,6 +142,13 @@ dependía de ella y no la echa de menos.
 **Siguiente ejecución:** Q-06 y Q-13 —que son la misma pregunta a dos escalas y conviene
 investigar juntas—, más Q-05 y Q-18, antes del bloque B1 de la Etapa 3.
 
+**Investigación de producto, separada.** Desde la Etapa 2.5 existe un backlog de
+investigación de producto y de categorías competidoras en
+`producto/01-vision-y-principios.md`, apartado 11. **No alimenta el manuscrito**: cualquier
+dato que quisiera entrar en el libro tiene que pasar antes por las reglas de este documento,
+sin excepción. Mientras esa investigación no se haga, **está prohibido afirmar que el
+producto es único, primero o sin competencia**, dentro y fuera del libro.
+
 **Advertencia sobre el público nuevo.** No existe todavía ninguna fuente verificada sobre
 profesionales independientes en este repositorio. Hasta que la haya, está prohibido escribir
 «la mayoría de los freelancers», «casi todos los consultores» o cualquier equivalente. La

@@ -15,9 +15,36 @@
 **Revisión conceptual extraordinaria 2.2: COMPLETADA el 2026-09-07.**
 **Revisión de decisiones 2.3: COMPLETADA el 2026-09-07.**
 **Refinamiento conceptual 2.4: COMPLETADO el 2026-09-07.**
+**Arquitectura del ecosistema 2.5: COMPLETADA el 2026-09-07.**
 
 El proyecto está **detenido** a la espera de autorización expresa del autor para comenzar
 la Etapa 3 — Producción. El capítulo 2 no se ha escrito, por instrucción expresa.
+
+### Arquitectura del ecosistema 2.5 (2026-09-07)
+
+Diseño conceptual de una **plataforma digital guiada** que implementa el Método LEGADO.
+**No es una etapa de escritura ni de programación:** el manuscrito no se tocó, no hay
+código, ni stack, ni proveedores, ni marca.
+
+| Concepto | Resultado |
+|---|---|
+| **Regla que gobierna todo** | **El libro debe ser completo, útil y accionable aunque el lector nunca use la plataforma** (D-050). Criterio de aceptación, no aspiración. |
+| **Reparto de papeles** | El libro dice **qué** y **por qué**; el método, **cómo**; la plataforma ayuda a **hacerlo**. |
+| **Momento de aparición** | Presentación explícita en el **capítulo 11**, en 450 palabras. Se descartó la frontera Parte II / Parte III: el capítulo 11 trata exactamente de ordenar la información, y deja la plataforma **antes** de los capítulos de IA. |
+| **Presupuesto de menciones** | **Máximo cinco destacadas** en todo el libro y siete funcionales. **Cero en las Partes I y IV.** Se cuentan en la Etapa 4 (D-053). |
+| **Capítulo propio** | **No.** Se mantienen los 27. Presencia progresiva + sección en el 11 + recurso en el anexo. |
+| **Escala de madurez** | **No se crea.** El proyecto ya tiene dos escalas; la progresión es el propio Método LEGADO expresado como estado del usuario (D-058). |
+| **Las 18 herramientas** | Todas mapeadas a un módulo. **Ninguna sobra y no hace falta ninguna nueva.** El único vacío posible ya lo cubría el modo B de la herramienta 8. |
+| **Propiedad de los datos** | El ADN Empresarial es del cliente: exportable, portable, eliminable. **Prohibida la retención artificial** (D-055). |
+| **Privacidad** | Dos reglas absolutas: la información de un negocio no responde a otro, y no se entrena nada externo sin autorización expresa (D-056). |
+| **Diferencial identificado** | **El sistema entrevista.** El usuario no tiene que saber documentar su negocio. La herramienta 7, Manual de criterio, es donde más valor aporta y donde más riesgo hay. |
+| **Regla de oro del asistente** | Si el ADN no contiene la respuesta, el sistema **dice que no está documentado** y lo convierte en tarea. Nunca presenta una inferencia como criterio del propietario. |
+| **Nombre del producto** | **Pendiente** (D-061). Es un quinto activo y no se llamará automáticamente como ninguno de los otros cuatro. |
+
+**Control de no distracción:** ¿la plataforma mejora el libro? **Sí, con tres condiciones** —
+presupuesto de menciones, prohibición en las Partes I y IV, y la pregunta de control aplicada
+a cada mención—. **Sin esas tres condiciones la respuesta sería no**, y se registran como
+parte inseparable de la decisión.
 
 ### Refinamiento conceptual 2.4 (2026-09-07)
 
@@ -138,6 +165,7 @@ las ocho dimensiones, la escala 0-3 ni la estructura general.
 | 19 | **Revisión conceptual extraordinaria 2.2**: ampliación del público y del problema central | Hecho | `revision/control-de-calidad-etapa-2.md`; `editorial/13-` y `14-` |
 | 20 | **Revisión de decisiones 2.3**: título, subtítulo, promesa, herramienta 8, títulos de capítulo y casos de ruta B | Hecho | `editorial/15-titulo-metodo-y-marca.md` |
 | 21 | **Refinamiento conceptual 2.4**: ADN Empresarial, Gemelo de IA, Legado Inteligente y reevaluación del título | Hecho | `editorial/13-adn-empresarial.md` |
+| 22 | **Arquitectura del ecosistema 2.5**: relación libro-método-plataforma, mapa de capítulos, mapa de herramientas y arquitectura funcional | Hecho | `editorial/16-libro-metodo-y-plataforma.md`; `producto/` |
 
 ## 3. Trabajo en progreso
 
@@ -183,8 +211,8 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
 | Avance sobre el objetivo | 10,5 % |
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
-| Documentación del proyecto | 36 archivos |
-| Decisiones registradas | 49, de las cuales 2 reemplazadas y conservadas |
+| Documentación del proyecto | 42 archivos |
+| Decisiones registradas | 61, de las cuales 2 reemplazadas y conservadas |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -226,7 +254,11 @@ comprobarlo** (D-016).
 | Que el nombre del libro arrastre al método y a la futura marca comercial. | **Resuelto** | D-035 y D-046: cuatro activos separados. El método sigue siendo MÉTODO LEGADO, que es donde el riesgo de clase 035 no llega. |
 | Que la doble metáfora biológica del título nuevo —«clonación» más «ADN»— refuerce el miedo a la sustitución. | **Media-alta, nuevo** | Contrapesado por el subtítulo, que no contiene ni tecnología ni biología, y por la aclaración obligatoria en la primera aparición. **Se prueban los dos títulos en V-51** (V-24). |
 | Que «empresarial» excluya al lector B, justo la palabra que D-021 prohíbe como término general. | **Media, nuevo** | Excepción declarada (D-049), neutralizada en el subtítulo y en la definición. **Es la primera pregunta de la prueba de lectura al lector B.** |
-| Que el Gemelo de IA se lea como el destino obligatorio del libro. | **Media, nueva** | D-044 y D-045: es opcional, no es el final necesario y no aparece antes del capítulo 15. Comprobación V-25b en la Etapa 4. |
+| Que el Gemelo de IA se lea como el destino obligatorio del libro. | **Media** | D-044 y D-045: es opcional, no es el final necesario y no aparece antes del capítulo 15. Comprobación V-25b en la Etapa 4. |
+| **Que la plataforma invada la narrativa y convierta capítulos en publicidad.** | **Alta, nueva** | Es el riesgo principal de la Etapa 2.5. Contenido por D-050 a D-054: presupuesto de cinco menciones, prohibición en 19 capítulos, extensión máxima de 450 palabras y la pregunta de control V-28 aplicada una por una. |
+| Que un capítulo se escriba pensando en cómo quedará en pantalla. | **Media, nueva** | D-059: el software se adapta al método. Si una herramienta es incómoda de implementar, se implementa peor. |
+| Que la IA del producto presente una inferencia como criterio documentado del propietario. | **Alta, nueva** | Trazabilidad obligatoria de cinco tipos (A a E) en `producto/03-arquitectura-funcional.md` §9.1. Es el riesgo mayor del producto. |
+| Que la plataforma retenga el conocimiento del cliente para producir dependencia. | **Media, nueva** | D-055: exportación en formatos abiertos, eliminación real y prohibición expresa de retención artificial. |
 | Que se escriba sobre profesionales independientes sin evidencia. | **Media, nuevo** | Nueve preguntas de investigación nuevas. Regla V-41 aplicada a los dos públicos por igual. |
 | Que la ampliación infle la extensión del libro. | **Media, nuevo** | Las dos piezas crecieron un 20 %. Guarda de D-030: ejemplos en paralelo de 120 palabras como máximo y 15 % de tolerancia por capítulo. |
 | Que una afirmación de frecuencia sin cifra se lea como un hecho comprobado. | **Media, nuevo** | Detectado por el autor en la revisión 2.1. Once enunciados corregidos. Barrido automático incorporado a la revisión G de cada bloque. |
@@ -305,7 +337,8 @@ publicado a continuación.
 ## 13. Próxima acción recomendada
 
 1. **Autorizar la Etapa 3**, o pedir antes la lectura de prueba (V-51). Las decisiones
-   estratégicas están cerradas y no queda nada que bloquee la producción.
+   estratégicas y la arquitectura del ecosistema están cerradas y no queda nada que bloquee
+   la producción.
 2. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso
    comercial del nombre. No urge para publicar el libro.
 3. Decidir sobre **D-005 / P-2**, que afecta al primer bloque de la Etapa 3.

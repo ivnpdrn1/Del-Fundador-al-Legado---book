@@ -24,6 +24,10 @@ dejó de coincidir necesariamente con el título.** Cada uno se decide por su cu
 | **B** | Concepto y proceso | **Clonación del ADN Empresarial** / *Business DNA Cloning* | La disciplina que el libro propone. El activo que preserva es el **ADN Empresarial**. | Bajo como término descriptivo; medio si se convierte en nombre de oferta. |
 | **C** | Metodología | **MÉTODO LEGADO** | El procedimiento de seis etapas mediante el cual se ejecuta el proceso. | Medio si se comercializa. |
 | **D** | Marca de productos y servicios | **Sin decidir** | Consultoría, formación, software, servicios de IA. | **Aquí se concentra todo el riesgo.** |
+| **E** | Nombre del producto digital | **Sin decidir** (D-061) | La plataforma que implementa el método. | Alto cuando exista. Se decide con el activo D, no antes. |
+
+**Añadido en la Etapa 2.5:** el producto digital es un activo más, y **no se llamará
+automáticamente** como ninguno de los otros cuatro. Ver `producto/01-vision-y-principios.md`.
 
 **Business DNA Cloning es qué hacemos. Método LEGADO es cómo lo hacemos.** El título puede
 coincidir con el concepto —y hoy coincide— pero no está obligado a hacerlo, y **no se

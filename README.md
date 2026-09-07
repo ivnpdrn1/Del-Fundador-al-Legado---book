@@ -121,9 +121,13 @@ El libro describe además una escala de siete niveles de autonomía, del 0 al 6.
 ## Estado actual
 
 **Etapa 2 — Muestra editorial: completada.** Fecha: 2026-09-06.
-**Revisiones 2.1 a 2.4: completadas.** Fecha: 2026-09-07. La 2.2 amplió el público del
+**Revisiones 2.1 a 2.5: completadas.** Fecha: 2026-09-07. La 2.2 amplió el público del
 libro; la 2.3 cerró las decisiones estratégicas; la 2.4 adoptó el **ADN Empresarial** como
-concepto paraguas, definió el Gemelo de IA y el Legado Inteligente, y reabrió el título.
+concepto paraguas; la 2.5 diseñó la arquitectura conceptual de una plataforma digital
+opcional que implementa el método.
+
+> **El libro es completo, útil y accionable aunque el lector nunca utilice la plataforma.**
+> No hay código, ni stack elegido, ni marca comercial. Ver `producto/`.
 
 - Fundamentos editoriales, método, índice comentado, guía de estilo y archivos de control:
   vigentes, con las decisiones D-001 a D-005 aprobadas.
@@ -165,6 +169,7 @@ Del-Fundador-al-Legado---book/
 │   ├── 13-adn-empresarial.md      ADN Empresarial, su clonación y sus límites
 │   ├── 14-publico-y-rutas.md      Los dos lectores y las dos rutas del método
 │   ├── 15-titulo-metodo-y-marca.md   Título, método y marca como activos separados
+│   ├── 16-libro-metodo-y-plataforma.md  Norma que protege el libro del producto
 │   ├── glosario.md
 │   └── decisiones-editoriales.md
 ├── capitulos/                    Manuscrito por capítulos
@@ -178,6 +183,11 @@ Del-Fundador-al-Legado---book/
 │   ├── control-de-casos.md
 │   ├── control-de-repeticiones.md
 │   └── verificaciones-pendientes.md
+├── producto/                     Arquitectura conceptual de la plataforma digital
+│   ├── 01-vision-y-principios.md
+│   ├── 02-mapa-libro-plataforma.md
+│   ├── 03-arquitectura-funcional.md
+│   └── 04-mapa-herramientas.md
 └── manuscrito/                   Manuscrito consolidado (producto de la Etapa 4)
 ```
 

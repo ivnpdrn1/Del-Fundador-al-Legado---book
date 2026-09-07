@@ -41,6 +41,9 @@ aquí destruye la credibilidad más que un error de fondo.
 | **Componentes del ADN Empresarial** | **10: conocimiento, experiencia, criterio, patrones de decisión, procesos, excepciones, relaciones, cultura y principios, memoria histórica, estilo de supervisión** | Intro, 2, 6-9 | Intro (definición breve) ✓ |
 | **Capas de tratamiento** | **8: A conocimiento, B criterio, C procedimiento, D decisión, E automatización, F asistencia, G autonomía delegada, H supervisión** | 2, 9, 11-16 | — |
 | **Escalones de la arquitectura conceptual** | **7: inteligencia de la persona, ADN Empresarial, clonación del ADN, Método LEGADO, sistemas y personas con IA supervisada, Gemelo de IA (opcional), Legado Inteligente** | Intro, 15, 25 | — |
+| **Menciones de la plataforma en el manuscrito** | **Máximo 5 destacadas + 7 funcionales** | 6, 9, 11, 12, 13, 14, 15, 19, 24, anexo | Ninguna escrita todavía |
+| **Extensión de la presentación de la plataforma** | **450 palabras, capítulo 11** | 11 | — |
+| **Escalas del proyecto** | **2, y no habrá una tercera: Índice de Dependencia 0-72 y niveles de autonomía 0-6** | 1, 8, 11-16 | ✓ |
 | **Puntos del continuo del retiro** | **8, del cien por cien operativo a la sucesión** | Intro, 5, 22 | Intro ✓ |
 | **Pasos de la secuencia conceptual** | **12: personas, criterio, procesos, información, controles, tecnología, asistente, IA con contexto, autonomía supervisada, continuidad, libertad de elección, legado** | Intro | Intro ✓ |
 | Formulación de las seis etapas | La del apartado 3 de `07-metodo-legado.md` (D-004) | Intro, todas las partes | Intro ✓ |
@@ -106,7 +109,10 @@ Términos de vigilancia prioritaria, por su propensión a deslizarse:
   trata el conocimiento. Prohibido usarla como concepto paraguas.
 - **Gemelo de IA.** Nunca antes del capítulo 15 y nunca como paso obligatorio. Nunca
   descrito como réplica de una persona.
-- **Legado Inteligente.** Nunca como sinónimo de inmortalidad digital ni de sustitución.
+- **Legado Inteligente.** Nunca como sinónimo de inmortalidad digital ni de sustitución. En
+  el producto, **nunca como puntuación**: es un estado demostrado por evidencias.
+- **Plataforma.** Se nombra por su función, nunca por marca, y siempre con su carácter
+  opcional. Prohibida en los capítulos que no autoriza D-053.
 - **Persona clave.** Categoría conceptual. En la prosa se usa el término concreto del
   pasaje. Se cuenta su frecuencia en la Etapa 4: una aparición por capítulo como máximo,
   salvo en los pasajes que traten expresamente los dos escenarios.

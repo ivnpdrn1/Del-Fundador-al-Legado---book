@@ -3,7 +3,7 @@
 Todo lo que queda por comprobar antes de considerar el libro entregable. Se mantiene
 desde la Etapa 1 hasta la Etapa 5 y se entrega al autor como parte de la entrega final.
 
-**Actualizado: 2026-09-07, tras el refinamiento conceptual 2.4.**
+**Actualizado: 2026-09-07, tras la arquitectura del ecosistema 2.5.**
 
 ---
 
@@ -28,9 +28,15 @@ Bloquean o condicionan el avance.
 | V-19 | Títulos de capítulo y de parte. | — | **CERRADA 2026-09-07.** Aplicados seis títulos de capítulo y dos de parte (D-041); uno se adoptó en versión distinta de la propuesta y se explica por qué. Sigue abierta la **ampliación interna** de ocho capítulos, que se resuelve al escribir cada uno. |
 | V-20b | Límite de uso de la imagen de la cabeza. | — | **CERRADA 2026-09-07.** No se eleva. Pasa de cuota a control estilístico, con seis alternativas semánticas (D-039). |
 | V-21b | Actividades admitidas para casos de la ruta B (A-11). | — | **CERRADA 2026-09-07.** Matriz de diez tipos de actividad (D-038), con cautela reforzada para el profesional con licencia. |
-| V-22 | Búsqueda profesional de marcas antes de cualquier **uso comercial**: España, UE, América Latina, versiones en ambos idiomas, derechos de uso anterior, marcas próximas vivas y dominios; clases 016, 035, 041 y 042. **Ampliada el 2026-09-07** a BUSINESS DNA, BUSINESS DNA CLONING y CLONACIÓN DEL ADN EMPRESARIAL. | El activo D, marca de productos y servicios. **No bloquea la publicación del libro.** | **Abierta — requiere profesional de propiedad intelectual.** |
+| V-22 | Búsqueda profesional de marcas antes de cualquier **uso comercial**, **ampliable al nombre del producto digital cuando exista candidato (D-061)**,: España, UE, América Latina, versiones en ambos idiomas, derechos de uso anterior, marcas próximas vivas y dominios; clases 016, 035, 041 y 042. **Ampliada el 2026-09-07** a BUSINESS DNA, BUSINESS DNA CLONING y CLONACIÓN DEL ADN EMPRESARIAL. | El activo D, marca de productos y servicios. **No bloquea la publicación del libro.** | **Abierta — requiere profesional de propiedad intelectual.** |
 | V-24 | **Nuevo.** Prueba de los **dos títulos** en la lectura de prueba: *Clonación del ADN Empresarial* y *Clonación del Conocimiento*, con lectores de los dos perfiles. Pregunta obligatoria al lector B: «¿este libro le habla a usted?». | Título definitivo. | **Abierta.** Se ejecuta dentro de V-51. |
-| V-25b | **Nuevo.** Comprobar en la Etapa 4 que el Gemelo de IA no aparece antes del capítulo 15, nunca como paso obligatorio y nunca descrito como réplica de una persona. | Coherencia conceptual. | **Abierta.** |
+| V-25b | Comprobar en la Etapa 4 que el Gemelo de IA no aparece antes del capítulo 15, nunca como paso obligatorio y nunca descrito como réplica de una persona. | Coherencia conceptual. | **Abierta. Confirmada sin cambios en la Etapa 2.5**, y extendida al producto: módulo 13, nunca antes. |
+| V-26b | **Nuevo.** Recuento de menciones de la plataforma contra el presupuesto de D-053: máximo 5 destacadas y 7 funcionales, cero en los capítulos prohibidos. | Etapa 4. | **Abierta.** Ninguna escrita todavía. |
+| V-27 | **Nuevo.** Comprobar que la presentación de la plataforma no supera las 450 palabras y está en el capítulo 11. | Etapa 4. | **Abierta.** |
+| V-28 | **Nuevo.** Comprobar, mención a mención, que cada una mejora el libro **para quien nunca usará la plataforma**. Si no, se elimina; no se reescribe. | Etapas 3 y 4. | **Abierta.** |
+| V-29 | **Nuevo.** Comprobar que las dieciocho herramientas siguen completas y utilizables en papel tras la existencia de la plataforma (refuerza V-38). | Etapa 4. | **Abierta.** |
+| V-30b | **Nuevo.** Decidir si la conclusión lleva o no una línea sobre la plataforma. Por defecto: no, si rompe el cierre emocional. | Etapa 3, al escribir la conclusión. | **Abierta — requiere decisión.** |
+| V-31b | **Nuevo.** Pruebas de ausencia de más de siete días: el producto puede ofrecerlas, pero **no como parte del método** hasta que el método las incorpore (D-059). Decidir si el capítulo 24 las incorpora. | Etapa 3, capítulo 24. | **Abierta — requiere decisión.** |
 | V-23b | Nombre de una eventual edición en inglés. **No traducir por inercia.** *Business DNA Cloning* no está tomado como marca viva, pero «Business DNA» sí está en uso comercial por terceros. | Edición internacional. | **Abierta.** Sin urgencia. |
 
 ## 2. Verificaciones de investigación
