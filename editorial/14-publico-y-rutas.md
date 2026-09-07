@@ -163,6 +163,15 @@ Reglas:
   es estar **obligado** a hacerlo para que todo siga funcionando.
 - Esto vale para las dos rutas y refuerza el principio central del libro.
 
+**Nota de investigación, 2026-09-07 (Etapa 3.4A). El continuo no se ha modificado.** La
+investigación de Q-09 lo evaluó escalón por escalón contra la literatura localizada: ninguno
+queda desmentido, *retiro parcial* y *retiro total* están directamente respaldados, dos son
+compatibles y cuatro son propuesta del método. La tensión no está en los escalones sino en
+la **forma**: F-019 describe **tipos** de aproximación al retiro, no etapas de un recorrido,
+de modo que el continuo funciona mejor como mapa de posiciones posibles que como escalera.
+**Queda como decisión del autor** (V-55). Detalle en `investigacion/plan-de-investigacion.md`,
+apartado «Q-09 — Resultado», puntos 2 y 6.
+
 ## 8. Comprobaciones de la Etapa 4
 
 1. Ningún capítulo supone estructura empresarial sin decirlo.

@@ -65,7 +65,7 @@ con solidez sin resolverla.
 | Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **Resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. **Sigue abierta para el capítulo 9**, donde hará falta literatura sobre métodos de externalización del criterio, no solo sobre el diagnóstico. **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
-| Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta desde el 2026-09-07** | Sin iniciar. **Es la investigación pertinente del capítulo 5**, que es el siguiente que se escribe, y por eso sube de media a alta. No se ha ejecutado todavía, por instrucción expresa. |
+| Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE el 2026-09-07** (Etapa 3.4A). Seis fuentes registradas, F-018 a F-023. Resultado completo al final de este documento. **Sigue abierta para el capítulo 22** y por dos vacíos declarados: cero evidencia de países hispanohablantes y casi ninguna sobre el negocio de una sola persona. |
 | Q-10 | ¿Qué evidencia hay sobre efectos de la ausencia imprevista de una persona clave en organizaciones pequeñas? | 4 | Media | Sin iniciar |
 | Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | Sin iniciar |
 | Q-12 | ¿Qué límites y obligaciones plantea la prestación de servicios tecnológicos a terceros? | Modelo de negocio | Baja para el libro, alta para el negocio | Sin iniciar |
@@ -171,3 +171,146 @@ producto es único, primero o sin competencia**, dentro y fuera del libro.
 profesionales independientes en este repositorio. Hasta que la haya, está prohibido escribir
 «la mayoría de los freelancers», «casi todos los consultores» o cualquier equivalente. La
 regla V-41 se aplica con el mismo rigor a los dos públicos.
+
+
+---
+
+## Q-09 — Resultado de la investigación (Etapa 3.4A, 2026-09-07)
+
+**Estado: RESUELTA PARCIALMENTE.** Hay respaldo suficiente para escribir el capítulo 5 con
+prudencia, y hay dos vacíos declarados que el capítulo tendrá que reconocer en voz alta.
+
+**Seis fuentes localizadas y registradas: F-018 a F-023.** Dos se leyeron en la página del
+editor con muestra, método y limitaciones (F-020, F-023). Una más se leyó en la página del
+editor con resumen estructurado, pero **la página no declara la muestra** (F-021). Tres solo
+llegaron a nivel de resumen porque el editor bloquea la consulta automatizada (F-018, F-019,
+F-022). **No se ha leído íntegro ningún artículo**, y por tanto ninguna afirmación del libro
+puede ir más allá de lo que dice la fila correspondiente.
+
+### 1. Las ocho preguntas que había que contestar
+
+| # | Pregunta | Respuesta con evidencia |
+|---|---|---|
+| 1 | ¿El retiro empresarial es un proceso y no un suceso binario? | **Sí, respaldado.** F-019 dice que la terminología corriente no describe bien el caso del emprendedor e identifica cuatro tipos. F-018 encuentra inclinación al retiro parcial y a edad más tardía. F-023 mide una incertidumbre alta sobre el momento entre quienes trabajan por cuenta propia. |
+| 2 | ¿Hay evidencia de retiro parcial o de continuidad de participación? | **Sí, para el retiro parcial** (F-018). Ojo: es una inclinación declarada, no una descripción de arreglos concretos de participación. |
+| 3 | ¿Qué papel tiene la identidad? | **Respaldado.** F-018: la identidad emprendedora influye en cómo se afronta el retiro. F-022: la diversificación de la identidad y el apoyo social facilitan la transición. F-021: la necesidad apremiante genera ansiedad; la convicción propia motiva a planificar. |
+| 4 | ¿Qué dimensiones no financieras aparecen? | Ver el apartado 3. **Solo las que sostiene alguna fuente.** |
+| 5 | ¿Hay evidencia sobre conservar un papel tras reducir la operación? | **Muy débil.** F-018 habla de retiro parcial y de preferencias de salida; F-021, de buscar actividades satisfactorias después. **Ninguna fuente estudia el arreglo «deja la operación y conserva la propiedad» como un diseño.** Aquí el libro propone, no informa. |
+| 6 | ¿Qué se puede decir de la ruta A? | Bastante: F-018, F-019, F-021 y F-022 tratan de propietarios y fundadores con negocio. |
+| 7 | ¿Qué se puede decir de la ruta B? | **Poco, y solo desde F-023**, que es la única que separa expresamente a quien trabaja por cuenta propia **sin empleados**. Y mide preferencias declaradas, no experiencias. Las demás suponen un negocio con algo que traspasar. |
+| 8 | ¿Qué no podemos afirmar? | Ver el apartado 5. |
+
+### 2. El hallazgo más importante, y es incómodo
+
+**La literatura no describe un continuo lineal. Describe tipos.** F-019 encuentra *cuatro
+tipos de aproximación al retiro*, no cuatro etapas de un recorrido, y cada tipo depende de la
+experiencia previa y de circunstancias ajenas al negocio. Nuestro continuo del retiro está
+ordenado de más a menos operativo, y eso sugiere un camino que se recorre en un sentido.
+
+**No es una contradicción, pero sí un matiz que el capítulo 5 debe recoger:** el continuo es
+un mapa de posiciones posibles, no una escalera que todo el mundo suba en el mismo orden.
+Una persona puede entrar por la mitad, quedarse, o retroceder. **Queda como decisión del
+autor** si se reformula la presentación del continuo; en esta etapa no se ha modificado
+(ver V-52).
+
+### 3. Dimensiones no financieras, cada una con su fuente
+
+| Dimensión | Fuente | Qué sostiene exactamente |
+|---|---|---|
+| Identidad emprendedora | F-018, F-022 | Influye en cómo se afronta el retiro; diversificarla facilita la transición. |
+| Control sobre la decisión | F-018 | El retiro se vive como decisión voluntaria con control considerable. |
+| Capacidad de trabajo | F-020 | Cuando decae, fuerza el retiro de quien no estaba satisfecho. |
+| Satisfacción vital | F-020 | Quien la tiene alta se retira en sus propios términos. |
+| Salud | F-022 | Aparece entre los obstáculos prácticos. |
+| Prioridades cambiantes | F-022 | Ídem. |
+| Apoyo social | F-022 | Facilita la transición. |
+| Familia y circunstancias ajenas al negocio | F-019, F-022 | Condicionan el tipo de aproximación. |
+| Ansiedad ante el retiro no elegido | F-021 | La necesidad apremiante produce resistencia al cambio. |
+| Actividades satisfactorias posteriores | F-021 | Asociadas a la convicción propia, no a la necesidad. |
+| Autonomía y flexibilidad del trabajo | F-023 | Median parte de la preferencia por retirarse más tarde. |
+
+**No respaldadas por estas fuentes, y por tanto no atribuibles a la literatura:** propósito,
+legado, preparación psicológica como constructo medido, y relaciones sociales como categoría
+distinta del apoyo social. Si el libro las usa, son del libro.
+
+### 4. Propietario y empleado no son lo mismo
+
+**Respaldado por F-023**, que compara los dos grupos en la misma encuesta: quien trabaja por
+cuenta propia prefiere retirarse más tarde —2,15 años de media—, tiene más incertidumbre
+sobre el momento (33 % frente a 27 %), mucha más flexibilidad (79 % puede trabajar desde
+casa, frente al 39 %) y mucha menos seguridad percibida (27 % declara ninguna, frente al
+8 %). **Es material de contexto, no una cifra para el manuscrito**: es neerlandés, de 2016 y
+sobre preferencias.
+
+### 5. Lo que NO podemos afirmar
+
+1. **Nada sobre países hispanohablantes.** Las muestras localizadas son de Irlanda (F-019),
+   Finlandia (F-020) y Países Bajos (F-023); en F-018, F-021 y F-022 el país de la muestra
+   **no consta**. Cero evidencia de América Latina o España.
+2. **Que el retiro parcial sea mejor.** Ninguna fuente lo evalúa como resultado deseable.
+3. **Que trabajar sobre la identidad cause una mejor transición.** F-022 observa asociación,
+   no causa.
+4. **Que el continuo del libro esté validado.** No lo está, y no puede presentarse como escala.
+5. **Cifras.** Ninguna de las cifras de F-023 entra en el manuscrito; se registran aquí para
+   fijar el contexto y su ámbito.
+6. **Nada sobre el negocio de una sola persona más allá de F-023.** No hay literatura
+   localizada sobre cómo vive el retiro quien trabaja solo con un oficio.
+
+### 6. Evaluación del continuo del retiro, escalón por escalón
+
+**A** directamente respaldado · **B** compatible, no estudiado · **C** propuesta del método ·
+**D** potencialmente contradictorio.
+
+| Escalón | Clase | Motivo |
+|---|---|---|
+| 100 % operativo | **C** | Punto de partida descriptivo del libro. |
+| Reducción del trabajo manual | **C** | Propuesta del método. |
+| Supervisión | **C** | Propuesta del método. |
+| Intervención por excepción | **C** | Propuesta del método. |
+| Asesoría estratégica | **B** | Compatible con las actividades posteriores de F-021 y con las preferencias de salida de F-018; no estudiado como escalón. |
+| Participación voluntaria | **B** | Compatible con el «control considerable» y la voluntariedad de F-018. |
+| **Retiro parcial** | **A** | Directamente respaldado por F-018. |
+| Retiro total | **A** | Es el resultado que estudian F-018, F-019, F-020 y F-023. |
+| Sucesión o legado | **B** | F-021 trata la sucesión familiar; el escalón como final del recorrido es propio. |
+
+**Ningún escalón queda en D.** La única tensión es la del apartado 2: la forma **lineal** del
+continuo, no sus escalones.
+
+### 7. La frase central
+
+> «Su participación debe dejar de ser una obligación operativa y convertirse en una elección.»
+
+**Clasificación: propuesta del autor respaldada por evidencia compatible.** No es la
+conclusión de ninguna fuente y no debe presentarse como tal. Lo que la hace defendible es
+F-018 —el retiro del empresario como decisión voluntaria con control considerable— y, por el
+lado contrario, F-021: cuando el retiro llega por necesidad apremiante y no por convicción,
+aparece ansiedad y resistencia. La distinción entre elegir y verse obligado está, pues,
+presente en la literatura; la formulación es del libro.
+
+### 8. Dimensiones para el futuro cuestionario
+
+**No se redacta ninguna pregunta en esta etapa.** Solo se separa lo que tendría respaldo de
+lo que sería diseño propio.
+
+| Dimensión | Con respaldo | Diseño propio del libro |
+|---|---|---|
+| Deseo y voluntariedad del retiro | F-018 | |
+| Horizonte y control del momento | F-018, F-023 | |
+| Capacidad de trabajo | F-020 | |
+| Satisfacción vital | F-020 | |
+| Identidad y papel futuro | F-018, F-021, F-022 | |
+| Apoyo familiar y social | F-019, F-022 | |
+| **Preparación del negocio** | | **Sí.** Ninguna fuente la mide. **Es la aportación distintiva del libro**, y conviene decirlo: la literatura estudia la disposición de la persona; el libro añade la capacidad del negocio. |
+| **Alternativas de participación** | | **Sí.** Es el continuo, que es propuesta del método. |
+
+### 9. Cómo debe citarse todo esto en el capítulo 5
+
+**Como máximo dos fuentes en el manuscrito**, y solo si añaden algo: **F-018** para la
+voluntariedad y el retiro parcial, y **F-021** para la diferencia entre retirarse por
+convicción y retirarse por necesidad. F-020 y F-023 quedan como contexto que sostiene el
+argumento sin aparecer. F-019 y F-022 se reservan por si el capítulo necesita el matiz de los
+tipos o el de la identidad.
+
+**Prohibido en el capítulo 5:** cifras, porcentajes, lenguaje clínico o de diagnóstico
+psicológico, y cualquier afirmación de alcance universal. La dimensión de identidad se trata
+al nivel de la literatura de empresa y de retiro, nunca como terapia.

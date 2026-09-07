@@ -26,9 +26,11 @@
 **Etapa 3.2.1 — Control metodológico del capítulo 3: COMPLETADA el 2026-09-07.**
 **Etapa 3.3 — Capítulo 4: COMPLETADA el 2026-09-07.**
 **Etapa 3.3.1 — Control conceptual del cálculo de impacto: COMPLETADA el 2026-09-07.**
+**Etapa 3.4A — Investigación Q-09: COMPLETADA el 2026-09-07.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
-del capítulo 4. **El capítulo 5 no se ha escrito y la Etapa 3.4 no se ha iniciado.**
+de la investigación Q-09. **El capítulo 5 no se ha escrito, el manuscrito no se ha tocado y
+la Etapa 3.4B no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -235,11 +237,11 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **17** |
+| Fuentes verificadas | **23**, de las cuales 3 leídas en la página del editor y 3 solo a nivel de resumen (F-018 a F-023). |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **9** |
 | Cifras publicadas sin fuente | **0** |
-| Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04), más **Q-06 resuelta para el capítulo 2** y abierta para el 9. |
+| Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04). **Q-06** resuelta para el capítulo 2, abierta para el 9. **Q-09** resuelta parcialmente para el capítulo 5, abierta para el 22. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
 | Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
@@ -355,10 +357,10 @@ publicado a continuación.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que
    pida el capítulo.
-3. **Ejecutar Q-09 antes de escribir el capítulo 5**: retiro de personas propietarias y su
-   dimensión no financiera. **Corrección del 2026-09-07:** el informe de la Etapa 3.3 dijo
-   que la pregunta pertinente para el capítulo 5 era Q-13, y era falso —Q-13 corresponde a
-   los capítulos 2 y 9—. El calendario corregido está en `plan-de-investigacion.md`.
+3. **Q-09 ejecutada el 2026-09-07** y resuelta parcialmente. Antes de escribir el capítulo 5
+   hace falta **una decisión del autor sobre V-55**: la literatura describe *tipos* de
+   aproximación al retiro y nuestro continuo es lineal. Ninguna de las dos opciones cambia
+   los escalones. Siguiente investigación: **Q-06 y Q-13, antes del capítulo 9.**
 4. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso
    comercial del nombre. No urge para publicar el libro.
 2. **Entregarla a dos o tres propietarios de empresa familiar** del perfil del lector
