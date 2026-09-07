@@ -4,7 +4,7 @@ parte: 1
 titulo: "La peligrosa tranquilidad de lo que nunca se ha comprobado"
 etapa_metodo: "—"
 estado: borrador
-palabras: 1773
+palabras: 1975
 casos_usados: ["C-04"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -15,9 +15,10 @@ ultima_actualizacion: "2026-09-07"
 
 Piense en la última vez que estuvo fuera unos días.
 
-Unas vacaciones, un viaje, una gripe que le tuvo en casa. Cuando volvió, no se había caído
-nada. El trabajo salió, los clientes seguían ahí, el negocio siguió. Y de ahí usted sacó,
-sin llegar a decírselo en voz alta, una conclusión tranquilizadora: esto aguanta sin mí.
+Unas vacaciones, un viaje, una gripe que le tuvo en casa. Cuando volvió, su impresión fue
+que no había pasado nada: los clientes seguían ahí y el negocio seguía en pie. Y de esa
+impresión usted sacó, sin llegar a decírselo en voz alta, una conclusión tranquilizadora:
+esto aguanta sin mí.
 
 Esa conclusión es la que sostiene la certeza con la que terminaba el capítulo anterior. Vale
 la pena mirarla despacio, porque aquellos días no demostraron lo que parece que
@@ -26,8 +27,8 @@ demostraron.
 Hágase dos preguntas.
 
 **¿Estuvo de verdad ilocalizable?** Piénselo con calma antes de contestar que sí. Contestó
-dos mensajes desde el aeropuerto. Autorizó una cosa por teléfono. Resolvió una duda en
-treinta segundos mientras hacía otra cosa. Nada de eso le pareció trabajo, nada de eso quedó
+dos mensajes desde el aeropuerto. Autorizó una cosa por teléfono. Resolvió una duda de
+camino a otro sitio, sin llegar a sentarse. Nada de eso le pareció trabajo, nada de eso quedó
 anotado en ninguna parte, y por eso no cuenta en el recuerdo. Pero durante aquellos días
 usted siguió estando disponible. El negocio funcionó **con** usted, a distancia y en dosis
 pequeñas, no sin usted.
@@ -71,11 +72,12 @@ punto por donde la operación gira sin hacer ruido. Quite las bisagras y la puer
 puesta en el marco. Sigue puesta hasta que alguien tiene que abrirla.
 
 Que no queden registrados tiene además una razón práctica, y es la misma todos los días:
-**contestar cuesta menos que explicar.** Resolver la duda lleva treinta segundos; explicar
-por qué la respuesta es esa, y no otra, lleva media hora. Media hora no hay ninguna mañana.
-Así que usted contesta —con buen juicio, además, porque es lo eficiente en ese momento— y el
-motivo que había detrás de la respuesta se queda otra vez donde estaba. Repetido mil veces a
-lo largo de los años, ese cálculo razonable es lo que ha construido la situación actual.
+**contestar cuesta menos que explicar.** Dar la respuesta es cuestión de un momento;
+explicar por qué la respuesta es esa, y no otra, es una conversación entera, y esa
+conversación no cabe en una mañana con trabajo encima. Así que usted contesta —con buen
+juicio, además, porque en ese momento es lo eficiente— y el motivo que había detrás de la
+respuesta se queda otra vez donde estaba. Ese cálculo, sensato cada vez que se hace y
+repetido durante años, es lo que ha ido construyendo la situación actual.
 
 Trabajando solo ocurre lo mismo, con la diferencia de que los ajustes son internos y no los
 ve nadie. Una fotógrafa que trabaja por su cuenta quiso pasarle un encargo a una colega para
@@ -141,15 +143,19 @@ lo que aparece después.
    como lo contaríamos, y **por qué** se hace así? Nombrar la excepción es fácil. El motivo
    es la prueba.
 3. **La consulta preferida.** ¿En qué situación preferiría consultarme antes de resolver,
-   aunque supiera resolverla? Es la que más revela, y la única que alguien puede contestar
-   con sinceridad sin quedar mal.
+   aunque supiera resolverla? Está formulada así a propósito: pregunta por lo que alguien
+   **prefiere**, no por lo que sabe o deja de saber, y eso deja sitio para una respuesta
+   franca sin que nadie tenga que reconocer una carencia.
 
-Con dos o tres personas es suficiente. Preguntar a todo el mundo lo convierte en otra cosa.
+No hace falta preguntar a todo el equipo, y probablemente no convenga: cuanto más se parezca
+a una ronda general, más se parecerá a una evaluación. Empiece por unas pocas personas que
+participen en las decisiones que le interesan. Aquí no hay ningún umbral de validez, porque
+la prueba no lo tiene: es una recomendación práctica y nada más.
 
 **Cómo no hacerlo.** No lo presente como una evaluación. No anote nombres junto a las
-diferencias. No comparta la comparación. Si alguien percibe que se está midiendo su
-competencia, contestará lo que le convenga, y usted habrá gastado la única ocasión de oír lo
-que de verdad pasa.
+diferencias. No comparta la comparación. Si la conversación se percibe como un examen de
+desempeño, las respuestas pueden volverse defensivas, y entonces la prueba deja de servir
+para lo que se hizo. Y no es fácil repetirla con la misma naturalidad una segunda vez.
 
 ### Modo B — cuando trabaja solo
 
@@ -160,11 +166,14 @@ preguntas se giran hacia dentro.
    quedado esperando si usted no hubiera estado disponible ese día. No la que habría salido
    mal: la que sencillamente no se habría tomado.
 2. **La excepción sin motivo.** ¿Qué hace de una manera distinta de como lo tiene escrito, o
-   de como se lo contaría a alguien que empieza? Escriba el motivo. Si el motivo no le cabe
-   en dos líneas, ya tiene un hallazgo.
+   de como se lo contaría a alguien que empieza? Escriba el motivo, e intente que quepa en
+   dos líneas. La restricción es deliberada: si no consigue meterlo ahí, puede que el motivo
+   sea genuinamente complicado o puede que nunca haya llegado a formularse. Merece la pena
+   averiguar cuál de las dos cosas es.
 3. **La explicación sin ejecución.** Elija algo que resolvió sin pensar y **explíquelo por
    escrito sin hacerlo**: solo qué hay que decidir y por qué, de modo que otra persona
-   pudiera decidir igual sin llamarle. Marque el punto exacto donde se atasca.
+   pudiera decidir igual sin llamarle. Si en algún punto se atasca, márquelo: ahí está lo
+   que anda buscando.
 
 La tercera del modo B es la misma que la tercera del modo A, vista desde el otro lado. Allí
 la dependencia aparece en la consulta que alguien preferiría hacerle; aquí, en el punto donde
@@ -175,8 +184,10 @@ su explicación deja de sostenerse sola.
 Tres advertencias, para que la prueba sirva de algo.
 
 **No es una medición.** Son tres preguntas en una hoja, no un instrumento validado de
-ninguna clase. Lo que produce es una observación, del tipo: hay menos autonomía real de la
-que parecía, o hay partes de mi criterio que nunca han tenido que existir fuera de mí.
+ninguna clase: se ha construido para este libro y no se ha sometido a comprobación de ningún
+tipo. Lo que produce es una observación, del tipo: hay menos autonomía real de la que
+parecía; o hay partes de mi criterio que nunca han tenido que existir fuera de mí; o
+también, perfectamente, esto está mejor repartido de lo que me temía.
 
 **Puede salir bien.** Si las respuestas coinciden con las suyas y las excepciones tienen
 motivo, eso también es un resultado, y es bueno. La prueba no está diseñada para darle la
@@ -188,14 +199,18 @@ salido de usted.
 ## Señales de que puede avanzar al capítulo siguiente
 
 - Ha hecho la prueba en el modo que le corresponde, y la tiene escrita y fechada.
-- Tiene identificada al menos una decisión que hoy no se tomaría sin usted.
-- Puede nombrar, sin mirar la hoja, cuál de las respuestas le sorprendió más.
+- Ha aceptado el resultado tal como salió, sin discutirlo consigo mismo: una o varias
+  decisiones que hoy no se tomarían sin usted, **o bien** la constatación de que en esta
+  prueba no apareció ninguna. Las dos cosas son resultados, y la segunda no es un fracaso
+  del ejercicio.
+- Sabría explicarle a alguien de fuera, en una frase, qué le ha mostrado la prueba.
 
 ---
 
-Durante todo este tiempo su presencia ha estado sosteniendo una parte de la operación sin
-que se notara. No porque nadie se esforzara, ni porque usted lo hiciera mal: porque nunca
-hubo motivo para comprobarlo, ya que usted siempre estaba ahí para contestar.
+Lo que este capítulo pone encima de la mesa es una posibilidad que hasta ahora no había
+hecho falta mirar: que parte de la operación se estuviera sosteniendo en su presencia sin
+que se notara. No porque nadie se esforzara, ni porque usted lo hiciera mal, sino porque
+nunca hubo motivo para comprobarlo: usted siempre estaba ahí para contestar.
 
 Ahora sabe que esa suposición se puede comprobar, y sabe cómo. Falta la otra mitad de la
 pregunta, y es la que veremos a continuación: qué ocurre exactamente el día en que la
