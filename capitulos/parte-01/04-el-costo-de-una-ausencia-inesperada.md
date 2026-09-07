@@ -4,7 +4,7 @@ parte: 1
 titulo: "El costo de una ausencia inesperada"
 etapa_metodo: "—"
 estado: borrador
-palabras: 1894
+palabras: 2163
 casos_usados: ["C-05"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -73,24 +73,35 @@ terminó.
 un cliente que no volvió a llamar.
 
 Con equipo, la lista se llena de cosas que esperaron una aprobación suya y de cosas que
-alguien resolvió sin consultar, y esas dos columnas conviene mirarlas juntas. La segunda es
-información valiosa y la cuenta rápida no la registra nunca.
+alguien resolvió sin consultar. Conviene mirar las dos juntas: la segunda es información
+valiosa que la cuenta rápida no registra.
 
 Hay además un error de cuenta que aparece en cuanto hay nómina, y conviene desactivarlo
 antes de empezar. Consiste en tomar las horas en que alguien estuvo esperando una respuesta
 suya, multiplicarlas por lo que esa persona cuesta y llamar a eso el costo de la ausencia.
-No lo es. Ese salario se pagaba de todas formas, con usted delante o sin usted, así que no
-lo causó su ausencia; y quien esperaba una respuesta no necesariamente se quedó parado,
-así que compruébelo antes de contarlo de esa manera. Lo que sí puede anotar es qué quedó parado y cuánto tiempo estuvo
-parado. Eso es un hecho. Convertirlo en dinero multiplicando salarios produce una cifra
-grande, impresionante y falsa. Y conviene decir una cosa más: nada de esto mide el
-rendimiento de nadie. Mide dónde estaban concentradas las decisiones.
+Ese salario se pagaba de todas formas, con usted delante o sin usted, así que el sueldo por
+sí solo no es un desembolso causado por su ausencia; y quien esperaba una respuesta no
+necesariamente se quedó parado, así que compruébelo antes de contarlo de esa manera.
 
-Trabajando solo la lista es más corta, no hay nómina que confunda, y aparece una entrada que
-no existe en la otra: **la capacidad de esos días.** El tiempo de quien trabaja solo es
-la única capacidad que tiene, y esos días no se pueden volver a vivir. Ojo, que eso no
-equivale automáticamente a dinero perdido: el trabajo puede hacerse más tarde. Lo que no
-vuelve es el hueco.
+Lo que sí se anota, y es lo que sirve, son tres cosas distintas. **Qué quedó parado y cuánto
+tiempo**, que es un hecho y se escribe en horas. **Qué desembolso hubo que no habría
+existido**: una hora extra pagada, un transporte urgente, una penalización pactada; eso sí
+es dinero y va con su cifra. Y **qué oportunidad concreta cree que se perdió por la espera**,
+que se anota aparte y no se suma con lo anterior, porque valorarla es un cálculo distinto y,
+si de verdad pesa, se hace con quien lleve sus cuentas.
+
+Nada de esto mide el rendimiento de nadie. Mide dónde estaban concentradas las decisiones.
+
+Trabajando solo la lista es más corta y no hay nómina que confunda, pero aparece una
+entrada propia: **su disponibilidad personal.** Un negocio de una sola persona tiene otras
+cosas en marcha que no dependen de que usted esté delante —encargos ya lanzados, alguien que
+le echa una mano por horas—, así que no todo se para. Lo que no se puede almacenar ni
+recuperar hacia atrás es su disponibilidad: las horas de esos días no vuelven.
+
+Qué ocurre con esas horas depende del caso, y hay que mirarlo en lugar de decidirlo de
+antemano: pueden recuperarse después, pueden empujar otro trabajo más allá, pueden
+acumularse, pueden no tener ninguna consecuencia, o pueden ser capacidad efectivamente
+perdida.
 
 ## Lucía y la semana que creía perdida
 
@@ -104,8 +115,9 @@ sin decidirse meses después, y Lucía tuvo que resistirse a apuntarlo como perd
 lo sabía.
 
 Y apareció algo que no estaba en su cuenta inicial: las dos semanas siguientes las pasó
-recuperando, trabajando de más para volver a ponerse al día. Ese trabajo no le costó dinero,
-pero le costó las tardes de dos semanas, y era consecuencia directa de la ausencia.
+recuperando, trabajando de más para volver a ponerse al día. Ese trabajo no apareció como
+un desembolso adicional, pero le costó las tardes de dos semanas, y era consecuencia directa
+de la ausencia.
 
 Su conclusión, cuando lo tuvo delante, no fue la que esperaba: había perdido bastante menos
 de lo que creía y había trabajado bastante más de lo que había contado.
@@ -120,8 +132,9 @@ reciente imaginada sin usted, o una semana representativa reconstruida con lo qu
 más adelante y con preparación; ahora se calcula sobre el papel.
 
 **Paso 2. Haga la lista.** Escriba las cosas concretas de esa semana: decisiones, encargos,
-entregas, autorizaciones, conversaciones. Diez o quince entradas bastan para ver el dibujo.
-No es un umbral de nada; es lo que cabe en una hoja sin que el ejercicio se abandone.
+entregas, autorizaciones, conversaciones. Escriba las que le quepan en una hoja y le
+resulten manejables. No hay una cantidad correcta: si al mirar la lista reconoce su semana,
+ya sirve.
 
 **Paso 3. Pase el filtro.** Ante cada entrada, una sola pregunta: **¿habría ocurrido igual
 si usted hubiera estado?** Si la respuesta es sí, táchela. No pertenece al impacto de la
@@ -130,8 +143,22 @@ formas no lo causó su ausencia.
 
 **Paso 4. Ponga el estado.** Uno de los seis, y solo uno.
 
-**Paso 5. Ponga cifra donde exista de verdad.** Este es el paso donde una cuenta se
-estropea con facilidad, así que van cinco reglas.
+**Paso 5. Decida, aparte, si hay dinero.** El estado dice **qué ocurrió**. No dice si hubo
+consecuencia económica: eso es otra cosa y se pregunta por separado, entrada por entrada,
+con dos preguntas seguidas.
+
+La primera: **¿hay aquí una consecuencia económica real, causada por mi ausencia y no
+contada ya en otra línea?** Si no la hay, la entrada se queda sin cifra y no pasa nada;
+sigue siendo información. La segunda, solo si la primera fue que sí: **¿puedo medirla con
+información que tengo de verdad?** Si no puede, escriba «no medido».
+
+**Ningún estado obliga a poner cifra ni impide ponerla.** Algo que solo esperó puede haber
+costado dinero, si había una penalización pactada. Algo que volvió a usted puede haberlo
+costado, si tuvo que pagar una ayuda para ponerse al día. Y algo que se detuvo no vale
+dinero por el mero hecho de estar detenido.
+
+Este es el paso donde una cuenta se estropea con facilidad, así que van cinco reglas para
+el momento de escribir la cifra.
 
 | | Regla | Por qué |
 |---|---|---|
@@ -151,10 +178,13 @@ cuentas.
 ## Cómo leer el resultado
 
 Al terminar tendrá la hoja repartida en los seis estados, y **los estados no se suman entre
-sí**: cada uno dice una cosa distinta y se trata de una manera distinta. Solo dos de ellos
-pueden dar dinero —lo que se perdió y, en algún caso, lo que se detuvo— y solo con las
-entradas que tengan cifra real y no se solapen entre ellas. Súmelas y póngale nombre
-completo: **impacto económico identificado hasta aquí.** No lo llame total, porque no lo es.
+sí**: cada uno dice una cosa distinta y se trata de una manera distinta.
+
+La cifra no sale de ningún estado en particular: sale de las entradas —de cualquiera de los
+seis— que hayan pasado las dos preguntas del paso 5. Súmelas y póngale el nombre completo:
+**impacto económico identificado hasta aquí.** No lo llame total, porque no lo es. Lo demás
+sigue en la hoja y sigue contando, pero como lo que es: tiempo, retraso, riesgo o «no
+medido».
 
 El riesgo no es un estado, y por eso no aparece en esa lista: es una nota en la columna de
 observaciones. Una entrada puede haber esperado y además haber dejado a un cliente incómodo.

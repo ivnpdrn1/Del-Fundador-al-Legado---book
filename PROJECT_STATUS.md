@@ -25,6 +25,7 @@
 **Etapa 3.2 — Capítulo 3: COMPLETADA el 2026-09-07.**
 **Etapa 3.2.1 — Control metodológico del capítulo 3: COMPLETADA el 2026-09-07.**
 **Etapa 3.3 — Capítulo 4: COMPLETADA el 2026-09-07.**
+**Etapa 3.3.1 — Control conceptual del cálculo de impacto: COMPLETADA el 2026-09-07.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
 del capítulo 4. **El capítulo 5 no se ha escrito y la Etapa 3.4 no se ha iniciado.**
@@ -217,11 +218,11 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Capítulo 1 | **Escrito**, 2.753 palabras |
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
 | Capítulo 3 | **Escrito y revisado**, 1.975 palabras (objetivo 1.800) |
-| Capítulo 4 | **Escrito**, 1.894 palabras (objetivo 1.900) |
+| Capítulo 4 | **Escrito y revisado**, 2.163 palabras (objetivo 1.900) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **11.622** |
+| Palabras del manuscrito | **11.891** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 21,8 % |
+| Avance sobre el objetivo | 22,3 % |
 | Recursos terminados | **1 de 18**, versión 2.0 (2.490 palabras, no computan en el manuscrito) |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
@@ -354,8 +355,10 @@ publicado a continuación.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que
    pida el capítulo.
-3. Ejecutar **Q-13** —la contraparte de Q-06 a escala individual— antes de los capítulos
-   que la necesiten. El capítulo 5 la necesita: es el capítulo del continuo del retiro.
+3. **Ejecutar Q-09 antes de escribir el capítulo 5**: retiro de personas propietarias y su
+   dimensión no financiera. **Corrección del 2026-09-07:** el informe de la Etapa 3.3 dijo
+   que la pregunta pertinente para el capítulo 5 era Q-13, y era falso —Q-13 corresponde a
+   los capítulos 2 y 9—. El calendario corregido está en `plan-de-investigacion.md`.
 4. **Encargar la búsqueda profesional de marcas (V-22)** cuando se acerque cualquier uso
    comercial del nombre. No urge para publicar el libro.
 2. **Entregarla a dos o tres propietarios de empresa familiar** del perfil del lector

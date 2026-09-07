@@ -45,7 +45,7 @@ Bloquean o condicionan el avance.
 | ID | Verificación | Etapa límite | Estado |
 |---|---|---|---|
 | V-10 | Resolver Q-01 a Q-04 o decidir escribir la introducción sin cifras. | Antes de la Etapa 2 | **EJECUTADA 2026-09-06.** Las cuatro resueltas. Doce fuentes verificadas, cuatro descartadas. Q-02 cerrada sin cifra. |
-| V-11 | Resolver Q-05 a Q-21, por bloques, antes de cada bloque de capítulos. | Durante la Etapa 3 | Sin iniciar. **Nueve preguntas nuevas añadidas en la Etapa 2.2 (Q-13 a Q-21).** Siguiente: Q-06 y Q-13 juntas, más Q-05 y Q-18, antes del bloque B1. |
+| V-11 | Resolver Q-05 a Q-21 **inmediatamente antes del capítulo que las necesite**, no por bloques. | Durante la Etapa 3 | **Reformulada el 2026-09-07 (Etapa 3.3.1).** El enunciado anterior —«por bloques»— venía de cuando la producción se planificaba así, y arrastraba una secuencia que ya no coincidía con la producción capítulo a capítulo. El calendario vigente está en `investigacion/plan-de-investigacion.md`, apartado «Calendario». **Siguiente: Q-09, antes del capítulo 5.** Ninguna pregunta eliminada ni degradada. |
 | V-12 | Cerrar toda entrada abierta de `afirmaciones-por-verificar.md`. | Etapa 4 | Sin entradas abiertas a fecha de hoy. Se reabre con cada capítulo nuevo. |
 | V-13 | Recomprobar vigencia de toda fuente con más de doce meses desde su consulta. | Etapa 5 | Sin iniciar. Las doce fuentes actuales se consultaron el 2026-09-06. |
 | V-14 | A-01, disponibilidad del título y ausencia de conflicto de marca. | Antes de la Etapa 5 | **Abierta y ahora ejecutable**: con D-014 los mercados están definidos. Conviene adelantarla. |

@@ -65,7 +65,7 @@ con solidez sin resolverla.
 | Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **Resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. **Sigue abierta para el capítulo 9**, donde hará falta literatura sobre métodos de externalización del criterio, no solo sobre el diagnóstico. **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
-| Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | Media | Sin iniciar |
+| Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta desde el 2026-09-07** | Sin iniciar. **Es la investigación pertinente del capítulo 5**, que es el siguiente que se escribe, y por eso sube de media a alta. No se ha ejecutado todavía, por instrucción expresa. |
 | Q-10 | ¿Qué evidencia hay sobre efectos de la ausencia imprevista de una persona clave en organizaciones pequeñas? | 4 | Media | Sin iniciar |
 | Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | Sin iniciar |
 | Q-12 | ¿Qué límites y obligaciones plantea la prestación de servicios tecnológicos a terceros? | Modelo de negocio | Baja para el libro, alta para el negocio | Sin iniciar |
@@ -79,7 +79,7 @@ frecuencia (regla V-41).
 
 | ID | Pregunta | Cap. | Prioridad | Estado |
 |---|---|---|---|---|
-| Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | Sin iniciar |
+| Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | Sin iniciar. **Corrección del 2026-09-07:** el informe de la Etapa 3.3 la dio por pertinente para el capítulo 5, y no lo es; sus capítulos son el 2 y el 9. El 2 ya está escrito y se cerró con Q-06, de modo que **su plazo real es antes del capítulo 9**. |
 | Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
 | Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
 | Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | Sin iniciar |
@@ -139,9 +139,26 @@ Etapa 2. La previsión de que pudieran no aparecer fuentes sólidas se cumplió 
 se aplicó la regla prevista: **Q-02 se cerró sin cifra**. El argumento del libro no
 dependía de ella y no la echa de menos.
 
-**Siguiente ejecución:** Q-13 —la contraparte de Q-06 a escala individual, aún sin iniciar—,
-más Q-05 y Q-18, antes de continuar el bloque B1 de la Etapa 3. **Q-06 quedó resuelta para
-el capítulo 2** el 2026-09-07 y sigue abierta para el capítulo 9.
+### Calendario, corregido el 2026-09-07 (Etapa 3.3.1)
+
+**Principio rector: se investiga inmediatamente antes de que la fuente sea necesaria.** Ni
+antes, porque una fuente leída cinco capítulos antes se olvida y tienta a usarla donde no
+toca; ni después, porque entonces el capítulo ya se escribió sin ella.
+
+La secuencia anterior —«Q-06 y Q-13 juntas, más Q-05 y Q-18, antes del bloque B1»— venía de
+la Etapa 2.2, cuando la producción se planificaba por bloques. Desde la Etapa 3 se escribe
+capítulo a capítulo, y esa secuencia había quedado desalineada: arrastraba preguntas cuyos
+capítulos están lejos y no señalaba la que hace falta ahora.
+
+| Cuándo | Pregunta | Por qué entonces |
+|---|---|---|
+| **Antes del capítulo 5** | **Q-09** | Es la única temáticamente pertinente: retiro de personas propietarias y su dimensión no financiera. Sube a prioridad alta. |
+| Antes del capítulo 9 | **Q-06** (parte abierta) y **Q-13** | El 9 es el capítulo del Manual de criterio, donde hará falta literatura sobre métodos de externalización, y donde Q-13 aporta la escala individual. |
+| Antes de los capítulos 11 y 16 | **Q-05** y **Q-18** | Privacidad y terceros no son materialmente relevantes hasta ahí. **No se adelantan por arrastre administrativo.** |
+| Antes del capítulo 22 | **Q-09** (segunda parte, si hiciera falta) | Segundo capítulo asignado a esa pregunta. |
+
+**Q-06 quedó resuelta para el capítulo 2** el 2026-09-07 y sigue abierta para el capítulo 9.
+Ninguna pregunta se ha eliminado ni ha bajado de prioridad.
 
 **Investigación de producto, separada.** Desde la Etapa 2.5 existe un backlog de
 investigación de producto y de categorías competidoras en

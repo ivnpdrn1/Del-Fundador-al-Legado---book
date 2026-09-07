@@ -92,6 +92,7 @@ para comprobar que no cambian de sentido a lo largo del libro.
 | Digitalizar | 11 | 1 (una mención, sin reexplicar) | Sí |
 | Presencia no es autonomía | **3 (principio central, ya escrito)** | — | Sí. Enunciado propio del libro. **Es el principio del capítulo 3 y no se reexplica en el 4**, comprobado el 2026-09-07: el capítulo 4 lo enlaza en una sola frase. |
 | Una pausa no es una pérdida | **4 (principio central, ya escrito)** | — | Sí. Enunciado propio del libro. Es el principio del capítulo 4 y **no debe reexplicarse en el 24**, que vuelve sobre la ausencia desde el otro lado. |
+| Estado y dinero son dos dimensiones | **4** | 6, 24, donde se vuelva a medir | Sí. **Regla fijada el 2026-09-07 (Etapa 3.3.1):** el estado dice qué ocurrió; la cifra se decide aparte, con dos preguntas —¿hay consecuencia económica real causada por la ausencia y no contada en otra línea? y ¿puedo medirla?—. **Ningún estado obliga a poner cifra ni impide ponerla.** Vale para cualquier otra herramienta del libro que clasifique y mida a la vez. |
 | Costo (en el capítulo 4) | **4** | — | Sí, **con definición expresa**: en ese capítulo significa todo lo que cambia porque la persona no está disponible, y no solo lo que tiene cifra. El capítulo lo fija antes de usarlo (D-066). No debe usarse en otros capítulos con el sentido estrecho de dinero perdido sin decirlo. |
 
 **Salvedad registrada sobre "criterio".** La palabra aparece con dos usos: el sentido fijo
