@@ -90,6 +90,40 @@ lector, **instrucciones** y una **microescena**. Ninguna cifra, ninguna afirmaci
 mundo y ninguna atribución. **Q-16 estaba mapeada a este capítulo y no se ejecutó**, para no
 citar marcos de gestión del conocimiento como adorno; su plazo real es antes del capítulo 9.
 
+
+**Capítulo 9: tres referencias externas, ninguna con cifras.** Es el capítulo insignia y el
+que más tentación tenía de convertirse en revisión académica. Se cita poco y cada fuente hace
+un trabajo concreto; ninguna está ahí de adorno.
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 9 | «Existe desde hace décadas un campo dedicado a sacar a la luz lo que saben las personas expertas, repartido entre disciplinas muy distintas. Una revisión metodológica publicada en 1995 en *Organizational Behavior and Human Decision Processes* agrupa esas técnicas, **a efectos de exposición**, en tres familias: analizar las tareas que la persona hace habitualmente, entrevistarla de varias maneras y plantearle **tareas preparadas que dejan ver su razonamiento sin preguntarle por ese razonamiento**.» | **F-028** | Descripción atribuida a la fuente | Cerrada. Publicación y año declarados en el texto. **Dentro del nivel de lectura**: las tres familias constan verbatim en el resumen leído, y el texto **reproduce la cautela de los propios autores** —«a efectos de exposición»— en lugar de presentarlo como taxonomía cerrada. **No se usa nada por debajo de las tres familias**, ni la comparación empírica entre técnicas, ni las recomendaciones: no se han leído. |
+| 9 | «Que exista una familia entera construida así **no demuestra** que preguntar “¿por qué?” sea un error —la fuente no dice tal cosa y nosotros tampoco—, pero sí enseña algo aprovechable: hay más maneras de llegar al criterio que la pregunta directa.» | **F-028** | **Delimitación expresa del alcance de la fuente** | Cerrada. Es la aplicación literal del preflight de la Etapa 3.8B: la fuente acredita que **existen** métodos que no dependen de la pregunta directa, y **no acredita** que esa pregunta sea incorrecta ni que produzca racionalización. El capítulo lo dice en voz alta en lugar de dejarlo implícito. |
+| 9 | «Un análisis de Michael Eraut publicado en 2000 en el *British Journal of Educational Psychology* describe el desempeño profesional como secuencias de acción rutinizada interrumpidas por decisiones intuitivas rápidas, y sitúa entre lo tácito precisamente las reglas que sostienen esas decisiones.» | **F-029** | Hallazgo conceptual atribuido | Cerrada. Autor, publicación y año declarados. Corresponde a dos fragmentos verbatim del resumen depositado por el editor: «sequences of routinised action punctuated by rapid intuitive decisions» y «the tacit rules that underpin intuitive decision-making». **Se usa para defender la intuición, no para desacreditarla**, que es lo que la fuente permite. |
+| 9 | «El equilibrio entre decidir de manera intuitiva, analítica o deliberada **depende del tiempo disponible, de la experiencia y de la complejidad**.» | **F-029** | Hallazgo conceptual atribuido | Cerrada. Verbatim en el resumen del editor: «The balance between these modes depends on time, experience and complexity». Es lo que justifica la cuarta columna del Manual. |
+| 9 | «El conocimiento tácito es problemático en dos frentes distintos: **detectarlo y representarlo**. Son dos trabajos, no uno.» | **F-029** | Hallazgo conceptual atribuido | Cerrada. Verbatim: «with respect to both detecting it and representing it». Sostiene la constante registrada en `06-control-de-continuidad.md` y, con ella, el derecho del lector a escribir «no sé explicarlo todavía». |
+| 9 | «Una revisión sistemática de la investigación sobre conocimiento en pequeñas y medianas empresas, publicada en 2005 en el *International Journal of Management Reviews*, concluye que las cualidades del conocimiento en esos negocios **se resisten a tratarse como un activo separable y material**.» | **F-033** | Hallazgo atribuido, **usado como contrapeso** | Cerrada. Publicación y año declarados. Verbatim del resumen depositado por el editor: «qualities that resist conceptualization as some form of separable, material asset». Entra precisamente para **impedir** que el capítulo prometa vaciar una mente en un papel. **No se le hace decir que el conocimiento no pueda transferirse**, que es lo que la fuente no autoriza. |
+
+**Cuatro fuentes disponibles que el capítulo 9 decidió NO citar**, y por qué. Se registra
+porque la decisión de no citar es tan sujeta a control como la de citar (D-013).
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-027** (método del incidente crítico, 1989) | Es el origen de tres piezas del diseño: trabajar sobre un incidente concreto, extraer señales de decisión y juzgar la tipicidad del caso. | **Su fila depende de un registro agregado para todo el contenido**: el depósito del editor no incluye resumen. Citarla en el manuscrito para un detalle concreto rozaría la regla del propio proyecto de no verificar en agregadores. **Solución adoptada:** las tres piezas se presentan como **diseño del Método LEGADO**, sin atribuírselas a nadie, que es exactamente lo que son en el texto. No se abrió investigación nueva para salvar la cita. |
+| **F-030** (revisión de técnicas, 1994) | Documenta que el campo está disperso entre nueve disciplinas. | **V-59.** Sus categorías no se han obtenido y no deben confundirse con las tres familias de F-028. Lo que aportaría —la dispersión del campo— ya lo sostiene F-028 con su propio resumen leído. **Citarla sería una segunda fuente para lo mismo**, es decir, decoración. |
+| **F-031** (ACTA, 1998) | Precedente de simplificar un método experto para quien no es especialista, y respaldo de consolidar en una sola tabla. | **No hacía falta.** El capítulo no afirma que ACTA funcione —su evaluación no se ha leído— y la idea de simplificar se sostiene sola como decisión del libro. Se prefirió no cargar el capítulo con una referencia que no cambiaba ninguna frase. |
+| **F-016** (Nonaka, 1991) | Conocimiento tácito y dificultad de formalizar. | **Es del capítulo 2 y allí está desarrollado.** El 9 remite al fenómeno sin reabrirlo ni volver a citarlo, según el deslinde 2-9. |
+
+**Control de universalidades del capítulo 9, ejecutado el 2026-09-08.** Se aplicó el control
+de dos pasos del apartado 3: búsqueda literal como clase abierta más lectura dirigida de cada
+aparición. Treinta y dos apariciones; veintiocho quedaron clasificadas como definiciones,
+negaciones deliberadas, instrucciones del ejercicio o afirmaciones acotadas a lo leído.
+**Cuatro se corrigieron** por ser afirmaciones sobre el mundo sin respaldo: «casi todo el mundo
+intenta primero», «una palabra que suele decirse como si fuera una excusa», «suele contestarse
+mucho mejor que un por qué» y el superlativo «es la pregunta que más rinde». En la herramienta
+7 se corrigieron otras tres: «todos son mejores que pensar en abstracto», «los rechazos suelen
+tener el criterio más a la vista que los síes» y «dos casos nunca son idénticos».
+
 **Capítulo 5: tres referencias, todas en un solo apartado y ninguna con cifras.**
 
 | Cap. | Afirmación en el texto | ID | Tipo | Estado |

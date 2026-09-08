@@ -4,7 +4,7 @@ Registro obligatorio de todos los casos y personajes del libro. **Un caso se reg
 aquí antes de escribirse.** Es el instrumento de cumplimiento de
 `editorial/09-reglas-de-casos-ficticios.md`.
 
-**Casos registrados a 2026-09-07: 5.**
+**Casos registrados a 2026-09-08: 6.**
 
 Desde la Etapa 2.2 cada caso declara además su **ruta**: A (empresa con estructura) o B
 (profesional independiente o negocio de una sola persona). Ver `editorial/14-publico-y-rutas.md`.
@@ -20,6 +20,7 @@ Desde la Etapa 2.2 cada caso declara además su **ruta**: A (empresa con estruct
 | C-04 | Tomás (solo nombre de pila) | Hombre | **A** | Comercio mayorista | 3 | Su equipo funciona bien y lleva años con él. Escribe por su cuenta qué cree que resolverían sin consultarle, lo pregunta, y las listas no coinciden. | Presencia no es autonomía: la autonomía parecía real porque él estaba disponible para confirmar, y varias decisiones nunca habían tenido que existir fuera de él. No es que el equipo no sepa su trabajo. | Tres: (1) lleva años al frente del negocio; (2) tiene un equipo estable y competente; (3) nunca había comprobado la diferencia entre lo que él cree que saben y lo que pueden explicar. | Bajo | Sin apellido. Sin lugar. Sin cifras. Sin fechas. Sin composición familiar. Sin número de empleados. Sin productos, márgenes, proveedores ni vocabulario propios del comercio mayorista: el mecanismo se cuenta sin describir la operación. Construido desde el mecanismo hacia el ejemplo. |
 | C-03 | Marta (solo nombre de pila) | Mujer | **A** | Manufactura ligera | 2 | Sabe, antes de que empiece, qué encargo va a dar problemas, y nunca lo ha explicado porque nadie se lo ha preguntado nunca. | Existe conocimiento que no está en ningún manual porque nunca se consideró conocimiento: aquí, una señal anticipatoria y el criterio que la acompaña. | Tres: (1) lleva muchos años al frente de la producción; (2) reconoce por adelantado los encargos que se van a complicar; (3) no ha escrito nunca ese criterio. | Bajo | Sin apellido. Sin lugar. Sin cifras. Sin fechas. Sin composición familiar. **Sin procesos, unidades, turnos ni vocabulario propios de un sector concreto**: el mecanismo se cuenta sin describir la operación. Construido desde el mecanismo hacia el ejemplo. |
 | C-02 | Andrés (solo nombre de pila) | Hombre | **B** | Servicios profesionales | 1 | Un profesional que trabaja por su cuenta descubre que su forma de preparar el trabajo y de decidir condiciones no existe fuera de su memoria, y que por eso no puede repartir carga ni ausentarse. | El mismo mecanismo que detiene una empresa detiene un despacho de una sola persona, y allí no hay a quién preguntar. | Tres: (1) más de veinte años ejerciendo por su cuenta; (2) prepara cada propuesta partiendo de lo que recuerda de cada cliente; (3) no tiene equipo, por elección propia. | Bajo | Sin apellido. Sin lugar. Sin cifras, honorarios ni tarifas. Sin fechas. Sin composición familiar. Sin especialidad concreta dentro del sector, para no señalar ninguna profesión regulada. Caso breve, de menos de doscientas palabras. Construido desde el mecanismo hacia el ejemplo. |
+| C-06 | Rafael (solo nombre de pila) | Hombre | **B** | Comercio minorista | 9 | Dos personas le piden en la misma semana que les aparte un artículo. Guarda el de una y el de la otra no, y al escribirlo descubre que la diferencia estaba en algo que nunca había nombrado: una dijo para qué lo quería y para cuándo, y la otra solo preguntó el precio. | El criterio no se explica en abstracto: se reconstruye desde un caso concreto, y aparece al preguntar qué se vio, si era corriente o raro, en qué condiciones se decidió y qué habría cambiado la respuesta. Enseña además que **un criterio puede llevar años funcionando sin estar escrito simplemente porque nadie ha tenido que preguntarlo.** | Tres: (1) lleva solo el negocio; (2) resuelve esa situación cada pocas semanas y con la tienda llena; (3) nunca había puesto por escrito qué le hace apartar un artículo. | Bajo | Sin apellido. Sin lugar. **Sin cifras, precios ni moneda.** Sin fechas concretas —solo «la misma semana» y una estación del año mencionada como condición, no como dato—. Sin composición familiar. Sin nombre de producto, marca, proveedor ni especialidad comercial: el artículo se describe solo por su rotación. Construido desde el mecanismo hacia el ejemplo. |
 
 **Riesgo de semejanza:** `bajo` · `medio` · `alto`.
 Un caso calificado como **alto no se escribe**: se rediseña o se descarta.
@@ -46,7 +47,7 @@ Máximo tres apariciones por sector. Sin repetición en capítulos consecutivos.
 | Logística | 0 (una microescena sin nombre, cap. 6) | 6, 19 | — |
 | Mantenimiento | 0 (ejemplo de la herramienta 4) | 7 | — |
 | Construcción | 0 (una microescena sin nombre, cap. 7, **ruta B**) | 8, 23 | — |
-| Comercio minorista | 0 | 9, 22 | — |
+| Comercio minorista | **1** | 9, 22 | **9** |
 | Empresa familiar de alimentos | 0 | 10, 25 | — |
 | Servicios técnicos | 1 | **4**, 11, 24 | 4 |
 | Importación y distribución | 0 (una microescena sin nombre, cap. 8) | 12, 14, 17 | — |
@@ -54,6 +55,17 @@ Máximo tres apariciones por sector. Sin repetición en capítulos consecutivos.
 **Nota de la Etapa 3.7.** La fila de *Construcción* aparecía **dos veces**: al anotar la
 microescena del capítulo 7 se insertó una fila nueva en lugar de actualizar la existente.
 Corregido.
+
+**Sector del capítulo 9 (Etapa 3.8B): comercio minorista, el que tenía previsto.** El capítulo
+8 usó importación y distribución, así que no hay repetición en capítulos consecutivos. Queda una
+observación anotada, no un incumplimiento: **el ejemplo de la herramienta 3 también transcurre
+en una tienda pequeña**, tres capítulos atrás. No colisiona con ninguna regla —los ejemplos de
+las herramientas no cuentan como apariciones de caso— y los dos son distintos en escala, ruta y
+decisión: aquel es un negocio con dos empleadas de ruta A que decide sobre mercancía defectuosa;
+este es una persona sola de ruta B que decide sobre apartar un artículo. Se registra para que la
+coincidencia no pase inadvertida al revisar la parte. **Comercio minorista queda en 1 de sus 3
+apariciones y conserva el capítulo 22.** El ejemplo de la herramienta 7 se sitúa en **logística**,
+distinto del capítulo y distinto de los ejemplos de las herramientas 4, 5 y 6.
 
 **Sectores de la Parte II, y por qué.** El capítulo 8 tenía asignada **construcción**, pero
 el 7 acababa de usarla en una microescena y la regla prohíbe repetir sector en capítulos
@@ -69,11 +81,16 @@ final, porque corregirlo al final obliga a reescribir muchos pasajes.
 
 | | Casos | Porcentaje |
 |---|---|---|
-| Protagonistas mujeres | 3 | 60 % |
-| Protagonistas hombres | 2 | 40 % |
+| Protagonistas mujeres | 3 | 50 % |
+| Protagonistas hombres | **3** | **50 %** |
 | Sin género especificado | 0 | — |
 
-**Nota de seguimiento.** Con cinco casos el reparto queda 3 a 2. La alternancia se ha
+**Nota de la Etapa 3.8B.** Con C-06 el reparto queda **3 a 3**, equilibrado. El capítulo 9 no
+eligió hombre por cuota: eligió el caso por lo que el capítulo necesitaba —una persona que
+trabaja sola, cuyo criterio nunca se le ha pedido explicar— y el equilibrio salió de paso. Se
+vuelve a revisar al cerrar la Parte II.
+
+**Nota anterior (cinco casos).** Con cinco casos el reparto quedaba 3 a 2. La alternancia se ha
 mantenido caso a caso desde el principio —Elena, Andrés, Marta, Tomás, Lucía— y con número
 impar el desequilibrio de uno es inevitable. **No se crea ninguna deuda**: el capítulo 5
 elige protagonista por lo que pida el capítulo, no por cuota. Se revisa al cerrar el bloque
@@ -88,7 +105,12 @@ escala.
 | | Casos | Capítulos |
 |---|---|---|
 | Ruta A — empresa con estructura | 3 | 1, 2, 3 |
-| Ruta B — profesional independiente | **2** | 1, **4** |
+| Ruta B — profesional independiente | **3** | 1, 4, **9** |
+
+**Reparto equilibrado a 2026-09-08: 3 a 3.** El caso del capítulo 9 es de ruta B, y la ruta A
+se atiende dentro del capítulo con un pasaje breve —quién pregunta cuando hay alguien más— y
+con el **ejemplo de la herramienta 7**, que es de ruta A y de otro sector. Ninguna de las dos
+rutas queda sin manifestación concreta.
 
 **Deuda de ruta: SALDADA el 2026-09-07.** El capítulo 4 lleva **caso principal y único de
 ruta B** (C-05), como quedó anotado al cerrar el capítulo 3. El reparto pasa de 3 a 1 a
@@ -166,6 +188,7 @@ Diez preguntas. Una sola respuesta afirmativa en las nueve primeras obliga a red
 
 | Caso | Fecha | Resultado de las diez preguntas |
 |---|---|---|
+| C-06 | 2026-09-08 | Preguntas 1 a 9: todas negativas. Pregunta 10: afirmativa. **Apto.** Comprobaciones adicionales: **sin precios, sin moneda y sin ninguna cifra** —el artículo se describe por su rotación, no por su valor—; sin nombre de producto, marca, proveedor ni especialidad comercial; la única referencia temporal es una estación del año usada como **condición de la decisión**, no como fecha; y las dos personas del caso aparecen sin ningún rasgo que las identifique, descritas solo por lo que dijeron al pedir. |
 | C-01 | 2026-09-06 | Preguntas 1 a 9: todas negativas. Pregunta 10: afirmativa. **Apto.** |
 | C-05 | 2026-09-07 | Preguntas 1 a 9: todas negativas. Pregunta 10: afirmativa. **Apto.** Comprobaciones adicionales: **sin moneda ni importes** —solo recuentos pequeños de encargos—; sin especialidad, marcas, equipos ni vocabulario de oficio; y el motivo de la ausencia se deja deliberadamente sin detallar para no introducir circunstancias personales. |
 | C-04 | 2026-09-07 | Preguntas 1 a 9: todas negativas. Pregunta 10: afirmativa. **Apto.** Comprobación adicional del sector: el caso no nombra productos, proveedores, márgenes, número de empleados ni ninguna operación concreta del comercio mayorista, de modo que no puede señalar a ningún negocio real. |

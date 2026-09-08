@@ -169,7 +169,9 @@ empezar, no un umbral demostrado.**
 ### E — Extraer el conocimiento y el criterio
 
 **Propósito.** Llevar a un soporte consultable lo que el negocio necesita para seguir
-funcionando, incluido el porqué de las decisiones.
+funcionando, incluido el porqué de las decisiones. **Precisión del 2026-09-08 (D-071):** el
+propósito de E es **detectar y representar**, y dejar el material en condiciones de ser
+utilizado. **No es demostrar que ya se transfirió.**
 
 **Diagnóstico.** De cada dependencia identificada en L, en qué estado está: solo en la
 memoria de una persona, escrita a medias, repartida en correos y conversaciones, documentada
@@ -207,20 +209,52 @@ Exponer en el documento información sensible sin clasificarla.
 persona redacte y pregunte: quien sabe algo da por supuesto lo que más falta. **Trabajando
 sola**, ese segundo par de ojos no existe y no se inventa; se sustituye por dos mecanismos
 más débiles y honestos: escribir primero y releer días después, y **comprobar el documento
-usándolo**, siguiéndolo al pie de la letra la próxima vez sin recurrir a la memoria.
+usándolo**, siguiéndolo deliberadamente la próxima vez y **anotando cada punto en que hizo
+falta añadir algo que no estaba escrito**. **Corregido el 2026-09-08 (D-071):** la redacción
+anterior pedía usarlo «sin recurrir a la memoria», y eso **no se puede comprobar**. Nadie
+apaga su propia experiencia para examinar su propio documento. Lo que sí se puede hacer es
+seguirlo a propósito y registrar dónde no bastó.
 
 **Evidencia de avance.** Documentos fechados, con autor, con fecha de revisión y con una
 persona responsable de mantenerlos.
 
-**Criterio de paso a G.** Las dependencias de mayor impacto están documentadas y **han
-dejado de ser exclusivamente personales**. Ese es el principio; la comprobación cambia según
-el caso. **Con equipo:** otra persona ha ejecutado la tarea siguiendo el documento, sin
-preguntar. **Trabajando solo:** el documento se ha usado al menos una vez tal como está,
-sin recurrir a la memoria, y produjo el mismo resultado; o lo ha utilizado un colaborador
-externo, cuando exista. **No se inventan empleados ni segundos contactos internos para poder
-cerrar la etapa**, y una comprobación diferida por la propia persona es más débil que una
-ajena, lo que debe reconocerse en lugar de disimularse. La prueba formal de ausencia es otra
-cosa y llega en el capítulo 24.
+**Criterio de paso a G. Reformulado el 2026-09-08 (D-071).**
+
+> **Las dependencias prioritarias están representadas en un soporte que otra persona puede
+> consultar sin tenerle a usted delante, con sus límites y sus zonas de incertidumbre escritos,
+> y esa representación se ha puesto a prueba al menos una vez contra un caso real. Eso basta
+> para empezar a gobernar quién podrá usarlas y hasta dónde.**
+
+**Qué se comprueba aquí, y qué no.** Se comprueba **la calidad de la representación**: si lo
+escrito hace visible lo que había que considerar. **No se comprueba que la transferencia haya
+ocurrido.** Son tres movimientos distintos y esta etapa cubre los dos primeros:
+
+**detectar** → **representar** → **transferir.**
+
+E detecta y representa, y deja el material en condiciones de usarse. La transferencia se
+gobierna en G, se ejerce en D y se verifica en el capítulo 24. **La etapa E no puede declarar
+que el criterio ya está transferido**, y la redacción anterior —«han dejado de ser
+exclusivamente personales»— lo declaraba.
+
+**Cómo se comprueba, según el caso.**
+
+**Con equipo:** otra persona toma el material y dice qué haría y qué miraría. **No tiene que
+coincidir palabra por palabra ni producir el mismo resultado**: lo que la prueba busca es
+**qué falta en la representación**. Si además ejecuta la tarea siguiendo el documento sin
+preguntar, eso es evidencia adicional y muy valiosa, pero **no se exige que toda la
+transferencia esté terminada** para cerrar E.
+
+**Trabajando solo:** la persona vuelve a su documento, lo sigue deliberadamente en un caso
+real, **marca cada punto donde tuvo que añadir algo que no estaba escrito** y corrige la
+representación. Eso es **una prueba de completitud del documento hecha por su autor**, no una
+prueba de transferibilidad a otra persona, y **debe decirse así**. Si existe un colaborador
+externo que pueda leerlo, su lectura vale más y se aprovecha.
+
+**No se inventan empleados ni segundos contactos internos para poder cerrar la etapa**, y una
+comprobación hecha por uno mismo es más débil que una ajena, lo que se reconoce en lugar de
+disimularse. **Tampoco se exige «el mismo resultado»**: dos casos pueden ser distintos y
+el resultado depende también de factores externos. La prueba formal de ausencia es otra cosa y llega
+en el capítulo 24.
 
 ---
 

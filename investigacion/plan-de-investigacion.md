@@ -509,9 +509,17 @@ son **tres**: análisis de las tareas que el experto realiza habitualmente; entr
 varios tipos; y **tareas construidas que revelan el razonamiento del experto sin preguntarle
 por ese razonamiento**.
 
-Esa tercera categoría es la que más dice, porque explica por qué existe el resto: hay un modo
-entero de elicitación que **evita la pregunta directa**. Es exactamente el motivo de la clase D
-del apartado 6, y ahora tiene fuente en lugar de razonamiento propio.
+Esa tercera categoría es la que más dice: existe un modo entero de elicitación que **no
+pregunta por el razonamiento**.
+
+**Corrección de la Etapa 3.8B, y es importante.** La redacción anterior de este apartado decía
+que eso daba «fuente en lugar de razonamiento propio» a la clase D. **Atribuía a F-028 más de lo
+que dice.** Lo que la fuente sostiene es que **existe** una familia de técnicas construida así.
+**No sostiene** que preguntar «¿por qué decidió eso?» sea incorrecto, que produzca
+racionalizaciones, que deba prohibirse ni que no aporte nada útil. La doctrina que el libro puede
+defender es más estrecha y es suya: **no dependa exclusivamente de una pregunta abstracta sobre el
+porqué.** Preguntar «¿por qué?» en una conversación es legítimo; hacer que todo el Manual descanse
+en esa única respuesta, no.
 
 **Dos cautelas obligatorias.** Primera: los autores las presentan «for discussion purposes», así
 que **el libro debe decir que es una agrupación expositiva, no una clasificación cerrada**.
@@ -594,7 +602,7 @@ de las seis fuentes ha sido leída íntegra.
 | **Alternativas consideradas** | **B.** Compatible; no confirmado. |
 | **Pregunta de contraste** —«qué habría cambiado su decisión»— | **C. Diseño propio.** Es plausible y coherente con la elicitación por incidentes, pero **no se ha verificado en ninguna fuente leída**, y el libro debe presentarla como suya. |
 | **Escenario contrafactual** | **C.** Igual que la anterior. |
-| **Pregunta abstracta directa** —«¿por qué decide así?»— | **D, y ahora con fuente expresa.** F-028 describe una familia entera de técnicas definida por **revelar el razonamiento «without necessarily asking about these processes»**: la literatura construyó alternativas precisamente para no depender de la pregunta directa. **Sigue sin poder afirmarse que no funcione**; lo que sí puede afirmarse es que el campo no se conformó con ella. |
+| **Pregunta abstracta directa** —«¿por qué decide así?»— | **D, con una precisión de la Etapa 3.8B.** F-028 describe una familia de técnicas que revelan el razonamiento «without necessarily asking about these processes». Eso acredita que **existen** métodos que no dependen de la pregunta directa. **No acredita** que la pregunta directa sea incorrecta, ni que cause racionalización, ni que deba evitarse: la fuente no dice nada de eso y el libro no lo dirá. **Lo único que se sostiene:** el campo construyó alternativas, y por tanto un método que descanse solo en esa pregunta se está apoyando en menos de lo que hay disponible. |
 | **Descomponer la tarea antes de entrevistar** | **A, nuevo en la Etapa 3.8A.1.** F-031, leída en el original: la *task diagram interview* descompone la tarea en «less than six, but more than three steps» y solo después pregunta cuáles exigen destreza cognitiva difícil. **Respalda empezar por un mapa grueso y estrechar después**, que es lo que ya hacen los capítulos 6 y 7. |
 | **Consolidar lo extraído en una sola tabla** | **A, nuevo en la Etapa 3.8A.1.** F-031 cierra sus tres entrevistas con una *cognitive demands table* «offered as a means to consolidate and synthesize the data». **Respalda que el Manual de criterio sea una tabla y no un relato.** |
 | **Observación y pensar en voz alta** | **Sin evaluar.** No se localizó respaldo en lo leído; no entra. |
@@ -666,20 +674,31 @@ veces no documenta nada. Esta es la versión recomendada para el capítulo 9:
 | 1 | **El caso**: qué pasó, cuándo, y qué se hizo | **A** | F-027 y F-028 sitúan el incidente concreto en el centro; F-031 empieza descomponiendo una tarea real |
 | 2 | **Qué me hizo darme cuenta**: las señales | **A** | F-027 elicita *decision cues* y discriminaciones perceptivas; F-029 hace de «leer la situación» un proceso propio; F-031 audita destrezas perceptivas y reconocimiento de anomalías |
 | 3 | **Si fue un caso típico o raro** | **A** | F-027 nombra el juicio de tipicidad entre las dimensiones que extrae |
-| 4 | **En qué condiciones decidí**: con prisa o con calma, con información completa o incompleta | **A** | F-029: el modo cognitivo depende del tiempo, la experiencia y la complejidad |
+| 4 | **En qué condiciones decidí**: con prisa o con calma, con cuánta experiencia previa en un caso así, y con qué información a mano | **A en sus tres primeras condiciones; C en la cuarta** | F-029 respalda **tiempo, experiencia y complejidad**. **Corrección de la Etapa 3.8B:** la disponibilidad de información **no aparece en el material leído** y la redacción anterior se la atribuía. Se conserva porque es una condición práctica útil, pero **es diseño propio del libro**, compatible con la fuente y no derivada de ella |
 | 5 | **Qué habría cambiado mi decisión** | **C, diseño propio** | Coherente con la elicitación por incidentes, **no verificada en ninguna fuente leída**, y el capítulo debe declararla como propuesta del libro |
 
-**El campo 4 es nuevo**: no estaba entre los nueve provisionales y lo obliga F-029. Los que no
-siguen no se pierden por descuido, y esta es la razón de cada uno:
+**El campo 4 es nuevo**: no estaba entre los nueve provisionales. Sus tres primeras condiciones
+las obliga F-029; la cuarta, la información disponible, **la añade el libro por su cuenta** y así
+queda clasificada. Los que no siguen no se pierden por descuido, y esta es la razón de cada uno:
 
 - **«Qué información se tenía»** se absorbe en el campo 4. Era una condición, no un campo aparte.
-- **«Alternativas que existían»** se absorbe en el campo 5: lo que habría cambiado la decisión
-  es la misma pregunta hecha por el lado que sí produce respuesta.
+- **«Alternativas que existían»** sale de la tabla y su material se recoge, cuando aparece, al
+  trabajar el campo 5. **Corrección de la Etapa 3.8B: no son la misma pregunta y no debe decirse
+  que lo sean.** «¿Qué otras opciones tenía?» busca **el abanico**; «¿qué habría cambiado su
+  decisión?» busca **la condición que mueve la elección**. Se puede tener la segunda respuesta sin
+  la primera y al revés. Que solo una de las dos ocupe un campo **es una decisión de diseño del
+  Método LEGADO** tomada para no pasar de cinco campos, y así se declara. Preguntar por las
+  alternativas durante la conversación sigue siendo útil y está permitido; lo que no es, es un
+  campo obligatorio.
 - **«Qué se eligió y por qué»**: el «qué se eligió» ya está en el campo 1. El «por qué» directo
-  **se elimina como campo**, y esa es la decisión de fondo de este apartado. F-028 describe una
-  familia entera de técnicas construida para revelar el razonamiento «without necessarily asking
-  about these processes». Dejar un campo que pregunta exactamente eso invita a rellenarlo con una
-  racionalización, que es justo lo que el capítulo 8 ya prohíbe.
+  **deja de ser un campo de la tabla**, y esa es la decisión de fondo de este apartado. **Se declara
+  como decisión de diseño del Método LEGADO, no como conclusión de la investigación.** Lo que aporta
+  F-028 es solo que existen técnicas que llegan al razonamiento sin preguntar por él, de modo que
+  hay de dónde elegir. Lo que aporta el capítulo 8 es la cautela ya establecida contra escribir un
+  motivo reconstruido a posteriori. Con las dos cosas, el libro prefiere que el porqué **salga de
+  relacionar los cinco campos** en lugar de pedirlo en una casilla. **El porqué no desaparece del
+  método**: desaparece de la casilla. Preguntarlo en voz alta, durante el trabajo, sigue estando
+  bien.
 - **«Excepciones»** no entra: es la herramienta 6, del capítulo 8, y duplicarla aquí rompería el
   límite entre ambos capítulos.
 - **«Cuándo detenerse y preguntar»** y **«registrar la incertidumbre»** no son campos de un caso:

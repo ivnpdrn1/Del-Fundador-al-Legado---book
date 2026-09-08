@@ -2,10 +2,17 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-07: 9 de 27 piezas escritas. 20.499 palabras.**
-**PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II iniciada:** capítulo 6.
+**Estado del manuscrito a 2026-09-08: 10 de 27 piezas escritas. 22.948 palabras.**
+**PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II: 4 de 5**, capítulos 6 a 9.
+**ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
 **Piezas = 25 capítulos numerados + introducción + conclusión** (`03-indice-maestro.md` §0).
-**Recursos: 6 de 18 redactados (9.831 palabras en total; no computan en el manuscrito).**
+**Recursos: 7 de 18 redactados (11.710 palabras en total; no computan en el manuscrito).**
+
+**Nota sobre el recuento (2026-09-08).** Un recuento completo hecho con el contador de esta
+etapa da **22.964** palabras, dieciséis más que la suma acumulada. La diferencia se concentra
+en los capítulos 5 y 6 y **procede del método de conteo, no del texto**: ninguno de los dos se
+ha tocado. Se conserva la cifra acumulada para no reescribir el historial, y se anota la
+discrepancia en lugar de disimularla.
 
 Cifras posteriores a la **revisión conceptual 2.2** del 2026-09-07, que amplió el público
 del libro (D-021). Los objetivos de la introducción y del capítulo 1 se ajustaron en la
@@ -31,7 +38,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 6 | Localizar la dependencia | II | L | **borrador, revisado (3.5.1)** | **2.141** | 2.100 | Inventario del conocimiento crítico (herramienta 3 de 18) | — (una microescena sin nombre) | 0 |
 | 7 | El mapa de procesos, decisiones y relaciones | II | E | **borrador, revisado (3.6.1)** | **2.411** | 2.300 | Mapa de decisiones (4) y mapa de relaciones críticas (5) | — (una microescena sin nombre) | 0 |
 | 8 | Cómo documentar las excepciones | II | E | **borrador, con preflight (3.8A)** | **2.067** | 2.000 | Registro de excepciones (6) | — (una microescena sin nombre) | 0 |
-| 9 | El Manual de criterio | II | E | no iniciado | 0 | 2.400 | — | — | — |
+| 9 | El Manual de criterio | II | E | **borrador** | **2.449** | 2.400 | Plantilla del Manual de criterio (herramienta 7 de 18) | **C-06** | 0 |
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | G | no iniciado | 0 | 2.200 | — | — | — |
 | 11 | Ordenar antes de automatizar | III | A (G previa) | no iniciado | 0 | 2.300 | — | — | — |
 | 12 | La inteligencia artificial como aprendiz | III | A | no iniciado | 0 | 2.200 | — | — | — |
@@ -58,16 +65,18 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 |---|---|---|---|---|
 | Introducción | 1 | 2.700 | **2.838** | completa |
 | I | 5 | 10.400 | **11.042** | **completa** |
-| II | 5 | 11.000 | **6.619** | 3 de 5 |
+| II | 5 | 11.000 | **9.068** | **4 de 5** |
 | III | 6 | 12.900 | 0 | — |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **20.499** | **38,5 % del objetivo** |
+| **Total** | **27** | **53.300** | **22.948** | **43,1 % del objetivo** |
 
-**Desviaciones, revisadas el 2026-09-07.** Las nueve piezas escritas suman 20.499 palabras
-frente a un objetivo acumulado de 17.400 para esas mismas piezas: **un 18 % por encima**.
-Los capítulos 6 y 7 salieron dentro de su objetivo; el exceso acumulado sigue viniendo de la
-introducción y del capítulo 1, fijados antes de D-030.
+**Desviaciones, revisadas el 2026-09-08.** Las diez piezas escritas suman 22.948 palabras
+frente a un objetivo acumulado de 19.800 para esas mismas piezas: **un 15,9 % por encima**, y
+la desviación **baja por segunda etapa consecutiva** (era del 18 % con nueve piezas). El
+capítulo 9 salió a un 2 % de su objetivo llevando las dos rutas, un caso completo y tres
+fuentes. Los capítulos 6, 7 y 8 también salieron dentro; el exceso acumulado sigue viniendo de
+la introducción y del capítulo 1, fijados antes de D-030.
 Pieza a pieza, ninguna excede el 15 % de D-030 —la mayor desviación individual es el
 capítulo 2, con un 8 %—, pero **la suma sí se aleja**, y conviene mirarla al cerrar la
 Parte II. La causa no es la ampliación a dos rutas, que está contenida, sino que la
@@ -85,11 +94,11 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 |---|---|---|---|---|
 | Contexto previo | 3, 4, 5 | 5.700 | **6.127** | **completa** |
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
-| E | 2, 7, 8, 9 | 8.700 | **6.640** | 3 de 4 |
+| E | 2, 7, 8, 9 | 8.700 | **9.089** | **completa** |
 | G | 10 | 2.200 | 0 | — |
-| A | 11–16 | 12.900 | 0 |
-| D | 17, 18, 21, 23, 24 | 10.900 | 0 |
-| O | 19, 20, 22, 25, concl. | 9.400 | 0 |
+| A | 11–16 | 12.900 | 0 | — |
+| D | 17, 18, 21, 23, 24 | 10.900 | 0 | — |
+| O | 19, 20, 22, 25, concl. | 9.400 | 0 | — |
 
 ## 4. Resumen de cada capítulo
 
@@ -116,6 +125,21 @@ relaciones. Explica por qué nadie se lo ha dicho al lector. Delimita expresamen
 capítulo **no** dice: ni apartarse, ni delegar por confianza, ni necesitar tecnología.
 Entrega el Índice de Dependencia de la Persona Clave y cuatro acciones para la semana en curso.
 
+**Capítulo 9 (Etapa 3.8B). Capítulo insignia de la Parte II.** Responde a la pregunta con
+que cierra el 8 —cómo se explica lo que uno solo sabía reconocer cuando lo tenía delante— y la
+contesta desmontando primero el camino corto: la hoja en blanco con «explique su criterio» no
+produce nada, y no explicarlo en abstracto no significa no tenerlo. Enuncia el principio
+central —**el criterio no se explica, se reconstruye desde casos concretos**—, define criterio
+como propuesta propia del libro y lo separa de decisión, procedimiento, excepción y regla.
+Convierte el material acumulado en los capítulos 7 y 8 en **cinco preguntas** sobre un único
+caso: qué pasó, qué le hizo darse cuenta, típico o raro, en qué condiciones decidió y qué
+habría cambiado la decisión. Defiende la intuición en lugar de desacreditarla, y le exige
+seguir preguntando. Añade una **segunda capa dentro de la misma herramienta**: el criterio
+provisional, con el sitio donde deja de aplicarse y lo que todavía no se sabe explicar.
+Declara la autoentrevista como adaptación propia (V-57), y cierra separando representar de
+transferir (D-071). Tres fuentes externas: F-028, F-029 y F-033. Entrega la **herramienta 7**
+y el primer momento **M2** del plan de presencia editorial, en categoría B.
+
 ## 5. Procedimiento de actualización
 
 Después de cada bloque:
@@ -137,6 +161,7 @@ promesa. Un capítulo que no pueda rellenar esta fila vuelve a revisión.
 |---|---|---|
 | Introducción | Nada todavía; establece el contrato: qué se va a sacar, con qué método, con qué límites y cómo se comprobará. Enuncia las cuatro preguntas de la prueba. | Sí |
 | Capítulo 1 | Convierte la sensación de dependencia en una medida fechada y en un perfil por dimensiones; produce además una lista escrita de las diez dependencias de mayor impacto y un registro de interrupciones. | Sí |
+| Capítulo 9 | **Es el capítulo que más saca.** Convierte el porqué de una decisión —lo único que hasta aquí seguía existiendo solo dentro de una persona— en una hoja consultable con señales, condiciones y límites, más un criterio provisional escrito y sus huecos señalados. Y lo hace verificable de dos maneras honestas: con otra persona, comprobando qué falta en la representación; y en solitario, siguiendo el documento y marcando dónde no bastó. **Lo que expresamente no hace verificable: que el criterio esté transferido.** | Sí |
 
 ## 7. Cobertura de las dos rutas
 
@@ -147,3 +172,4 @@ cuando el mecanismo se manifieste de forma distinta en cada escala.
 |---|---|---|---|
 | Introducción | Sí, ejemplo de la empresa que se detiene por una autorización. | Sí, ejemplo de la consultora independiente. | Sí |
 | Capítulo 1 | Caso C-01, Elena, distribución regional. | Caso C-02, Andrés, servicios profesionales. | Sí |
+| Capítulo 9 | Pasaje sobre quién pregunta cuando hay alguien más, y **el ejemplo de la herramienta 7**, de ruta A y en logística. | **Caso principal C-06**, Rafael, comercio minorista, y el apartado sobre la autoentrevista. | Sí. El caso principal es de ruta B y la ruta A queda cubierta dentro del capítulo y en la herramienta, sin ningún ejemplo largo añadido. |

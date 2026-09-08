@@ -18,7 +18,7 @@ por último, **fijar los límites** de lo que puede delegarse.
 | 6 | Localizar la dependencia | L | Inventario del conocimiento crítico (3) | **borrador, revisado** |
 | 7 | El mapa de procesos, decisiones y relaciones | E | Mapa de decisiones (4) y mapa de relaciones críticas (5) | **borrador, revisado** |
 | 8 | Cómo documentar las excepciones | E | Registro de excepciones (6) | **borrador** |
-| 9 | El Manual de criterio | E | Plantilla del Manual de criterio | no iniciado |
+| 9 | El Manual de criterio | E | Plantilla del Manual de criterio (7) | **borrador** |
 | 10 | Lo que puede delegarse y lo que debe protegerse | G | Matriz de autoridad y aprobaciones | no iniciado |
 
 El índice completo, con la idea central y el presupuesto de palabras de cada capítulo, vive
@@ -48,6 +48,12 @@ El capítulo 8 **registra y todavía no explica**. Trabaja sobre las marcas «no
 es así, pero…» que dejó el 7, en dos fases: **primero el hecho, después el juicio**. Anota el
 motivo en una frase o escribe «motivo no conocido»; lo que necesite media página se aparta
 para el 9.
+
+El capítulo 9 **representa, y todavía no transfiere** (D-071). Toma las tres decisiones
+marcadas en el mapa, las excepciones que no cupieron en una frase y las frases en crudo del
+margen, y reconstruye el criterio desde casos concretos. No repite el inventario, ni las tres
+vistas, ni el registro de excepciones: los usa como materia prima. **Y no decide quién podrá
+usar ese criterio**, que es el capítulo 10.
 
 El capítulo 7 **sitúa y tampoco documenta**. Trabaja con **tres vistas y produce dos
 herramientas** (D-070): la vista del proceso real se traza dentro del capítulo y no es una de

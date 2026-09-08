@@ -37,10 +37,14 @@
 **Etapa 3.7 — Capítulo 8 y herramienta 6: COMPLETADA el 2026-09-07.**
 **Etapa 3.8A — Investigación Q-06 / Q-13 / Q-16 y preflight del capítulo 8: COMPLETADA el 2026-09-07.**
 **Etapa 3.8A.1 — Recuperación dirigida de fuentes y corrección del registro bibliográfico: COMPLETADA el 2026-09-07.**
+**Etapa 3.8B — Capítulo 9 y herramienta 7: COMPLETADA el 2026-09-08.**
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa. **El capítulo 9 no se ha
-escrito, la herramienta 7 no se ha creado y la Etapa 3.8B no se ha iniciado.** La
-investigación previa al capítulo 9 está cerrada y corregida.
+**Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
+insignia del libro. La Parte II va por 4 de 5.
+
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión del
+capítulo 9 y de la herramienta 7. **El capítulo 10 no se ha escrito y la Etapa 3.9 no se ha
+iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -253,7 +257,7 @@ por separado para que no haya confusión sobre el avance real.
 |---|---|
 | Fuentes verificadas | **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
-| Afirmaciones con fuente en el manuscrito | **9** |
+| Afirmaciones con fuente en el manuscrito | **15**. Seis nuevas en el capítulo 9: dos de F-028, tres de F-029 y una de F-033. |
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04). **Q-06** resuelta para los capítulos 2 y 9. **Q-13** resuelta en su parte conceptual. **Q-09** y **Q-16** resueltas parcialmente. **Q-19** diferida al capítulo 16. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
@@ -366,20 +370,24 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Revisar el capítulo 8 y la herramienta 6.** Es lo único que el autor ha pedido a
-   continuación. No se escribirá el capítulo 9 ni se iniciará la Etapa 3.8 sin nueva
+1. **Revisar el capítulo 9 y la herramienta 7.** Es lo único que el autor ha pedido a
+   continuación. No se escribirá el capítulo 10 ni se iniciará la Etapa 3.9 sin nueva
    autorización.
-2. **Q-06, Q-13 y Q-16 cerradas**, las tres antes del capítulo 9. Q-06 y Q-16 quedan
-   **resueltas con límites**; Q-13 en su parte conceptual, con el vacío de siempre: **nada
-   sobre trabajo por cuenta propia**. La limitación que sigue viva es **V-57**: la
-   autoentrevista no tiene respaldo metodológico y el capítulo 9 debe presentarla como diseño
-   propio. **V-58 se cerró porque su premisa era falsa** —F-028 sí tenía resumen— y en su lugar
-   queda **V-59**, mucho más estrecha: no atribuir a F-030 categorías que no se han leído.
-3. **Arquitectura del Manual de criterio cerrada en cinco campos**, frente a los nueve
-   provisionales: el caso, las señales, típico o raro, en qué condiciones se decidió, y qué
-   habría cambiado la decisión. Los cuatro primeros están respaldados; el quinto se declara
-   como diseño propio. **El campo «por qué» directo se elimina**, porque F-028 documenta una
-   familia entera de técnicas construida para no depender de esa pregunta.
+2. **La etapa E se cerró con una corrección de fondo del método (D-071).** Su criterio de paso
+   a G afirmaba que las dependencias «han dejado de ser exclusivamente personales», que es una
+   afirmación de **transferencia** al final de una etapa que solo **extrae**. Ahora E cubre
+   **detectar y representar**, y su criterio de paso mide la **calidad de la representación**
+   contra un caso real. Se suprimieron dos exigencias que no se sostenían: «sin recurrir a la
+   memoria», imposible de comprobar sobre uno mismo, y «produjo el mismo resultado», que dos
+   casos distintos no tienen por qué producir. **El nombre de la letra E no cambia.**
+3. **El Manual de criterio quedó en cinco campos**, frente a los nueve provisionales, con una
+   segunda capa dentro de la misma herramienta: el **criterio provisional**. Tres
+   sobreatribuciones de la investigación se corrigieron antes de escribir —lo que F-028 permite
+   decir sobre la pregunta «por qué», la falsa equivalencia entre alternativas y contrafactual,
+   y la condición «información disponible» atribuida a F-029 sin estar en la fuente—.
+4. **V-57 sigue abierta y así debe seguir.** La autoentrevista no tiene respaldo metodológico;
+   el capítulo 9 y la herramienta 7 la declaran como adaptación propia en tres sitios distintos.
+   **V-59 se respetó**: F-030 no se cita en el manuscrito.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que
    pida el capítulo.
