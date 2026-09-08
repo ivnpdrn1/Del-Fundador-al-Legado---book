@@ -44,13 +44,23 @@ Máximo tres apariciones por sector. Sin repetición en capítulos consecutivos.
 | Servicios profesionales | 1 | 1, 4, 20 | 1 |
 | Agricultura | 0 | 5, 21 | — |
 | Logística | 0 (una microescena sin nombre, cap. 6) | 6, 19 | — |
+| Mantenimiento | 0 (ejemplo de la herramienta 4) | 7 | — |
 | Construcción | 0 (una microescena sin nombre, cap. 7, **ruta B**) | 8, 23 | — |
-| Mantenimiento | 0 | 7 | — |
-| Construcción | 0 | 8, 23 | — |
 | Comercio minorista | 0 | 9, 22 | — |
 | Empresa familiar de alimentos | 0 | 10, 25 | — |
 | Servicios técnicos | 1 | **4**, 11, 24 | 4 |
-| Importación y distribución | 0 | 12, 14, 17 | — |
+| Importación y distribución | 0 (una microescena sin nombre, cap. 8) | 12, 14, 17 | — |
+
+**Nota de la Etapa 3.7.** La fila de *Construcción* aparecía **dos veces**: al anotar la
+microescena del capítulo 7 se insertó una fila nueva en lugar de actualizar la existente.
+Corregido.
+
+**Sectores de la Parte II, y por qué.** El capítulo 8 tenía asignada **construcción**, pero
+el 7 acababa de usarla en una microescena y la regla prohíbe repetir sector en capítulos
+consecutivos. Se usó **importación y distribución**, que era el único sector sin ninguna
+aparición. Los ejemplos de las herramientas van en sectores distintos entre sí y del
+capítulo: mantenimiento (4), alimentos (5) y agricultura (6, reutilizada desde el ejemplo de
+la herramienta 2, tres capítulos atrás).
 
 ## 4. Control de alternancia de género
 

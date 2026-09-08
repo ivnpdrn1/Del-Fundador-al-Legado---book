@@ -4,8 +4,8 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: 5 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
-la 5, con sus capítulos, en la Etapa 3. **Quedan trece**, y cada una se produce junto con su
+**Estado actual: 6 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
+la 6, con sus capítulos, en la Etapa 3. **Quedan doce**, y cada una se produce junto con su
 capítulo.
 
 **El capítulo 7 trabaja con tres vistas y produce dos herramientas** (D-070). La vista del
@@ -90,7 +90,7 @@ remite a un profesional y no fija ninguna cifra.
 | 3 | Inventario del conocimiento crítico **(redactada)** | `inventario-conocimiento-critico.md` | 6 | **L** | Localizar dónde está concentrada la dependencia y ordenarla por impacto, sin documentarla todavía. **Etapa corregida:** cierra L, no abre E. |
 | 4 | Mapa de decisiones **(redactada)** | `mapa-de-decisiones.md` | 7 | E | Localizar las decisiones escondidas en el trabajo diario y anotar, de cada una, cuándo aparece, qué se mira y **la etiqueta de su criterio en una frase**. No escribe el criterio completo, que es la herramienta 7, ni reparte autoridad, que es la 8. |
 | 5 | Mapa de relaciones críticas **(redactada)** | `mapa-relaciones-criticas.md` | 7 | E | Localizar qué parte del negocio se sostiene en un vínculo con alguien de fuera y cuánto pasa hoy por una sola persona. **No promete transferir la relación**: la confianza no se documenta. No es una agenda de contactos. |
-| 6 | Registro de excepciones | `registro-de-excepciones.md` | 8 | E | Convertir "en este caso hacemos algo distinto" en una regla escrita y revisable. |
+| 6 | Registro de excepciones **(redactada)** | `registro-de-excepciones.md` | 8 | E | Registrar los casos en que el negocio se aparta de su forma normal, **en dos fases: primero el hecho, después el juicio**. Admite «motivo no conocido» y clasifica en mantener, temporal, revisar o dejar de hacerse. No escribe el criterio completo, que es la 7, ni reparte autoridad, que es la 8. |
 | 7 | Plantilla del Manual de criterio | `manual-criterio-fundador.md` | 9 | E | Documentar el porqué de las decisiones, no solo el procedimiento. |
 | 8 | Matriz de autoridad y aprobaciones **(requiere decisión)** | `matriz-autoridad-aprobaciones.md` | 10 | G | Fijar límites de monto, alcance y firma para cada función. En un negocio de una sola persona, límites propios escritos. Ver `03-indice-maestro.md` §5.3. |
 | 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | G/A | Clasificar la información antes de conectar cualquier herramienta. |
