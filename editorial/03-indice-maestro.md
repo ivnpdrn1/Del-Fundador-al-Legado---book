@@ -96,7 +96,7 @@ lo que ningún competidor trata con esta profundidad.*
 |---|---|---|---|---|---|
 | 6 | Localizar la dependencia | L | Medir antes de actuar. Cómo hacer el recuento sin que se convierta en un juicio personal. | Inventario del conocimiento crítico | 2.100 |
 | 7 | El mapa de procesos, decisiones y relaciones | E | Documentar el proceso real, no el oficial. **Tres vistas distintas y complementarias** sobre los tres primeros elementos del inventario: proceso, decisión y relación. La del proceso se traza dentro del capítulo y **no es una de las 18 herramientas** (D-070). | Mapa de decisiones (4) y mapa de relaciones críticas (5) | 2.300 |
-| 8 | Cómo documentar las excepciones | E | La excepción no documentada es la principal fuente de dependencia y de riesgo. Registrar el motivo, la vigencia y el revisor. | Registro de excepciones | 2.000 |
+| 8 | Cómo documentar las excepciones | E | Existe una forma normal de trabajar y aparecen casos que obligan a apartarse de ella. **Cuando el motivo de ese apartamiento vive solo en una persona, ahí se concentra dependencia y riesgo**, justo donde el procedimiento normal deja de bastar. Una excepción puede ser una adaptación válida, una solución temporal, una costumbre heredada o un error: **primero se registra, después se juzga**. Registrar el motivo, la vigencia y el revisor. | Registro de excepciones | 2.000 |
 | 9 | El Manual de criterio | E | Documentar el porqué, no el cómo. Capítulo insignia del libro. | Plantilla del Manual de criterio | 2.400 |
 | 10 | Lo que puede delegarse y lo que debe protegerse | G | Clasificar decisiones por riesgo y reversibilidad. Fijar límites por escrito. | Matriz de autoridad y aprobaciones | 2.200 |
 

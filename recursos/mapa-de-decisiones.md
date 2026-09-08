@@ -6,12 +6,18 @@
 
 ## 1. Para qué sirve
 
-Para encontrar **las decisiones que están escondidas dentro del trabajo diario** y que hoy
-solo puede tomar una persona.
+Para encontrar **las decisiones que están escondidas dentro del trabajo diario** y cuya
+resolución depende hoy de una sola persona.
 
-Es la diferencia entre una tarea y una decisión. Una tarea se enseña una vez. Una decisión
-no se enseña enseñando los pasos: hace falta saber **qué se mira y con qué se resuelve**.
-Esta hoja localiza esas decisiones y deja escrito lo mínimo para poder trabajarlas después.
+Conviene decir qué mide y qué no mide. **Mide concentración, no capacidad.** Que una decisión
+vuelva una y otra vez a la misma persona no significa que nadie más sepa pensar: significa que hoy
+otra persona no tiene a mano el criterio, la historia, la información o el contexto para
+resolverla igual.
+
+Y distingue tarea de decisión, que no es lo mismo que fácil y difícil. **Una tarea exige
+saber qué hacer y cómo hacerlo. Una decisión exige, además, hacer visible qué se mira y con
+qué criterio se elige.** Esta hoja localiza esas decisiones y deja escrito lo mínimo para
+poder trabajarlas después.
 
 **Lo que no hace:**
 

@@ -33,6 +33,7 @@
 **Etapa 3.5 — Capítulo 6 y herramienta 3: COMPLETADA el 2026-09-07. PARTE II abierta.**
 **Etapa 3.5.1 — Control metodológico del capítulo 6: COMPLETADA el 2026-09-07.**
 **Etapa 3.6 — Capítulo 7 y herramientas 4 y 5: COMPLETADA el 2026-09-07. Etapa E abierta.**
+**Etapa 3.6.1 — Control conceptual del capítulo 7: COMPLETADA el 2026-09-07.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
 del capítulo 7 y de las herramientas 4 y 5. **El capítulo 8 no se ha escrito y la Etapa 3.7
@@ -229,12 +230,12 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Capítulo 4 | **Escrito y revisado**, 2.163 palabras (objetivo 1.900) |
 | Capítulo 5 | **Escrito y revisado**, 1.989 palabras (objetivo 2.000) |
 | Capítulo 6 | **Escrito y revisado**, 2.141 palabras (objetivo 2.100) |
-| Capítulo 7 | **Escrito**, 2.221 palabras (objetivo 2.300) |
+| Capítulo 7 | **Escrito y revisado**, 2.411 palabras (objetivo 2.300) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **18.242** |
+| Palabras del manuscrito | **18.432** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 34,2 % |
-| Recursos terminados | **5 de 18** (8.288 palabras, no computan en el manuscrito). Quedan trece. |
+| Avance sobre el objetivo | 34,6 % |
+| Recursos terminados | **5 de 18** (8.345 palabras, no computan en el manuscrito). Quedan trece. |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
 | Decisiones registradas | 70, de las cuales 2 reemplazadas y conservadas |

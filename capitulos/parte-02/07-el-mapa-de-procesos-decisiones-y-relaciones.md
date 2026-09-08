@@ -4,7 +4,7 @@ parte: 2
 titulo: "El mapa de procesos, decisiones y relaciones"
 etapa_metodo: "E"
 estado: borrador
-palabras: 2221
+palabras: 2411
 casos_usados: []
 recursos_producidos: ["mapa-de-decisiones.md", "mapa-relaciones-criticas.md"]
 afirmaciones_por_verificar: []
@@ -19,17 +19,19 @@ Cada uno de ellos parece una cosa suelta: «las condiciones especiales de tres c
 «cuándo se adelanta un pedido», «el acuerdo con el proveedor antiguo». Escritos así, en una
 línea, no se pueden traspasar a nadie. Falta lo que los rodea.
 
-Porque una dependencia no vive sola. Vive **en un momento del trabajo**, obliga a **tomar
-alguna decisión** y a veces está sostenida por **una relación con alguien**. Son tres
-maneras de mirar el mismo elemento, y cada una enseña algo que las otras dos no enseñan.
+Porque una dependencia no vive sola. Puede **hacerse visible en un momento del trabajo**,
+puede **contener o exigir una decisión** y puede **sostenerse en una relación con alguien**.
+Ninguna de las tres es obligatoria: hay elementos que piden las tres, otros que piden dos y
+otros que se entienden con una. Son tres maneras de mirar el mismo elemento, y cada una
+enseña algo que las otras dos no enseñan.
 
 Eso es lo que hacemos aquí: tres vistas del mismo material.
 
 Y conviene decir qué acaba de cambiar, porque el capítulo anterior cerró una etapa y este
 abre otra. Hasta aquí el trabajo era **localizar**: saber cuánto, saber qué y saber dónde
 está. A partir de ahora es **extraer**: sacar de una sola persona lo que hoy solo existe
-ahí. Los cuatro capítulos que vienen hacen esa faena, y este es el que la prepara, porque
-no se puede sacar algo de un sitio sin haber visto antes en qué sitio está metido.
+ahí. Los capítulos que siguen completan ese trabajo, y este es el que lo prepara, porque no
+se puede sacar algo de un sitio sin haber visto antes en qué sitio está metido.
 
 ## Tres vistas, y por qué no son tres listas
 
@@ -56,10 +58,16 @@ dos y se puede hacer en una línea.
 Aquí hay una trampa, y es fácil caer en ella si uno ha visto alguna vez un manual de
 calidad: sentarse a dibujar **cómo debería funcionar** el trabajo. Esa no es la pregunta.
 
-> **Principio central.** El proceso oficial dice cómo debería hacerse. El proceso real dice
-> qué ocurre de verdad, con sus atajos, sus llamadas y sus vueltas atrás. **La dependencia
-> vive en el segundo**, porque es ahí donde alguien tiene que poner algo que no está
-> escrito. Si dibuja el primero, va a dibujar un trabajo que no existe.
+> **Principio central.** El proceso oficial dice cómo está previsto trabajar. El proceso
+> real dice cómo se trabaja de hecho. **Hay que mirar el real, porque contiene las dos
+> cosas**: lo previsto que efectivamente ocurre y lo que ocurre fuera de lo previsto. Si
+> mira solo el oficial, verá lo segundo únicamente cuando alguien se lo cuente.
+
+Y una precisión que evita un malentendido: **la dependencia puede estar perfectamente dentro
+del proceso oficial.** Un procedimiento escrito puede exigir su aprobación en un punto, y eso
+es dependencia, está por escrito y nadie se ha saltado nada. Los dos procesos pueden además
+parecerse mucho; la diferencia entre ellos, cuando la hay, es información, pero no hay que
+darla por supuesta.
 
 Trazarlo no requiere ningún diagrama ni ninguna técnica. Cinco preguntas y una línea:
 
@@ -74,8 +82,11 @@ Y hay que dejarse las cosas feas dentro, que son las que importan. Al trazarlo a
 un atajo que nadie ha aprobado nunca pero que funciona, una consulta rápida en mitad del
 paso tres, una vuelta atrás porque faltaba un dato que se pide siempre tarde, una llamada
 para confirmar algo que en teoría no hay que confirmar, una aprobación que se da de palabra.
-Todo eso forma parte del proceso real y **es precisamente donde se ve la dependencia**. Un
-diagrama limpio no sirve para este trabajo: el trabajo consiste en dibujar lo sucio.
+Todo eso forma parte del proceso real y **es donde la dependencia se deja ver con más
+facilidad**. El problema no es que un dibujo quede ordenado: puede quedar clarísimo y seguir
+siendo útil. El problema es un dibujo que **limpia la realidad**, que borra la consulta, el
+retorno y el atajo porque afean el esquema. Ordenado, todo lo que quiera. Pero con las
+consultas dentro.
 
 Y se escribe así, en una línea:
 
@@ -97,13 +108,14 @@ detenerse ahí es la manera de no terminar ninguna de las dos cosas.
 
 ## Vista 2 — La decisión escondida dentro
 
-Mire el punto donde el proceso se detiene. Muchas veces lo que hay ahí no es una tarea
-difícil, sino **una decisión que nadie más sabe tomar**, y conviene distinguirlo porque no
-se resuelven igual.
+Mire el punto donde el proceso se detiene. Muchas veces lo que hay ahí no es una tarea, sino
+**una decisión que hoy vuelve una y otra vez a la misma persona**, y conviene distinguirlo porque no
+se traspasan igual.
 
-Es una distinción que cambia el trabajo. Si lo que falta es una tarea, se enseña una vez y
-se acabó. Si lo que falta es una decisión, no basta con enseñar los pasos: hay que hacer
-visible **qué se mira y con qué se resuelve**. Y eso empieza aquí.
+La diferencia no es que una sea fácil y otra difícil; una tarea puede costar años de
+práctica. Es otra: **una tarea exige saber qué hacer y cómo hacerlo. Una decisión exige,
+además, hacer visible qué se mira y con qué criterio se elige entre las opciones.** Ese
+segundo trabajo es el que empieza aquí.
 
 En esta vista se registra poco y muy concreto: cuándo aparece la decisión, qué hay que
 decidir, qué información se mira para decidirlo, qué criterio parece intervenir —en una
@@ -237,6 +249,12 @@ Al trazar el proceso real habrá visto una cosa incómoda: el trabajo no sigue l
 que usted habría dibujado. Se sale de ella cada poco. Y algunas de esas salidas no son
 descuidos: son decisiones que alguien tomó porque en ese momento convenía.
 
-Esas salidas tienen nombre. Son las excepciones, y son a la vez lo que hace que el negocio
-funcione bien y la principal razón de que nadie más pueda llevarlo. Las tiene ya marcadas al
-margen. Es lo que veremos a continuación.
+Esas salidas tienen nombre: son las excepciones. Y todavía no sabemos cuáles son buenas.
+Algunas serán adaptaciones deliberadas que conviene conservar; otras, soluciones temporales
+que se quedaron; otras, costumbres heredadas que ya nadie sabe por qué existen; y alguna,
+sencillamente, un error que lleva años repitiéndose.
+
+Lo que sí puede decirse es esto: **cuando el motivo de una excepción vive solo en una
+persona, ahí se concentra dependencia**, justo en los casos en que el modo normal de trabajar
+deja de servir. Las tiene ya marcadas al margen. Antes de juzgar ninguna hay que registrarlas,
+y es lo que veremos a continuación.

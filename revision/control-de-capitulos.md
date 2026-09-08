@@ -2,10 +2,10 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-07: 8 de 27 piezas escritas. 18.242 palabras.**
+**Estado del manuscrito a 2026-09-07: 8 de 27 piezas escritas. 18.432 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II iniciada:** capítulo 6.
 **Piezas = 25 capítulos numerados + introducción + conclusión** (`03-indice-maestro.md` §0).
-**Recursos: 5 de 18 redactados (8.288 palabras en total; no computan en el manuscrito).**
+**Recursos: 5 de 18 redactados (8.345 palabras en total; no computan en el manuscrito).**
 
 Cifras posteriores a la **revisión conceptual 2.2** del 2026-09-07, que amplió el público
 del libro (D-021). Los objetivos de la introducción y del capítulo 1 se ajustaron en la
@@ -29,7 +29,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 4 | El costo de una ausencia inesperada | I | — | **borrador, revisado (3.3.1)** | **2.163** | 1.900 | Cálculo del impacto de una semana de ausencia (dentro del capítulo; no es una de las 18 herramientas) | C-05 | 0 |
 | 5 | Retirarse no significa abandonar | I | — | **borrador, revisado (3.4B.1)** | **1.989** | 2.000 | Cuestionario de preparación para elegir su participación (herramienta 2 de 18) | — (dos microescenas sin nombre) | 0 |
 | 6 | Localizar la dependencia | II | L | **borrador, revisado (3.5.1)** | **2.141** | 2.100 | Inventario del conocimiento crítico (herramienta 3 de 18) | — (una microescena sin nombre) | 0 |
-| 7 | El mapa de procesos, decisiones y relaciones | II | E | **borrador** | **2.221** | 2.300 | Mapa de decisiones (4) y mapa de relaciones críticas (5) | — (una microescena sin nombre) | 0 |
+| 7 | El mapa de procesos, decisiones y relaciones | II | E | **borrador, revisado (3.6.1)** | **2.411** | 2.300 | Mapa de decisiones (4) y mapa de relaciones críticas (5) | — (una microescena sin nombre) | 0 |
 | 8 | Cómo documentar las excepciones | II | E | no iniciado | 0 | 2.000 | — | — | — |
 | 9 | El Manual de criterio | II | E | no iniciado | 0 | 2.400 | — | — | — |
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | G | no iniciado | 0 | 2.200 | — | — | — |
@@ -58,16 +58,16 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 |---|---|---|---|---|
 | Introducción | 1 | 2.700 | **2.838** | completa |
 | I | 5 | 10.400 | **11.042** | **completa** |
-| II | 5 | 11.000 | **4.362** | 2 de 5 |
+| II | 5 | 11.000 | **4.552** | 2 de 5 |
 | III | 6 | 12.900 | 0 | — |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **18.242** | **34,2 % del objetivo** |
+| **Total** | **27** | **53.300** | **18.432** | **34,6 % del objetivo** |
 
-**Desviaciones, revisadas el 2026-09-07.** Las ocho piezas escritas suman 18.242 palabras
-frente a un objetivo acumulado de 15.400 para esas mismas piezas: **un 18 % por encima**.
-La desviación baja respecto de la medición anterior, porque los capítulos 6 y 7 salieron
-dentro de su objetivo.
+**Desviaciones, revisadas el 2026-09-07.** Las ocho piezas escritas suman 18.432 palabras
+frente a un objetivo acumulado de 15.400 para esas mismas piezas: **un 20 % por encima**.
+Los capítulos 6 y 7 salieron dentro de su objetivo; el exceso acumulado sigue viniendo de la
+introducción y del capítulo 1, fijados antes de D-030.
 Pieza a pieza, ninguna excede el 15 % de D-030 —la mayor desviación individual es el
 capítulo 2, con un 8 %—, pero **la suma sí se aleja**, y conviene mirarla al cerrar la
 Parte II. La causa no es la ampliación a dos rutas, que está contenida, sino que la
@@ -85,7 +85,7 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 |---|---|---|---|---|
 | Contexto previo | 3, 4, 5 | 5.700 | **6.127** | **completa** |
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
-| E | 2, 7, 8, 9 | 8.700 | **4.383** | 2 de 4 |
+| E | 2, 7, 8, 9 | 8.700 | **4.573** | 2 de 4 |
 | G | 10 | 2.200 | 0 | — |
 | A | 11–16 | 12.900 | 0 |
 | D | 17, 18, 21, 23, 24 | 10.900 | 0 |
