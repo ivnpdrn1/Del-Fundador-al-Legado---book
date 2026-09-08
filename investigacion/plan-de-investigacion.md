@@ -62,7 +62,7 @@ con solidez sin resolverla.
 | Q-03 | ¿Qué marcos reconocidos existen sobre continuidad del negocio y gestión de riesgos operativos? | 4, 16 | Alta | **Resuelta 2026-09-06.** F-005, F-006, F-011. |
 | Q-04 | ¿Qué marcos existen sobre gestión de riesgos de la inteligencia artificial y qué recomiendan sobre supervisión humana? | 12, 15, 16 | Alta | **Resuelta 2026-09-06.** F-007, F-008, F-009, F-010. Coinciden con las reglas 4 y 5 del método (D-020). |
 | Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | Sin iniciar. Prioridad alta por D-014. |
-| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **Resuelta también para el capítulo 9 el 2026-09-07 (Etapa 3.8A)**, con límites: ver «Q-06 · Q-13 · Q-16 — Resultado conjunto» al final de este documento. Antes: **resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. **Sigue abierta para el capítulo 9**, donde hará falta literatura sobre métodos de externalización del criterio, no solo sobre el diagnóstico. **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
+| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **RESUELTA, para el capítulo 2 y para el capítulo 9. Cerrada el 2026-09-07 (Etapa 3.8A.1).** Ver «Q-06 · Q-13 · Q-16 — Resultado conjunto» al final de este documento. Antes: **resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. La parte que quedaba abierta —métodos de externalización del criterio, no solo diagnóstico— **se cerró en la Etapa 3.8A.1** con las tres categorías de técnicas de F-028, leídas en el resumen del propio artículo. **No queda ninguna parte de Q-06 abierta.** **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE.** Etapa 3.4A: seis fuentes, F-018 a F-023. **Ampliación dirigida a la ruta B en la Etapa 3.4A.1:** tres fuentes más, F-024 a F-026, una de ellas **leída íntegra**. Resultados completos al final de este documento. **Sigue abierta para el capítulo 22** y por el vacío de evidencia hispanohablante (V-56B), que no se ha podido cerrar. |
@@ -82,7 +82,7 @@ frecuencia (regla V-41).
 | Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | **RESUELTA en su parte conceptual el 2026-09-07 (Etapa 3.8A)** con F-029 (Eraut). **Vacío que permanece:** ninguna literatura localizada sobre el trabajo por cuenta propia o de una sola persona. Resultado completo al final de este documento. Antes: **Corrección del 2026-09-07:** el informe de la Etapa 3.3 la dio por pertinente para el capítulo 5, y no lo es; sus capítulos son el 2 y el 9. El 2 ya está escrito y se cerró con Q-06, de modo que **su plazo real es antes del capítulo 9**. |
 | Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
 | Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
-| Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **EJECUTADA y RESUELTA PARCIALMENTE el 2026-09-07 (Etapa 3.8A)**: F-027, F-030, F-031 y F-032. **Sigue abierta** porque no se pudo leer F-028, la revisión metodológica central, ni obtener las categorías de F-030. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Sigue viva y con plazo real **antes del capítulo 9**, donde sí hará falta literatura sobre métodos de externalización. Sin iniciar |
+| Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **RESUELTA con límites el 2026-09-07 (Etapa 3.8A.1)**: F-027, F-028, F-030, F-031, F-032 y F-033. **Corrige el estado de la Etapa 3.8A**, que la dejó parcialmente resuelta por no haber podido leer F-028: el resumen íntegro de F-028 sí se obtuvo después, y con él las tres categorías de técnicas que faltaban. **Límite que permanece:** ningún texto completo, de modo que el libro puede nombrar las tres categorías pero no sus subtipos ni la comparación empírica entre técnicas. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Su plazo real era **antes del capítulo 9**, y se cumplió. |
 | Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | Sin iniciar. Parcialmente cubierta por F-007 y F-010. |
 | Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | Sin iniciar. Se fusiona en la práctica con Q-05. |
 | Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **Permanece abierta para el capítulo 16**, o para el momento en que la propiedad del conocimiento codificado sea materialmente necesaria. Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
@@ -153,12 +153,14 @@ capítulos están lejos y no señalaba la que hace falta ahora.
 | Cuándo | Pregunta | Por qué entonces |
 |---|---|---|
 | **Antes del capítulo 5** | **Q-09** | Es la única temáticamente pertinente: retiro de personas propietarias y su dimensión no financiera. Sube a prioridad alta. |
-| Antes del capítulo 9 | **Q-06** (parte abierta) y **Q-13** | El 9 es el capítulo del Manual de criterio, donde hará falta literatura sobre métodos de externalización, y donde Q-13 aporta la escala individual. |
+| ~~Antes del capítulo 9~~ **Ejecutada** | **Q-06** (parte abierta), **Q-13** y **Q-16** | El 9 es el capítulo del Manual de criterio, donde hacía falta literatura sobre métodos de externalización, y donde Q-13 aporta la escala individual. **Q-16 no figuraba en esta tabla y tenía el mismo plazo; se añade aquí para que la tabla no vuelva a omitirla.** Las tres se ejecutaron en la Etapa 3.8A y se cerraron en la 3.8A.1. |
 | Antes de los capítulos 11 y 16 | **Q-05** y **Q-18** | Privacidad y terceros no son materialmente relevantes hasta ahí. **No se adelantan por arrastre administrativo.** |
 | Antes del capítulo 22 | **Q-09** (segunda parte, si hiciera falta) | Segundo capítulo asignado a esa pregunta. |
 
-**Q-06 quedó resuelta para el capítulo 2** el 2026-09-07 y sigue abierta para el capítulo 9.
-Ninguna pregunta se ha eliminado ni ha bajado de prioridad.
+**Q-06, Q-13 y Q-16 quedaron cerradas el 2026-09-07**, las tres antes de escribir el capítulo 9,
+que es lo que exigía el principio de calendario enunciado arriba. **Q-19 se difirió al capítulo
+16** tras comprobar que el capítulo 9 no la necesita. Ninguna pregunta se ha eliminado ni ha
+bajado de prioridad.
 
 **Investigación de producto, separada.** Desde la Etapa 2.5 existe un backlog de
 investigación de producto y de categorías competidoras en
@@ -452,27 +454,41 @@ visible el razonamiento que una persona usa para decidir.** Siete fuentes regist
 
 ### 1. La limitación que condiciona todo lo demás
 
-**Cero textos completos en esta tanda.** Se intentaron todas las vías: páginas de editor,
-Crossref, OpenAlex, repositorios institucionales de Southampton, UWE, EPFL y HAL, figshare y
-el repositorio del Departamento de Defensa estadounidense. Todos devolvieron error o
-protección contra rastreo. De las siete fuentes:
+**Cero textos completos en esta tanda**, y eso no ha cambiado. Lo que sí cambió en la Etapa
+3.8A.1 es **cuánto se llegó a leer de cada uno**. La primera tanda se detuvo en las páginas de
+editor y en los repositorios que devuelven error; la recuperación dirigida usó otras vías
+—depósitos Crossref del propio editor, portales institucionales de investigación y una copia
+académica del original— y **subió tres fuentes de nivel y corrigió una autoría**.
 
-| Nivel de lectura | Fuentes |
-|---|---|
-| **Resumen verbatim en portal del editor** | F-030 |
-| **Resumen del registro bibliográfico** | F-027, F-029, F-031, F-032, F-033 |
-| **Solo identidad bibliográfica, sin contenido** | **F-028** |
+| Nivel de lectura | Etapa 3.8A | **Etapa 3.8A.1 (vigente)** |
+|---|---|---|
+| **Original leído en parte** | — | **F-031** (facsímil escaneado del MIT: portada, palabras clave y el apartado del método; **no** la evaluación) |
+| **Resumen íntegro verbatim depositado por el editor** | — | **F-029** (Wiley), **F-033** (Wiley) |
+| **Resumen verbatim en portal institucional** | F-030 | F-030 (ASU), **F-028** (Bond University) |
+| **Resumen de registro agregado** | F-027, F-029, F-031, F-032, F-033 | F-027, F-032 |
+| **Solo identidad bibliográfica** | **F-028** | — |
 
-Es la segunda tanda seguida con este problema: Q-09 consiguió un texto completo de nueve, y
-esta, ninguno de siete. **Ninguna afirmación del capítulo 9 puede ir más allá del resumen que
-consta en la fila de cada fuente**, y F-028 **no puede citarse en absoluto**.
+**La corrección que más importa: F-028 ya no es inutilizable.** La Etapa 3.8A la registró como
+identidad sin contenido y prohibió citarla; su resumen íntegro se obtuvo después en el portal
+de investigación de Bond University. Junto a ella, **la autoría de F-032 estaba mal**: no es de
+un solo autor.
+
+Sigue en pie el límite de fondo, y con la misma fuerza: **ninguna afirmación del capítulo 9
+puede ir más allá de lo que consta en la fila de cada fuente.** De F-028 se puede usar su
+resumen y nada más; de F-031, el método y no la evaluación.
 
 ### 2. El hallazgo que más afecta al libro
 
-**Casi toda esta literatura supone un entrevistador.** El método del incidente crítico
-(F-027) consiste en que alguien sondee a un experto; ACTA (F-031) son «tres métodos de
-entrevista»; la revisión de Cooke (F-030) recorre técnicas de elicitación, que por definición
-implican a quien elicita.
+**Las cuatro fuentes de método localizadas suponen un entrevistador, sin excepción.** El
+método del incidente crítico (F-027) consiste en que alguien sondee a un experto; ACTA (F-031)
+son tres entrevistas, comprobado en el original; la revisión de Cooke (F-030) recorre técnicas
+de elicitación, que por definición implican a quien elicita. **Añadido en la Etapa 3.8A.1:**
+las tres familias de F-028 —analizar las tareas del experto, entrevistarlo, ponerle tareas
+construidas— **también las administra alguien**, incluida la tercera, que evita preguntar pero
+no evita al examinador.
+
+Es una afirmación acotada y comprobable: **no dice que no exista literatura de autoelicitación,
+dice que no se ha encontrado ninguna.**
 
 Eso choca de frente con la ruta B, y no se puede disimular: **la literatura localizada no
 ofrece respaldo para la autoentrevista.** Un profesional que trabaja solo no tiene
@@ -487,10 +503,26 @@ gestión, educación, orientación, ciencia cognitiva, lingüística, filosofía
 conocimiento y antropología— y organizable por semejanza metodológica, con fortalezas y
 debilidades por categoría.
 
-**Lo que no se pudo obtener:** cuáles son esas categorías. El resumen de F-030 no las nombra
-y el texto no se abrió. **El libro no puede presentar ninguna taxonomía de técnicas.**
+**Actualización de la Etapa 3.8A.1: las categorías sí se obtuvieron, pero de otra fuente.** El
+resumen de F-030 sigue sin nombrarlas. Las que el libro puede nombrar son las de **F-028**, y
+son **tres**: análisis de las tareas que el experto realiza habitualmente; entrevistas de
+varios tipos; y **tareas construidas que revelan el razonamiento del experto sin preguntarle
+por ese razonamiento**.
 
-Lo que sí se puede sostener es más modesto y más útil: **no existe un método universal**, y
+Esa tercera categoría es la que más dice, porque explica por qué existe el resto: hay un modo
+entero de elicitación que **evita la pregunta directa**. Es exactamente el motivo de la clase D
+del apartado 6, y ahora tiene fuente en lugar de razonamiento propio.
+
+**Dos cautelas obligatorias.** Primera: los autores las presentan «for discussion purposes», así
+que **el libro debe decir que es una agrupación expositiva, no una clasificación cerrada**.
+Segunda: **los subtipos no se han leído**, de modo que se pueden nombrar las tres familias y
+nada por debajo de ellas.
+
+Lo que se sostiene además es más modesto y más útil: **ninguna de las fuentes leídas ofrece un
+método universal**, y dos de ellas explican por qué —F-030 describe el campo como «widely
+scattered» entre nueve disciplinas, y F-028 dice que, dada esa diversidad, «it is difficult to
+make the literature cohere around a methodological theme»—. **No se afirma que ese método no
+exista; se afirma que la literatura localizada no lo ofrece.** Y
 **existe precedente de simplificar métodos expertos para quien no lo es** (F-031, que se
 define a sí mismo como *streamlined* y motivado por la poca accesibilidad de la técnica
 completa). Eso legitima lo que hace el libro sin exagerarlo.
@@ -518,16 +550,37 @@ Tres consecuencias para el libro:
   conformidad**. Dos personas del mismo negocio pueden no converger en el mismo criterio solo
   por trabajar allí. **Documentar no es, por sí solo, uniformar.**
 
+**Añadido en la Etapa 3.8A.1, del resumen verbatim del editor.** Eraut señala que el
+conocimiento tácito es problemático «with respect to both **detecting it and representing it**».
+Son dos problemas distintos, y el capítulo 9 debe tratarlos como tales: **encontrar el criterio
+y escribirlo no son el mismo paso**, y una herramienta puede resolver el primero y fallar en el
+segundo. Segundo añadido: donde domina la acción rápida, «**periods of deliberation are needed
+to maintain critical control**». Eso respalda con fuente algo que el Manual de criterio necesita
+—que el criterio se revisa en frío, no en caliente—, y es exactamente la fase 2 que el capítulo
+8 ya introdujo para las excepciones. Tercero: el autor advierte que la importancia del
+aprendizaje deliberativo «**is commonly overemphasised**», lo que obliga al libro a **no
+presentar el Manual de criterio como si capturara todo el aprendizaje** de una persona.
+
 **Vacío que queda:** F-029 es trabajo profesional en general. **Sigue sin haber literatura
 localizada sobre el trabajo por cuenta propia o de una sola persona.** No se fuerza.
 
 ### 5. Q-16 — marcos y evidencia
 
-**RESUELTA PARCIALMENTE.** Se localizaron cuatro piezas del mapa: un método de elicitación
-por incidentes (F-027), una revisión de técnicas (F-030), un método simplificado para
-practicantes (F-031) y una revisión crítica de la propia idea de codificar (F-032). **Sigue
-abierta** porque la revisión metodológica central, F-028, no pudo leerse, y porque de F-030
-no se obtuvieron las categorías.
+**RESUELTA con límites en la Etapa 3.8A.1.** Se localizaron **seis** piezas del mapa: un método
+de elicitación por incidentes (F-027), la revisión metodológica que agrupa las técnicas en tres
+familias (F-028), una revisión de técnicas que documenta lo disperso del campo (F-030), un
+método simplificado para practicantes (F-031), una revisión crítica de la propia idea de
+codificar (F-032) y una revisión sistemática de pymes que advierte contra tratar el
+conocimiento como activo separable (F-033).
+
+**Qué cambió respecto de la Etapa 3.8A.** Aquella la dejó parcialmente resuelta por dos
+motivos, y uno de los dos ha caído: **F-028 sí pudo leerse en resumen**, y con ella llegaron
+las categorías que faltaban. El segundo motivo sigue en pie: **de F-030 no se obtuvieron sus
+categorías**, y no se obtendrán sin abrir el texto.
+
+**Los límites, enunciados sin rodeos.** Tres familias sí; subtipos no. Existencia de evaluación
+empírica comparada sí —F-028 dice que la hay—; **qué concluye esa evaluación, no**. Y ninguna
+de las seis fuentes ha sido leída íntegra.
 
 ### 6. Los métodos, uno por uno
 
@@ -536,12 +589,14 @@ no se obtuvieron las categorías.
 | **Incidente concreto** —«cuénteme una ocasión»— | **A.** Es el núcleo de F-027, que extiende la técnica del incidente crítico. |
 | **Señales / cues** | **A.** F-027 elicita expresamente *decision cues* y *discriminaciones perceptivas*. F-029 hace de «leer la situación» un proceso propio. |
 | **Juicio de tipicidad** —caso típico frente a raro— | **A.** F-027 lo nombra entre las dimensiones que extrae. |
-| **Sondeos dirigidos sobre el episodio** | **A.** F-027, con la salvedad de que los sondeos concretos no se han leído. |
+| **Sondeos dirigidos sobre el episodio** | **A.** F-027, con la salvedad de que sus sondeos concretos no se han leído. **Reforzado en la Etapa 3.8A.1:** F-031 muestra en el original un juego de sondeos escrito y publicado —la *knowledge audit*, con sondeos básicos y opcionales—, de modo que **la idea de trabajar con preguntas fijadas de antemano está documentada**, aunque las preguntas concretas de este libro sean suyas. |
 | **Reconstrucción temporal del episodio** | **B.** Compatible con un método de incidentes; no confirmado en lo leído. |
 | **Alternativas consideradas** | **B.** Compatible; no confirmado. |
 | **Pregunta de contraste** —«qué habría cambiado su decisión»— | **C. Diseño propio.** Es plausible y coherente con la elicitación por incidentes, pero **no se ha verificado en ninguna fuente leída**, y el libro debe presentarla como suya. |
 | **Escenario contrafactual** | **C.** Igual que la anterior. |
-| **Pregunta abstracta directa** —«¿por qué decide así?»— | **D.** Ninguna fuente leída la respalda como método suficiente; todo el aparato de elicitación existe precisamente porque hace falta algo más. **No afirmar que no funcione**: afirmar que la literatura construyó alternativas. |
+| **Pregunta abstracta directa** —«¿por qué decide así?»— | **D, y ahora con fuente expresa.** F-028 describe una familia entera de técnicas definida por **revelar el razonamiento «without necessarily asking about these processes»**: la literatura construyó alternativas precisamente para no depender de la pregunta directa. **Sigue sin poder afirmarse que no funcione**; lo que sí puede afirmarse es que el campo no se conformó con ella. |
+| **Descomponer la tarea antes de entrevistar** | **A, nuevo en la Etapa 3.8A.1.** F-031, leída en el original: la *task diagram interview* descompone la tarea en «less than six, but more than three steps» y solo después pregunta cuáles exigen destreza cognitiva difícil. **Respalda empezar por un mapa grueso y estrechar después**, que es lo que ya hacen los capítulos 6 y 7. |
+| **Consolidar lo extraído en una sola tabla** | **A, nuevo en la Etapa 3.8A.1.** F-031 cierra sus tres entrevistas con una *cognitive demands table* «offered as a means to consolidate and synthesize the data». **Respalda que el Manual de criterio sea una tabla y no un relato.** |
 | **Observación y pensar en voz alta** | **Sin evaluar.** No se localizó respaldo en lo leído; no entra. |
 | **Autoentrevista** | **C, y es el punto débil.** Ver apartado 2. |
 
@@ -562,9 +617,12 @@ Esta era la pregunta doctrinal importante, y la respuesta es que **sí**.
 - **F-032** es literalmente una guía escéptica sobre el uso de «conocimiento tácito» y
   «codificación» en economía, y propone reconceptualizarlos. Es decir: la frontera entre lo
   tácito y lo codificado **es objeto de discusión, no un hecho asentado**.
-- **F-033**, revisión sistemática de pymes, concluye que las características del conocimiento
-  en las pequeñas empresas **se resisten a conceptualizarse como activos separables y
-  materiales**.
+- **F-033**, revisión sistemática de pymes, concluye —ahora con el resumen verbatim del propio
+  editor a la vista— que la investigación ha venido tratando ese conocimiento «**as an asset
+  that is transferred by routines**», y que las cualidades relacionales e insertas que lo
+  caracterizan en las pymes son «**qualities that resist conceptualization as some form of
+  separable, material asset**». Es decir: la propia literatura señala como problema justo el
+  supuesto sobre el que descansaría una promesa de clonación.
 - **F-029** sitúa parte del conocimiento profesional en acciones rutinizadas y en modos
   intuitivos que dependen del tiempo y de la experiencia.
 
@@ -589,12 +647,50 @@ documenta— **queda reforzada por evidencia externa**, no solo por prudencia de
 | **Excepciones** | **C** | Viene del capítulo 8, no de la literatura |
 | **Cuándo detenerse y preguntar** | **C** | Diseño propio |
 | **Registrar la incertidumbre** y el «no sé explicarlo todavía» | **C** | Coherente con F-029, que admite conocimiento no verbalizable, pero el campo es del libro |
-| **Nueve campos** | **D** | Demasiados. F-031 respalda **simplificar**, no ampliar. Buscar una versión de cuatro o cinco. |
+| **Nueve campos** | **D** | Demasiados. F-031 respalda **simplificar**, no ampliar. Resuelto abajo: **cinco**. |
 
 **Sobre las condiciones:** F-029 obliga a añadir algo que no estaba en la arquitectura
 provisional. Como el modo cognitivo depende del tiempo disponible, **conviene registrar en
 qué condiciones se decidió** —con prisa o con calma, con información completa o incompleta—.
 Sin eso, el criterio escrito describe un caso que quizá no se repita.
+
+#### Recomendación cerrada: cinco campos
+
+La arquitectura provisional tenía nueve campos y la evidencia empujaba en dirección contraria.
+F-031 existe **porque** el método completo era demasiado costoso para quien no es especialista,
+y su propia descripción se llama a sí misma *streamlined*. Un formulario que nadie rellena dos
+veces no documenta nada. Esta es la versión recomendada para el capítulo 9:
+
+| # | Campo | Clase | De dónde sale |
+|---|---|---|---|
+| 1 | **El caso**: qué pasó, cuándo, y qué se hizo | **A** | F-027 y F-028 sitúan el incidente concreto en el centro; F-031 empieza descomponiendo una tarea real |
+| 2 | **Qué me hizo darme cuenta**: las señales | **A** | F-027 elicita *decision cues* y discriminaciones perceptivas; F-029 hace de «leer la situación» un proceso propio; F-031 audita destrezas perceptivas y reconocimiento de anomalías |
+| 3 | **Si fue un caso típico o raro** | **A** | F-027 nombra el juicio de tipicidad entre las dimensiones que extrae |
+| 4 | **En qué condiciones decidí**: con prisa o con calma, con información completa o incompleta | **A** | F-029: el modo cognitivo depende del tiempo, la experiencia y la complejidad |
+| 5 | **Qué habría cambiado mi decisión** | **C, diseño propio** | Coherente con la elicitación por incidentes, **no verificada en ninguna fuente leída**, y el capítulo debe declararla como propuesta del libro |
+
+**El campo 4 es nuevo**: no estaba entre los nueve provisionales y lo obliga F-029. Los que no
+siguen no se pierden por descuido, y esta es la razón de cada uno:
+
+- **«Qué información se tenía»** se absorbe en el campo 4. Era una condición, no un campo aparte.
+- **«Alternativas que existían»** se absorbe en el campo 5: lo que habría cambiado la decisión
+  es la misma pregunta hecha por el lado que sí produce respuesta.
+- **«Qué se eligió y por qué»**: el «qué se eligió» ya está en el campo 1. El «por qué» directo
+  **se elimina como campo**, y esa es la decisión de fondo de este apartado. F-028 describe una
+  familia entera de técnicas construida para revelar el razonamiento «without necessarily asking
+  about these processes». Dejar un campo que pregunta exactamente eso invita a rellenarlo con una
+  racionalización, que es justo lo que el capítulo 8 ya prohíbe.
+- **«Excepciones»** no entra: es la herramienta 6, del capítulo 8, y duplicarla aquí rompería el
+  límite entre ambos capítulos.
+- **«Cuándo detenerse y preguntar»** y **«registrar la incertidumbre»** no son campos de un caso:
+  son **una regla del método y un permiso de escritura**. Van en el texto del capítulo, no en la
+  tabla. El permiso —poder escribir «esto no sé explicarlo todavía» en cualquiera de los cinco
+  campos— está además respaldado por F-029, que separa **detectar** el conocimiento tácito de
+  **representarlo**: se puede haber detectado algo y no saber aún escribirlo.
+
+**Forma del entregable: una tabla, no un cuestionario.** F-031 cierra sus tres entrevistas con
+una *cognitive demands table* «offered as a means to consolidate and synthesize the data». El
+Manual de criterio debe consolidar en una sola vista, con una fila por caso.
 
 ### 10. Comprobación del criterio escrito
 
@@ -616,17 +712,56 @@ como transferido cuando alguien lo ha usado sin recurrir a su autor.
   **acciones rutinizadas** y **reglas que subyacen a decisiones intuitivas**, y que el modo de
   decidir **depende del tiempo, la experiencia y la complejidad** (F-029).
 - Que existe precedente de **simplificar** estos métodos para quien no es especialista
-  (F-031).
+  (F-031), y que ese método simplificado consta de **tres entrevistas y una tabla que consolida
+  lo extraído** (F-031, leída en el original).
+- Que las técnicas de elicitación se agrupan, **a efectos de exposición y según sus propios
+  autores**, en tres familias: analizar las tareas habituales del experto, entrevistarlo de
+  varios modos, y **tareas construidas que revelan su razonamiento sin preguntarle por él**
+  (F-028).
+- Que **detectar** el conocimiento tácito y **representarlo** son dos problemas distintos, y que
+  donde domina la acción rápida hacen falta **periodos de deliberación para mantener el control
+  crítico** (F-029).
 - Que la idea de codificar conocimiento **está discutida**, y que en las pequeñas empresas el
   conocimiento **se resiste a tratarse como un activo separable** (F-032, F-033).
 
 **No podrá decir:**
 
-- Ninguna taxonomía de técnicas de elicitación. **No se leyó ninguna.**
-- Nada procedente de F-028.
+- **Ningún subtipo ni ninguna técnica concreta por debajo de las tres familias de F-028**, ni
+  presentarlas como una clasificación cerrada: sus autores las declaran «for discussion purposes».
+- **Qué concluye la comparación empírica entre técnicas.** F-028 dice que existe; no se ha leído.
+- **Que ACTA funcione.** Se leyó en el original qué es y qué hace; **la evaluación de usabilidad
+  y utilidad no se leyó** (F-031).
+- Nada de F-030 más allá de que el campo está disperso y de que el artículo clasifica las
+  técnicas: **sus categorías siguen sin obtenerse**, y no deben confundirse con las de F-028.
 - Nada sobre sesgo o distorsión del recuerdo retrospectivo.
 - Que la autoentrevista tenga respaldo metodológico. **No lo tiene.**
 - Que estos métodos estén validados para negocios pequeños. **Los dominios son bomberos,
   urgencias, militares e ingeniería.**
 - Que el Manual de criterio esté validado de ninguna manera.
 - Que todo el conocimiento de una persona pueda pasar a un documento.
+
+### 12. Vías de acceso: lo que funciona y lo que no (Etapa 3.8A.1)
+
+Se registra porque **es la segunda tanda seguida bloqueada por los editores** y porque la
+recuperación dirigida encontró rutas que no se habían probado. No es una nota técnica: decide
+cuánta evidencia puede tener el libro.
+
+| Vía | Resultado |
+|---|---|
+| **Depósito Crossref del propio editor** (`api.crossref.org/works/<DOI>`) | **La mejor.** Identidad siempre; y **el resumen íntegro cuando el editor lo depositó** —Wiley lo hace, Elsevier, IEEE y OUP no—. Es el editor hablando, no un agregador. |
+| **Portales institucionales de investigación** (Pure, CRIS) | **Muy buena y poco usada.** Bond University desbloqueó F-028 tras fallar Elsevier y Southampton; ASU dio F-030; Maastricht resolvió la autoría de F-032. **En los tres casos probados** reprodujeron el resumen del editor y **no bloquearon**; son tres, no una regla. |
+| **Copias académicas del original en dominios universitarios** | **La única que dio texto original**: el PDF de F-031 alojado por el MIT. |
+| **PubMed / E-utilities de la NLM** | Buena para corroborar de forma independiente en lo biomédico y educativo (F-029). |
+| **OpenAlex, Semantic Scholar** | Solo para **localizar**. Sus resúmenes son reconstrucciones y así se marcan en la fila. |
+| **Páginas de editor** (Elsevier, Wiley, Taylor & Francis, SAGE, IEEE, OUP) | **Bloqueadas o vacías, sin excepción en esta tanda.** |
+| **Repositorios institucionales de los autores** (Southampton, UWE, EPFL, HAL, figshare, DTIC) | **Bloqueados.** Southampton falló por tres rutas distintas, incluida la dirección exacta del fichero. |
+
+**Dos lecciones que valen para las tandas siguientes.** Primera: **un registro sin resumen no
+prueba que el artículo no tenga resumen**; F-028 pasó de «inutilizable» a resumen íntegro sin
+que el artículo cambiara. Segunda: **un depósito incompleto no prueba autoría**; el registro de
+OUP para F-032 lista un autor de tres.
+
+**Y una advertencia sobre el propio proyecto:** ambos errores se cometieron aquí, en la Etapa
+3.8A, y ambos se registraron con una seguridad que no correspondía al nivel de comprobación
+alcanzado. La regla que queda: **antes de declarar una fuente inutilizable o una autoría
+dudosa, agotar las vías institucionales**, que son gratuitas y no estaban probadas.

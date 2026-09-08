@@ -36,10 +36,11 @@
 **Etapa 3.6.1 — Control conceptual del capítulo 7: COMPLETADA el 2026-09-07.**
 **Etapa 3.7 — Capítulo 8 y herramienta 6: COMPLETADA el 2026-09-07.**
 **Etapa 3.8A — Investigación Q-06 / Q-13 / Q-16 y preflight del capítulo 8: COMPLETADA el 2026-09-07.**
+**Etapa 3.8A.1 — Recuperación dirigida de fuentes y corrección del registro bibliográfico: COMPLETADA el 2026-09-07.**
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
-de la investigación. **El capítulo 9 no se ha escrito, la herramienta 7 no se ha creado y la
-Etapa 3.8B no se ha iniciado.**
+El proyecto vuelve a estar **detenido**, por instrucción expresa. **El capítulo 9 no se ha
+escrito, la herramienta 7 no se ha creado y la Etapa 3.8B no se ha iniciado.** La
+investigación previa al capítulo 9 está cerrada y corregida.
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -250,7 +251,7 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, una con resumen verbatim del editor, cinco con el resumen del registro bibliográfico y **una solo con identidad, sin contenido utilizable**. |
+| Fuentes verificadas | **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **9** |
 | Cifras publicadas sin fuente | **0** |
@@ -368,10 +369,17 @@ publicado a continuación.
 1. **Revisar el capítulo 8 y la herramienta 6.** Es lo único que el autor ha pedido a
    continuación. No se escribirá el capítulo 9 ni se iniciará la Etapa 3.8 sin nueva
    autorización.
-2. **Q-06, Q-13 y Q-16 ejecutadas.** Dos limitaciones declaradas antes de escribir el
-   capítulo 9: **V-57**, la autoentrevista no tiene respaldo metodológico y debe presentarse
-   como diseño propio; y **V-58**, F-028 quedó sin leer, así que el libro **no puede presentar
-   ninguna taxonomía de técnicas de elicitación**.
+2. **Q-06, Q-13 y Q-16 cerradas**, las tres antes del capítulo 9. Q-06 y Q-16 quedan
+   **resueltas con límites**; Q-13 en su parte conceptual, con el vacío de siempre: **nada
+   sobre trabajo por cuenta propia**. La limitación que sigue viva es **V-57**: la
+   autoentrevista no tiene respaldo metodológico y el capítulo 9 debe presentarla como diseño
+   propio. **V-58 se cerró porque su premisa era falsa** —F-028 sí tenía resumen— y en su lugar
+   queda **V-59**, mucho más estrecha: no atribuir a F-030 categorías que no se han leído.
+3. **Arquitectura del Manual de criterio cerrada en cinco campos**, frente a los nueve
+   provisionales: el caso, las señales, típico o raro, en qué condiciones se decidió, y qué
+   habría cambiado la decisión. Los cuatro primeros están respaldados; el quinto se declara
+   como diseño propio. **El campo «por qué» directo se elimina**, porque F-028 documenta una
+   familia entera de técnicas construida para no depender de esa pregunta.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que
    pida el capítulo.
