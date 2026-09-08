@@ -9,8 +9,9 @@
 Para contestar **dónde** está la dependencia, después de que el Índice de Dependencia
 contestara **cuánto**.
 
-Produce una cosa concreta: **una lista ordenada de hasta diez dependencias prioritarias**,
-cada una con su sitio actual y con lo que ocurre si no está disponible.
+Produce una cosa concreta: **una lista ordenada de alrededor de diez dependencias
+prioritarias**, cada una con su sitio actual y con lo que ocurre si no está disponible. Diez
+es una referencia práctica, no un límite: lo que importa es que haya selección.
 
 **Lo que esta herramienta no hace, y conviene tenerlo claro desde la primera línea:**
 

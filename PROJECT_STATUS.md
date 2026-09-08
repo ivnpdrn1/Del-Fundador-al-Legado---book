@@ -32,10 +32,11 @@
 **Etapa 3.4B.1 — Control final de la Parte I: COMPLETADA el 2026-09-07. PARTE I CERRADA.**
 **Etapa 3.5 — Capítulo 6 y herramienta 3: COMPLETADA el 2026-09-07. PARTE II abierta.**
 **Etapa 3.5.1 — Control metodológico del capítulo 6: COMPLETADA el 2026-09-07.**
+**Etapa 3.6 — Capítulo 7 y herramientas 4 y 5: COMPLETADA el 2026-09-07. Etapa E abierta.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
-del capítulo 6 y de la herramienta 3. **El capítulo 7 no se ha escrito y la Etapa 3.6 no se
-ha iniciado.**
+del capítulo 7 y de las herramientas 4 y 5. **El capítulo 8 no se ha escrito y la Etapa 3.7
+no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -220,7 +221,7 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 
 | Concepto | Valor |
 |---|---|
-| Capítulos terminados | **6 de 25** (en borrador). **Parte I completa; Parte II iniciada.** |
+| Capítulos terminados | **7 de 25** (en borrador). **Parte I completa; Parte II, 2 de 5.** |
 | Introducción | **Escrita**, 2.838 palabras |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
@@ -228,14 +229,15 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Capítulo 4 | **Escrito y revisado**, 2.163 palabras (objetivo 1.900) |
 | Capítulo 5 | **Escrito y revisado**, 1.989 palabras (objetivo 2.000) |
 | Capítulo 6 | **Escrito y revisado**, 2.141 palabras (objetivo 2.100) |
+| Capítulo 7 | **Escrito**, 2.221 palabras (objetivo 2.300) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **16.018** |
+| Palabras del manuscrito | **18.242** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 30,1 % |
-| Recursos terminados | **3 de 18** (2.490, 1.977 y 1.616 palabras, no computan en el manuscrito). Quedan quince. |
+| Avance sobre el objetivo | 34,2 % |
+| Recursos terminados | **5 de 18** (8.288 palabras, no computan en el manuscrito). Quedan trece. |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
-| Decisiones registradas | 69, de las cuales 2 reemplazadas y conservadas |
+| Decisiones registradas | 70, de las cuales 2 reemplazadas y conservadas |
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -359,8 +361,8 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Revisar el capítulo 6 y la herramienta 3.** Es lo único que el autor ha pedido a
-   continuación. No se escribirá el capítulo 7 ni se iniciará la Etapa 3.6 sin nueva
+1. **Revisar el capítulo 7 y las herramientas 4 y 5.** Es lo único que el autor ha pedido a
+   continuación. No se escribirá el capítulo 8 ni se iniciará la Etapa 3.7 sin nueva
    autorización.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que

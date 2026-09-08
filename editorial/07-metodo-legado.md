@@ -168,45 +168,59 @@ empezar, no un umbral demostrado.**
 
 ### E — Extraer el conocimiento y el criterio
 
-**Propósito.** Sacar de una cabeza a un soporte consultable lo que la empresa necesita
-para seguir funcionando, incluido el porqué de las decisiones.
+**Propósito.** Llevar a un soporte consultable lo que el negocio necesita para seguir
+funcionando, incluido el porqué de las decisiones.
 
-**Diagnóstico.** De cada dependencia identificada en L: ¿está escrita, está en la cabeza
-de una sola persona, o está repartida en correos y conversaciones?
+**Diagnóstico.** De cada dependencia identificada en L, en qué estado está: solo en la
+memoria de una persona, escrita a medias, repartida en correos y conversaciones, documentada
+y localizable, o **ya usada por alguien sin recurrir a la persona clave**. Los cinco estados
+y la advertencia de que **documentado no es transferido** están en la herramienta 3.
 
-**Preguntas al fundador.**
+**Preguntas a la persona clave.**
 1. ¿Por qué a este cliente se le dan condiciones distintas, y desde cuándo?
 2. ¿Qué mira usted primero cuando algo no le cuadra?
-3. ¿Qué haría un empleado nuevo que casi con seguridad estaría mal, aunque siga el
-   procedimiento?
+3. Si alguien llegara nuevo a esto, ¿qué haría siguiendo el procedimiento al pie de la
+   letra que aun así estaría mal?
 4. ¿Qué acuerdos existen que no consten por escrito?
 5. ¿Qué hace usted distinto de lo que dice el manual, y por qué?
 
-**Acciones.** Inventario del conocimiento crítico, priorizado por impacto si se pierde.
-Mapa de procesos reales, no de los procesos oficiales. Mapa de decisiones. Mapa de
-relaciones críticas. Registro de excepciones. Primera versión del Manual de criterio del
-fundador.
+**Acciones.** Partir del inventario priorizado que produce L. Trazar el **proceso real**,
+no el oficial, de las dependencias de más impacto. Mapa de decisiones. Mapa de relaciones
+críticas. Registro de excepciones. Primera versión del Manual de criterio.
 
-**Herramientas.** Inventario del conocimiento crítico. Mapa de decisiones. Mapa de
-relaciones críticas. Registro de excepciones. Plantilla del Manual de criterio del
-fundador.
+**Herramientas.** Mapa de decisiones (4). Mapa de relaciones críticas (5). Registro de
+excepciones (6). Plantilla del Manual de criterio (7). El inventario del conocimiento
+crítico (3) pertenece a L y es de donde E toma su material. **El proceso real se traza
+dentro del capítulo 7 y no es una de las dieciocho herramientas.**
 
-**Indicadores.** Porcentaje de las dependencias críticas documentadas. Número de
-excepciones registradas con su motivo. Número de relaciones críticas con un segundo
-contacto interno asignado.
+**Indicadores.** Cuántas de las dependencias prioritarias han pasado de la memoria a un
+soporte consultable. Número de excepciones registradas con su motivo. **Con equipo**, número
+de relaciones críticas con un segundo contacto asignado; **trabajando solo**, número de
+relaciones críticas cuyo contexto queda escrito y con una vía de continuidad declarada,
+aunque esa vía sea reconocer que hoy no la hay.
 
 **Riesgos.** Documentar todo y no terminar nada. Documentar el procedimiento y omitir el
 criterio, que es lo valioso. Que la documentación quede en un formato que nadie consulta.
 Exponer en el documento información sensible sin clasificarla.
 
-**Responsables.** El fundador aporta el contenido. Una persona distinta redacta y
-pregunta. Nadie documenta su propio trabajo sin un segundo par de ojos.
+**Responsables.** La persona clave aporta el contenido. **Con equipo**, conviene que otra
+persona redacte y pregunte: quien sabe algo da por supuesto lo que más falta. **Trabajando
+sola**, ese segundo par de ojos no existe y no se inventa; se sustituye por dos mecanismos
+más débiles y honestos: escribir primero y releer días después, y **comprobar el documento
+usándolo**, siguiéndolo al pie de la letra la próxima vez sin recurrir a la memoria.
 
 **Evidencia de avance.** Documentos fechados, con autor, con fecha de revisión y con una
 persona responsable de mantenerlos.
 
-**Criterio de paso a G.** Las cinco dependencias de mayor impacto están documentadas y
-otra persona ha logrado ejecutar la tarea siguiendo el documento, sin preguntar.
+**Criterio de paso a G.** Las dependencias de mayor impacto están documentadas y **han
+dejado de ser exclusivamente personales**. Ese es el principio; la comprobación cambia según
+el caso. **Con equipo:** otra persona ha ejecutado la tarea siguiendo el documento, sin
+preguntar. **Trabajando solo:** el documento se ha usado al menos una vez tal como está,
+sin recurrir a la memoria, y produjo el mismo resultado; o lo ha utilizado un colaborador
+externo, cuando exista. **No se inventan empleados ni segundos contactos internos para poder
+cerrar la etapa**, y una comprobación diferida por la propia persona es más débil que una
+ajena, lo que debe reconocerse en lugar de disimularse. La prueba formal de ausencia es otra
+cosa y llega en el capítulo 24.
 
 ---
 

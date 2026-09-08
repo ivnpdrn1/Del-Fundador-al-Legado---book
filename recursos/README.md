@@ -4,9 +4,13 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: 3 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; la 2 y la
-3, con sus capítulos, en la Etapa 3. **Quedan quince**, y cada una se produce junto con su
-capítulo. No se crean archivos vacíos: cada archivo nace cuando existe contenido
+**Estado actual: 5 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
+la 5, con sus capítulos, en la Etapa 3. **Quedan trece**, y cada una se produce junto con su
+capítulo.
+
+**El capítulo 7 trabaja con tres vistas y produce dos herramientas** (D-070). La vista del
+proceso real se traza dentro del capítulo y **no es una de las dieciocho**: no hay archivo
+para ella y no se crea una herramienta 19. No se crean archivos vacíos: cada archivo nace cuando existe contenido
 real.
 
 La columna «Cap.» refleja el orden de la Parte III vigente desde el 2026-09-06 (D-017).
@@ -84,8 +88,8 @@ remite a un profesional y no fija ninguna cifra.
 | 1 | Índice de Dependencia de la Persona Clave **(redactada, v2.0)** | `indice-dependencia-fundador.md` | 1 | L | Medir con un número comparable cuánto depende un negocio de una sola persona. Adaptada a las dos rutas. |
 | 2 | Cuestionario de preparación para elegir su participación **(redactada)** | `cuestionario-preparacion-elegir-participacion.md` | 5 | L | Separar la **disposición personal** de la **preparación del negocio**, y situar ambas sobre el Mapa de Participación. Renombrada el 2026-09-07 (D-069): el nombre anterior, *preparación para el retiro*, contradecía D-067. |
 | 3 | Inventario del conocimiento crítico **(redactada)** | `inventario-conocimiento-critico.md` | 6 | **L** | Localizar dónde está concentrada la dependencia y ordenarla por impacto, sin documentarla todavía. **Etapa corregida:** cierra L, no abre E. |
-| 4 | Mapa de decisiones | `mapa-de-decisiones.md` | 7 | E | Registrar con qué criterio se decide cada cosa, con qué información y en cuánto tiempo. La columna «quién decide» se sustituye por «con qué criterio», que sirve en ambas rutas. |
-| 5 | Mapa de relaciones críticas | `mapa-relaciones-criticas.md` | 7 | E | Identificar vínculos externos que hoy solo existen a través del fundador. |
+| 4 | Mapa de decisiones **(redactada)** | `mapa-de-decisiones.md` | 7 | E | Localizar las decisiones escondidas en el trabajo diario y anotar, de cada una, cuándo aparece, qué se mira y **la etiqueta de su criterio en una frase**. No escribe el criterio completo, que es la herramienta 7, ni reparte autoridad, que es la 8. |
+| 5 | Mapa de relaciones críticas **(redactada)** | `mapa-relaciones-criticas.md` | 7 | E | Localizar qué parte del negocio se sostiene en un vínculo con alguien de fuera y cuánto pasa hoy por una sola persona. **No promete transferir la relación**: la confianza no se documenta. No es una agenda de contactos. |
 | 6 | Registro de excepciones | `registro-de-excepciones.md` | 8 | E | Convertir "en este caso hacemos algo distinto" en una regla escrita y revisable. |
 | 7 | Plantilla del Manual de criterio | `manual-criterio-fundador.md` | 9 | E | Documentar el porqué de las decisiones, no solo el procedimiento. |
 | 8 | Matriz de autoridad y aprobaciones **(requiere decisión)** | `matriz-autoridad-aprobaciones.md` | 10 | G | Fijar límites de monto, alcance y firma para cada función. En un negocio de una sola persona, límites propios escritos. Ver `03-indice-maestro.md` §5.3. |

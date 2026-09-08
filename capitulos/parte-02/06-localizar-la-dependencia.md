@@ -93,7 +93,8 @@ significa que esté resuelto: significa que hoy no es lo que hay que mirar.
 
 Preguntarse «¿qué sé yo que nadie más sabe?» ayuda, pero no basta, y la razón es la misma
 del capítulo 2: lo que uno hace automáticamente no se presenta como algo que haya que
-recordar. La memoria da la mitad de la lista; la otra mitad hay que ir a buscarla.
+recordar. La memoria entrega una parte de la lista; el resto aparece solo al revisar el
+rastro del trabajo.
 
 Así que no se busca en la memoria. **Se busca en el rastro que dejó su propio trabajo.**
 Coja una semana reciente y normal —ni la mejor ni la peor— y revise lo que quedó de ella:
