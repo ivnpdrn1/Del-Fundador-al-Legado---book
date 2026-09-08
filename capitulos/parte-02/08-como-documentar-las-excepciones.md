@@ -4,7 +4,7 @@ parte: 2
 titulo: "Cómo documentar las excepciones"
 etapa_metodo: "E"
 estado: borrador
-palabras: 2029
+palabras: 2067
 casos_usados: []
 recursos_producidos: ["registro-de-excepciones.md"]
 afirmaciones_por_verificar: []
@@ -59,10 +59,10 @@ personalizar es la forma normal.
 
 ## Dónde están, según cómo trabaje
 
-**Con equipo** las excepciones se dejan ver, porque alguien tiene que preguntar o alguien
-tiene que hacer algo distinto. Aparecen en las consultas que suben, en las autorizaciones
-que se dan de palabra, en el «con este cliente lo hacemos de otra manera» que todo el mundo
-repite sin que esté escrito en ningún sitio, y en los ajustes que hace una persona con
+**Con equipo** las excepciones pueden dejar rastro, porque alguien tiene que preguntar o
+alguien tiene que hacer algo distinto. Aparecen en las consultas que suben, en las
+autorizaciones que se dan de palabra, en el «con este cliente lo hacemos de otra manera» que
+se repite sin estar escrito en ningún sitio, y en los ajustes que hace una persona con
 experiencia sin llegar a explicarlos, porque para ella son evidentes.
 
 Y la pregunta con la que se busca importa mucho. **No es «¿quién se salta el
@@ -70,10 +70,10 @@ procedimiento?»**, que convierte el ejercicio en una cacería y garantiza que n
 contar nada. Es **«¿en qué situaciones nos apartamos de la forma normal, y por qué?»**. La
 primera busca un culpable; la segunda busca una razón, que es lo único que sirve.
 
-**Trabajando solo** ocurre algo distinto y más incómodo: la excepción es más difícil de ver
-precisamente porque no hay nadie que pregunte. Nadie le dice «oye, ¿y esto por qué se hace
-así?», de modo que el apartamiento se aplica y se olvida en el mismo gesto. Ahí hay que
-buscarlo a propósito: en las condiciones especiales que aplica a algún cliente, en los
+**Trabajando solo** el rastro es otro, porque quien decide y quien ejecuta son la misma
+persona: una excepción puede pasar inadvertida sin que nadie diga «oye, ¿y esto por qué se
+hace así?», y el apartamiento se aplica y se olvida en el mismo gesto. Ahí hay que buscarlo a
+propósito: en las condiciones especiales que aplica a algún cliente, en los
 encargos que acepta de una manera que no aceptaría de otro, en las secuencias que cambia
 según el caso, y en los acuerdos que tiene con alguien de fuera y no están en ningún papel.
 
@@ -129,9 +129,11 @@ y aquí conviene no exagerar: no son la más importante ni la más difícil. Lo 
 útiles es otra cosa, y es bastante concreta.
 
 Una excepción es, por definición, **el punto donde la forma normal de trabajar deja de
-bastar**. Y ese es justo el sitio donde hace falta criterio, porque si el caso encajara en la
-regla no haría falta pensar. Por eso mirar aquí rinde tanto: se llega antes al criterio
-buscando dónde la regla falla que preguntando en abstracto por qué se decide como se decide.
+bastar**. Y eso convierte esta zona en un sitio especialmente bueno para encontrar criterio,
+porque ahí alguien tuvo que decidir algo que la regla no resolvía sola. No siempre: hay
+excepciones ya previstas, con su condición escrita y su respuesta prevista. Pero **se llega
+antes al criterio buscando dónde la regla se queda corta que preguntando en abstracto por
+qué se decide como se decide**.
 
 ## Primero el hecho, después el juicio
 
@@ -169,8 +171,9 @@ razón. La segunda describe un caso, no una regla.
 Al revisar aparecen dos hallazgos que no son excepciones y que vale la pena reconocer.
 
 **Puede ser una regla que nadie ha escrito.** Si el mismo apartamiento se repite bajo las
-mismas condiciones y por el mismo motivo, eso ya no es un caso especial: es cómo se trabaja,
-y sencillamente no está anotado en ninguna parte. Ojo, que lo que lo delata no es cuántas
+mismas condiciones y por el mismo motivo, quizá ya no sea un caso especial: puede ser cómo
+se trabaja, sencillamente sin anotar en ninguna parte. Compruébelo antes de darlo por hecho;
+el patrón lo sugiere, no lo demuestra. Ojo, que lo que lo delata no es cuántas
 veces ha pasado, sino que haya un patrón estable: una excepción que ocurre una vez cada tres
 años puede seguir siendo una excepción, y otra que ocurre cada semana puede ser una regla
 encubierta.
@@ -187,8 +190,8 @@ se convierta en un cementerio.
 
 **Hasta cuándo.** No tiene por qué ser una fecha. Puede ser una condición —«mientras dure
 este proyecto», «hasta que cambie el proveedor»—, y puede ser «sin plazo, se revisa». Lo que
-no puede es quedar en blanco, porque una excepción sin horizonte se queda para siempre por
-inercia, como el plazo de la ficha.
+no puede es quedar en blanco, porque una excepción sin horizonte **puede mantenerse por
+inercia** mucho después de que su razón se acabe, como el plazo de la ficha.
 
 **Quién vuelve a mirarlo.** Con equipo, alguien que participe en ese trabajo. **Trabajando
 solo, usted mismo, y conviene decir con todas las letras que eso es más débil**: quien
@@ -212,7 +215,8 @@ haciéndose no la vuelve admisible.
 - Tiene registradas las marcas que traía del capítulo anterior, con su motivo en una frase o
   con un «no lo sé» honesto.
 - Cada una tiene un hasta cuándo, aunque sea «se revisa».
-- Ha clasificado al menos una como algo que debería dejar de hacerse.
+- Ha clasificado las que registró, **incluida la posibilidad de que ninguna deba retirarse**:
+  que todas sigan teniendo razón también es un resultado.
 - Tiene apartadas las que le pedían media página de explicación.
 
 ---

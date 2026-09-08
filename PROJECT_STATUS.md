@@ -35,10 +35,11 @@
 **Etapa 3.6 — Capítulo 7 y herramientas 4 y 5: COMPLETADA el 2026-09-07. Etapa E abierta.**
 **Etapa 3.6.1 — Control conceptual del capítulo 7: COMPLETADA el 2026-09-07.**
 **Etapa 3.7 — Capítulo 8 y herramienta 6: COMPLETADA el 2026-09-07.**
+**Etapa 3.8A — Investigación Q-06 / Q-13 / Q-16 y preflight del capítulo 8: COMPLETADA el 2026-09-07.**
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión
-del capítulo 8 y de la herramienta 6. **El capítulo 9 no se ha escrito y la Etapa 3.8 no se
-ha iniciado.**
+de la investigación. **El capítulo 9 no se ha escrito, la herramienta 7 no se ha creado y la
+Etapa 3.8B no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -232,12 +233,12 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Capítulo 5 | **Escrito y revisado**, 1.989 palabras (objetivo 2.000) |
 | Capítulo 6 | **Escrito y revisado**, 2.141 palabras (objetivo 2.100) |
 | Capítulo 7 | **Escrito y revisado**, 2.411 palabras (objetivo 2.300) |
-| Capítulo 8 | **Escrito**, 2.029 palabras (objetivo 2.000) |
+| Capítulo 8 | **Escrito**, 2.067 palabras (objetivo 2.000) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **20.461** |
+| Palabras del manuscrito | **20.499** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 38,4 % |
-| Recursos terminados | **6 de 18** (9.793 palabras, no computan en el manuscrito). Quedan doce. |
+| Avance sobre el objetivo | 38,5 % |
+| Recursos terminados | **6 de 18** (9.831 palabras, no computan en el manuscrito). Quedan doce. |
 | Documentación del proyecto | 42 archivos |
 | Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
 | Decisiones registradas | 70, de las cuales 2 reemplazadas y conservadas |
@@ -249,11 +250,11 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **26**. De las nueve de Q-09: **una leída íntegra** (F-024), cinco en la página del editor y tres solo a nivel de resumen. |
+| Fuentes verificadas | **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, una con resumen verbatim del editor, cinco con el resumen del registro bibliográfico y **una solo con identidad, sin contenido utilizable**. |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **9** |
 | Cifras publicadas sin fuente | **0** |
-| Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04). **Q-06** resuelta para el capítulo 2, abierta para el 9. **Q-09** resuelta parcialmente para el capítulo 5, abierta para el 22. |
+| Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04). **Q-06** resuelta para los capítulos 2 y 9. **Q-13** resuelta en su parte conceptual. **Q-09** y **Q-16** resueltas parcialmente. **Q-19** diferida al capítulo 16. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
 | Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
@@ -367,7 +368,10 @@ publicado a continuación.
 1. **Revisar el capítulo 8 y la herramienta 6.** Es lo único que el autor ha pedido a
    continuación. No se escribirá el capítulo 9 ni se iniciará la Etapa 3.8 sin nueva
    autorización.
-2. **Q-16 y Q-13 vencen ahora.** Su plazo es antes del capítulo 9, que es el siguiente.
+2. **Q-06, Q-13 y Q-16 ejecutadas.** Dos limitaciones declaradas antes de escribir el
+   capítulo 9: **V-57**, la autoentrevista no tiene respaldo metodológico y debe presentarse
+   como diseño propio; y **V-58**, F-028 quedó sin leer, así que el libro **no puede presentar
+   ninguna taxonomía de técnicas de elicitación**.
 2. **La deuda de ruta B quedó saldada** en el capítulo 4 con C-05. No hay ninguna deuda de
    casos abierta: el reparto está equilibrado y el capítulo 5 elige protagonista por lo que
    pida el capítulo.

@@ -2,10 +2,10 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-07: 9 de 27 piezas escritas. 20.461 palabras.**
+**Estado del manuscrito a 2026-09-07: 9 de 27 piezas escritas. 20.499 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II iniciada:** capítulo 6.
 **Piezas = 25 capítulos numerados + introducción + conclusión** (`03-indice-maestro.md` §0).
-**Recursos: 6 de 18 redactados (9.793 palabras en total; no computan en el manuscrito).**
+**Recursos: 6 de 18 redactados (9.831 palabras en total; no computan en el manuscrito).**
 
 Cifras posteriores a la **revisión conceptual 2.2** del 2026-09-07, que amplió el público
 del libro (D-021). Los objetivos de la introducción y del capítulo 1 se ajustaron en la
@@ -30,7 +30,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 5 | Retirarse no significa abandonar | I | — | **borrador, revisado (3.4B.1)** | **1.989** | 2.000 | Cuestionario de preparación para elegir su participación (herramienta 2 de 18) | — (dos microescenas sin nombre) | 0 |
 | 6 | Localizar la dependencia | II | L | **borrador, revisado (3.5.1)** | **2.141** | 2.100 | Inventario del conocimiento crítico (herramienta 3 de 18) | — (una microescena sin nombre) | 0 |
 | 7 | El mapa de procesos, decisiones y relaciones | II | E | **borrador, revisado (3.6.1)** | **2.411** | 2.300 | Mapa de decisiones (4) y mapa de relaciones críticas (5) | — (una microescena sin nombre) | 0 |
-| 8 | Cómo documentar las excepciones | II | E | **borrador** | **2.029** | 2.000 | Registro de excepciones (6) | — (una microescena sin nombre) | 0 |
+| 8 | Cómo documentar las excepciones | II | E | **borrador, con preflight (3.8A)** | **2.067** | 2.000 | Registro de excepciones (6) | — (una microescena sin nombre) | 0 |
 | 9 | El Manual de criterio | II | E | no iniciado | 0 | 2.400 | — | — | — |
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | G | no iniciado | 0 | 2.200 | — | — | — |
 | 11 | Ordenar antes de automatizar | III | A (G previa) | no iniciado | 0 | 2.300 | — | — | — |
@@ -58,13 +58,13 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 |---|---|---|---|---|
 | Introducción | 1 | 2.700 | **2.838** | completa |
 | I | 5 | 10.400 | **11.042** | **completa** |
-| II | 5 | 11.000 | **6.581** | 3 de 5 |
+| II | 5 | 11.000 | **6.619** | 3 de 5 |
 | III | 6 | 12.900 | 0 | — |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **20.461** | **38,4 % del objetivo** |
+| **Total** | **27** | **53.300** | **20.499** | **38,5 % del objetivo** |
 
-**Desviaciones, revisadas el 2026-09-07.** Las nueve piezas escritas suman 20.461 palabras
+**Desviaciones, revisadas el 2026-09-07.** Las nueve piezas escritas suman 20.499 palabras
 frente a un objetivo acumulado de 17.400 para esas mismas piezas: **un 18 % por encima**.
 Los capítulos 6 y 7 salieron dentro de su objetivo; el exceso acumulado sigue viniendo de la
 introducción y del capítulo 1, fijados antes de D-030.
@@ -85,7 +85,7 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 |---|---|---|---|---|
 | Contexto previo | 3, 4, 5 | 5.700 | **6.127** | **completa** |
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
-| E | 2, 7, 8, 9 | 8.700 | **6.602** | 3 de 4 |
+| E | 2, 7, 8, 9 | 8.700 | **6.640** | 3 de 4 |
 | G | 10 | 2.200 | 0 | — |
 | A | 11–16 | 12.900 | 0 |
 | D | 17, 18, 21, 23, 24 | 10.900 | 0 |

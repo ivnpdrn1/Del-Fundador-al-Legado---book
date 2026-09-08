@@ -62,7 +62,7 @@ con solidez sin resolverla.
 | Q-03 | ¿Qué marcos reconocidos existen sobre continuidad del negocio y gestión de riesgos operativos? | 4, 16 | Alta | **Resuelta 2026-09-06.** F-005, F-006, F-011. |
 | Q-04 | ¿Qué marcos existen sobre gestión de riesgos de la inteligencia artificial y qué recomiendan sobre supervisión humana? | 12, 15, 16 | Alta | **Resuelta 2026-09-06.** F-007, F-008, F-009, F-010. Coinciden con las reglas 4 y 5 del método (D-020). |
 | Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | Sin iniciar. Prioridad alta por D-014. |
-| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **Resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. **Sigue abierta para el capítulo 9**, donde hará falta literatura sobre métodos de externalización del criterio, no solo sobre el diagnóstico. **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
+| Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **Resuelta también para el capítulo 9 el 2026-09-07 (Etapa 3.8A)**, con límites: ver «Q-06 · Q-13 · Q-16 — Resultado conjunto» al final de este documento. Antes: **resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. **Sigue abierta para el capítulo 9**, donde hará falta literatura sobre métodos de externalización del criterio, no solo sobre el diagnóstico. **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE.** Etapa 3.4A: seis fuentes, F-018 a F-023. **Ampliación dirigida a la ruta B en la Etapa 3.4A.1:** tres fuentes más, F-024 a F-026, una de ellas **leída íntegra**. Resultados completos al final de este documento. **Sigue abierta para el capítulo 22** y por el vacío de evidencia hispanohablante (V-56B), que no se ha podido cerrar. |
@@ -79,13 +79,13 @@ frecuencia (regla V-41).
 
 | ID | Pregunta | Cap. | Prioridad | Estado |
 |---|---|---|---|---|
-| Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | Sin iniciar. **Corrección del 2026-09-07:** el informe de la Etapa 3.3 la dio por pertinente para el capítulo 5, y no lo es; sus capítulos son el 2 y el 9. El 2 ya está escrito y se cerró con Q-06, de modo que **su plazo real es antes del capítulo 9**. |
+| Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | **RESUELTA en su parte conceptual el 2026-09-07 (Etapa 3.8A)** con F-029 (Eraut). **Vacío que permanece:** ninguna literatura localizada sobre el trabajo por cuenta propia o de una sola persona. Resultado completo al final de este documento. Antes: **Corrección del 2026-09-07:** el informe de la Etapa 3.3 la dio por pertinente para el capítulo 5, y no lo es; sus capítulos son el 2 y el 9. El 2 ya está escrito y se cerró con Q-06, de modo que **su plazo real es antes del capítulo 9**. |
 | Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
 | Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
-| Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **No ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Sigue viva y con plazo real **antes del capítulo 9**, donde sí hará falta literatura sobre métodos de externalización. Sin iniciar |
+| Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **EJECUTADA y RESUELTA PARCIALMENTE el 2026-09-07 (Etapa 3.8A)**: F-027, F-030, F-031 y F-032. **Sigue abierta** porque no se pudo leer F-028, la revisión metodológica central, ni obtener las categorías de F-030. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Sigue viva y con plazo real **antes del capítulo 9**, donde sí hará falta literatura sobre métodos de externalización. Sin iniciar |
 | Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | Sin iniciar. Parcialmente cubierta por F-007 y F-010. |
 | Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | Sin iniciar. Se fusiona en la práctica con Q-05. |
-| Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | 9, 16 | Media | Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
+| Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **Permanece abierta para el capítulo 16**, o para el momento en que la propiedad del conocimiento codificado sea materialmente necesaria. Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
 | Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | Sin iniciar. **Muy dependiente de jurisdicción**; probablemente se resuelva remitiendo a la norma local y no citando ninguna. |
 | Q-21 | ¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el precio de venta de un negocio pequeño? | 21, 25 | Media | Sin iniciar. **Mientras no se resuelva rige D-032:** el libro habla de transferibilidad y continuidad, no de valor. |
 
@@ -440,3 +440,193 @@ matriz de dos por dos que cruce los dos ejes. **Regla esencial si se adopta: nin
 es un juicio.** En particular, *persona no preparada + negocio preparado* **no es un
 fracaso**; puede significar exactamente «puedo retirarme, pero no quiero», que es compatible
 con la promesa central del libro y con la regla 7 del Mapa de Participación.
+
+
+---
+
+## Q-06 · Q-13 · Q-16 — Resultado conjunto (Etapa 3.8A, 2026-09-07)
+
+Las tres preguntas se investigaron juntas porque desembocan en el mismo sitio: **cómo se hace
+visible el razonamiento que una persona usa para decidir.** Siete fuentes registradas,
+**F-027 a F-033**.
+
+### 1. La limitación que condiciona todo lo demás
+
+**Cero textos completos en esta tanda.** Se intentaron todas las vías: páginas de editor,
+Crossref, OpenAlex, repositorios institucionales de Southampton, UWE, EPFL y HAL, figshare y
+el repositorio del Departamento de Defensa estadounidense. Todos devolvieron error o
+protección contra rastreo. De las siete fuentes:
+
+| Nivel de lectura | Fuentes |
+|---|---|
+| **Resumen verbatim en portal del editor** | F-030 |
+| **Resumen del registro bibliográfico** | F-027, F-029, F-031, F-032, F-033 |
+| **Solo identidad bibliográfica, sin contenido** | **F-028** |
+
+Es la segunda tanda seguida con este problema: Q-09 consiguió un texto completo de nueve, y
+esta, ninguno de siete. **Ninguna afirmación del capítulo 9 puede ir más allá del resumen que
+consta en la fila de cada fuente**, y F-028 **no puede citarse en absoluto**.
+
+### 2. El hallazgo que más afecta al libro
+
+**Casi toda esta literatura supone un entrevistador.** El método del incidente crítico
+(F-027) consiste en que alguien sondee a un experto; ACTA (F-031) son «tres métodos de
+entrevista»; la revisión de Cooke (F-030) recorre técnicas de elicitación, que por definición
+implican a quien elicita.
+
+Eso choca de frente con la ruta B, y no se puede disimular: **la literatura localizada no
+ofrece respaldo para la autoentrevista.** Un profesional que trabaja solo no tiene
+entrevistador, y el capítulo 9 va a proponerle que se lo haga a sí mismo. **Eso es diseño
+propio del Método LEGADO, no un método respaldado**, y debe decirse así.
+
+### 3. Q-06, continuación — métodos de externalización
+
+**RESUELTA para lo que el capítulo 9 necesita, con límites.** Existe un campo entero de
+técnicas de elicitación, disperso —F-030 lo dice literalmente: repartido entre psicología,
+gestión, educación, orientación, ciencia cognitiva, lingüística, filosofía, ingeniería del
+conocimiento y antropología— y organizable por semejanza metodológica, con fortalezas y
+debilidades por categoría.
+
+**Lo que no se pudo obtener:** cuáles son esas categorías. El resumen de F-030 no las nombra
+y el texto no se abrió. **El libro no puede presentar ninguna taxonomía de técnicas.**
+
+Lo que sí se puede sostener es más modesto y más útil: **no existe un método universal**, y
+**existe precedente de simplificar métodos expertos para quien no lo es** (F-031, que se
+define a sí mismo como *streamlined* y motivado por la poca accesibilidad de la técnica
+completa). Eso legitima lo que hace el libro sin exagerarlo.
+
+### 4. Q-13 — el trabajo experto individual
+
+**RESUELTA en su parte conceptual, gracias a F-029**, que es la fuente más útil de la tanda
+para el capítulo 9. Eraut distingue **tres tipos de conocimiento tácito**:
+
+1. la comprensión de personas y situaciones;
+2. las acciones rutinizadas;
+3. **las reglas que subyacen a la decisión intuitiva**.
+
+Y cuatro procesos —**leer la situación, decidir, actuar y metacognición**— con tres modos
+cognitivos, **intuitivo, analítico y deliberativo**, cuyo equilibrio **depende del tiempo
+disponible, la experiencia y la complejidad**.
+
+Tres consecuencias para el libro:
+
+- **«Leer la situación» es un proceso propio**, distinto de decidir. Eso respalda que el
+  Manual de criterio recoja **señales** y no solo reglas.
+- **El modo depende del tiempo.** La misma persona resuelve distinto con prisa que con calma,
+  así que registrar «cómo decido» sin decir en qué condiciones deja fuera la mitad.
+- Y una que incomoda: el aprendizaje situado produce a menudo **variación individual, no
+  conformidad**. Dos personas del mismo negocio pueden no converger en el mismo criterio solo
+  por trabajar allí. **Documentar no es, por sí solo, uniformar.**
+
+**Vacío que queda:** F-029 es trabajo profesional en general. **Sigue sin haber literatura
+localizada sobre el trabajo por cuenta propia o de una sola persona.** No se fuerza.
+
+### 5. Q-16 — marcos y evidencia
+
+**RESUELTA PARCIALMENTE.** Se localizaron cuatro piezas del mapa: un método de elicitación
+por incidentes (F-027), una revisión de técnicas (F-030), un método simplificado para
+practicantes (F-031) y una revisión crítica de la propia idea de codificar (F-032). **Sigue
+abierta** porque la revisión metodológica central, F-028, no pudo leerse, y porque de F-030
+no se obtuvieron las categorías.
+
+### 6. Los métodos, uno por uno
+
+| Método | Qué respaldo tiene |
+|---|---|
+| **Incidente concreto** —«cuénteme una ocasión»— | **A.** Es el núcleo de F-027, que extiende la técnica del incidente crítico. |
+| **Señales / cues** | **A.** F-027 elicita expresamente *decision cues* y *discriminaciones perceptivas*. F-029 hace de «leer la situación» un proceso propio. |
+| **Juicio de tipicidad** —caso típico frente a raro— | **A.** F-027 lo nombra entre las dimensiones que extrae. |
+| **Sondeos dirigidos sobre el episodio** | **A.** F-027, con la salvedad de que los sondeos concretos no se han leído. |
+| **Reconstrucción temporal del episodio** | **B.** Compatible con un método de incidentes; no confirmado en lo leído. |
+| **Alternativas consideradas** | **B.** Compatible; no confirmado. |
+| **Pregunta de contraste** —«qué habría cambiado su decisión»— | **C. Diseño propio.** Es plausible y coherente con la elicitación por incidentes, pero **no se ha verificado en ninguna fuente leída**, y el libro debe presentarla como suya. |
+| **Escenario contrafactual** | **C.** Igual que la anterior. |
+| **Pregunta abstracta directa** —«¿por qué decide así?»— | **D.** Ninguna fuente leída la respalda como método suficiente; todo el aparato de elicitación existe precisamente porque hace falta algo más. **No afirmar que no funcione**: afirmar que la literatura construyó alternativas. |
+| **Observación y pensar en voz alta** | **Sin evaluar.** No se localizó respaldo en lo leído; no entra. |
+| **Autoentrevista** | **C, y es el punto débil.** Ver apartado 2. |
+
+### 7. Recuerdo retrospectivo
+
+**No se encontró respaldo, y por tanto el libro no dirá nada sobre sesgo retrospectivo.** El
+encargo advertía de no introducir una afirmación sobre sesgo sin fuente, y no la hay entre
+lo leído.
+
+Lo que sí puede sostenerse sin fuente, porque es una regla de diseño y se declarará como tal:
+**una explicación plausible dada después no es prueba de lo que guio la decisión.** Es la
+misma cautela que el capítulo 8 ya aplica al prohibir inventar un motivo a posteriori.
+
+### 8. Los límites de la codificación, y sí están respaldados
+
+Esta era la pregunta doctrinal importante, y la respuesta es que **sí**.
+
+- **F-032** es literalmente una guía escéptica sobre el uso de «conocimiento tácito» y
+  «codificación» en economía, y propone reconceptualizarlos. Es decir: la frontera entre lo
+  tácito y lo codificado **es objeto de discusión, no un hecho asentado**.
+- **F-033**, revisión sistemática de pymes, concluye que las características del conocimiento
+  en las pequeñas empresas **se resisten a conceptualizarse como activos separables y
+  materiales**.
+- **F-029** sitúa parte del conocimiento profesional en acciones rutinizadas y en modos
+  intuitivos que dependen del tiempo y de la experiencia.
+
+**Conclusión: el libro no puede prometer que todo lo que una persona sabe quepa en un
+manual.** Y conviene decir que F-033 llega como contrapeso del propio concepto de **clonación
+del ADN empresarial**: la advertencia de `13-adn-empresarial.md` §1 —que no todo se
+documenta— **queda reforzada por evidencia externa**, no solo por prudencia del autor.
+
+### 9. La arquitectura del Manual de criterio, clasificada
+
+**A** respaldado · **B** compatible, no confirmado · **C** diseño propio · **D** problemático
+
+| Componente | Clase | Nota |
+|---|---|---|
+| Trabajar sobre **casos concretos** | **A** | F-027 |
+| **Señales** que importaron | **A** | F-027, F-029 |
+| Caso **típico** frente a caso raro | **A** | F-027 |
+| Qué **información** se tenía | **B** | |
+| **Alternativas** que existían | **B** | |
+| Qué se eligió y **por qué** | **B** | El «por qué» directo es justo lo que la elicitación considera insuficiente por sí solo |
+| **Qué habría cambiado la decisión** | **C** | Declararlo como propuesta del libro |
+| **Excepciones** | **C** | Viene del capítulo 8, no de la literatura |
+| **Cuándo detenerse y preguntar** | **C** | Diseño propio |
+| **Registrar la incertidumbre** y el «no sé explicarlo todavía» | **C** | Coherente con F-029, que admite conocimiento no verbalizable, pero el campo es del libro |
+| **Nueve campos** | **D** | Demasiados. F-031 respalda **simplificar**, no ampliar. Buscar una versión de cuatro o cinco. |
+
+**Sobre las condiciones:** F-029 obliga a añadir algo que no estaba en la arquitectura
+provisional. Como el modo cognitivo depende del tiempo disponible, **conviene registrar en
+qué condiciones se decidió** —con prisa o con calma, con información completa o incompleta—.
+Sin eso, el criterio escrito describe un caso que quizá no se repita.
+
+### 10. Comprobación del criterio escrito
+
+**No se localizó literatura sobre cómo comprobar que un criterio documentado es utilizable.**
+Lo que el capítulo 9 proponga en esta materia será **diseño propio**, y debe apoyarse en la
+constante que ya rige desde la Etapa 3.5.1: **documentado no es transferido**, y solo cuenta
+como transferido cuando alguien lo ha usado sin recurrir a su autor.
+
+### 11. Lo que el capítulo 9 podrá y no podrá decir
+
+**Podrá decir, con fuente:**
+
+- Que existe un cuerpo de métodos para extraer conocimiento experto, disperso entre muchas
+  disciplinas, y que ninguna fuente ofrece un método universal (F-030).
+- Que hay métodos construidos sobre **incidentes concretos** en lugar de preguntas abstractas,
+  y que extraen **señales de decisión, discriminaciones perceptivas y juicios de tipicidad**
+  (F-027).
+- Que el conocimiento tácito profesional incluye **comprender situaciones y personas**,
+  **acciones rutinizadas** y **reglas que subyacen a decisiones intuitivas**, y que el modo de
+  decidir **depende del tiempo, la experiencia y la complejidad** (F-029).
+- Que existe precedente de **simplificar** estos métodos para quien no es especialista
+  (F-031).
+- Que la idea de codificar conocimiento **está discutida**, y que en las pequeñas empresas el
+  conocimiento **se resiste a tratarse como un activo separable** (F-032, F-033).
+
+**No podrá decir:**
+
+- Ninguna taxonomía de técnicas de elicitación. **No se leyó ninguna.**
+- Nada procedente de F-028.
+- Nada sobre sesgo o distorsión del recuerdo retrospectivo.
+- Que la autoentrevista tenga respaldo metodológico. **No lo tiene.**
+- Que estos métodos estén validados para negocios pequeños. **Los dominios son bomberos,
+  urgencias, militares e ingeniería.**
+- Que el Manual de criterio esté validado de ninguna manera.
+- Que todo el conocimiento de una persona pueda pasar a un documento.

@@ -14,7 +14,7 @@ Se usa en dos tiempos, y el orden no es un detalle:
 | | |
 |---|---|
 | **Fase 1 — El hecho** | Qué pasó. Se escribe sin opinar. |
-| **Fase 2 — El juicio** | Qué hacemos con ello. Se escribe con distancia, y otro día. |
+| **Fase 2 — El juicio** | Qué hacemos con ello. Se escribe **en una revisión separada y con distancia**, no en el mismo momento. |
 
 Quien juzga mientras describe acaba escribiendo una justificación en lugar de un registro.
 
@@ -73,7 +73,8 @@ caso no se sostiene: no escriba que una cosa causó la otra.
 
 ## 5. Fase 2 — El juicio
 
-Otro día, y con la fila delante.
+En una revisión aparte, con distancia y con la fila delante. **Trabajando solo, conviene que
+pase tiempo**; no hay un plazo correcto.
 
 | Excepción | ¿Sigue teniendo sentido? | Clasificación | Hasta cuándo | Quién vuelve a mirarlo | Siguiente paso |
 |---|---|---|---|---|---|
@@ -96,7 +97,8 @@ costumbre, no una razón; «funcionó aquella vez» describe un caso, no una reg
 
 **Hasta cuándo.** No tiene que ser una fecha. Puede ser una condición —«mientras dure este
 proyecto»— y puede ser «sin plazo, se revisa». **Lo que no puede es quedar en blanco:** una
-excepción sin horizonte se queda para siempre por inercia.
+excepción sin horizonte **puede mantenerse por inercia** mucho después de que su razón se
+acabe.
 
 **Quién vuelve a mirarlo.** No es quien aprueba: es quien comprobará si esto sigue teniendo
 sentido. **Con equipo**, alguien que participe en ese trabajo. **Trabajando solo**, usted
@@ -109,8 +111,9 @@ existe.**
 
 **Puede ser una regla sin escribir.** Si el mismo apartamiento se repite bajo las mismas
 condiciones y por el mismo motivo, quizá ya no sea un caso especial: es cómo se trabaja, y no
-está anotado. **Lo que lo delata es el patrón, no el número de veces**: una excepción anual
-puede seguir siendo excepción, y una semanal puede ser una regla encubierta.
+está anotado. **Lo que lo sugiere es el patrón, no el número de veces**: una excepción anual
+puede seguir siendo excepción, y una semanal puede ser una regla encubierta. **El patrón lo
+sugiere; compruébelo antes de convertirlo en regla.**
 
 **O puede ser la forma normal, que está mal.** Si hay que apartarse continuamente de lo
 previsto para que el trabajo salga, el problema puede estar en lo previsto. **Anótelo y no lo
