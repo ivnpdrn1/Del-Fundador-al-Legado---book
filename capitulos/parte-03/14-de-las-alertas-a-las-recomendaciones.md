@@ -4,7 +4,7 @@ parte: 3
 titulo: "De las alertas a las recomendaciones"
 etapa_metodo: "A"
 estado: borrador
-palabras: 1864
+palabras: 1978
 casos_usados: ["C-11"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -16,12 +16,13 @@ ultima_actualizacion: "2026-09-09"
 El capítulo anterior terminó preguntando: si ya puede llamar mi atención, ¿cuándo debería
 proponerme qué hacer?
 
-La respuesta corta es que puede hacerlo cuando usted se lo permita para esa tarea, y que el
-permiso cambia menos de lo que parece. Lo que cambia de verdad es otra cosa, y conviene decirla
-antes que nada: **a partir de aquí la herramienta empieza a tener opinión, y usted empieza a
-tener que decidir si está de acuerdo.**
+La respuesta corta es que puede hacerlo cuando usted se lo permita para esa tarea. Lo que
+cambia de verdad es otra cosa, y conviene decirla antes que nada: **a partir de aquí la
+herramienta empieza a producir propuestas, y usted empieza a tener que decidir qué hace con
+ellas.**
 
-Es un salto pequeño en la máquina y grande en usted.
+El cambio de permiso parece pequeño. Lo que no lo es: la decisión vuelve a usted **con una
+salida ya pensada encima.**
 
 ## Avisar no es recomendar
 
@@ -73,9 +74,9 @@ nivel 4».
 ## Por qué esto tiene nombre propio
 
 Al problema que aparece cuando una herramienta empieza a proponer se le llama **sesgo de
-automatización**, y este libro lo trae porque una norma lo trae primero: el reglamento europeo
-de inteligencia artificial —**norma de la Unión Europea y solo para sistemas de alto riesgo**—
-exige que las personas encargadas de supervisar sean **conscientes** de él.
+automatización**, y no es una preocupación de este libro: el reglamento europeo de inteligencia
+artificial —**norma de la Unión Europea y solo para sistemas de alto riesgo**— **lo menciona
+expresamente** y exige que las personas encargadas de supervisar sean **conscientes** de él.
 
 Una revisión académica de literatura lo define como **la tendencia a confiar en exceso en las
 recomendaciones automáticas**. La misma revisión —de estudios sobre sanidad, derecho y
@@ -83,13 +84,14 @@ administración pública, **no sobre negocios pequeños**— señala que en el a
 cosas de las que uno diría: la experiencia profesional de quien recibe la propuesta, cuánta
 verificación exige la tarea y **lo complicada que sea la explicación**.
 
-Lo de Inés no fue confiar demasiado en una máquina. Fue algo más difícil de ver: **estar de
-acuerdo.** Cuando una propuesta coincide con lo que uno ya pensaba, deja de parecer una
-propuesta y empieza a parecer una confirmación.
+No hace falta diagnosticar qué le pasó a Inés por dentro. Lo que importa es observable: **la
+propuesta coincidía con lo que ella ya pensaba, y por eso resultaba fácil dejar de comprobarla.**
+Una propuesta con la que uno está de acuerdo deja de parecer una propuesta y empieza a parecer
+una confirmación.
 
 ## Explicar no basta
 
-Aquí está el giro del capítulo, y va contra lo que parece de sentido común.
+Aquí está el giro del capítulo, y va contra el sentido común.
 
 La misma revisión registra algo incómodo: aunque las explicaciones están pensadas para reducir
 ese exceso de confianza, **una explicación demasiado técnica, demasiado exigente o incluso
@@ -99,18 +101,22 @@ marco de gestión de riesgos que ya citamos apunta en la misma dirección desde 
 presentar información y explicaciones a personas **es complejo**, porque cada una deriva de
 ellas un significado distinto.
 
-Dicho de otra manera: **una recomendación bien explicada se parece mucho a una recomendación
+Dicho de otra manera: **una recomendación bien explicada puede parecer una recomendación
 correcta**, y no son lo mismo.
 
 Así que la conclusión de este capítulo **no es «hay que explicar más»**. Es otra, más
 incómoda y más útil:
 
 > **Una recomendación no se acepta porque suene bien, porque venga explicada, porque traiga
-> muchos datos ni porque la haya producido una herramienta. Se acepta cuando usted ha podido
-> comprobar algo.**
+> muchos datos, porque la haya producido una herramienta ni porque coincida con lo que usted ya
+> pensaba. Antes de decidir, usted tiene que poder comprobar en qué se apoya.**
 
-Por eso lo que se le exige a una propuesta no es elocuencia. Es **que traiga consigo con qué
-comprobarla**.
+Y la otra mitad, porque sin ella la regla se lee al revés: **haberla comprobado no obliga a
+aceptarla.** Comprobar es lo que hace falta **antes** de decidir; no es lo que decide.
+
+Por eso a una propuesta no se le exige elocuencia, sino **que diga dónde ir a mirar** —un
+documento, un registro, una regla escrita—, **algo que exista fuera de la propia
+recomendación**. Una herramienta no se valida a sí misma.
 
 ## Evidencia y criterio, separados
 
@@ -118,7 +124,8 @@ El «porqué» de una recomendación son en realidad dos cosas, y juntas se conf
 
 La **evidencia** es lo que respalda esta situación concreta: un dato, un documento, un registro,
 una condición, un resultado observado. Tiene que poder mirarse, y por eso hay que decir **dónde
-está** —en la fuente de referencia que usted fijó, no en una copia cualquiera—.
+está** —en la versión que el negocio reconoce como referencia vigente, no en una cuya vigencia
+nadie pueda confirmar—.
 
 El **criterio** es la regla con la que esa evidencia se interpreta: por qué esos datos llevan a
 esa propuesta y no a otra. Sale del criterio que usted documentó.
@@ -136,8 +143,10 @@ no lo reemplaza.
 
 El nivel 4 pide algo más, y es lo que más cuesta escribir: que la propuesta **diga qué no sabe**.
 
-Sin porcentajes. «Confianza del noventa por ciento» no significa nada aquí y hace daño, porque
-un número da apariencia de rigor y no se puede comprobar. La incertidumbre se dice en el idioma
+Y no en forma de porcentaje. Un «noventa por ciento de confianza», por sí solo, **no dice qué
+información falta, qué supuesto puede fallar ni qué haría cambiar la propuesta**. Por eso este
+formato no lo usa **como sustituto de esas preguntas**. Si su negocio ya emplea una medida
+propia, consérvela: lo que no puede es ocupar ese sitio. La incertidumbre se dice en el idioma
 del negocio y **referida a esta propuesta**:
 
 > «falta este dato» · «esta información puede estar desactualizada» · «hay dos reglas que
@@ -163,7 +172,7 @@ a mano:
 | **3** | **Qué criterio o regla aplica** | La regla, separada de los datos |
 | **4** | **Qué no sabe** | De esta propuesta. Nada genérico |
 | **5** | **Qué haría cambiar la propuesta** | Qué información la volvería del revés |
-| **6** | **La decisión** | ☐ aceptar ☐ modificar ☐ rechazar ☐ posponer ☐ pedir más información. Con quién decidió, cuándo y qué cambió |
+| **6** | **La decisión** | ☐ aceptar ☐ modificar ☐ rechazar ☐ posponer ☐ pedir más información. Quién decidió, cuándo y, si modificó, qué cambió |
 
 El componente **5** es el que más trabaja, aunque parezca el más blando: convierte una laguna en
 una indicación de **dónde mirar**. Y el **6** tiene una regla propia: **ninguna de las cinco

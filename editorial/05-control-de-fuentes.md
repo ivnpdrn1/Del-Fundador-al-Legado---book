@@ -133,7 +133,7 @@ literal: trece apariciones. Segunda, de lectura: las trece legítimas.** Son cit
 respuestas está predeterminada», «no hay ninguna obligación de seguir subiendo»—, reglas del
 método y usos internos del caso —«esa decisión la ha tomado siempre ella», «los datos eran
 correctos»—. **Es el primer capítulo del libro sin ninguna corrección de universalidad en la
-segunda pasada.**
+segunda pasada.** **Matizado el 2026-09-09 tras el control 3.13B.1**, que sí encontró dos, y conviene decir por qué la primera pasada no las vio: **ninguna de las dos contenía una palabra de la lista**. Eran «una recomendación bien explicada **se parece mucho a** una recomendación correcta», corregida a «**puede parecer**», y «un porcentaje de confianza **no significa nada aquí y hace daño**», corregida a que **no dice qué falta** y por eso no sustituye a las preguntas del formato. **La lección se acumula a la de la Etapa 3.12B.2:** la búsqueda literal encuentra palabras, no afirmaciones, y **las universalidades más caras de este libro no han llevado ninguna de esas palabras**.
 
 **Una corrección sí hubo, y no la encontró la búsqueda literal.** El capítulo decía «**Nadie ha
 demostrado** que rellenarlo evite el exceso de confianza», que es una afirmación sobre todo el

@@ -59,6 +59,7 @@
 **Etapa 3.12B.2 — Reconciliación del ciclo de vida de las alertas: COMPLETADA el 2026-09-09.**
 **Etapa 3.13A — Preflight del capítulo 14: COMPLETADA el 2026-09-09.**
 **Etapa 3.13B — Capítulo 14: COMPLETADA el 2026-09-09.**
+**Etapa 3.13B.1 — Control conceptual del capítulo 14 y reconciliación de recuentos: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -115,6 +116,10 @@ el apartado 6 de este documento**, congelado desde la Etapa 3.7.
 **El capítulo dice algo que va contra lo que el lector espera, y esa era su dificultad:** **explicar no basta.** Una explicación demasiado técnica —o demasiado simple— puede reforzar una confianza mal colocada, y las explicaciones pueden aumentar la aceptación de un sistema **sin mejorar la exactitud de la decisión**. De ahí la regla del método: una recomendación se acepta **cuando se ha podido comprobar algo**, no cuando viene bien explicada.
 
 **Y el capítulo aplica V-68 sobre sí mismo**, que es la primera vez que el libro declara la limitación de su propio instrumento dentro del capítulo que lo presenta: el formato **está construido contra el problema, y eso no es lo mismo que estar comprobado**.
+
+**El control 3.13B.1 corrigió nueve residuos del capítulo y dos recuentos, y uno de los residuos tocaba la regla central.** El capítulo decía que una recomendación «se acepta cuando usted ha podido comprobar algo», que se lee como si **comprobar bastara para aceptar**. La regla vigente va en dos mitades que no pueden separarse: **antes de decidir hay que poder comprobar en qué se apoya, y haberlo comprobado no obliga a aceptar.** Corregida también en la constante.
+
+El resto eran afirmaciones más amplias que la evidencia: la herramienta **no «tiene opinión»** —produce propuestas—; el libro **no afirma qué fuente nombró primero** el sesgo de automatización; el caso **no diagnostica** qué sesgo operó en su protagonista, solo observa que una propuesta con la que se está de acuerdo es fácil de dejar sin comprobar; y **un porcentaje de confianza no se declara inútil**, sino insuficiente como sustituto de decir qué falta.
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
 **El capítulo 15 no se ha escrito.**
@@ -326,14 +331,14 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 | Capítulo 11 | **Escrito y revisado**, 2.177 palabras (objetivo 2.300) |
 | Capítulo 12 | **Escrito y revisado**, 2.284 palabras (objetivo 2.200) |
 | Capítulo 13 | **Escrito y revisado (3.12B.1 y 3.12B.2)**, 2.278 palabras (objetivo 2.100) |
-| Capítulo 14 | **Escrito**, 1.864 palabras (objetivo 2.000). **Primer capítulo de la Parte III por debajo de su objetivo** |
+| Capítulo 14 | **Escrito y revisado (3.13B.1)**, 1.978 palabras (objetivo 2.000). **Sigue por debajo de su objetivo**, como pedía la etapa |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **34.477** |
+| Palabras del manuscrito | **34.591** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | **64,7 %** |
+| Avance sobre el objetivo | **64,9 %** |
 | Recursos terminados | **11 de 18** (**20.556 palabras**; no computan en el manuscrito). **Quedan siete.** **Recuento unificado el 2026-09-09:** la cifra anterior, 15.391, procedía de otro método de conteo. |
-| Entregables que no son herramienta del catálogo | **2**: la vista del proceso real del capítulo 7 (D-070) y el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12. Ambos viven dentro de su capítulo y **no tienen archivo en `recursos/`** |
-| Documentación del proyecto | **42 archivos**. **Regla de conteo, fijada aquí para que deje de ser una cifra sin origen:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **64** en total, menos **13** piezas del manuscrito y **9** herramientas |
+| Entregables que no son herramienta del catálogo | **3**, recontados sobre los archivos el 2026-09-09: la **vista del proceso real** del capítulo 7 (D-070), el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12 y el **Formato de recomendación explicada** del capítulo 14. **Los tres viven dentro de su capítulo, no tienen archivo en `recursos/` y no alteran el catálogo**, que sigue en 18. Antes decía **2**: la fila no se actualizó al escribir el capítulo 14 |
+| Documentación del proyecto | **42 archivos**, y la cifra se ha recontado, no arrastrado. **Regla de conteo:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **68** en total, menos **15** piezas del manuscrito y **11** herramientas. **La cuenta da 42 igual que antes por coincidencia aritmética** —el repositorio ganó cuatro archivos y todos fueron manuscrito o herramienta—, y la explicación anterior seguía diciendo 64, 13 y 9, que eran los números de dos etapas atrás |
 | Casos ficticios publicados | **11** (C-01 a C-11). Reparto: **6 ruta A / 5 ruta B**; **6 mujeres / 5 hombres**; **10 sectores distintos** —servicios técnicos es el único con dos casos— |
 | Decisiones registradas | **76** (D-001 a D-076), de las cuales **2 reemplazadas y conservadas**: D-023 por D-043, y D-024 en parte por D-047 y D-034. **Nuevas el 2026-09-09:** **D-075**, ampliación del alcance, y **D-076**, los dos títulos que representaban solo el retiro |
 
