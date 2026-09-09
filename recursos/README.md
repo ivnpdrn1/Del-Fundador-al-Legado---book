@@ -47,16 +47,16 @@ una arquitectura vieja.
 
 | Elemento | **Modo A** — organización con personas | **Modo B** — profesional independiente o negocio unipersonal |
 |---|---|---|
-| **Sujeto de la autoridad** | Una persona, una función o un órgano **que existan de verdad** (D-073). Se prefiere la función cuando la autoridad deba sobrevivir al cambio de persona. **No se inventan cargos.** | La propia persona. Y quien más tenga autoridad realmente asignada, si lo hay: un socio, un órgano, la propiedad. **Ni los procedimientos ni los sistemas**: esos ejecutan, no responden. |
+| **Sujeto de la autoridad** | Una persona, una función o un órgano **que existan de verdad** (D-073). Se prefiere la función cuando la autoridad deba sobrevivir al cambio de persona. **No se inventan cargos.** | La propia persona. Y quien más tenga autoridad realmente asignada, si lo hay: un socio, un órgano, la propiedad. **Ni los procedimientos ni los sistemas son titulares de autoridad**, porque no pueden responder de nada. Y un procedimiento **apoya la ejecución, no ejecuta por sí solo** (D-074); el posible papel ejecutor de un sistema se trata más adelante. |
 | **Qué se escribe** | Quién puede decidir qué y hasta dónde. | Hasta dónde actúa usted sin volver a abrir la decisión, qué obliga a pausar y qué no acepta. |
 | **Forma del límite** | Alcance, plazo, tipo de caso, consecuencias, posibilidad de deshacerlo, información implicada. **El importe es una forma más, cuando de verdad aplique.** | La misma lista. Reglas propias escritas: umbrales de compromiso, condiciones que no se negocian, tipos de encargo que se rechazan. |
 | **Quién ejecuta dentro del límite** | La persona que ocupa la función. **Puede coincidir con quien decide**, y eso no es un error automático: la matriz lo hace visible y después se juzga. | Usted, o un colaborador externo, **con el apoyo de un procedimiento o una plantilla, que no ejecutan por sí solos**. **Ejecutar no es decidir.** |
 | **Concentración de funciones** | La matriz hace visible quién **inicia, autoriza, ejecuta y registra**. Cuando esas funciones se concentran y el impacto lo justifica, separar alguna reduce la posibilidad de que una misma persona **haga y oculte** (F-035). **No es una regla para todas las decisiones**, y la norma de referencia prevé expresamente que no siempre sea practicable (F-034). | Con una sola persona **no existe separación de funciones**, y una fuente oficial lo dice con esas palabras (F-035). **No se finge.** Se diseñan controles alternativos —pausa, revisión diferida, constancia escrita, consulta real cuando la haya—. |
-| **Quién revisa después** | Un revisor interno designado, la propiedad o un tercero externo: **el que exista**. | Un contador o un asesor real, si lo hay. Si no lo hay, **una segunda mirada propia y diferida**, que **no es independiente y no debe llamarse así**. Y puede no haber hoy ninguna revisión externa: eso se anota, no se disimula. |
+| **Quién revisa después** | Un revisor interno designado, la propiedad o un tercero externo: **el que exista**. | Un contador o un asesor real, si lo hay. Si no lo hay, una **revisión propia diferida**, que **no es independiente** y **no equivale a repartir la revisión entre dos personas**. Y puede no haber hoy ninguna revisión externa: eso se anota, no se disimula. |
 | **Evidencia** | Fecha, decisión, regla aplicada y quién decidió. | La misma, y además si se cruzó el límite y qué se hizo entonces. |
 | **Señal de que la matriz funciona** | Las decisiones dentro del límite dejan de subir. | Las decisiones dentro del límite dejan de repensarse cada vez. |
 
-**Las cuatro definiciones que gobiernan esta herramienta** (D-072, refinada por D-073):
+**Las cuatro definiciones que gobiernan esta herramienta** (D-072, refinada por D-073 y D-074):
 
 | | |
 |---|---|

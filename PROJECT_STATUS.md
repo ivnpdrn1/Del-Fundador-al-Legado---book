@@ -42,6 +42,7 @@
 **Etapa 3.9A — Investigación Q-08 y preflight de la etapa G: COMPLETADA el 2026-09-08.**
 **Etapa 3.9B — Capítulo 10 y herramienta 8: COMPLETADA el 2026-09-08.**
 **Etapa 3.9B.1 — Control conceptual final de G-1: COMPLETADA el 2026-09-09.**
+**Etapa 3.9B.2 — Reconciliación documental final de G-1: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -380,6 +381,14 @@ publicado a continuación.
 
 1. **Revisar el capítulo 10 y la herramienta 8.** Es lo único que el autor ha pedido a
    continuación. No se escribirá el capítulo 11 sin nueva autorización.
+1 bis bis. **La Etapa 3.9B.2 reconcilió los documentos de control con D-074 y con V-61.** Tres
+   instrucciones vigentes contradecían la doctrina ya corregida en el manuscrito: la arquitectura
+   de la herramienta 8 seguía diciendo que procedimientos y sistemas «ejecutan»; la constante de
+   la revisión propia **ordenaba** declararla más débil, que es la jerarquía que V-61 dejó sin
+   resolver; y la constante de la certeza terminaba prometiendo que la matriz «hace que cruzarlo
+   sea visible». **Cero decisiones nuevas: es reconciliación, no doctrina.** Un barrido de todo el
+   repositorio localizó **cinco apariciones más en piezas fuera de alcance** —el método en su
+   etapa E, el capítulo 8 y las herramientas 6 y 7—, anotadas en V-61 y **no corregidas**.
 1 bis. **La Etapa 3.9B.1 corrigió ocho contradicciones conceptuales de G-1**, y una tocaba un
    principio permanente: el capítulo decía que si todas las decisiones quedaban reservadas «el
    ejercicio no ha salido bien», y eso **contradice D-040**, que prohíbe juzgar la participación
