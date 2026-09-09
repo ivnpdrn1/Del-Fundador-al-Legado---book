@@ -1,9 +1,9 @@
 # 05 — Control de fuentes en el manuscrito
 
 **Etapa:** 1 — Fundamentos. Con registros desde la Etapa 2.
-**Estado:** vigente. **Treinta y seis afirmaciones registradas a 2026-09-09, todas cerradas**,
-en nueve de las catorce piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11, 12 y 13.
-Cero marcas `[POR VERIFICAR]` en el manuscrito.
+**Estado:** vigente. **Cuarenta y una afirmaciones registradas a 2026-09-09, todas cerradas**,
+en diez de las quince piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11, 12, 13 y
+14. Cero marcas `[POR VERIFICAR]` en el manuscrito.
 
 **Aviso de recuento (2026-09-09).** El encabezado decía «siete afirmaciones registradas», cifra
 de la Etapa 2 que dejó de describir el archivo hace mucho. Se corrige aquí y **se cuenta de una
@@ -99,6 +99,47 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+
+**Capítulo 14: cuatro afirmaciones y dos fuentes, ninguna con cifras.** Es el capítulo donde una
+fuente **contradice lo que el lector espera oír**, y por eso el control aquí no consiste en
+vigilar que no se exagere, sino en comprobar que **no se suavice**. F-043 dice que explicar puede
+no servir; el capítulo tenía que decirlo entero.
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 14 | «…el reglamento europeo de inteligencia artificial —**norma de la Unión Europea y solo para sistemas de alto riesgo**— exige que las personas encargadas de supervisar sean **conscientes** de él.» | **F-010** | Obligación atribuida, **con ámbito doble dentro de la frase** | Cerrada. Artículo 14. **Es la fuente por la que el concepto entra en el libro** (D-019), y el capítulo lo dice así: «este libro lo trae porque una norma lo trae primero». **El ámbito se acota dos veces en la misma frase**, igual que en el capítulo 12. **Prohibido**, y no se hace: presentarlo como obligación del lector, o sugerir que seguirlo signifique cumplir nada (D-020). |
+| 14 | «Una revisión académica de literatura lo define como **la tendencia a confiar en exceso en las recomendaciones automáticas**.» | **F-043** | Definición atribuida | Cerrada. Traduce «the tendency to **over-rely on automated recommendations**». **Se dice qué clase de trabajo es** —una revisión de literatura— antes de citarlo. |
+| 14 | «La misma revisión —**de estudios sobre sanidad, derecho y administración pública, no sobre negocios pequeños**— señala que en el asunto intervienen más cosas: la experiencia profesional de quien recibe la propuesta, cuánta verificación exige la tarea y lo complicada que sea la explicación.» | **F-043** | Hallazgo atribuido, **con el ámbito dentro de la frase** | Cerrada. Corresponde a «AI literacy, level of professional expertise, cognitive profile, developmental trust dynamics, **task verification demands**, and **explanation complexity**». **Se citan tres de los seis factores**, los que el capítulo usa, y **no se atribuye ninguna magnitud ni ningún estudio individual**: solo se leyó el resumen íntegro del editor. |
+| 14 | «…aunque las explicaciones están pensadas para reducir ese exceso de confianza, **una explicación demasiado técnica, demasiado exigente o incluso demasiado simple puede reforzar una confianza mal colocada**; y añade que las explicaciones **pueden aumentar la aceptación de un sistema sin mejorar la exactitud de la decisión**.» | **F-043** | **Hallazgo contraintuitivo, y es el eje del capítulo** | Cerrada, y es **la afirmación más importante de la Parte III después del apéndice C de F-007**. Traduce «overly technical, cognitively demanding, or even simplistic explanations **may inadvertently reinforce misplaced trust**» y «although explanations may increase perceived system acceptability, **they are often insufficient to improve decision accuracy or mitigate AB**». **Los dos «puede» se conservan**: la fuente no dice que ocurra siempre y el libro tampoco. De aquí sale la constante **«explicar no reduce por sí solo el exceso de confianza»** y la frase que sostiene el capítulo: una recomendación se acepta **cuando se ha podido comprobar algo**, no cuando viene explicada. |
+| 14 | «El marco de gestión de riesgos que ya citamos apunta en la misma dirección desde otro lado: presentar información y explicaciones a personas **es complejo**, porque cada una deriva de ellas un significado distinto.» | **F-007** | Observación atribuida | Cerrada. Del apéndice C, registrado en la Etapa 3.11A. **Se usa como apoyo lateral**, no como prueba: el capítulo dice «apunta en la misma dirección», que es exactamente lo que hace. **Prohibido**, y no se hace: convertir el «is complex» de la fuente en una afirmación sobre lo que ocurre. |
+
+**Fuentes disponibles que el capítulo 14 decidió NO citar.**
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-044** (Fügener et al., sobre delegación) | Sostiene que juzgar el propio metaconocimiento es difícil, lo que roza el asunto de aceptar o rechazar una propuesta. | **Descartada en el preflight (Etapa 3.13A) y no reincorporada.** Sostiene *cuándo* delegar —capítulos 12 y 15—, no *cómo se presenta una propuesta*, que es lo que trata el 14. **No se introduce una fuente por decoración.** |
+| **F-009** (OCDE) | Contiene la capacidad de intervención y supervisión humanas. | **Redundante con F-010**, que dice lo mismo con más precisión y ya está citada en el capítulo. |
+
+**Sobre el Formato de recomendación explicada.** Sus seis componentes son **diseño del método**,
+no derivan de ninguna fuente, y el capítulo lo dice en el propio apartado: **«está construido
+contra el problema que este capítulo describe, y eso no es lo mismo que estar comprobado.
+Ninguna de las fuentes revisadas sostiene que rellenarlo evite el exceso de confianza.»** Es la
+aplicación literal de **V-68**, y es la primera vez que el libro **declara la limitación de su
+propio instrumento dentro del capítulo que lo presenta**.
+
+**Control de universalidades del capítulo 14.** Ejecutado en las dos pasadas. **Primera,
+literal: trece apariciones. Segunda, de lectura: las trece legítimas.** Son citas de la fuente
+—«sin mejorar la exactitud de la decisión»—, negaciones metodológicas —«ninguna de las cinco
+respuestas está predeterminada», «no hay ninguna obligación de seguir subiendo»—, reglas del
+método y usos internos del caso —«esa decisión la ha tomado siempre ella», «los datos eran
+correctos»—. **Es el primer capítulo del libro sin ninguna corrección de universalidad en la
+segunda pasada.**
+
+**Una corrección sí hubo, y no la encontró la búsqueda literal.** El capítulo decía «**Nadie ha
+demostrado** que rellenarlo evite el exceso de confianza», que es una afirmación sobre todo el
+conocimiento existente y **repetía el defecto que la Etapa 3.12A.1 había corregido en la ficha de
+F-045**. Se sustituyó por **«ninguna de las fuentes revisadas sostiene…»**. **Tercera vez que ese
+patrón aparece**, y las tres en el mismo sitio: al declarar un límite del propio método.
 
 **Capítulo 13: tres referencias externas, dos documentos, ninguna cifra.** Las tres son del
 mismo instituto —**F-007** y **F-045**— y las tres se usan **para limitar lo que el método puede

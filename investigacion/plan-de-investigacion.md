@@ -1972,9 +1972,9 @@ El capítulo 13 estableció que **la decisión de una persona no es verdad autom
 necesita la cara contraria: **la recomendación del sistema no puede convertirse en la opción por
 defecto.**
 
-**Principio, no interfaz** —el libro no diseña pantallas—: **aceptar no puede costar menos
-trabajo que rechazar.** Si aceptar es una firma y rechazar exige explicarse, el formato ha
-decidido por la persona. Por eso las cinco respuestas van juntas y al mismo nivel:
+**Regla del método, no afirmación empírica** —el libro no diseña pantallas ni mide esfuerzos—:
+**ninguna de las cinco respuestas se presenta como predeterminada o privilegiada, y no existe
+«aceptar por omisión».** Las cinco son decisiones explícitas de una persona, y van juntas:
 
 **aceptar · modificar · rechazar · posponer · pedir más información**
 
@@ -2025,7 +2025,7 @@ le dice a usted dónde mirar**.
 | **3** | **Qué criterio o regla aplica** | Una conclusión sin origen. Separado de la evidencia **a propósito** |
 | **4** | **Qué no sabe** | El descargo genérico. Tiene que ser de **esta** recomendación |
 | **5** | **Qué haría cambiar la propuesta** | Que declarar una laguna se quede en gesto. Es el componente que **convierte la duda en algo comprobable** |
-| **6** | **La decisión** | Que aceptar sea el camino de menor esfuerzo. Cinco respuestas al mismo nivel, más **quién, cuándo y qué modificó** |
+| **6** | **La decisión** | Que exista una respuesta por omisión. Cinco decisiones explícitas al mismo nivel, más **quién, cuándo y qué modificó** |
 
 **Los componentes 2 y 3 son el «por qué» partido en dos**, y esa partición es deliberada: junta,
 una explicación fluida se confunde con una explicación sólida.

@@ -1,6 +1,6 @@
 # Parte III — Construir una mano derecha digital
 
-Capítulos 11 a 16. **Producción iniciada el 2026-09-09. Escritos el 11, el 12 y el 13.**
+Capítulos 11 a 16. **Producción iniciada el 2026-09-09. Escritos el 11, el 12, el 13 y el 14.**
 
 Las dos partes anteriores sirvieron para **mirar** y para **trabajar**: cuánto depende el
 negocio de una persona, qué es exactamente lo que depende, cómo se documenta y quién puede
@@ -14,7 +14,7 @@ defiende: **primero se ordena, después se asiste**.
 | 11 | Ordenar antes de automatizar | **A, con G como requisito** | Lista de información que no debe entregarse libremente a una inteligencia artificial (9) | **borrador** |
 | 12 | La inteligencia artificial como aprendiz | A | **Cuadro de lo que puede y lo que no puede hacer — dentro del capítulo, no es una de las 18** | **borrador** |
 | 13 | El periodo de sombra y las primeras alertas | A | Lista de verificación del modo sombra (10) y Modelo de alertas críticas (11) | **borrador** |
-| 14 | De las alertas a las recomendaciones | A | — | no iniciado |
+| 14 | De las alertas a las recomendaciones | A | **Formato de recomendación explicada — dentro del capítulo, no es una de las 18** | **borrador** |
 | 15 | Autonomía limitada y aprobación humana | A | Matriz de niveles de autonomía (12) | no iniciado |
 | 16 | Seguridad, privacidad y auditoría | A | — | no iniciado |
 
