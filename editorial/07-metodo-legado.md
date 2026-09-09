@@ -262,42 +262,95 @@ en el capítulo 24.
 
 **Propósito.** Escribir quién puede decidir qué, hasta qué límite, con qué información y
 quién lo revisa. Sin esto, delegar es un acto de fe y automatizar es imprudente.
+**Precisión del 2026-09-08 (D-072):** G escribe **permisos y límites**. No transfiere nada
+todavía; la transferencia real es D, en el capítulo 18.
 
-**Diagnóstico.** ¿Existen límites de gasto escritos? ¿Alguien puede iniciar y aprobar la
-misma operación? ¿Quién revisa las excepciones? ¿Existe registro de quién hizo qué?
+**Diagnóstico.** ¿Hasta dónde puede llegar cada decisión sin nueva consulta, y está escrito?
+¿Hay decisiones que la misma persona inicia, autoriza, ejecuta y registra? ¿Quién revisa las
+excepciones? ¿Queda constancia de quién decidió qué? **El dinero es una forma de límite entre
+varias**: también lo son el alcance, el plazo, el tipo de cliente, la información que se toca, la
+seguridad, el compromiso que se adquiere y la posibilidad de deshacerlo.
 
 **Preguntas al fundador.**
-1. ¿Hasta qué monto puede comprometer dinero cada responsable, hoy y por escrito?
-2. ¿Qué decisiones no delegaría bajo ninguna circunstancia, y por qué?
+1. ¿Hasta dónde puede llegar una decisión sin volver a consultarle, hoy y por escrito? El
+   importe es una forma de contestarlo; el alcance, el plazo, el tipo de encargo y lo
+   reversible que sea son otras.
+2. ¿Qué decisiones quiere mantener reservadas **hoy**, y por qué? Conviene separar tres cosas
+   que no son iguales: **reservada por elección suya**, revisable cuando cambien las
+   circunstancias; **reservada por propiedad o gobierno del negocio**; y **reservada por ley,
+   licencia o responsabilidad profesional**, que no la decide este libro y exige consultar en
+   su jurisdicción. **Corregido el 2026-09-08:** la pregunta decía «bajo ninguna
+   circunstancia», y eso convierte una preferencia de hoy en una prohibición para siempre.
 3. ¿Quién revisa lo que hace la persona en quien más confía?
 4. ¿Qué ocurre hoy cuando alguien se salta un límite?
 5. ¿Qué decisiones toma usted que en realidad no necesitan su criterio?
 
-**Acciones.** Matriz de autoridad y aprobaciones. Separación de funciones en los procesos
-que mueven dinero, inventario o datos personales. Definición de la lista de decisiones
-reservadas a personas. Reglas de excepción con vigencia y responsable. Registro de
-actividad.
+**Acciones.** Matriz de autoridad y aprobaciones. **Hacer visible dónde se concentran
+iniciar, autorizar, ejecutar y registrar**, y separar alguna de esas funciones **cuando el
+impacto lo justifique y haya personas suficientes**. Definición de la lista de decisiones
+reservadas. Reglas de excepción con vigencia y revisor. Registro de lo decidido.
+
+**Corregido el 2026-09-08 tras Q-08.** La redacción anterior mandaba separar funciones en los
+procesos que mueven dinero, inventario o datos personales, sin condición ninguna. **La propia
+norma de referencia prevé lo contrario cuando no hay personal suficiente:** «Where such
+segregation is not practical, management designs alternative control activities to mitigate the
+risk» (F-034, 10.21). **Cuando no se puede separar, no se finge**: se diseñan otros controles y
+se dice que son otra cosa, no un sustituto equivalente.
 
 **Herramientas.** Matriz de autoridad y aprobaciones. Registro de excepciones, ampliado
 con vigencia y revisor.
 
-**Indicadores.** Porcentaje de procesos críticos con límite escrito. Número de procesos
-con separación de funciones. Número de excepciones vencidas sin revisar. Tiempo medio de
-aprobación.
+**Indicadores.** Cuatro, y los cuatro se pueden contar en una hoja, con equipo y sin él:
+decisiones con límite escrito; decisiones declaradas reservadas; límites que ya se han probado
+contra un caso real; y excepciones pendientes de revisar.
+
+**Corregido el 2026-09-08.** Los anteriores eran un tablero: porcentaje de procesos críticos,
+número de procesos con separación de funciones y tiempo medio de aprobación. **Dos de los tres
+suponen estructura** —quien trabaja solo no tiene procesos que aprobar ni tiempos medios que
+promediar— y el porcentaje exige un denominador que nadie ha definido. **No se sustituyen por
+métricas nuevas: se sustituyen por menos.**
 
 **Riesgos.** Escribir una matriz que nadie aplica. Fijar límites tan bajos que todo
 vuelva al fundador. Confundir control con desconfianza al comunicarlo al equipo.
 Establecer controles que la legislación local exija de otra forma: este punto requiere
 revisión profesional en cada jurisdicción.
 
-**Responsables.** El fundador y la propiedad. Contador o auditor externo como revisor.
+**Responsables.** La persona al frente y la propiedad. **La revisión depende de quién exista
+realmente**, y no se supone a nadie: **con equipo**, puede ser un revisor interno designado, la
+propiedad o un tercero externo; **trabajando solo**, puede ser un contador o un asesor real si
+lo hay, y si no lo hay, una segunda mirada propia y diferida, que **no es una revisión
+independiente y no debe llamarse así**. **Corregido el 2026-09-08:** decía «contador o auditor
+externo como revisor», y eso da por supuesto un tercero que muchos negocios no tienen. Cuando
+una norma local exija revisión independiente, se remite a un profesional de la jurisdicción.
 
-**Evidencia de avance.** Matriz firmada, comunicada al equipo y aplicada durante al menos
-un ciclo mensual completo.
+**Evidencia de avance.** La matriz está **fechada**, se ha **aplicado a una decisión real**,
+se ha **revisado después de usarla** y se ha **corregido si el límite no funcionó**. **Con
+equipo**, además, la conocen las personas a quienes de verdad afecta. **Trabajando solo**, la
+misma persona la ha usado a propósito y ha anotado dónde tuvo que saltársela o reinterpretarla.
 
-**Criterio de paso a A.** Existe una matriz de autoridad vigente, hay registro de quién
-aprueba qué, y los datos que la tecnología va a observar están clasificados por
-sensibilidad.
+**Corregido el 2026-09-08.** Los tres requisitos anteriores no se sostenían: la **firma** no es
+universal ni significa lo mismo en todas partes; **comunicarla al equipo** supone que haya
+equipo; y **un ciclo mensual completo** es un umbral que nadie ha justificado y que además
+retrasa sin motivo. Lo que importa no es cuánto tiempo lleva vigente, sino **si se ha usado
+una vez de verdad y qué pasó**.
+
+**Criterio de paso a A. Precisado el 2026-09-08.** G tiene **dos mitades y no terminan en el
+mismo capítulo**, y conviene decirlo para que nadie dé la etapa por cerrada antes de tiempo:
+
+| | Qué se gobierna | Dónde se completa |
+|---|---|---|
+| **G-1 — decisiones** | Quién puede decidir qué, hasta dónde, qué obliga a pausar, quién revisa y qué constancia queda. | **Capítulo 10** |
+| **G-2 — información** | Qué información existe, de dónde sale y **cuál es sensible**. | **Capítulo 11**, que el índice asigna a A **con G como requisito previo** |
+
+**Criterio, entonces:** existe una matriz de autoridad fechada y probada contra un caso real, y
+queda constancia de quién decide qué. **Eso cierra G-1 y basta para empezar el capítulo 11.**
+**La clasificación de la información por sensibilidad sigue siendo requisito para entrar de
+lleno en A**, y se completa en el capítulo 11, no en el 10. **Al terminar el capítulo 10 no debe
+declararse «G completa»**: está completa la gobernanza de las decisiones.
+
+**No cambia ninguna letra del método**, ni el reparto de capítulos del índice: solo se nombra
+una frontera que ya existía y que la redacción anterior escondía al pedir en el criterio de G
+algo que el capítulo 10 no hace.
 
 ---
 

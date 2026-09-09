@@ -48,14 +48,36 @@ lo que cambia es quién ocupa las casillas.
 | **Evidencia** | Registro de quién aprobó qué. | Registro de qué se decidió, con qué regla y en qué fecha. |
 | **Señal de que la matriz funciona** | Las decisiones dentro del límite dejan de subir. | Las decisiones dentro del límite dejan de repensarse cada vez. |
 
+**Refinamiento del 2026-09-08 (D-072), que no anula nada de lo anterior.** La tabla decía que
+en el modo B «la autoridad se traslada» a reglas, procedimientos, automatizaciones o sistemas.
+**Eso mezclaba tres cosas.** Quedan separadas así, y valen para toda la herramienta:
+
+| | |
+|---|---|
+| **Autoridad** | Permiso y responsabilidad de comprometer una decisión. **Solo la tiene una persona.** En el modo B **no se traslada a ninguna parte**: sigue siendo de la misma persona, y lo que se escribe son sus límites. |
+| **Ejecución** | Hacer aquello que la decisión autorizó. **Sí puede recaer** en un procedimiento, una plantilla o un colaborador externo. |
+| **Control** | La regla, el límite, la comprobación o la constancia que reduce la posibilidad de cruzar un límite sin que se note. **Una regla no tiene autoridad: limita, guía, obliga a pausar o deja constancia.** |
+| **Aprobación / revisión** | Aprobación es **antes** de actuar; revisión es **después**. No son sinónimos. |
+
+**Qué gobierna el modo B, entonces**, y es una matriz real y no una versión reducida: qué decide
+normalmente sin volver a abrir la decisión; qué condición obliga a **pausar**; qué condición
+exige **consultar a un tercero real, si existe**; qué no acepta; qué **revisará después**; y qué
+**constancia** deja. Si no hay a quién pedir aprobación, **no se crea la categoría «me apruebo a
+mí mismo»**: se usan pausa, revisión y consulta real cuando la haya.
+
 **Tres reglas que impiden que el modo B invente una jerarquía inexistente:**
 
 1. **No se crean cargos.** Si no hay a quién asignar una función, la casilla no se rellena
    con un puesto imaginario: se rellena con una regla escrita o se deja vacía y se anota
    como riesgo asumido.
 2. **La separación de funciones no se finge.** En un negocio de una sola persona no existe,
-   y decir lo contrario sería falso. Se declara el límite y se ofrecen los dos sustitutos
-   parciales de la tabla, diciendo que son parciales.
+   y decir lo contrario sería falso. **Confirmado por fuente el 2026-09-08 (Q-08):** una
+   fuente oficial lo dice con esas palabras —«Many small businesses have one owner and no
+   employees. **Although no separation of duties can exist in this situation**, other control
+   procedures might be in place» (F-035)—, y una norma federal prevé que, cuando separar no es
+   practicable, **se diseñan controles alternativos** (F-034). Se declara el límite y se
+   ofrecen los sustitutos parciales, **diciendo que son parciales**: ninguna fuente afirma que
+   equivalgan a la separación.
 3. **El límite propio cuenta como control.** Una regla que usted se impone por escrito y
    revisa periódicamente es un control real, aunque el controlado y el controlador sean la
    misma persona. Es más débil que la separación de funciones y así se dirá.
@@ -92,7 +114,7 @@ remite a un profesional y no fija ninguna cifra.
 | 5 | Mapa de relaciones críticas **(redactada)** | `mapa-relaciones-criticas.md` | 7 | E | Localizar qué parte del negocio se sostiene en un vínculo con alguien de fuera y cuánto pasa hoy por una sola persona. **No promete transferir la relación**: la confianza no se documenta. No es una agenda de contactos. |
 | 6 | Registro de excepciones **(redactada)** | `registro-de-excepciones.md` | 8 | E | Registrar los casos en que el negocio se aparta de su forma normal, **en dos fases: primero el hecho, después el juicio**. Admite «motivo no conocido» y clasifica en mantener, temporal, revisar o dejar de hacerse. No escribe el criterio completo, que es la 7, ni reparte autoridad, que es la 8. |
 | 7 | Plantilla del Manual de criterio **(redactada)** | `manual-criterio-fundador.md` | 9 | E | Reconstruir el criterio de una decisión desde **casos concretos**, con cinco columnas —qué pasó, qué le hizo darse cuenta, típico o raro, en qué condiciones, qué habría cambiado la decisión— y una **síntesis provisional** debajo. **No pide «explique su criterio»**, no convierte un caso en regla y no reparte autoridad, que es la 8. El nombre del archivo se conserva (D-071 no lo toca): lo que se renombró en su día fue el capítulo, no el recurso. |
-| 8 | Matriz de autoridad y aprobaciones **(requiere decisión)** | `matriz-autoridad-aprobaciones.md` | 10 | G | Fijar límites de monto, alcance y firma para cada función. En un negocio de una sola persona, límites propios escritos. Ver `03-indice-maestro.md` §5.3. |
+| 8 | Matriz de autoridad y aprobaciones **(arquitectura cerrada; se redacta con el capítulo 10)** | `matriz-autoridad-aprobaciones.md` | 10 | G | **Hasta dónde puede llegar una decisión sin nueva consulta**, qué obliga a pausar, quién revisa después y qué constancia queda. El importe es una forma de límite entre varias. **Estado corregido el 2026-09-08:** figuraba como «requiere decisión», y la decisión existe desde el 2026-09-07 —**D-037, aprobada**—, refinada por **D-072**. Ver `03-indice-maestro.md` §5.3 y el apartado siguiente. |
 | 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | G/A | Clasificar la información antes de conectar cualquier herramienta. |
 | 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |
 | 11 | Modelo de alertas críticas | `modelo-alertas-criticas.md` | 13 | A | Definir qué merece interrumpir a una persona y qué no. |

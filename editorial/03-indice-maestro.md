@@ -348,12 +348,15 @@ empresarial de un modo que no se resuelve cambiando una palabra.
 | 17 | Plan de transición de 100 días | OK. |
 | 18 | Evaluación anual de continuidad | OK. |
 
-**Propuesta para la herramienta 8, que requiere decisión.** Tres opciones:
+**Propuesta para la herramienta 8. RESUELTA: se adoptó la opción 1 el 2026-09-07 (D-037), y se
+refinó el 2026-09-08 (D-072)**, que separa autoridad, ejecución y control y corrige la idea de
+que en el modo B «la autoridad se traslada» a reglas o sistemas: no se traslada, sigue siendo de
+la misma persona, y lo que se escribe son sus límites. Las tres opciones que se evaluaron:
 
 1. **Una sola herramienta con dos modos de uso.** La matriz se rellena por función y no por
    persona; en un negocio de una sola persona todas las funciones son suyas y lo que se
    escribe son los límites que usted se impone. Ventaja: siguen siendo 18 herramientas.
-   Es la opción recomendada.
+   Es la opción recomendada, **y es la adoptada**.
 2. **Una herramienta adicional**, «Límites propios escritos», para la ruta B. Ventaja:
    claridad. Coste: pasa a haber 19 herramientas, y 18 es una constante declarada en la
    introducción y en `06-control-de-continuidad.md`.

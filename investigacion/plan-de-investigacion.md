@@ -64,7 +64,7 @@ con solidez sin resolverla.
 | Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | Sin iniciar. Prioridad alta por D-014. |
 | Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **RESUELTA, para el capítulo 2 y para el capítulo 9. Cerrada el 2026-09-07 (Etapa 3.8A.1).** Ver «Q-06 · Q-13 · Q-16 — Resultado conjunto» al final de este documento. Antes: **resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. La parte que quedaba abierta —métodos de externalización del criterio, no solo diagnóstico— **se cerró en la Etapa 3.8A.1** con las tres categorías de técnicas de F-028, leídas en el resumen del propio artículo. **No queda ninguna parte de Q-06 abierta.** **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
-| Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media | Sin iniciar |
+| Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media, **materialmente necesaria antes del capítulo 10** | **RESUELTA con límites el 2026-09-08 (Etapa 3.9A)**: F-034, F-035, F-036 y F-037. Tres de las cuatro leídas directamente en el original. **El hallazgo que decide el capítulo 10:** la separación de funciones **no es una regla universal**, y las tres fuentes leídas coinciden en que cuando no hay personal suficiente se diseñan **controles alternativos**. **Límite que permanece:** ninguna fuente cubre negocios privados pequeños como estándar de gestión —una es federal, otra es de auditoría fiscal y otra de empresas cotizadas—, y **ninguna dice que un control alternativo equivalga a la separación ni que sea más débil**. Resultado completo al final de este documento. |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE.** Etapa 3.4A: seis fuentes, F-018 a F-023. **Ampliación dirigida a la ruta B en la Etapa 3.4A.1:** tres fuentes más, F-024 a F-026, una de ellas **leída íntegra**. Resultados completos al final de este documento. **Sigue abierta para el capítulo 22** y por el vacío de evidencia hispanohablante (V-56B), que no se ha podido cerrar. |
 | Q-10 | ¿Qué evidencia hay sobre efectos de la ausencia imprevista de una persona clave en organizaciones pequeñas? | 4 | Media | Sin iniciar |
 | Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | Sin iniciar |
@@ -784,3 +784,193 @@ OUP para F-032 lista un autor de tres.
 3.8A, y ambos se registraron con una seguridad que no correspondía al nivel de comprobación
 alcanzado. La regla que queda: **antes de declarar una fuente inutilizable o una autoría
 dudosa, agotar las vías institucionales**, que son gratuitas y no estaban probadas.
+
+---
+
+## Q-08 — Resultado (Etapa 3.9A, 2026-09-08)
+
+Se investigó porque el capítulo 10 usa, en cada página, palabras que en el mundo profesional
+tienen dueño: autoridad, aprobación, revisión, separación de funciones, control. **El riesgo no
+era escribir poco: era convertir prácticas de control en reglas universales.**
+
+### 1. Nivel de lectura, y por qué esta tanda es distinta
+
+| Fuente | Qué es | Lectura alcanzada |
+|---|---|---|
+| **F-034** GAO, *Green Book*, 2025 | Norma de control interno para entidades federales de EE. UU. | **Leída directamente en el PDF oficial.** Definición, limitaciones, separación de funciones, preventivo/detectivo, documentación y tabla de categorías. |
+| **F-035** IRS, *Internal Revenue Manual* 4.10.3.6 | Manual de procedimiento para inspectores fiscales | **Leída directamente en la página oficial**, apartado por apartado. |
+| **F-036** PCAOB, *Staff Views*, 2009 | Guía de personal para auditores de empresas cotizadas pequeñas | **Leída directamente en el PDF oficial.** |
+| **F-037** COSO, marco de 2013 | Marco privado de referencia | **Solo identidad.** El marco se vende y la etapa tenía prohibido comprar documentos. |
+
+**Es la primera tanda del proyecto con la mayoría de sus fuentes leídas enteras**, y el motivo no
+tiene mérito: son documentos públicos de organismos que no bloquean la consulta, al revés que los
+editores académicos de las dos tandas anteriores.
+
+### 2. Las once preguntas de la etapa, contestadas
+
+**1. ¿Qué es control interno?** El Green Book lo define como «a process effected by an entity's
+oversight body, management, and other personnel, designed to provide **reasonable assurance** that
+the objectives of an entity will be achieved», en tres categorías: operaciones, información y
+cumplimiento. **Para el libro basta con mucho menos**, y conviene que el libro use su propia
+formulación en lugar de traducir una norma: *el conjunto de límites, comprobaciones y registros que
+hacen menos probable que algo se salga de lo previsto sin que nadie se entere a tiempo.*
+
+**2. Autorizar, aprobar, ejecutar, registrar, revisar.** Aquí hay un hallazgo que obliga a corregir
+una intuición del proyecto. **La tríada de la norma no son cuatro funciones ni cinco: son tres** —
+«management considers the need to separate control activities related to **authority, custody, and
+accounting**» (F-034, 10.22)—. Lo que sí aparece nombrado, en la tabla de categorías de F-034 y en
+F-035:
+
+| Verbo del libro | Respaldo |
+|---|---|
+| **Autorizar / aprobar** | **A.** «Authorization of transactions» figura como categoría de actividad de control (F-034, tabla 1); *authority* es uno de los tres elementos que se separan. |
+| **Registrar** | **A.** «Control activities over complete, accurate, and timely recording of valid transactions» (F-034); «timely recording of all transactions» (F-035). |
+| **Revisar** | **A.** Revisiones de alto nivel y revisiones por la dirección en el nivel funcional (F-034); «supervision of work and **periodic review by independent third parties**» (F-035). |
+| **Ejecutar** | **B.** Lo más próximo en la norma es *custody*, que no es lo mismo. El libro puede usar «ejecutar» como palabra llana, **sin presentarlo como término del marco**. |
+| **Iniciar** | **C. Diseño propio.** Ninguna de las fuentes leídas lo aísla como función. Si el capítulo 10 lo usa, es del libro. |
+
+**3. ¿Qué intenta evitar la separación de funciones?** Que la misma persona pueda **hacer y ocultar**:
+«separation of duties will **reduce the opportunity** for any person to both **perpetrate and
+conceal** errors or irregularities» (F-035). Y ayuda a limitar que la dirección pase por encima de
+sus propios controles (F-034, 10.22). Nótese el verbo: **reduce la oportunidad**, no la elimina.
+
+**4. ¿Es una regla universal que cada función la haga una persona distinta?** **No, y esto es lo más
+importante que trae Q-08.** El propio Green Book prevé lo contrario en su texto normativo: «**Where
+such segregation is not practical, management designs alternative control activities to mitigate the
+risk**» (10.21). Y añade que el control interno «is flexible to allow management to tailor control
+activities to meet the entity's unique needs», atendiendo entre otras cosas al «**size and complexity
+of the entity**» (10.03). **El libro tiene prohibido enunciar «quien inicia no aprueba ni registra»
+como regla general.**
+
+**5. ¿Qué ocurre cuando no hay suficientes personas?** Las tres fuentes leídas dicen lo mismo desde
+tres sitios distintos, y esa coincidencia es lo que hace sólido el hallazgo:
+
+- **F-034 (10.23), norma federal:** «If segregation of duties is not practical within a business
+  process **because of limited personnel or other factors**, management designs alternative control
+  activities to mitigate the risk of fraud, waste, or abuse in the business process.»
+- **F-036, regulador de cotizadas:** «smaller, less complex companies have fewer employees, which
+  limits the opportunity to segregate incompatible duties. Smaller, less complex companies **might use
+  alternative approaches** to achieve the objectives of segregation of duties.»
+- **F-035, administración tributaria, y es la que llega al caso extremo:** «**Many small businesses
+  have one owner and no employees. Although no separation of duties can exist in this situation, other
+  control procedures might be in place** to assure accurate reporting of income and expenses.»
+
+**El problema estructural de la ruta B está reconocido por escrito en una fuente oficial.** Eso es
+exactamente lo que el proyecto necesitaba y no tenía.
+
+**6. ¿Qué controles alternativos existen?** F-035 nombra tres junto a la separación: documentación de
+procedimientos y transacciones; supervisión del trabajo y revisión periódica por terceros
+independientes; y registro oportuno de todas las transacciones. F-034 añade la distinción operativa
+más útil del capítulo: **preventivo** es «designed to avoid an unintended event or result **before**
+it occurs»; **detectivo**, «designed to discover and timely correct an unintended event or result
+**after** it occurs». Esa pareja traduce directamente la distinción que el capítulo 10 necesita entre
+**aprobar** y **revisar**.
+
+**7. ¿Qué controles alternativos NO equivalen a la separación? Hallazgo negativo, y hay que decirlo.**
+**Ninguna fuente leída afirma que un control alternativo equivalga a la separación de funciones, y
+ninguna afirma que sea más débil.** F-036 deja la cuestión expresamente abierta: el auditor «should
+**evaluate whether** those alternative controls achieve the control objectives». Consecuencias:
+
+- El libro **no puede decir** que un control alternativo sustituya a la separación.
+- El libro **no puede apoyarse en estas fuentes** para decir que es más débil. Si lo dice —y creemos
+  que debe decirlo—, **es juicio propio del Método LEGADO** y así debe declararse.
+- Lo que **sí está respaldado** es más estrecho y basta: la separación de funciones **existe para que
+  una misma persona no pueda hacer y ocultar** (F-035); donde una sola persona hace todo, esa
+  posibilidad **no desaparece**, y la propia norma reconoce que ni siquiera la separación la elimina
+  del todo, por el riesgo de colusión (F-034, 10.22).
+
+**8. ¿Qué debe quedar documentado?** El Green Book convierte la documentación en requisito (3.09) y
+le pone la medida correcta para este libro: «The extent of documentation… **is a matter of judgment
+for management**», considerando «the benefits and costs… as well as **the size, nature, and complexity
+of the entity**» (3.12). Y aporta una frase que sostiene la tesis entera del libro desde una norma
+pública: documentar «provides a means to **retain organizational knowledge and mitigate the risk of
+having that knowledge limited to a few personnel**» (3.10).
+
+**9. ¿Qué puede revisar después la misma persona? Sin respaldo.** Ninguna de las fuentes leídas
+describe la autorrevisión como control. F-035, cuando habla de revisión, la califica de
+**independiente**. Por tanto: **lo que el capítulo 10 proponga para quien trabaja solo es diseño
+propio**, no puede llamarse revisión independiente y debe presentarse como más débil por decisión del
+libro, no por autoridad de nadie.
+
+**10. ¿Qué puede requerir un tercero real?** La revisión periódica por terceros independientes figura
+entre los procedimientos de control reconocidos (F-035). **Pero ninguna fuente la exige a un negocio
+pequeño**, y el libro no puede convertirla en obligación ni suponer que exista.
+
+**11. ¿Qué no puede prometer una matriz de autoridad?** El límite lo pone la propia norma, y conviene
+citarlo tal cual: «no matter how well designed, implemented, or operated, an internal control system
+**cannot provide absolute assurance** that an entity will meet all its objectives», por factores
+externos, **juicios sesgados, error humano, que la dirección pase por encima de sus propios controles,
+colusión** u objetivos mal planteados (F-034). Una matriz no impide que se cruce un límite: hace que
+cruzarlo sea **visible**.
+
+### 3. Matriz de evidencia
+
+| Fuente | Ámbito | Nivel de lectura | Principio que aporta | ¿Aplica a pyme? | ¿Aplica a negocio de una persona? | Qué puede respaldar en el capítulo 10 | Qué NO puede respaldar |
+|---|---|---|---|---|---|---|---|
+| **F-034** GAO Green Book 2025 | Entidades **federales** de EE. UU.; su propio texto extiende el uso posible a entidades estatales, locales, cuasigubernamentales y sin ánimo de lucro, **y no menciona empresas privadas** | **Directa, amplia** | Definición de control interno; seguridad razonable y no absoluta; separación de *authority, custody, accounting*; **controles alternativos cuando la separación no es practicable**; preventivo/detectivo; documentación proporcional al tamaño | **Solo con cautela.** No le es aplicable; sirve como enunciado de principio | **Solo con cautela** | Que los principios existen y qué dicen; que la separación admite alternativas; que ningún control da certeza absoluta; que documentar reduce que el conocimiento quede en pocas personas | Que una pyme deba cumplirla. Que el capítulo 10 la implemente. Cualquier obligación |
+| **F-035** IRS, IRM 4.10.3.6 | Auditoría **tributaria** de EE. UU.; apartados de 2003 | **Directa** | En un negocio de un propietario sin empleados **no puede existir separación de funciones**, y aun así pueden existir otros procedimientos; la separación reduce la oportunidad de hacer y ocultar; el propietario puede pasar por encima de los controles | **Solo con cautela**, y como descripción, no como norma | **SÍ, y es la única.** Es la fuente que nombra el caso | Que el problema de la ruta B existe y está reconocido por escrito; que la ausencia de separación no cancela la necesidad de fiabilidad | Ninguna obligación de gestión. Nada sobre cómo debe gobernarse un negocio |
+| **F-036** PCAOB Staff Views 2009 | Auditoría de **empresas cotizadas pequeñas** de EE. UU.; **no son reglas del organismo** | **Directa** | Menos empleados limitan la separación; se usan enfoques alternativos **cuya suficiencia hay que evaluar**; la implicación intensa de la dirección **aumenta la oportunidad de pasar por encima** de los controles | **Solo con cautela** | **No directamente**: habla de empresas con empleados | Confirmación independiente de que la separación se limita por tamaño y de que existen alternativas; que la concentración añade riesgo de anulación | Que sea norma. Que valga para negocios privados o profesionales independientes |
+| **F-037** COSO 2013 | Marco privado internacional | **Solo identidad** | — | — | — | Como mucho, que existe un marco de ese nombre y que una norma pública lo cita como origen de sus principios | **Nada de contenido.** Ninguna cita. Que obligue a alguien. Que el capítulo o la herramienta se basen en él |
+
+### 4. Clasificación de los componentes del capítulo 10
+
+**A** respaldado · **B** compatible, no confirmado · **C** diseño propio del Método LEGADO ·
+**D** no respaldado, no se escribe
+
+| Componente | Clase | Nota |
+|---|---|---|
+| Que existan **límites escritos** para las decisiones | **A** | Es el núcleo de las actividades de control en F-034 |
+| **Autorización** como control | **A** | F-034, tabla 1 |
+| **Registro** de lo decidido | **A** | F-034 y F-035 |
+| **Revisión posterior** como control | **A** | F-034 (revisiones de dirección) y F-035 (revisión periódica) |
+| **Aprobación antes / revisión después** | **A** | Traduce la pareja preventivo/detectivo de F-034 |
+| Que la **separación de funciones** reduzca la posibilidad de hacer y ocultar | **A** | F-035 |
+| Que la separación **no siempre sea practicable** y se sustituya por otros controles | **A** | F-034 (10.21, 10.23), F-036, F-035 |
+| Que en un negocio de una persona **no exista separación** | **A** | F-035, verbatim |
+| Que **ningún control dé certeza** | **A** | F-034 |
+| Que documentar **reduzca que el conocimiento quede en pocas personas** | **A** | F-034 (3.10). Es la frase más útil de la tanda para el libro |
+| **Proporcionalidad** al tamaño y la complejidad | **A** | F-034 (3.12, 10.03) |
+| Distinguir **iniciar** como función propia | **C** | Ninguna fuente lo aísla |
+| **Riesgo y reversibilidad** como dos lentes separadas | **C** | La reversibilidad no aparece en ninguna fuente leída como criterio de control |
+| Clasificar decisiones en **proceder / pausar / aprobación previa / reservada** | **C** | Diseño del libro. Compatible con los principios, no derivado de ellos |
+| **Revisión diferida por uno mismo** | **C** | Sin respaldo. No puede llamarse independiente |
+| Que la revisión propia sea **más débil** que la ajena | **C** | Razonable, pero **es juicio del libro**: ninguna fuente lo dice |
+| Que los controles alternativos sean **más débiles** que la separación | **C** | F-036 deja la suficiencia abierta a evaluación; no la resuelve |
+| **Decisiones reservadas por ley, licencia o responsabilidad profesional** | **C**, con remisión | El libro señala la categoría; **no dice qué está reservado**, que es materia de cada jurisdicción (D-033) |
+| Que una regla o un procedimiento **tenga autoridad** | **D** | Ninguna fuente atribuye autoridad a un objeto. Corregido en D-072 |
+| Cualquier **puntuación de riesgo** o semáforo | **D** | Ninguna fuente la ofrece; el proyecto ya prohíbe puntuar |
+| Que la matriz **evite** errores o fraude | **D** | F-034 lo desmiente expresamente |
+
+### 5. Lo que el capítulo 10 no podrá decir
+
+- Que exista una obligación de control interno para el negocio del lector. **Ninguna de las fuentes
+  leídas le es aplicable.**
+- Que «quien inicia no aprueba ni registra» sea una regla. **La propia norma prevé lo contrario
+  cuando no hay personal suficiente.**
+- Que un control alternativo equivalga a la separación de funciones.
+- Que la revisión de uno mismo sea independiente.
+- Que una matriz de autoridad impida errores, fraude o que alguien se salte un límite.
+- Nada citando a COSO.
+- Nada sobre qué decisiones están legalmente reservadas en ningún país.
+
+### 6. Lo que sí podrá decir, con fuente
+
+- Que existe un cuerpo de principios de control interno reconocido por organismos públicos, y que su
+  propósito es **dar seguridad razonable, nunca absoluta** (F-034).
+- Que la separación de funciones existe para que **una misma persona no pueda hacer y ocultar**
+  (F-035), y que **reduce la oportunidad** sin eliminarla (F-035, F-034).
+- Que **cuando no hay personal suficiente, se diseñan controles alternativos**: lo dice una norma
+  federal (F-034), lo confirma un regulador de mercados (F-036) y lo reconoce una administración
+  tributaria para el caso extremo de un propietario sin empleados (F-035).
+- Que la extensión de lo que se documenta **depende del tamaño y la complejidad**, y es un juicio de
+  quien dirige (F-034).
+- Que documentar sirve, entre otras cosas, para **que el conocimiento no quede limitado a unas pocas
+  personas** (F-034).
+
+### 7. Advertencia de método
+
+**No validar por asociación.** Que el Green Book, el IRS y el PCAOB respalden algunos principios **no
+convierte a la Matriz de autoridad en un instrumento respaldado**. Su estructura —clasificar por lo
+que importa si sale mal y por la posibilidad de deshacerlo, y después fijar límite, pausa, revisión y
+evidencia— **no procede de ninguna de estas fuentes**. Es diseño del Método LEGADO informado por
+principios, y el capítulo debe decirlo con esas palabras.

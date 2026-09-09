@@ -39,12 +39,14 @@
 **Etapa 3.8A.1 — Recuperación dirigida de fuentes y corrección del registro bibliográfico: COMPLETADA el 2026-09-07.**
 **Etapa 3.8B — Capítulo 9 y herramienta 7: COMPLETADA el 2026-09-08.**
 **Etapa 3.8B.1 — Control editorial y metodológico final de la etapa E: COMPLETADA el 2026-09-08.**
+**Etapa 3.9A — Investigación Q-08 y preflight de la etapa G: COMPLETADA el 2026-09-08.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión final
-antes de pasar de E a G. **El capítulo 10 no se ha escrito y la Etapa 3.9 no se ha iniciado.**
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión de la
+base conceptual de G. **El capítulo 10 no se ha escrito, la herramienta 8 no se ha creado y la
+Etapa 3.9B no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -131,7 +133,7 @@ que el resto del manuscrito no naciera con un mercado innecesariamente estrecho.
 | Título de trabajo | **CLONACIÓN DEL CONOCIMIENTO** (D-024). *Del Fundador al Legado* se conserva como nombre del repositorio y del proyecto. **El subtítulo requiere decisión: ver A-12.** |
 | Método LEGADO | Sobrevive con **un solo cambio**: la etapa D admite personas, procedimientos o sistemas supervisados (D-026). |
 | Arquitectura de las 27 piezas | **Resiste.** 19 sin cambios de fondo, 8 con ampliación interna, 6 títulos propuestos para revisión, ninguna sobra y no hace falta añadir ninguna. |
-| Herramientas | 16 de 18 funcionan en ambas rutas. 1 con ajuste menor. **1 requiere decisión** (matriz de autoridad, A-10). |
+| Herramientas | 16 de 18 funcionan en ambas rutas. 1 con ajuste menor. La matriz de autoridad **se resolvió el 2026-09-07 (D-037): una herramienta con dos modos**, refinada el 2026-09-08 por **D-072**. A-10 cerrado. |
 | Índice de Dependencia | Renombrado, 11 preguntas reformuladas, escala de rótulos neutros, clave de lectura para quien trabaja solo, limitación 9 nueva. **Sin tocar número de preguntas, dimensiones, escala, fórmula ni rangos.** Versión 2.0. |
 | V-08 y V-09 | **Cerradas**, revisando antes cada alternativa a la luz del público ampliado. |
 | Preguntas de investigación nuevas | 9 (Q-13 a Q-21). Ninguna investigada. |
@@ -255,7 +257,7 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
+| Fuentes verificadas | **37**. **Q-08 añadió F-034 a F-037 (Etapa 3.9A), y es la primera tanda con la mayoría leída entera:** el Green Book de la GAO, el manual del IRS y la guía del PCAOB se leyeron directamente en sus documentos oficiales; COSO quedó **solo en identidad**, porque su marco se vende. Antes: **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **15**. Seis nuevas en el capítulo 9: dos de F-028, tres de F-029 y una de F-033. |
 | Cifras publicadas sin fuente | **0** |
