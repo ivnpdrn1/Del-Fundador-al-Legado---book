@@ -1615,13 +1615,25 @@ una observación sobre la tarea, **no una fórmula de duración**: el método **
 periodo en número de casos**.
 
 **El periodo no termina por calendario: termina cuando una persona revisa la evidencia y decide.**
-Cinco salidas, todas legítimas:
+**Seis salidas, todas legítimas**, y son **las mismas que produce la herramienta 10**:
 
-**seguir en sombra · corregir información o reglas y repetir · mantener el mismo permiso · pasar
-la tarea al nivel 3 · reducir o retirar el uso del sistema**
+**mantener en sombra · revisar información · revisar la regla · reducir el alcance · detener ·
+permitir alertas de nivel 3**
 
 **No existe la aprobación automática**, y **no se exige un resultado favorable**: la señal de paso
-del capítulo se cumple con cualquiera de las cinco.
+del capítulo se cumple con cualquiera de las seis.
+
+**Reconciliación de recuento del 2026-09-09 (Etapa 3.12A.2), y conviene dejar dicho qué pasó
+porque no se ha añadido ni quitado ninguna opción.** Este apartado enumeraba **cinco** salidas
+—«seguir en sombra · corregir información o reglas y repetir · mantener el mismo permiso · pasar
+la tarea al nivel 3 · reducir o retirar el uso del sistema»— y el apartado 9 enumeraba **seis**
+para la misma decisión. **Eran la misma lista con distinto grano**, y tener dos recuentos bajo la
+misma palabra habría llegado al capítulo. Se adopta **la de seis, que es la operativa**, porque
+es la que el lector rellena. La correspondencia, para que se vea que nada se pierde: «corregir
+información o reglas y repetir» se abre en **revisar información** y **revisar la regla**, que son
+dos trabajos distintos; «reducir o retirar el uso» se abre en **reducir el alcance** y
+**detener**, que no son lo mismo; «mantener el mismo permiso» es **mantener en sombra**; y «pasar
+la tarea al nivel 3» es **permitir alertas de nivel 3**. **Seis, y son las únicas.**
 
 ### 7. La frontera entre el nivel 2 y el nivel 3
 
@@ -1694,7 +1706,7 @@ decisión se toma después» son las dos caras de la revisión.
 | 3 | **Qué salida produce en sombra, y con qué se compara** | Y si el comparador es una decisión humana, se dice |
 | 4 | **Dónde queda registrado y quién lo revisa** | Persona, puesto u órgano reales (D-073). Trabajando solo, usted |
 | 5 | **Qué diferencias aparecieron y cómo se explican** | Con las seis lecturas de una divergencia, y con «no resuelto» como opción |
-| 6 | **La decisión** | Una de las cinco salidas del apartado 6 |
+| 6 | **La decisión** | Una de las **seis salidas** de esta herramienta, listadas más abajo |
 
 **Cabe en dos páginas imprimibles** en la parte que se rellena, como exige el catálogo.
 
@@ -1762,7 +1774,7 @@ concreto en cada caso.
 5. **Por qué una divergencia no es automáticamente un error del sistema**: las seis lecturas.
 6. **Comparar no es imitar**, y **la decisión humana no es verdad automática**.
 7. **La herramienta 10.**
-8. **Qué hacer con la evidencia**: las cinco salidas, sin resultado obligatorio.
+8. **Qué hacer con la evidencia**: las salidas previstas, **sin resultado obligatorio**.
 9. **Cuánto dura esto**, con la negativa razonada y las dos fuentes.
 10. **El paso al nivel 3**: cambia el destino de la salida, no la capacidad.
 11. **Qué es una alerta y qué no es**: frente a recomendación y frente a decisión.
