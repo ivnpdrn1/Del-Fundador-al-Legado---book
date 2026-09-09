@@ -41,6 +41,7 @@
 **Etapa 3.8B.1 — Control editorial y metodológico final de la etapa E: COMPLETADA el 2026-09-08.**
 **Etapa 3.9A — Investigación Q-08 y preflight de la etapa G: COMPLETADA el 2026-09-08.**
 **Etapa 3.9B — Capítulo 10 y herramienta 8: COMPLETADA el 2026-09-08.**
+**Etapa 3.9B.1 — Control conceptual final de G-1: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -49,9 +50,9 @@ insignia del libro. La Parte II va por 4 de 5.
 decisiones**. **La etapa G no está completa:** falta G-2, la gobernanza de la información, que se
 cierra en el capítulo 11.
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión del
-capítulo 10 y de la herramienta 8. **El capítulo 11 no se ha escrito y la etapa siguiente no se ha
-iniciado.**
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión antes
+de abrir la investigación del capítulo 11. **El capítulo 11 no se ha escrito y Q-05 y Q-18 no se
+han ejecutado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -379,6 +380,12 @@ publicado a continuación.
 
 1. **Revisar el capítulo 10 y la herramienta 8.** Es lo único que el autor ha pedido a
    continuación. No se escribirá el capítulo 11 sin nueva autorización.
+1 bis. **La Etapa 3.9B.1 corrigió ocho contradicciones conceptuales de G-1**, y una tocaba un
+   principio permanente: el capítulo decía que si todas las decisiones quedaban reservadas «el
+   ejercicio no ha salido bien», y eso **contradice D-040**, que prohíbe juzgar la participación
+   del lector. Ahora la hoja distingue **reservar por elección** de **seguir dependiendo por falta
+   de condiciones**, y declara legítimas ambas. Nació **D-074**: un procedimiento o una plantilla
+   **no ejecutan por sí solos**.
 1 ter. **G-1 completa, G no.** El capítulo 10 cierra la gobernanza de las decisiones. La
    gobernanza de la información —qué existe, cuál es la fuente buena, qué no debería circular
    libremente— es **G-2** y se cierra en el capítulo 11, que el índice asigna a la etapa A con G

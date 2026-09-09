@@ -44,16 +44,17 @@ Este capítulo se enreda si se usan como sinónimos, así que vale la pena dejar
 una vez. No son definiciones oficiales de nada: **son las que usa este libro para trabajar.**
 
 **Autoridad** es el permiso, con su responsabilidad, para comprometer una decisión. Puede
-asignarse a una persona, a un puesto o a un órgano —una junta, una sociedad—, **siempre que
-existan de verdad**. Conviene asignarla al puesto cuando quiera que sobreviva al cambio de
+asignarse a una persona, a un puesto o a un órgano de gobierno —una junta, un comité, un
+consejo—, **siempre que existan de verdad**. Conviene asignarla al puesto cuando quiera que sobreviva al cambio de
 persona; pero no invente un cargo que no tiene, porque una casilla rellenada con un puesto
 imaginario no gobierna nada.
 
-**Ejecución** es hacer aquello que la decisión ya autorizó. Puede recaer en otra persona, en
-un procedimiento escrito o en una plantilla. Y aquí hay que decir algo con todas las letras:
-**una regla, una plantilla o un procedimiento no tienen autoridad.** Pueden limitar, obligar a
-detenerse, exigir una consulta o dejar constancia. Lo que no pueden es responder de nada, y
-por eso no se les asigna una decisión: se les asigna un trabajo.
+**Ejecución** es hacer aquello que la decisión ya autorizó, y **la hace siempre alguien**:
+usted, u otra persona. No confunda a quien ejecuta con lo que le sirve de apoyo: un
+procedimiento o una plantilla **no ejecutan por sí solos**; guían, recuerdan, restringen y dejan
+constancia. Y con todas las letras: **una regla, una plantilla o un procedimiento no tienen
+autoridad.** Pueden obligar a detenerse o exigir una consulta, pero no pueden responder de nada,
+y por eso no se les asigna una decisión.
 
 **Aprobación** es autorizar **antes** de actuar. **Revisión** es comprobar **después**. Se
 parecen tan poco que resuelven problemas distintos, y aun así se confunden con facilidad: se
@@ -119,11 +120,12 @@ LEGADO**, no un estándar de nada, y no están comprobadas:
 | **Requiere aprobación previa** | Alguien tiene que autorizarla antes. **Solo existe si existe ese alguien.** |
 | **Reservada** | Hoy no sale de donde está. |
 
-La tercera necesita un aviso. **Si no hay otra persona, función u órgano con autoridad, esa
-casilla no se rellena.** No se escribe «aprobador: yo». Una aprobación existe para que
-intervenga un segundo juicio, y volver a aprobarse uno mismo no añade ninguno. Cuando no hay
-segundo juicio, lo que queda es **pausa, revisión posterior y consulta real si la hay**, que es
-otra cosa y se llama por su nombre.
+La tercera necesita un aviso, y es una convención de esta matriz más que una definición
+general de la palabra: **aquí «requiere aprobación previa» se reserva para los casos en que debe
+intervenir otra autoridad real antes de actuar.** Por eso, **si no existe esa otra persona,
+puesto u órgano, la casilla no se rellena**: no se escribe «aprobador: yo». Lo que queda
+entonces es **pausa, revisión posterior y consulta real si la hay**, que es otra cosa y se llama
+por su nombre.
 
 ## «Reservada» no quiere decir «para siempre»
 
@@ -143,9 +145,14 @@ consúltelo con quien corresponda en su jurisdicción. Lo que sí puede hacer es
 todo lo demás: el contexto, los antecedentes, la información y el trabajo administrativo.
 
 Y una advertencia sobre el conjunto: **proteger no es quedárselo todo.** Una decisión protegida
-puede tener límite, aprobación, revisión o reserva temporal. Si al terminar la hoja resulta que
-todas están reservadas, el ejercicio no ha salido bien: ha vuelto a describir la situación de
-partida.
+puede tener límite, aprobación, revisión o reserva temporal.
+
+Y si al terminar resultara que **todas** quedan reservadas, no dé por hecho que el ejercicio
+falló. Pregúntese otra cosa: ¿lo están **porque usted ha decidido que lo estén**, o porque
+todavía no existen las condiciones para que dejen de depender de usted? En el primer caso la
+hoja ha hecho su trabajo, que era convertir una situación heredada en una elección. En el
+segundo, acaba de localizar lo que queda por delante. **Este libro no le dirá cuál de las dos
+debe elegir**; sí le pide que sepa en cuál está y que lo anote.
 
 ## Dos pedidos que parecían el mismo
 
@@ -179,15 +186,18 @@ suya y sigue siéndolo—; lo que se escribe son sus límites.**
 
 Un profesional que trabaja por su cuenta recibe encargos que se repiten. Puede escribir que los
 del tipo de siempre los acepta y los resuelve sin volver a pensarlos; que si uno llega con un
-plazo que le obliga a mover otro compromiso, **se detiene un día antes de contestar**; y que
-hay tipos de encargo que directamente no acepta. Eso es una matriz de autoridad completa.
+plazo que le obliga a mover otro compromiso, **no se compromete hasta haberlo mirado con
+calma**; y que hay tipos de encargo que directamente no acepta. Eso es una matriz de autoridad completa.
 
 Sobre quién revisa después, conviene ser exacto. Si tiene un contador o un asesor real, ahí hay
-una revisión ajena y vale más. Si no lo tiene, lo que queda es **volver usted mismo, en otro
-momento, a mirar lo que decidió**. Es un control y cuenta como tal. Pero **no es una revisión
-independiente y no debe llamarse así**: quien decidió y quien revisa son la misma persona. Y si
-hoy no hay ninguna revisión externa, se escribe que no la hay. Un hueco anotado se puede
-vigilar; un hueco tapado con un nombre inventado, no.
+**una revisión ajena y puede aprovecharla**. Si no lo tiene, lo que queda es **volver usted
+mismo, en otro momento, a mirar lo que decidió**. En este libro eso se llama **revisión propia
+diferida**, y conviene decir de dónde sale: **es lo que proponemos nosotros para cuando no hay
+nadie más**, no una categoría reconocida en ninguna parte. Sirve, y conviene ser exacto con lo
+que no es: **no es independiente** —quien decidió y quien revisa son la misma persona— y **no
+equivale a repartir esa decisión entre dos personas**. Y si hoy no hay ninguna revisión
+externa, se escribe que no la hay. Un hueco anotado se puede vigilar; un hueco tapado con un
+nombre inventado, no.
 
 ## Cuando una sola persona lo hace todo
 
@@ -214,7 +224,9 @@ tratarlos con más cautela que un control ajeno, y eso es un consejo nuestro, no
 Lo que ninguna hoja puede prometerle: la propia norma que acabo de citar advierte que ningún
 conjunto de controles da **certeza absoluta**, por error humano, por juicios equivocados o
 porque quien manda pase por encima de sus propias reglas. **Una matriz no impide que se cruce un
-límite. Hace que cruzarlo se note.**
+límite.** Lo que puede hacer, cuando al lado del límite hay una comprobación o queda una
+constancia, es que el cruce **se vea** en lugar de pasar inadvertido. Sin ninguna de las dos
+cosas el límite sigue existiendo, pero nadie llegará a saber si se respetó.
 
 ## Un límite no es desconfianza
 

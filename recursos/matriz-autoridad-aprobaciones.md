@@ -17,8 +17,9 @@ de quien hoy depende**, qué debe ocurrir al llegar a ese punto y quién lo comp
 - **No puntúa.** No hay nota, ni semáforo, ni fórmula que combine nada.
 - **No dice qué reserva la ley.** Puede marcar una decisión como reservada por exigencia
   profesional; **cuál lo está en su país y en su actividad no lo decide este libro.**
-- **No promete que no pase nada.** Un límite escrito no impide que se cruce: hace que cruzarlo
-  se note.
+- **No promete que no pase nada.** Un límite escrito no impide que se cruce. Cuando al lado hay
+  una comprobación o queda una constancia, **puede** ayudar a que el cruce se vea o quede
+  registrado; **por sí solo no garantiza que se detecte.**
 
 **Una sola hoja, dos modos de uso.** No hay una versión para empresas y otra reducida para quien
 trabaja solo: es la misma tabla y la misma pregunta. En el **modo A**, con personas alrededor, las
@@ -35,7 +36,7 @@ definiciones oficiales de ninguna disciplina.
 | | |
 |---|---|
 | **Autoridad** | Permiso y responsabilidad para comprometer una decisión. Se asigna a **una persona, un puesto o un órgano que existan de verdad**. Siempre la ejerce una persona. |
-| **Ejecución** | Hacer aquello que la decisión ya autorizó. Puede recaer en otra persona, en un procedimiento o en una plantilla. **Ni un procedimiento ni una plantilla tienen autoridad**: hacen un trabajo, no responden de él. |
+| **Ejecución** | Hacer aquello que la decisión ya autorizó. **La hace una persona.** Un procedimiento o una plantilla **no ejecutan por sí solos**: guían, restringen y dejan constancia de cómo se hace. **Tampoco tienen autoridad**, porque no pueden responder de nada. |
 | **Aprobación** | Autorizar **antes** de actuar. |
 | **Revisión** | Comprobar **después**. |
 
@@ -96,15 +97,17 @@ forma más, cuando de verdad aplique**, y esta hoja no propone ninguna cifra: la
 entonces, en una de estas tres formas: **pausar y consultar**, **pedir aprobación previa a una
 persona, puesto u órgano real** o **rechazar**.
 
-> **Si no existe nadie más con autoridad, esa casilla no se rellena con «yo».** Una aprobación
-> existe para que intervenga un segundo juicio, y volver a aprobarse uno mismo no añade
-> ninguno. Lo que sí funciona sin segunda persona: **pausar** —dejar pasar un tiempo antes de
-> comprometerse— y **revisar después**.
+> **Convención de esta matriz:** «requiere aprobación previa» se reserva para los casos en que
+> **debe intervenir otra autoridad real antes de actuar**. Por eso, **si no existe esa otra
+> persona, puesto u órgano, la casilla no se rellena con «yo»**. Lo que sí funciona sin segunda
+> persona: **pausar** —no comprometerse hasta haberlo mirado con calma— y **revisar después**.
 
 **Quién revisa después.** Y de qué tipo es, dicho con exactitud: revisión interna, de la
-propiedad, de un tercero externo real, o **suya, más tarde**. Esta última es un control y
-cuenta como tal, pero **no es una revisión independiente y no debe llamarse así**. Si hoy no
-hay ninguna, escriba «hoy nadie»: un hueco anotado se puede vigilar.
+propiedad, de un tercero externo real, o **suya, más tarde**. Esta última tiene nombre en este
+método —**revisión propia diferida**— y conviene saber de dónde viene: **es lo que proponemos
+nosotros para cuando no hay nadie más**, no una categoría reconocida de control interno. **No es
+independiente y no equivale a repartir la decisión entre dos personas.** Si hoy no hay ninguna,
+escriba «hoy nadie»: un hueco anotado se puede vigilar.
 
 **Qué constancia queda.** Lo mínimo que permita reconstruir después qué pasó: fecha, decisión,
 qué regla se aplicó, quién decidió y, lo que después más enseña, **si se cruzó el límite y qué
@@ -128,8 +131,11 @@ Y al escribir «reservada», anote **por qué**, porque los tres motivos se gest
 profesional**, que es el único caso que esta hoja no puede resolver y que exige consultarlo
 con quien corresponda en su jurisdicción.
 
-**Reservada no quiere decir para siempre**, y si al terminar todas sus filas están reservadas,
-la hoja ha descrito la situación de partida en lugar de cambiarla.
+**Reservada no quiere decir para siempre.** Y si al terminar **todas** sus filas quedan
+reservadas, no concluya que la hoja falló: pregúntese si es **una elección suya**, y entonces la
+hoja ha convertido una situación heredada en una decisión, o **una dependencia que todavía no ha
+podido cambiar**, y entonces acaba de localizar lo que queda por delante. **Las dos respuestas
+son legítimas**, se gestionan distinto, y esta hoja no juzga cuál le toca. Anote cuál es.
 
 ## 7. La frontera, en una frase
 
