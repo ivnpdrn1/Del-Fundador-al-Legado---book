@@ -132,6 +132,8 @@ número.
 | 2026-09-08 | **Absolutos en el capítulo 9 y en la herramienta 7, detectados en el control final de la etapa E.** Los principales: «el camino corto… no lleva a ninguna parte», «Nadie contesta bien a “explíquelo todo”», el principio central «el criterio no se explica: se reconstruye» —potente pero literalmente universal—, «esa distancia es **lo único** que sustituye a la segunda mirada», «no hace falta que esa persona entienda del asunto», «ahí hay **criterio de verdad**», «**muy probablemente** falta una condición», «eso es **exactamente** lo que no estaba escrito», «es exactamente el **mejor** punto de partida» y «un no **obliga** a haber comparado algo». | 9 | **Corregidos en la Etapa 3.8B.1.** El principio central se reformula acotándolo al método —«en este método el criterio no se pide: se reconstruye»— para conservar la antítesis memorable sin convertir una técnica en ley del comportamiento humano. El resto pasa de afirmación a posibilidad, o de comparación universal a descripción de lo que la técnica ofrece. **Ninguno se borró mecánicamente:** se clasificaron las cuarenta y siete apariciones y se conservaron las que son definiciones, límites del método, negaciones deliberadas o afirmaciones acotadas a lo leído. |
 | 2026-09-08 | **Cifras metodológicas sin respaldo en la herramienta 7.** «Entre quince y treinta minutos por caso»; «dos o tres casos ya permiten escribir un criterio provisional»; y, en el capítulo, «después de uno o dos casos». Ninguna procede de la investigación: eran intuiciones de diseño escritas como expectativas objetivas. Es el mismo defecto que la Etapa 3.2.1 encontró en el capítulo 3. | 9 | **Corregidas.** Desaparece el intervalo de tiempo y desaparece el umbral de casos. **Regla vigente:** un caso basta para escribir una hipótesis provisional, siempre que quede marcada como tal; varios casos comparables permiten contrastarla. **No se fija ningún número.** Capítulo y herramienta dicen ahora exactamente lo mismo. |
 | 2026-09-08 | **Diagnósticos automáticos en la lectura de resultados de la herramienta 7.** Un caso que crece «son dos decisiones»; casos que se contradicen, «muy probablemente falta una condición»; una columna vacía, «esa decisión no depende de eso». Cada uno daba una sola causa a un hecho que admite varias. | 9 | **Corregidos.** Los tres pasan a enumerar las causas posibles y a pedir comprobación antes de concluir. El de la columna vacía se alinea además con la constante **detectar no es representar**: puede que no aplique, que no se haya detectado o que se haya detectado y todavía no se sepa escribir, **y son cosas distintas**. |
+| 2026-09-09 | **Ampliación de alcance (D-075): riesgo de que la nueva motivación se repita en cada capítulo**, que es exactamente el defecto que la Etapa 2.2 registró con «esto también vale si usted trabaja solo». | Todos | Deslinde adoptado, y es el mismo que entonces: **el escenario ampliado se desarrolla una sola vez, en el capítulo 5**, y se enuncia brevemente en la introducción. En los demás capítulos **no aparece**, ni como párrafo explicativo ni como recordatorio. La auditoría del apartado 7 dejó **diez de las trece piezas sin tocar**, y esa es la prueba de que el deslinde se aplicó. |
+| 2026-09-09 | **Riesgo simétrico y nuevo: que la expansión sustituya al retiro como finalidad aparente del método.** | Todos, especialmente 5, 22, 25 y conclusión | Deslinde adoptado: **ni el retiro ni la expansión son la finalidad**. La única dirección que el libro defiende es obligación → elección (D-040). Cada vez que aparezca un destino, **debe aparecer junto a otros y sin jerarquía**. Registrado además como **V-66**, para comprobarlo sobre el manuscrito completo en la Etapa 4. |
 | 2026-09-09 | **El cuadro del capítulo 12 y la matriz de niveles del capítulo 15 podrían solaparse**: los dos reparten permisos y los dos se escriben en filas. | 12, 15 | Deslinde adoptado y escrito dentro del propio capítulo 12: **el cuadro fija permisos iniciales por tarea** y contesta *¿qué le permito hacer hoy con esto?*; **la matriz del 15 gobierna la autonomía de ejecución**, con sus condiciones, su aprobación y su procedimiento de detención. **El cuadro no se convierte en la matriz y la matriz no repite el cuadro.** El capítulo 12 nombra los niveles 4, 5 y 6 en una sola enumeración y **no desarrolla ninguno**. |
 | 2026-09-09 | **La escena de apertura del capítulo 12 usa una herramienta que funciona bien**, y el libro tiene prohibido demostrar o instruir sobre IA antes de tiempo. | 12, 13 | Deslinde adoptado: la escena **cuenta lo que pasó, no enseña a hacerlo**. No hay instrucción para el lector, no se describe cómo se le pidió nada a la herramienta, no se nombra ninguna, y el capítulo **no desarrolla el modo sombra**, que es material del 13. La pregunta que abre el 13 se enuncia en la última línea del 12 y **se deja sin contestar a propósito**. |
 | 2026-09-08 | **«Coja» en las aperturas de los capítulos 7 y 8.** La guía de estilo pide español internacional y desaconseja ese verbo por su acepción regional. | 7, 8 | **Corregido: «Tome».** Solo el verbo; las dos aperturas se conservan enteras. **Quedan cuatro apariciones sin tocar**, fuera del alcance autorizado de esta etapa: capítulo 3 («Cogió una hoja»), capítulo 6 («Coja una semana reciente») y las herramientas 3 y 5. **Registradas aquí para decisión del autor**, porque el criterio debería aplicarse igual en todas o en ninguna. |
@@ -146,6 +148,54 @@ número.
 | 2026-09-06 | La introducción y el capítulo 1 podían solaparse en la escena de la ausencia. | Intro, 1 | Resuelto antes de escribir: la introducción usa la ausencia como encuadre; el capítulo 1 abre con una mañana ordinaria y no vuelve sobre ella. |
 | 2026-09-06 | El argumento "el fundador centralizó por buenas razones" se desarrolla en dos piezas. | Intro, 1 | Deslinde adoptado y anotado en el apartado 2. Queda prohibido reexplicarlo en el capítulo 5. |
 | 2026-09-06 | Dos de los tres usos permitidos de la pregunta de la ausencia se consumen en la introducción. | Intro | Aceptado: es el lugar donde más rinde. Registrada la restricción para los capítulos 4 y 24. |
+
+
+## 7. Auditoría del destino (Etapa 3.11B.2, 2026-09-09)
+
+Pregunta única aplicada a las trece piezas escritas: **¿este texto hace sentir que el método
+existe principalmente para jubilarse?** Clasificación: **A** no · **B** sí, pero porque el
+pasaje trata específicamente del retiro · **C** sí, sin necesidad. **Solo se modificó lo
+clasificado como C.**
+
+| Pieza | Clase | Qué se encontró |
+|---|---|---|
+| Introducción | **C** | Enunciaba el problema y pasaba directo al mecanismo; el retiro aparecía cuatro veces y el lector podía etiquetar el libro antes del capítulo 1. **Modificada**: mención temprana en «De qué trata este libro», una frase junto a D-040 y el apartado «Retirarse no es un interruptor» retitulado «Participar no es todo o nada». |
+| 1 | **A** | Ya dice lo contrario, y con todas las letras: «ni que se retire si no quiere retirarse… un buen resultado puede ser que usted siga trabajando muchos años». **No se toca.** El brief preveía que una frase podría bastar; no hizo falta ninguna. |
+| 2 | **A** | Cero apariciones. Trata el conocimiento tácito sin referencia a horizonte personal. |
+| 3 | **C**, mínimo | Una enumeración de motivos —«reducir horas, descansar, incorporar ayuda, sostener el negocio durante una ausencia, retirarse en parte o dejar algo que siga en pie»— **que excluía el motivo nuevo**. **Modificada con cuatro palabras**: se añadió «dedicar tiempo a algo nuevo». Nada más. |
+| 4 | **A** | Cero apariciones. Trata el costo de una ausencia, que sirve a cualquier motivo. |
+| 5 | **B, y es su capítulo** | Se revisa **por instrucción expresa**, no por hallazgo: su tesis ya era obligación → elección. Ver el detalle abajo. |
+| 6 | **A** | Cero apariciones. |
+| 7 | **A** | Cero apariciones. |
+| 8 | **A** | Dos apariciones de «retirarse», las dos referidas a **retirar una excepción**. Falsos positivos. |
+| 9 | **A** | Cero apariciones. |
+| 10 | **A** | Dos apariciones, las dos de «LEGADO» como nombre del método. Falsos positivos. |
+| 11 | **A** | Una aparición, de «LEGADO». Falso positivo. |
+| 12 | **A** | Tres apariciones, todas de **retirar un permiso** o del nombre del método. Falsos positivos. |
+
+**Resultado: nueve piezas A, dos C —una de ellas de cuatro palabras— y una B por
+instrucción.** Es el hallazgo más útil de la auditoría y conviene dejarlo escrito: **el
+manuscrito no estaba sesgado hacia el retiro; su superficie sí.** El problema se concentraba
+en la introducción y en el título del capítulo 5, que son exactamente los dos sitios donde un
+lector decide si el libro va con él.
+
+**Cómo NO se hizo.** Sin sustitución global de palabras. De las veintiuna apariciones
+literales encontradas en el manuscrito, **la mayoría eran legítimas o falsos positivos**, y
+retirarlas habría empobrecido el libro sin arreglar nada: el retiro es un asunto real del
+libro, con capítulo y herramienta propios.
+
+### Cambios reales dentro del capítulo 5
+
+| Dónde | Qué se hizo |
+|---|---|
+| **Título** | *Retirarse no significa abandonar* → ***Trabajar por elección, no por obligación*** (D-076). El anterior **se conserva como encabezado de la primera sección**: sigue siendo la objeción que hay que desactivar, y ahí es donde le corresponde estar. |
+| **Apertura** | Se conserva «Yo no quiero retirarme» **entera**. Se añade la segunda frase posible —«yo lo que quiero es abrir la segunda tienda»— y el enunciado que las une: quien quiere marcharse y quien quiere emprender chocan contra la misma pared. |
+| **Mapa de Participación** | Una frase: el mapa contesta cuánto participa usted **en este negocio** y no qué hace con el tiempo que le sobre. **Las ocho posiciones no se tocan.** |
+| **Los dos ejemplos** | Se añade un tercero, breve: alguien sale de la operación, supervisa y usa las mañanas para levantar una segunda unidad. **Tampoco se retiró.** |
+| **La pregunta central** | Se desdobla: «¿Qué papel quiero poder elegir tener?» **y** «¿Qué haría con mi tiempo si este negocio dejara de exigir que yo estuviera en todo?». Con «no lo sé todavía» declarada respuesta válida. |
+| **Cierre** | Se enumera el abanico de destinos **y se dice que el libro no defiende ninguno**, ni garantiza que lo que se haga después salga bien. |
+| **Lo que NO se tocó** | El principio central, la sección sobre qué significa «elección», las cuatro cosas que el mapa no es, las cinco reglas del mapa, el apartado de evidencia con sus tres fuentes y sus límites, la sección sobre identidad, la herramienta y las señales de paso. |
+
 
 ## 6. Aperturas de capítulo utilizadas
 

@@ -4,7 +4,7 @@ parte: 1
 titulo: "La peligrosa tranquilidad de lo que nunca se ha comprobado"
 etapa_metodo: "—"
 estado: borrador
-palabras: 1975
+palabras: 1979
 casos_usados: ["C-04"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -101,7 +101,7 @@ Y si trabaja solo, tampoco es un descuido personal. Se puede trabajar muy bien d
 veinte años sin necesidad de convertir el propio criterio en algo que otra persona pueda
 usar. El problema no aparece porque uno lo haya hecho mal. Aparece cuando cambia el
 objetivo: reducir horas, descansar de verdad, incorporar ayuda, sostener el negocio durante
-una ausencia, retirarse en parte o dejar algo que siga en pie. Ninguna de esas cosas se
+una ausencia, dedicar tiempo a algo nuevo, retirarse en parte o dejar algo que siga en pie. Ninguna de esas cosas se
 consigue solo con hacerlo bien.
 
 ## Tomás y las dos listas

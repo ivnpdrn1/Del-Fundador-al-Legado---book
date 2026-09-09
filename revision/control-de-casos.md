@@ -132,6 +132,21 @@ aparición. Los ejemplos de las herramientas van en sectores distintos entre sí
 capítulo: mantenimiento (4), alimentos (5) y agricultura (6, reutilizada desde el ejemplo de
 la herramienta 2, tres capítulos atrás).
 
+
+## 3 bis. Caso futuro reservado: expansión (2026-09-09, Etapa 3.11B.2, D-075)
+
+**Reservado, no escrito, y deliberadamente sin sector, sin género y sin ruta asignados.**
+
+| | |
+|---|---|
+| **Qué ilustra** | Una persona que **no se retiró**. Redujo su intervención en el negocio original y usó la capacidad recuperada para desarrollar **otra unidad, otra línea o una nueva empresa**. |
+| **Dónde** | **Capítulo 22** —*Su nuevo papel*— o **capítulo 25** —*El negocio que puede continuar*—. Se decide al escribir el primero de los dos. |
+| **Por qué ahí** | Son las dos piezas donde el destino de la capacidad recuperada es material propio del capítulo. **En cualquier otro sitio sería un añadido.** |
+| **Qué NO puede hacer** | Presentar la expansión como el desenlace correcto del método, insinuar que el nuevo proyecto salió bien, dar cifras de ninguno de los dos negocios, o sugerir que el ADN del primero se copió al segundo. |
+| **Sector, género y ruta** | **Sin asignar a propósito.** Se eligen al escribirlo, según las reglas de alternancia, de máximo por sector y de no repetición en capítulos consecutivos, **mirando a la vez la lista de casos y la de ejemplos de herramientas**, como quedó registrado en la Etapa 3.9B. Forzar un sector ahora sería decidir con doce capítulos de antelación y con las listas todavía abiertas. |
+| **Aviso de reparto** | Cuando se asigne, **el reparto de ruta estará en 5 A / 4 B**, así que conviene mirar si le corresponde ruta B. El caso funciona igual en las dos: un profesional independiente que crea un producto a partir de su conocimiento es **exactamente el mismo mecanismo** que una propietaria que abre una segunda unidad. |
+
+
 ## 4. Control de alternancia de género
 
 El reparto final debe quedar equilibrado. Se revisa después de cada bloque, no solo al

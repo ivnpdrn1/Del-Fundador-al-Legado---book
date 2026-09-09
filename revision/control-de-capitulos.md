@@ -2,7 +2,7 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-09: 13 de 27 piezas escritas. 29.997 palabras.**
+**Estado del manuscrito a 2026-09-09: 13 de 27 piezas escritas. 30.335 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II COMPLETA:** capítulos 6 a 10.
 **PARTE III EN CURSO:** capítulos 11 y 12, dos de los seis.
 **ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
@@ -38,12 +38,12 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 
 | # | Capítulo | Parte | Etapa | Estado | Palabras | Objetivo | Recursos producidos | Casos | Afirmaciones abiertas |
 |---|---|---|---|---|---|---|---|---|---|
-| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador** | **2.838** | 2.700 | — | — | 0 |
+| — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador, ampliado (3.11B.2)** | **2.899** | 2.700 | — | — | 0 |
 | 1 | Cuando usted también es el sistema | I | L | **borrador** | **2.753** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
 | 2 | El conocimiento que nunca fue escrito | I | E | **borrador, revisado (3.1.1 y 3.1.2)** | **2.162** | 2.000 | Ejercicio de reconocimiento (dentro del capítulo; no es una de las 18 herramientas) | C-03 | 0 |
-| 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | I | — | **borrador, revisado (3.2.1)** | **1.975** | 1.800 | Prueba de las tres preguntas (dentro del capítulo; no es una de las 18 herramientas) | C-04 | 0 |
+| 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | I | — | **borrador, revisado (3.2.1)** | **1.979** | 1.800 | Prueba de las tres preguntas (dentro del capítulo; no es una de las 18 herramientas) | C-04 | 0 |
 | 4 | El costo de una ausencia inesperada | I | — | **borrador, revisado (3.3.1)** | **2.163** | 1.900 | Cálculo del impacto de una semana de ausencia (dentro del capítulo; no es una de las 18 herramientas) | C-05 | 0 |
-| 5 | Retirarse no significa abandonar | I | — | **borrador, revisado (3.4B.1)** | **1.989** | 2.000 | Cuestionario de preparación para elegir su participación (herramienta 2 de 18) | — (dos microescenas sin nombre) | 0 |
+| 5 | **Trabajar por elección, no por obligación** | I | — | **borrador, revisado (3.4B.1), ampliado (3.11B.2)** | **2.262** | 2.000 | Cuestionario de preparación para elegir su participación (herramienta 2 de 18) | — (dos microescenas sin nombre) | 0 |
 | 6 | Localizar la dependencia | II | L | **borrador, revisado (3.5.1)** | **2.141** | 2.100 | Inventario del conocimiento crítico (herramienta 3 de 18) | — (una microescena sin nombre) | 0 |
 | 7 | El mapa de procesos, decisiones y relaciones | II | E | **borrador, revisado (3.6.1 y 3.8B.1)** | **2.411** | 2.300 | Mapa de decisiones (4) y mapa de relaciones críticas (5) | — (una microescena sin nombre) | 0 |
 | 8 | Cómo documentar las excepciones | II | E | **borrador, con preflight (3.8A) y revisado (3.8B.1)** | **2.067** | 2.000 | Registro de excepciones (6) | — (una microescena sin nombre) | 0 |
@@ -72,13 +72,29 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 
 | Parte | Caps. | Objetivo | Escrito | Estado |
 |---|---|---|---|---|
-| Introducción | 1 | 2.700 | **2.838** | completa |
-| I | 5 | 10.400 | **11.042** | **completa** |
+| Introducción | 1 | 2.700 | **2.899** | completa |
+| I | 5 | 10.400 | **11.319** | **completa** |
 | II | 5 | 11.000 | **11.656** | **completa** |
 | III | 6 | 12.900 | **4.461** | **2 de 6** |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **29.997** | **56,3 % del objetivo** |
+| **Total** | **27** | **53.300** | **30.335** | **56,9 % del objetivo** |
+
+
+**Ampliación de alcance de la Etapa 3.11B.2 (2026-09-09, D-075), y su coste en palabras.**
+Tres piezas crecieron y ninguna salió de su banda. **La introducción**, +61, hasta 2.899, con
+**2.900 como techo de su banda**: se dejó a una palabra del límite a propósito, y para
+conseguirlo la ampliación se hizo por sustitución —el apartado «Retirarse no es un
+interruptor» pasa a «Participar no es todo o nada» y la frase de D-040 se reescribió en vez
+de duplicarse—. **El capítulo 5**, +273, hasta 2.262, un **13,1 % sobre su objetivo** y dentro
+del tope de D-030: es el capítulo al que la ampliación le corresponde, y aun así se recortó
+dos veces —la primera versión añadía 429 palabras, que habrían roto D-030— y se colapsó una
+duplicación interna que el propio capítulo arrastraba, la pregunta «¿qué parte de mi papel
+querría conservar?», que aparecía dos veces con las mismas palabras. **El capítulo 3**, +4:
+una entrada en una enumeración de motivos que excluía el nuevo.
+
+**Las otras diez piezas no se tocaron**, y esa es la parte importante de la auditoría: la
+ampliación **no se repite en cada capítulo**.
 
 **Desviaciones, revisadas el 2026-09-09 tras el control 3.11B.1.** Las trece piezas escritas
 suman 29.997 palabras frente a un objetivo acumulado de 26.500 para esas mismas piezas: **un

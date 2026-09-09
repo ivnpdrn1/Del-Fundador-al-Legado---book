@@ -49,6 +49,7 @@
 **Etapa 3.11A — Investigación Q-17 y preflight del capítulo 12: COMPLETADA el 2026-09-09.**
 **Etapa 3.11B — Capítulo 12 y su cuadro: COMPLETADA el 2026-09-09.**
 **Etapa 3.11B.1 — Cierre conceptual del capítulo 12 y reconciliación de este documento: COMPLETADA el 2026-09-09.**
+**Etapa 3.11B.2 — Ampliación estratégica del alcance (D-075): COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -71,6 +72,10 @@ de la vista del proceso real del capítulo 7 (D-070).
 causalidad que la fuente no sostiene: el capítulo prometía que gobernar la colaboración
 produce mejora, y ahora dice que **ni juntarlos ni gobernarlos la garantizan**— y **reconcilió
 el apartado 6 de este documento**, congelado desde la Etapa 3.7.
+
+**Ampliación de alcance aprobada por el autor (D-075), y es la de más consecuencias desde la ampliación de público de la Etapa 2.2.** El problema central no cambia; **cambia el motivo por el que el lector quiere resolverlo**. Reducir la dependencia sirve para preparar una ausencia o un retiro, y **también para liberar tiempo y atención que la persona decida dedicar a otra línea, otra unidad u otro negocio**. **No se creó lector C ni ruta C**: las dos rutas describen **cómo está organizado el negocio**, no por qué la persona quiere reducir su dependencia. El capítulo 5 pasa a llamarse **«Trabajar por elección, no por obligación»** (D-076) y la conclusión, en arquitectura, **«Usted elige cómo seguir»**.
+
+**Lo que la ampliación no autoriza:** ninguna promesa de éxito, crecimiento o ingresos; ninguna afirmación de frecuencia sin fuente; y **ninguna formulación en la que la inteligencia artificial dirija el negocio** —la arquitectura del capítulo 12 no se tocó: capacidad ≠ permiso—.
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
 **El capítulo 13 no se ha escrito y las herramientas 10 y 11 no se han creado.**
@@ -268,12 +273,12 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 |---|---|
 | Piezas escritas | **13 de 27** (introducción + capítulos 1 a 12), todas en borrador |
 | Capítulos terminados | **12 de 25**. **Parte I completa** (1 a 5); **Parte II completa** (6 a 10); **Parte III, 2 de 6** (11 y 12) |
-| Introducción | **Escrita**, 2.838 palabras |
+| Introducción | **Escrita y ampliada (3.11B.2)**, 2.899 palabras (objetivo 2.700) |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
-| Capítulo 3 | **Escrito y revisado**, 1.975 palabras (objetivo 1.800) |
+| Capítulo 3 | **Escrito y revisado**, 1.979 palabras (objetivo 1.800) |
 | Capítulo 4 | **Escrito y revisado**, 2.163 palabras (objetivo 1.900) |
-| Capítulo 5 | **Escrito y revisado**, 1.989 palabras (objetivo 2.000) |
+| Capítulo 5 | **Escrito, revisado y ampliado (3.11B.2)**, 2.262 palabras (objetivo 2.000). **Retitulado: *Trabajar por elección, no por obligación*** (D-076) |
 | Capítulo 6 | **Escrito y revisado**, 2.141 palabras (objetivo 2.100) |
 | Capítulo 7 | **Escrito y revisado**, 2.411 palabras (objetivo 2.300) |
 | Capítulo 8 | **Escrito**, 2.067 palabras (objetivo 2.000) |
@@ -282,14 +287,14 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 | Capítulo 11 | **Escrito y revisado**, 2.177 palabras (objetivo 2.300) |
 | Capítulo 12 | **Escrito y revisado**, 2.284 palabras (objetivo 2.200) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **29.997** |
+| Palabras del manuscrito | **30.335** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | **56,3 %** |
+| Avance sobre el objetivo | **56,9 %** |
 | Recursos terminados | **9 de 18** (**15.391 palabras** según el libro mayor; no computan en el manuscrito). **Quedan nueve.** |
 | Entregables que no son herramienta del catálogo | **2**: la vista del proceso real del capítulo 7 (D-070) y el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12. Ambos viven dentro de su capítulo y **no tienen archivo en `recursos/`** |
 | Documentación del proyecto | **42 archivos**. **Regla de conteo, fijada aquí para que deje de ser una cifra sin origen:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **64** en total, menos **13** piezas del manuscrito y **9** herramientas |
 | Casos ficticios publicados | **9** (C-01 a C-09). Reparto: **5 ruta A / 4 ruta B**; **5 mujeres / 4 hombres**; **8 sectores distintos** —servicios técnicos es el único con dos casos— |
-| Decisiones registradas | **74** (D-001 a D-074), de las cuales **2 reemplazadas y conservadas**: D-023 por D-043, y D-024 en parte por D-047 y D-034 |
+| Decisiones registradas | **76** (D-001 a D-076), de las cuales **2 reemplazadas y conservadas**: D-023 por D-043, y D-024 en parte por D-047 y D-034. **Nuevas el 2026-09-09:** **D-075**, ampliación del alcance, y **D-076**, los dos títulos que representaban solo el retiro |
 
 **Aviso sobre los dos recuentos, para que no vuelva a divergir.** Las cifras de esta tabla son
 las del libro mayor `revision/control-de-capitulos.md`. Un recuento en vivo separando por
@@ -311,7 +316,7 @@ por separado para que no haya confusión sobre el avance real.
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **10 de 21**, contadas contra `plan-de-investigacion.md` el 2026-09-09: **Q-01 a Q-06, Q-08, Q-16, Q-17 y Q-18** —varias con límites declarados, y **Q-02 resuelta en sentido negativo**—. **2 parciales:** Q-09, que sigue abierta para el capítulo 22 y por el vacío hispanohablante (V-56B), y Q-13, resuelta solo en su parte conceptual. **1 diferida:** Q-19, al capítulo 16. **8 sin iniciar:** Q-07, Q-10, Q-11, Q-12, Q-14, Q-15, Q-20 y Q-21. **Corregido el 2026-09-09 (Etapa 3.11B.1):** decía «4 de 21» y omitía Q-05, Q-08, Q-17 y Q-18, resueltas entre el 8 y el 9 de septiembre; **Q-16 figuraba como parcial y está resuelta con límites desde la Etapa 3.8A.1**. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
-| Verificaciones abiertas | **9** en `revision/verificaciones-pendientes.md`: V-56B, V-57, V-59, V-60, V-61, V-62, V-63, **V-64 y V-65**. Las dos últimas se **aplicaron** en el capítulo 12 y **siguen abiertas**: aplicar una regla no es cerrar la verificación que la obligó. |
+| Verificaciones abiertas | **10** en `revision/verificaciones-pendientes.md`: V-56B, V-57, V-59, V-60, V-61, V-62, V-63, V-64, V-65 y **V-66, la auditoría del destino**, que comprobará en la Etapa 4 que ni el retiro ni la expansión se leen como finalidad del método. Las dos últimas se **aplicaron** en el capítulo 12 y **siguen abiertas**: aplicar una regla no es cerrar la verificación que la obligó. |
 | Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
 | Fuentes verificadas sobre el público nuevo | **0.** Vacío declarado al lector en la introducción. |

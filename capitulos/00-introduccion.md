@@ -4,7 +4,7 @@ parte: 0
 titulo: "Introducción. Si usted no está, ¿qué deja de funcionar?"
 etapa_metodo: ""
 estado: borrador
-palabras: 2838
+palabras: 2899
 casos_usados: []
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -138,6 +138,11 @@ sucesor designado.
 
 De trasladar eso a un sitio donde no dependa de una sola persona.
 
+Conviene además deshacer una etiqueta que este libro se gana pronto y no le corresponde.
+**Quizá usted quiera retirarse. Quizá no: quizá quiera abrir otra unidad, una línea nueva u
+otra cosa.** El problema es el mismo: **si este negocio solo funciona con su atención
+diaria, su próxima decisión la condiciona la operación de hoy.**
+
 > Este libro le enseña a convertir lo que hoy solo existe en su cabeza —su criterio, sus
 > relaciones, sus excepciones y sus controles— en un sistema de personas, procesos y
 > tecnología supervisada que permita a su negocio funcionar bien sin depender de usted,
@@ -169,8 +174,8 @@ lo contrario.
 **El objetivo tampoco es reemplazarle.** No es que usted sobre, ni que se aparte, ni que
 construya con sus propias manos el mecanismo que lo va a jubilar. El objetivo es que su
 participación deje de ser una obligación operativa y se convierta en una elección. Que
-usted siga decidiendo lo que quiera decidir, pero porque quiere, no porque el negocio se
-detenga si no lo hace.
+usted siga decidiendo lo que quiera decidir, pero porque quiere; y que el tiempo que el
+negocio deje de exigirle lo dedique donde usted decida.
 
 La tecnología aparece más adelante y en un papel muy concreto: memoria de lo que el
 negocio sabe, observación de lo que ocurre, apoyo para preparar decisiones que toman
@@ -267,7 +272,7 @@ científicamente: es una regla de medir, construida para este libro, cuyo valor 
 es compararse consigo misma dentro de seis meses. Un número imperfecto que se repite en el
 tiempo enseña más que una impresión perfecta que nunca se anota.
 
-## Retirarse no es un interruptor
+## Participar no es todo o nada
 
 Conviene decirlo pronto, porque un libro como este se cierra rápido si el lector cree que
 le van a pedir que se vaya.

@@ -24,16 +24,27 @@ sin decirlo. Ver `14-publico-y-rutas.md`, apartado 5.
 
 ## 1. Lector principal A
 
-Una persona que fundó, compró o dirige desde hace décadas una pequeña o mediana empresa
-familiar, que se aproxima al retiro o ya lo ha pospuesto varias veces, y cuya empresa
-todavía depende de su presencia diaria.
+Una persona que fundó, compró o dirige una pequeña o mediana empresa, ya establecida, **cuyo funcionamiento todavía depende de su presencia diaria**. Eso es lo que la define como lector A. **Lo que la trae a este libro puede ser cualquiera de varias cosas**, y ninguna es obligatoria:
+
+- se acerca al retiro, o ya lo ha pospuesto varias veces;
+- quiere reducir horas sin dejar de dirigir;
+- quiere pasar a un papel más estratégico y menos operativo;
+- quiere abrir una nueva línea, otra unidad u otro establecimiento;
+- quiere poner en marcha otro negocio sin desmontar este;
+- o simplemente quiere **dejar de ser el cuello de botella**.
+
+**Ampliado el 2026-09-09 (D-075).** La definición anterior decía «que se aproxima al retiro o ya lo ha pospuesto varias veces», y eso **convertía un motivo en un rasgo de identidad**: dejaba fuera del perfil a una persona de cuarenta y cinco años con un negocio consolidado que quiere abrir el segundo. **El escenario de retiro no se borra**: pasa a ser **uno de los momentos de activación posibles**, que es lo que siempre fue en D-040.
 
 ### Rasgos habituales
 
+**Aviso sobre esta lista, y hay que leerlo antes que la lista.** Describe **el escenario más trabajado del libro, no el universo de lectores**. Ninguno de estos rasgos es condición de entrada, y los de edad y trayectoria **corresponden al escenario de retiro**: fuera de él no aplican.
+
 **Trayectoria**
 
-- Entre cincuenta y setenta y cinco años, aproximadamente.
-- Quince años o más al frente de la organización.
+- Entre cincuenta y setenta y cinco años, aproximadamente. **Solo en el escenario de retiro:
+  el método no impone edad y no la usa para nada.**
+- Quince años o más al frente de la organización. **Un negocio consolidado basta**; la cifra
+  describe el caso más frecuente entre los ejemplos del libro, no un requisito.
 - Aprendió el oficio en la práctica, no en un aula.
 - Ha superado al menos una crisis grave que recuerda con detalle.
 
@@ -50,7 +61,9 @@ todavía depende de su presencia diaria.
 
 **Situación personal**
 
-- Quiere retirarse, pero de forma gradual, no de golpe.
+- **Quiere decidir cuánto participa.** Si eso desemboca en retirarse, quiere que sea de forma
+  gradual y no de golpe; pero puede desembocar igualmente en quedarse, en trabajar menos, en
+  ocuparse de la estrategia o en dedicar atención a algo nuevo.
 - No desea dejar la empresa vulnerable ni convertirse en una carga para su familia.
 - Puede no tener un sucesor claramente preparado, y a veces no se atreve a decirlo.
 - Le preocupan, en este orden: el patrimonio familiar, los empleados, la reputación y
@@ -88,6 +101,8 @@ El libro debe partir de ese reconocimiento en la primera página.
 | "Ya intentamos poner sistemas y no funcionó." | Cap. 11. Primero orden y datos confiables; la automatización viene después. |
 | "Si delego, se relajan." | Caps. 18 y 20. Delegar con límites y evidencia no es soltar. |
 | "Esto es para empresas grandes." | Todos los ejemplos son de organizaciones pequeñas y medianas. |
+| "Yo no pienso retirarme; esto no es para mí." | Intro y cap. 5. **El método no pide retirarse.** Sirve igual a quien quiere quedarse, trabajar menos, ocuparse de la estrategia o abrir algo nuevo (D-075). |
+| "No tengo tiempo para otro proyecto, este negocio me consume." | Cap. 5. **Es exactamente el problema del libro:** mientras el negocio actual exija su atención diaria, la siguiente decisión sigue condicionada por él. |
 | "¿Y si me arrepiento?" | Cap. 15. Todo mecanismo automático debe poder detenerse. |
 
 Esta tabla es también la lista de comprobación de la Etapa 4: si al terminar el borrador

@@ -33,7 +33,7 @@ Contrastados contra el orden del Método LEGADO. **El orden del método manda** 
 
 | Módulo | Nombre funcional | Etapa LEGADO | Capítulos | Produce |
 |---|---|---|---|---|
-| **0** | Perfil, objetivo y horizonte | Antesala | 5 | Posición deseada en el Mapa de Participación |
+| **0** | Perfil, objetivo y horizonte | Antesala | 5 | Posición deseada en el Mapa de Participación **y destino previsto de la capacidad recuperada** |
 | **1** | Diagnóstico de dependencia | **L** | 1 | Índice fechado y perfil por dimensiones |
 | **2** | Mapa del ADN Empresarial | L→E | 2, 6 | Inventario priorizado por impacto |
 | **3** | Captura del conocimiento | **E** | 6, 7 | Entradas de conocimiento con evidencia |
@@ -290,6 +290,91 @@ supervisión definida · pruebas de ausencia superadas · continuidad comprobada
 
 **Prohibido:** un medidor de «Legado Inteligente» que suba con la actividad del usuario.
 Sube con evidencia, o no sube.
+
+
+## Módulo 0 y el destino de la capacidad recuperada (2026-09-09, D-075)
+
+**Arquitectura conceptual. No hay diseño técnico aquí, ni stack, ni pantallas.**
+
+El módulo 0 es el sitio natural de la ampliación de alcance, porque es donde el usuario
+declara **qué quiere conseguir al reducir su dependencia operativa**. Hasta ahora recogía una
+sola cosa —la posición deseada en el Mapa de Participación—, que contesta *cuánto quiero
+participar* y no *para qué*.
+
+**Opciones conceptuales, y ninguna obligatoria:**
+
+seguir participando pero por elección · reducir dedicación · preparar el retiro · asumir un
+papel estratégico · abrir otra línea · abrir otra unidad · construir otro negocio · otro ·
+**todavía no lo sé**
+
+**Las cinco reglas de este campo:**
+
+1. **No es un test.** No hay perfil, ni puntuación, ni recomendación derivada. No es un
+   instrumento psicológico y no puede presentarse como tal.
+2. **«Todavía no lo sé» es una respuesta completa**, y no bloquea nada.
+3. **Se puede cambiar en cualquier momento**, y cambiarlo no invalida el trabajo hecho.
+4. **No cambia el Método LEGADO.** La respuesta **personaliza el horizonte** —qué se le
+   muestra al usuario como destino, cómo se le habla— y **no la secuencia metodológica**, que
+   es la misma para todos: L → E → G → A → D → O.
+5. **No promete nada.** El producto no puede sugerir que declarar «abrir otro negocio»
+   acerque a conseguirlo.
+
+## Un usuario, uno o más ámbitos de negocio (2026-09-09, D-075)
+
+**Arquitectura conceptual. No se programa nada, no se elige stack y no se diseña interfaz.**
+
+La ampliación obliga a admitir conceptualmente lo que antes no hacía falta: **una persona
+puede tener más de un negocio, unidad o ámbito**, y el modelo de datos del producto debe
+poder representarlo sin mezclarlos.
+
+**Regla estructural: cada ámbito con ADN propio conserva el suyo, y por separado.**
+
+| Lo que es propio de cada ámbito | |
+|---|---|
+| Su **ADN Empresarial** | Conocimiento, criterio, procesos, excepciones, relaciones |
+| Sus **evidencias** | Lo capturado y con qué respaldo |
+| Sus **permisos** | Quién puede qué, y qué se le permite a cada herramienta |
+| Su **trazabilidad** | Qué se hizo, cuándo y quién respondía |
+| Sus **fuentes de referencia** | Cuál manda para cada dato |
+| Sus **responsables** | Personas, puestos u órganos reales de ese negocio |
+| Su **configuración de IA** | Nivel concedido por tarea, en ese ámbito |
+
+**No se mezclan por defecto. Nunca.**
+
+### Aislamiento de contexto entre ámbitos del mismo usuario
+
+La regla ya vigente —**la información de un negocio no se usa para responder a otro**— se
+aplica **también cuando los dos negocios son de la misma persona**, y ahí es donde importa
+más, porque es donde la tentación de fusionarlos es mayor.
+
+**Negocio A ≠ Negocio B.** El asistente del ámbito A **no utiliza el ADN del B**, y al revés.
+La única excepción concebible es **una acción explícita, autorizada y trazable** del usuario,
+que debe verse, poder revertirse y quedar registrada. Nunca por inferencia, nunca por
+comodidad, nunca en silencio.
+
+**Por qué esto no es una precaución técnica sino una regla del método.** El ADN está ligado
+al contexto en que fue capturado (`editorial/13-adn-empresarial.md`). Un criterio del negocio
+A aplicado al B **no es un criterio: es una regla suelta**, y el producto que la mueva sin
+decirlo estaría haciendo exactamente lo que el libro pasa doce capítulos enseñando a no
+hacer.
+
+### Crear otro negocio, y lo que no se ofrece
+
+Conceptualmente una cuenta puede **«crear otro negocio»** o **«crear otro ámbito»**, y
+empezar en él el recorrido desde el principio.
+
+**Lo que no se ofrece, y conviene que conste antes de que alguien lo proponga como función:
+«CLONAR ESTE NEGOCIO»**, entendido como copia automática de su ADN. No existe y no se
+diseña.
+
+Si en el futuro se permitiera reutilizar algo de un ámbito en otro, tendría que ser las tres
+cosas a la vez:
+
+**seleccionado** —elemento a elemento, por el usuario— · **revalidado** —confirmado como
+cierto en el contexto nuevo— · **trazable** —con constancia de qué vino de dónde—.
+
+**Nunca copia silenciosa de conocimiento, criterio, relaciones o datos.**
+
 
 ## 12. Correspondencia con el libro
 

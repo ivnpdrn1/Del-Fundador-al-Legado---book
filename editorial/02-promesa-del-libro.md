@@ -79,6 +79,16 @@ saca este capítulo de la cabeza del fundador, o qué hace verificable lo que ya
 La columna de comprobación se rellena para cada capítulo en
 `revision/control-de-capitulos.md`, apartado 6.
 
+## 2 bis. Alcance de «sin depender de usted» (2026-09-09, D-075)
+
+**La promesa no cambia, y no hacía falta que cambiara: ya cubría el escenario ampliado.** Lo que faltaba era decir su alcance en voz alta, porque la frase se lee de menos de lo que dice.
+
+> **Que el negocio funcione sin depender de usted no significa que usted se vaya. Significa > que puede decidir dónde pone su atención.**
+
+Y ese «dónde» **es del lector**: puede ser este mismo negocio, la parte estratégica, menos horas, el retiro, o **otro proyecto empresarial** —otra línea, otra unidad, otra empresa—.
+
+**Lo que esta explicación de alcance no añade a la promesa**, y no puede añadirlo: no promete **más ingresos**, ni **crecimiento**, ni **productividad**, ni que el nuevo proyecto salga bien, ni que el lector pueda llevar **un número determinado de negocios**. La promesa cubre **la elección**, no lo que se haga con ella.
+
 ## 3. Lo que la promesa incluye
 
 El libro se compromete a entregar:

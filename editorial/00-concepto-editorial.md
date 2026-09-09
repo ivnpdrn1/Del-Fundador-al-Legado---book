@@ -25,8 +25,10 @@ Lo que los une, y lo que da unidad al libro, es que una parte sustancial del neg
 El libro enseña un método para transferir esa dependencia —de forma gradual y controlada—
 a una combinación de personas, procesos, sistemas, datos confiables, controles,
 indicadores, documentación e inteligencia artificial supervisada. A ese trabajo el libro lo
-llama **clonación del conocimiento**, con la definición y los límites estrictos de
+llama **clonación del ADN Empresarial**, con la definición y los límites estrictos de
 `13-adn-empresarial.md`.
+
+**Reconciliado el 2026-09-09 (Etapa 3.11B.2).** Aquí decía «clonación del conocimiento», formulación anterior a **D-043** y **D-046**. La arquitectura vigente distingue tres cosas y conviene tenerlas separadas: **ADN Empresarial** es el **concepto paraguas** —lo que el negocio sabe hacer—; **clonación del ADN Empresarial** es el **proceso** de identificarlo, capturarlo, estructurarlo, preservarlo y transferirlo; y **clonación del conocimiento** es **una parte de ese proceso**, la que trata el conocimiento propiamente dicho. No es una decisión nueva: es la corrección de un residuo.
 
 ## 2. Qué no es
 
@@ -80,10 +82,11 @@ Ese es el hueco que este libro ocupa.
 | Las decisiones se centralizan por costumbre. | Las decisiones se distribuyen por diseño, con límites explícitos. |
 | Delegar produce miedo porque no hay visibilidad. | Delegar produce tranquilidad porque hay evidencia. |
 | La tecnología es una amenaza o una promesa vaga. | La tecnología es un asistente supervisado con permisos y registro. |
-| Retirarse significa desaparecer o no retirarse nunca. | Retirarse significa cambiar de papel conservando la última palabra. |
+| Mi tiempo pertenece a la operación. | Puedo decidir cuánto participa mi tiempo en ella, y dónde pongo el resto de mi atención. |
 
-El cambio final que persigue el libro no es tecnológico ni organizativo: es que el
-fundador pueda ausentarse con tranquilidad verificada, no con esperanza.
+**Reformulada la última fila el 2026-09-09 (D-075).** Decía: «Retirarse significa desaparecer o no retirarse nunca» → «Retirarse significa cambiar de papel conservando la última palabra». Era correcta y **seguía formulando el punto de llegada entero en términos de retiro**, cuando el retiro es **uno** de los usos posibles de la elección conseguida. **El retiro continúa como ejemplo, no como destino único**, y esa lectura no se pierde: cambiar de papel conservando la última palabra es exactamente lo que permite la fila nueva.
+
+El cambio final que persigue el libro no es tecnológico ni organizativo: es que **la participación del fundador deje de estar impuesta por la operación**. Eso se comprueba pudiendo ausentarse con tranquilidad verificada, no con esperanza —y lo que se haga después con esa capacidad, incluido no hacer nada distinto, **es del lector y no del libro**.
 
 ## 5. Diferenciación frente a la literatura tradicional de sucesión
 

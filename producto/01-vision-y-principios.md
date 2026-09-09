@@ -162,7 +162,7 @@ consentimiento explícito.
 
 **Dos reglas absolutas:**
 
-1. **La información de un negocio no se usa nunca para responder a otro negocio.**
+1. **La información de un negocio no se usa nunca para responder a otro negocio.** **Ampliado el 2026-09-09 (D-075): esto rige igual cuando los dos negocios son del mismo usuario.** Una persona con dos ámbitos tiene dos ADN separados, y el asistente de uno no ve el otro salvo acción explícita, autorizada y trazable. Ver `03-arquitectura-funcional.md`.
 2. **La información del cliente no se usa para entrenar sistemas externos sin autorización
    expresa**, específica y revocable.
 

@@ -1,17 +1,17 @@
 ---
 capitulo: 05
 parte: 1
-titulo: "Retirarse no significa abandonar"
+titulo: "Trabajar por elección, no por obligación"
 etapa_metodo: "—"
 estado: borrador
-palabras: 1989
+palabras: 2262
 casos_usados: []
 recursos_producidos: ["cuestionario-preparacion-elegir-participacion.md"]
 afirmaciones_por_verificar: []
-ultima_actualizacion: "2026-09-07"
+ultima_actualizacion: "2026-09-09"
 ---
 
-# 5. Retirarse no significa abandonar
+# 5. Trabajar por elección, no por obligación
 
 Hay una frase que conviene decir ahora, en voz alta, porque puede llevar cuatro capítulos
 formándose en voz baja:
@@ -28,7 +28,15 @@ haciendo las maletas.
 
 No lo es. Y la diferencia no es de matiz.
 
-## El malentendido
+O puede que su frase sea otra: **yo lo que quiero es abrir la segunda tienda**, o sacar la
+línea que lleva dos años en la cabeza. Y lo que le detiene no es la falta de ganas: es que
+este negocio le pide el día entero.
+
+Es el mismo problema. Quien quiere marcharse y quien quiere emprender otra cosa chocan
+contra la misma pared: **mientras el negocio actual dependa de su atención diaria, la
+siguiente decisión la condiciona la operación.**
+
+## Retirarse no significa abandonar
 
 La equivalencia que hay que romper es esta: **preparar el negocio para que funcione sin
 usted no es prepararse para irse.**
@@ -82,7 +90,9 @@ El mapa sirve para contestar dos preguntas, y nada más que esas dos:
 > **¿Dónde estoy hoy?** · **¿Dónde me gustaría poder estar?**
 
 No sirve para contestar «¿hasta dónde debo llegar?», porque esa pregunta no tiene respuesta
-correcta.
+correcta. Y hay una tercera que tampoco contesta: **qué hace usted con el tiempo que este
+negocio deje de pedirle.** El mapa mide su participación **en este negocio**, y nada más. Se
+puede estar en «supervisión» aquí y tener la cabeza en otra cosa media semana.
 
 Y conviene decir lo que el mapa no es, porque son cuatro cosas y las cuatro importan. **No
 es una escala**: no está validado ni medido, y se construyó para este libro. **No es una
@@ -107,8 +117,12 @@ quién puede llamar un cliente si él no aparece durante dos semanas. Sigue en l
 posición del mapa. La diferencia es que ahora está ahí por decisión, y que dos semanas
 fuera ya no dejan a un cliente sin saber a quién llamar.
 
-Los dos hicieron lo mismo, aunque no se parezca: dejaron de estar obligados. Ninguno de los
-dos se retiró.
+Y un tercero. Alguien sale de la operación diaria, se queda supervisando **y usa las
+mañanas que le sobran para levantar una segunda unidad**. Tampoco se retiró, y tampoco
+trabaja menos: cambió dónde puede poner la atención.
+
+Los tres hicieron lo mismo, aunque no se parezca: dejaron de estar obligados. Ninguno de los
+tres se retiró.
 
 De ahí salen las reglas del mapa, que son pocas y conviene tenerlas escritas:
 
@@ -190,15 +204,18 @@ semana. Otra quiere conservar tres relaciones importantes y soltar todo lo demá
 quiere seguir trabajando exactamente igual, pero sin que la operación diaria pase por ella.
 Las cuatro han dicho la misma frase y no están hablando de lo mismo.
 
-Por eso este capítulo cambia la pregunta:
+Por eso este capítulo cambia la pregunta, y en realidad la cambia por dos:
 
-> **¿Qué papel quiero poder elegir tener?**
+> **¿Qué papel quiero poder elegir tener?** · **¿Qué haría con mi tiempo si este negocio
+> dejara de exigir que yo estuviera en todo?**
 
-El tiempo sigue importando, pero deja de ser lo único. Y debajo de esa hay otras dos, que
-son las que de verdad mueven algo: **si dejara la operación diaria, ¿qué parte de su papel
-querría conservar?** Y al revés: **¿qué es lo que quiere dejar de tener que hacer, no lo que
-quiere dejar de hacer?** No es la misma pregunta. La primera se puede contestar sin
-renunciar a nada.
+La segunda incomoda más, y por eso sirve. Descansar, llegar a casa antes, ocuparme de la
+parte que me gusta, abrir lo siguiente, **no lo sé todavía**: ninguna respuesta es mejor que
+otra, y la última también vale.
+
+El tiempo sigue importando, pero deja de ser lo único. Y hay una tercera, que es la que de
+verdad mueve algo: **¿qué es lo que quiere dejar de tener que hacer, no lo que quiere dejar
+de hacer?** No es la misma pregunta, y la primera se puede contestar sin renunciar a nada.
 
 ## La herramienta de este capítulo
 
@@ -230,3 +247,8 @@ Queda la pregunta que abre todo lo demás, y ya no es una pregunta de diagnósti
 trabajo: **¿qué tendría que dejar de depender exclusivamente de usted para que esa elección
 fuese posible de verdad?** Ahí empieza la segunda parte, y empieza por lo único que se puede
 hacer primero, que es localizarlo.
+
+Y conviene decir de una vez qué hay al otro lado de ese trabajo: **nada obligatorio.**
+Quedarse, trabajar menos, ocuparse de la estrategia, retirarse, abrir otra cosa. **Son usos
+posibles de una misma elección, y el libro no defiende ninguno**; lo único que defiende es
+que la elección exista. Que exista tampoco garantiza que lo que haga después salga bien.

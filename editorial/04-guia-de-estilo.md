@@ -202,6 +202,29 @@ Además de las reglas de confidencialidad de `editorial/09-reglas-de-casos-ficti
 - Rayas de diálogo y guiones largos con el signo correspondiente, no con dos guiones.
 - Los nombres de archivo van en minúsculas, sin tildes ni eñes, separados por guiones.
 
+
+## Regla sobre la palabra «retiro» (2026-09-09, D-075)
+
+**«Retiro» no se usa como motivo general del método.** Se usa cuando el pasaje trate
+específicamente de retiro, que es un asunto real del libro y tiene capítulo y herramienta
+propios.
+
+Para las formulaciones generales —el porqué del recorrido, las transiciones, los cierres de
+capítulo, las señales de paso— el vocabulario correcto es otro:
+
+**elección de participación · reducción de dependencia · capacidad de decidir · tiempo y
+atención · papel operativo · continuidad.**
+
+**Prueba rápida antes de escribir «retiro» en una frase general:** si la frase seguiría
+siendo verdadera para un lector de cuarenta y cinco años que quiere abrir su segundo
+negocio, la palabra sobra.
+
+**Y la cautela en sentido contrario, que importa igual.** «Libertad», «libertad operativa» y
+sus parientes **no se convierten en palabra promocional repetitiva**. La ampliación de D-075
+no autoriza un registro nuevo: **el libro sigue describiendo, no vendiendo**. «Capacidad
+recuperada» y «tiempo liberado» son descripciones ocasionales, **no un término del método**.
+
+
 ## 10. Comprobación antes de dar por bueno un capítulo
 
 Diecisiete preguntas. Un capítulo que falle en cualquiera vuelve a revisión.

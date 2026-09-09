@@ -372,6 +372,40 @@ que lo ejecuta.
 7. **En minúsculas y de forma descriptiva** dentro del texto; en mayúsculas solo como
    nombre del concepto en documentos editoriales (D-036, extendido en D-043).
 
+
+## El ADN está ligado al contexto en que fue capturado (2026-09-09, D-075)
+
+Regla conceptual que la ampliación de alcance obliga a fijar antes de que aparezca el primer
+capítulo donde alguien tenga dos negocios.
+
+**El ADN Empresarial de un negocio describe cómo funciona *ese* negocio**: con sus clientes,
+sus proveedores, su mercado, sus personas, sus excepciones y su historia. **Está ligado al
+contexto en el que fue capturado, y ese contexto forma parte de lo capturado.**
+
+**Prohibido afirmar**, en el libro o en la arquitectura de producto, que el ADN del negocio A
+pueda copiarse al negocio B y vaya a funcionar. No es una cautela legal: es que el criterio
+sin su contexto **no es criterio, es una regla suelta**, y el libro lleva doce capítulos
+diciéndolo.
+
+**Lo que sí puede viajar**, y viaja bien:
+
+- los **principios** con los que se decidió;
+- los **aprendizajes**, incluidos los errores;
+- las **plantillas** y los formatos de trabajo;
+- las **formas de gobernar** —cómo se fija un límite, cómo se registra una excepción, cómo se
+  concede un permiso—;
+- **algunos procesos**, cuando la actividad se parezca.
+
+**Y cada uno de esos elementos se revalida en el negocio nuevo antes de darlo por bueno.**
+Reutilizar no es heredar.
+
+**Qué es entonces la ampliación de D-075, dicho sin ambigüedad.** No consiste en clonar el
+negocio viejo dentro del nuevo. Consiste en **conseguir que el negocio actual dependa menos
+de la persona**, para que esa persona pueda dedicar atención a otra iniciativa. El trabajo
+del método se hace sobre el negocio que ya existe; lo que se lleve al siguiente es una
+consecuencia, y una consecuencia parcial.
+
+
 ## 12. Comprobaciones de la Etapa 4
 
 1. Los términos se definen antes de su segundo uso.

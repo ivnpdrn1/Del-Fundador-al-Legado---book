@@ -66,6 +66,7 @@ muy reducido.
 | Su información contiene datos de clientes o pacientes. | La lista de información restringida le concierne más, no menos. |
 | No tiene departamento de sistemas ni asesor tecnológico. | La tecnología debe explicarse todavía con más cuidado y menos supuestos. |
 | Su horizonte de salida puede ser vender, transferir la cartera o simplemente cerrar bien. | La sucesión no se puede dar por supuesta ni tratar solo como relevo familiar. |
+| **Su horizonte puede no ser una salida en absoluto** (2026-09-09, D-075). Puede querer reducir horas, convertir parte de su conocimiento en un producto o un sistema, abrir otra actividad, o sostener su práctica mientras construye otra fuente de trabajo. | **El libro no puede tratar a este lector como alguien que se prepara para dejarlo.** Y **no se afirma que nada de esto sea frecuente**: son posibilidades, no un retrato. |
 
 ### 3.3 Lo que ambos comparten
 
@@ -81,12 +82,19 @@ Y es lo que sostiene la unidad del libro:
 
 Mismo método, dos recorridos. **No son dos libros ni dos mitades del libro.**
 
+**Regla que gobierna las dos cadenas, fijada el 2026-09-09 (D-075).** **Las rutas describen cómo está organizado el negocio. No describen por qué la persona quiere reducir su dependencia.** Las dos pueden desembocar en cualquiera de los escenarios, y por eso las dos cadenas terminan ahora en un abanico y no en un punto. **Prohibido** asociar una ruta a un motivo.
+
 ### Ruta A — Empresa con estructura
 
 Fundador o propietaria → conocimiento tácito → documentación → procesos → delegación →
 controles → sistemas → automatización → inteligencia artificial supervisada →
 transferencia del criterio → menor dependencia del fundador → continuidad empresarial →
-sucesión, retiro o legado.
+**y desde ahí, lo que la persona elija: permanencia elegida, papel estratégico, reducción de
+dedicación, una nueva línea o unidad, otro negocio, sucesión, retiro o legado**.
+
+**Corregida la cadena el 2026-09-09.** Terminaba en «sucesión, retiro o legado», tres
+destinos que **son del negocio y no de la persona**, y que además cerraban el recorrido en
+una sola dirección.
 
 ### Ruta B — Profesional independiente o negocio unipersonal
 
@@ -94,7 +102,9 @@ Profesional, freelancer, consultor o dueño-operador → conocimiento tácito �
 → procedimientos → información estructurada → automatización → asistente digital →
 inteligencia artificial con el contexto del trabajo → capacidad de asistir o ejecutar las
 tareas permitidas → reducción progresiva de la dependencia personal → reducción voluntaria
-de horas → continuidad económica → retiro, transferencia o legado.
+de horas → continuidad económica → **y desde ahí, lo que la persona elija: seguir ejerciendo por elección, crear un producto o un sistema a partir de su conocimiento, abrir otra actividad, mantener la práctica mientras construye otra fuente de trabajo, transferir la cartera, retirarse o dejar algo en pie**.
+
+**Corregida la cadena el 2026-09-09 (D-075), igual que la de la ruta A.** Y con la misma cautela que rige todo el apartado 3.2: **nada de esto se afirma como frecuente**. Son posibilidades editoriales, no una descripción de lo que hace la gente.
 
 ### Diferencia esencial entre las dos
 
@@ -211,9 +221,14 @@ con una sucesión ya hecha, o en «100 % operativo» sin ningún destino decidid
 |---|---|---|
 | **Mapa de Participación** | Cuánto participa la persona en la operación | Las ocho posiciones de 7.2 |
 | **Resultado o destino del negocio** | Qué ocurre con el negocio | Continuidad · transferencia · sucesión · legado |
+| **Destino de la capacidad recuperada** *(2026-09-09, D-075)* | **Qué hace la persona con el tiempo y la atención que este negocio ya no le exige** | Más dedicación a este mismo negocio · estrategia · otra línea · otra unidad · otro negocio · menos horas · retiro · algo fuera del trabajo |
 
 No se introduce ninguna taxonomía nueva: los cuatro destinos ya estaban en la arquitectura.
 Venta y cierre no se desarrollan aquí porque no constan en los documentos vigentes.
+
+**Sobre el tercer eje, y por qué no es una novena posición del mapa.** El mapa contesta **una sola pregunta: ¿cuánto participo en este negocio?** No contesta **qué hago con el tiempo que este negocio ya no necesita**, que es otra pregunta y de otro orden. Por eso **«abrir otro negocio» no es una posición del mapa y no se añade ninguna**: las ocho siguen siendo ocho.
+
+El ejemplo que lo deja claro: una persona puede estar en **supervisión** en el negocio actual —una de las ocho posiciones, sin cambio alguno— y dedicar **la mayor parte de su actividad a un segundo negocio**. Su posición en el mapa describe el primero; el segundo no aparece en el mapa, porque el mapa no es de la persona: **es de su participación en un negocio concreto**.
 
 ### 7.5 Respaldo, honestamente clasificado
 

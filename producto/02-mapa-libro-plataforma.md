@@ -38,7 +38,7 @@ producto.***
 | 2 | Que hay conocimiento que nunca se consideró conocimiento: criterio, historia, excepciones, señales | Lista libre de «cosas que solo yo sé» | Ejercicio de reconocimiento | Semilla del mapa de ADN | Recoger la lista y clasificarla por los diez componentes | **Clasificar** cada entrada en su componente y detectar cuáles faltan | L→E |
 | 3 | Que la autonomía que ve puede depender de que él esté disponible | Tres respuestas, propias o del equipo | Prueba de las tres preguntas | Contraste percepción/realidad | Recoger respuestas y compararlas con las del propietario; en modo B, comparar lo que cree saber explicar con lo que consigue escribir | Comparar y señalar divergencias | L |
 | 4 | Qué cambia porque no está disponible, y qué de eso es pausa y qué es pérdida | Cuadro de una semana por estados, con cifra solo donde exista | Cálculo del impacto de una semana de ausencia | **Mapa de riesgos de ausencia** | Registrar y priorizar por impacto | Sugerir puntos no considerados a partir del ADN ya capturado | L |
-| 5 | Que retirarse no es abandonar; el Mapa de Participación | Posición actual y posición deseada en el mapa + horizonte | 2. Cuestionario de preparación para el retiro | **Objetivo y horizonte del usuario** | **Módulo 0**: fijar el destino, que condiciona todo lo demás | Ninguna | L |
+| 5 | **Elección de participación y objetivo del tiempo recuperado**; el Mapa de Participación. **Actualizado el 2026-09-09 (D-075/D-076):** decía «que retirarse no es abandonar», que era la objeción y no la tesis | Posición actual y posición deseada en el mapa + horizonte | 2. Cuestionario de preparación para el retiro | **Objetivo y horizonte del usuario** | **Módulo 0**: fijar el destino, que condiciona todo lo demás | Ninguna | L |
 
 **Observación.** El capítulo 1 es el único de esta parte que produce un activo estructurado,
 y es el que justifica que el diagnóstico sea la puerta de entrada del producto. Los
@@ -97,6 +97,19 @@ y no antes.
 | **24** | El examen: 24 horas y 7 días | **Registro de la prueba: preguntas, bloqueos, excepciones, procesos detenidos** | 15-16. Prueba de ausencia | **Informe de la prueba + tareas derivadas** | **Mención funcional.** Prueba acumulativa; cada fallo se convierte en tarea | Registrar durante la ausencia y **convertir cada fallo en una tarea de reducción de dependencia** | D→O |
 | 25 | Qué significa que un negocio pueda continuar | Evaluación anual | 18. Evaluación anual de continuidad | **Informe de Legado Inteligente** | Comparación interanual con evidencias | Preparar el informe a partir de las evidencias acumuladas | **O** |
 | Concl. | Cierre; las cuatro preguntas | Ninguno | — | — | Ninguna, o una línea en el anexo | Ninguna | O |
+
+
+## Arquitectura futura de los capítulos 22, 24, 25 y la conclusión (2026-09-09, D-075)
+
+**Solo arquitectura. Ninguno está escrito y esta etapa no los escribe.**
+
+| Pieza | Qué cambia en su correspondencia con el producto |
+|---|---|
+| **22 — Su nuevo papel** | El módulo 0 recoge el objetivo del usuario; **el 22 lo revisa al final del recorrido**, porque el objetivo pudo cambiar. El nuevo papel puede ser supervisor, estratégico, asesor, o **fundador de otra cosa**. El producto no puede ofrecer una lista cerrada de papeles ni marcar uno como completo. |
+| **24 — La prueba de ausencia** | **La mecánica no cambia.** Lo que cambia es su lectura: el módulo 10 debe permitir declarar que la ausencia simulada corresponde a **atención reasignada**, no solo a vacaciones o retiro. El informe es el mismo. |
+| **25 — El negocio que puede continuar** | El módulo 14 mide continuidad del negocio, **no éxito de lo siguiente**. Si el usuario tiene un segundo ámbito, el tablero **no los suma ni los compara**. |
+| **Conclusión — Usted elige cómo seguir** | Cierre del recorrido, no del producto. **No hay pantalla de «has terminado»** y no la habrá. |
+
 
 ## Resumen de la presencia digital en el manuscrito
 

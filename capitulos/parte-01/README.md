@@ -9,7 +9,7 @@ juzgado. Aquí se gana o se pierde al lector.*
 | 2 | El conocimiento que nunca fue escrito | E | — | no iniciado |
 | 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | — | C-04 | **borrador** |
 | 4 | El costo de una ausencia inesperada | — | C-05 | **borrador** |
-| 5 | Retirarse no significa abandonar | — | — | **borrador** |
+| 5 | **Trabajar por elección, no por obligación** | — | Cuestionario de preparación para elegir su participación (2) | **borrador, ampliado (3.11B.2)** |
 
 El capítulo 1 se escribió en la **Etapa 2 — Muestra editorial**. Los capítulos 2 a 5
 pertenecen al bloque B1 de la Etapa 3 y **no están autorizados**.
