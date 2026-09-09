@@ -40,13 +40,18 @@
 **Etapa 3.8B — Capítulo 9 y herramienta 7: COMPLETADA el 2026-09-08.**
 **Etapa 3.8B.1 — Control editorial y metodológico final de la etapa E: COMPLETADA el 2026-09-08.**
 **Etapa 3.9A — Investigación Q-08 y preflight de la etapa G: COMPLETADA el 2026-09-08.**
+**Etapa 3.9B — Capítulo 10 y herramienta 8: COMPLETADA el 2026-09-08.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión de la
-base conceptual de G. **El capítulo 10 no se ha escrito, la herramienta 8 no se ha creado y la
-Etapa 3.9B no se ha iniciado.**
+**Hito: la Parte II queda completa** —capítulos 6 a 10— y con ella **G-1, la gobernanza de las
+decisiones**. **La etapa G no está completa:** falta G-2, la gobernanza de la información, que se
+cierra en el capítulo 11.
+
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión del
+capítulo 10 y de la herramienta 8. **El capítulo 11 no se ha escrito y la etapa siguiente no se ha
+iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -259,7 +264,7 @@ por separado para que no haya confusión sobre el avance real.
 |---|---|
 | Fuentes verificadas | **37**. **Q-08 añadió F-034 a F-037 (Etapa 3.9A), y es la primera tanda con la mayoría leída entera:** el Green Book de la GAO, el manual del IRS y la guía del PCAOB se leyeron directamente en sus documentos oficiales; COSO quedó **solo en identidad**, porque su marco se vende. Antes: **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
-| Afirmaciones con fuente en el manuscrito | **15**. Seis nuevas en el capítulo 9: dos de F-028, tres de F-029 y una de F-033. |
+| Afirmaciones con fuente en el manuscrito | **19**. Seis en el capítulo 9 (F-028, F-029, F-033) y **cuatro en el capítulo 10** (F-034 y F-035), **las cuatro con el ámbito de la fuente dicho dentro de la propia frase**, incluida una que declara expresamente lo que las fuentes **no** dicen. |
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04). **Q-06** resuelta para los capítulos 2 y 9. **Q-13** resuelta en su parte conceptual. **Q-09** y **Q-16** resueltas parcialmente. **Q-19** diferida al capítulo 16. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
@@ -372,9 +377,12 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Revisión final de la etapa E antes de pasar a G.** Es lo único que el autor ha pedido a
-   continuación. No se escribirá el capítulo 10 ni se iniciará la Etapa 3.9 sin nueva
-   autorización.
+1. **Revisar el capítulo 10 y la herramienta 8.** Es lo único que el autor ha pedido a
+   continuación. No se escribirá el capítulo 11 sin nueva autorización.
+1 ter. **G-1 completa, G no.** El capítulo 10 cierra la gobernanza de las decisiones. La
+   gobernanza de la información —qué existe, cuál es la fuente buena, qué no debería circular
+   libremente— es **G-2** y se cierra en el capítulo 11, que el índice asigna a la etapa A con G
+   como requisito previo. **No debe decirse que la etapa G haya terminado.**
 1 bis. **La Etapa 3.8B.1 dejó el capítulo 9 y la herramienta 7 sin absolutos injustificados y
    sin cifras metodológicas inventadas.** Cayeron el intervalo de quince a treinta minutos y el
    umbral de dos o tres casos. **Regla vigente y común a capítulo y herramienta:** un caso basta

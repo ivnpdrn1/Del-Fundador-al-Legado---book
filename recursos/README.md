@@ -4,8 +4,8 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: 7 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
-la 7, con sus capítulos, en la Etapa 3. **Quedan once**, y cada una se produce junto con su
+**Estado actual: 8 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
+la 8, con sus capítulos, en la Etapa 3. **Quedan diez**, y cada una se produce junto con su
 capítulo.
 
 **El capítulo 7 trabaja con tres vistas y produce dos herramientas** (D-070). La vista del
@@ -33,37 +33,43 @@ herramientas.**
 *Solo la arquitectura. La herramienta completa se redacta con el capítulo 10, en la
 Etapa 3.*
 
-**Qué mide la herramienta, en ambos modos.** Hasta dónde puede llegar un compromiso sin que
-intervenga la persona clave, y quién o qué lo comprueba después. La pregunta es la misma;
-lo que cambia es quién ocupa las casillas.
+**Qué mide la herramienta, en ambos modos.** Hasta dónde puede llegar una decisión sin que
+vuelva a la persona clave, y quién lo comprueba después. La pregunta es la misma; lo que cambia
+es quién ocupa las casillas.
+
+**Tabla reconciliada el 2026-09-08 (Etapa 3.9B).** La versión anterior se escribió antes de Q-08
+y antes de D-072, y contenía cinco formulaciones que hoy no se sostienen: atribuía autoridad a
+sistemas; enunciaba «quien inicia no aprueba ni registra» como regla para todos los casos; decía
+que la separación de funciones **se sustituye** por otro control; exigía un tercero externo
+periódico; y afirmaba que el límite propio es **más débil** que la separación. **Se corrige la
+tabla, no se le añade una nota**: una arquitectura vieja seguida de una advertencia sigue siendo
+una arquitectura vieja.
 
 | Elemento | **Modo A** — organización con personas | **Modo B** — profesional independiente o negocio unipersonal |
 |---|---|---|
-| **Sujeto de la autoridad** | Funciones y personas con nombre. | La propia persona clave, más colaboradores externos ocasionales y sistemas. |
-| **Qué se escribe** | Quién puede decidir qué, hasta qué límite. | Qué decide usted sin pensarlo, qué exige una pausa y qué no acepta nunca. |
-| **Forma del límite** | Importe, alcance y firma por función. | Reglas propias: umbrales de compromiso, condiciones que no se negocian, tipos de encargo que se rechazan. |
-| **Quién ejecuta dentro del límite** | La persona con la función asignada. | Un procedimiento, una plantilla, una automatización o un colaborador externo. |
-| **Separación de funciones** | Quien inicia no aprueba ni registra. | No es posible con una sola persona. Se sustituye por **doble comprobación diferida** —revisar en otro momento, con una lista— y, cuando el importe lo justifique, por **revisión de un tercero**, como quien lleva la contabilidad. |
-| **Quién revisa** | Un revisor interno o externo designado. | Un tercero externo, periódico y con alcance escrito. |
-| **Evidencia** | Registro de quién aprobó qué. | Registro de qué se decidió, con qué regla y en qué fecha. |
+| **Sujeto de la autoridad** | Una persona, una función o un órgano **que existan de verdad** (D-073). Se prefiere la función cuando la autoridad deba sobrevivir al cambio de persona. **No se inventan cargos.** | La propia persona. Y quien más tenga autoridad realmente asignada, si lo hay: un socio, un órgano, la propiedad. **Ni los procedimientos ni los sistemas**: esos ejecutan, no responden. |
+| **Qué se escribe** | Quién puede decidir qué y hasta dónde. | Hasta dónde actúa usted sin volver a abrir la decisión, qué obliga a pausar y qué no acepta. |
+| **Forma del límite** | Alcance, plazo, tipo de caso, consecuencias, posibilidad de deshacerlo, información implicada. **El importe es una forma más, cuando de verdad aplique.** | La misma lista. Reglas propias escritas: umbrales de compromiso, condiciones que no se negocian, tipos de encargo que se rechazan. |
+| **Quién ejecuta dentro del límite** | La persona que ocupa la función. **Puede coincidir con quien decide**, y eso no es un error automático: la matriz lo hace visible y después se juzga. | Usted, o un procedimiento, una plantilla o un colaborador externo. **Ejecutar no es decidir.** |
+| **Concentración de funciones** | La matriz hace visible quién **inicia, autoriza, ejecuta y registra**. Cuando esas funciones se concentran y el impacto lo justifica, separar alguna reduce la posibilidad de que una misma persona **haga y oculte** (F-035). **No es una regla para todas las decisiones**, y la norma de referencia prevé expresamente que no siempre sea practicable (F-034). | Con una sola persona **no existe separación de funciones**, y una fuente oficial lo dice con esas palabras (F-035). **No se finge.** Se diseñan controles alternativos —pausa, revisión diferida, constancia escrita, consulta real cuando la haya—. |
+| **Quién revisa después** | Un revisor interno designado, la propiedad o un tercero externo: **el que exista**. | Un contador o un asesor real, si lo hay. Si no lo hay, **una segunda mirada propia y diferida**, que **no es independiente y no debe llamarse así**. Y puede no haber hoy ninguna revisión externa: eso se anota, no se disimula. |
+| **Evidencia** | Fecha, decisión, regla aplicada y quién decidió. | La misma, y además si se cruzó el límite y qué se hizo entonces. |
 | **Señal de que la matriz funciona** | Las decisiones dentro del límite dejan de subir. | Las decisiones dentro del límite dejan de repensarse cada vez. |
 
-**Refinamiento del 2026-09-08 (D-072), que no anula nada de lo anterior.** La tabla decía que
-en el modo B «la autoridad se traslada» a reglas, procedimientos, automatizaciones o sistemas.
-**Eso mezclaba tres cosas.** Quedan separadas así, y valen para toda la herramienta:
+**Las cuatro definiciones que gobiernan esta herramienta** (D-072, refinada por D-073):
 
 | | |
 |---|---|
-| **Autoridad** | Permiso y responsabilidad de comprometer una decisión. **Solo la tiene una persona.** En el modo B **no se traslada a ninguna parte**: sigue siendo de la misma persona, y lo que se escribe son sus límites. |
-| **Ejecución** | Hacer aquello que la decisión autorizó. **Sí puede recaer** en un procedimiento, una plantilla o un colaborador externo. |
-| **Control** | La regla, el límite, la comprobación o la constancia que reduce la posibilidad de cruzar un límite sin que se note. **Una regla no tiene autoridad: limita, guía, obliga a pausar o deja constancia.** |
-| **Aprobación / revisión** | Aprobación es **antes** de actuar; revisión es **después**. No son sinónimos. |
+| **Autoridad** | Permiso y responsabilidad, asignados a **una persona, una función o un órgano real**, para comprometer una decisión. **Siempre la ejerce una persona.** |
+| **Ejecución** | Hacer aquello que la decisión autorizó. **Puede recaer** en un procedimiento, una plantilla o un colaborador externo. |
+| **Control** | Un límite, una comprobación, una autorización o un registro que ayuda a **prevenir o a detectar** que una decisión salga de las condiciones acordadas. **Una regla no tiene autoridad: limita, guía, obliga a pausar o deja constancia.** |
+| **Aprobación / revisión** | Aprobación es **antes** de actuar; revisión es **después**. No son sinónimos. **Es una convención operativa de este método**, coherente con la distinción general entre controles que actúan antes y controles que detectan después. |
 
-**Qué gobierna el modo B, entonces**, y es una matriz real y no una versión reducida: qué decide
+**Qué gobierna el modo B**, y es una matriz real y no una versión reducida: qué decide
 normalmente sin volver a abrir la decisión; qué condición obliga a **pausar**; qué condición
 exige **consultar a un tercero real, si existe**; qué no acepta; qué **revisará después**; y qué
 **constancia** deja. Si no hay a quién pedir aprobación, **no se crea la categoría «me apruebo a
-mí mismo»**: se usan pausa, revisión y consulta real cuando la haya.
+mí mismo»**: se usan pausa, revisión diferida y consulta real cuando la haya.
 
 **Tres reglas que impiden que el modo B invente una jerarquía inexistente:**
 
@@ -80,7 +86,12 @@ mí mismo»**: se usan pausa, revisión y consulta real cuando la haya.
    equivalgan a la separación.
 3. **El límite propio cuenta como control.** Una regla que usted se impone por escrito y
    revisa periódicamente es un control real, aunque el controlado y el controlador sean la
-   misma persona. Es más débil que la separación de funciones y así se dirá.
+   misma persona. **Corregido el 2026-09-08 por V-61:** antes se añadía que «es más débil que la
+   separación de funciones», y **ninguna fuente lo demostró** —tampoco lo contrario—. Lo que sí
+   puede decirse, y basta: **no equivale a una separación de funciones, y su suficiencia depende
+   del caso**. Si el Método LEGADO recomienda además tratarlo con más cautela que un control
+   ajeno, eso es **una decisión de diseño y se declara como tal**, no una conclusión de la
+   evidencia.
 
 **Aviso obligatorio del modo B:** los umbrales, la conservación de documentos y las
 obligaciones contables dependen de la jurisdicción y de la forma jurídica. La herramienta
@@ -114,7 +125,7 @@ remite a un profesional y no fija ninguna cifra.
 | 5 | Mapa de relaciones críticas **(redactada)** | `mapa-relaciones-criticas.md` | 7 | E | Localizar qué parte del negocio se sostiene en un vínculo con alguien de fuera y cuánto pasa hoy por una sola persona. **No promete transferir la relación**: la confianza no se documenta. No es una agenda de contactos. |
 | 6 | Registro de excepciones **(redactada)** | `registro-de-excepciones.md` | 8 | E | Registrar los casos en que el negocio se aparta de su forma normal, **en dos fases: primero el hecho, después el juicio**. Admite «motivo no conocido» y clasifica en mantener, temporal, revisar o dejar de hacerse. No escribe el criterio completo, que es la 7, ni reparte autoridad, que es la 8. |
 | 7 | Plantilla del Manual de criterio **(redactada)** | `manual-criterio-fundador.md` | 9 | E | Reconstruir el criterio de una decisión desde **casos concretos**, con cinco columnas —qué pasó, qué le hizo darse cuenta, típico o raro, en qué condiciones, qué habría cambiado la decisión— y una **síntesis provisional** debajo. **No pide «explique su criterio»**, no convierte un caso en regla y no reparte autoridad, que es la 8. El nombre del archivo se conserva (D-071 no lo toca): lo que se renombró en su día fue el capítulo, no el recurso. |
-| 8 | Matriz de autoridad y aprobaciones **(arquitectura cerrada; se redacta con el capítulo 10)** | `matriz-autoridad-aprobaciones.md` | 10 | G | **Hasta dónde puede llegar una decisión sin nueva consulta**, qué obliga a pausar, quién revisa después y qué constancia queda. El importe es una forma de límite entre varias. **Estado corregido el 2026-09-08:** figuraba como «requiere decisión», y la decisión existe desde el 2026-09-07 —**D-037, aprobada**—, refinada por **D-072**. Ver `03-indice-maestro.md` §5.3 y el apartado siguiente. |
+| 8 | Matriz de autoridad y aprobaciones **(redactada)** | `matriz-autoridad-aprobaciones.md` | 10 | G | **Hasta dónde puede llegar una decisión sin nueva consulta**, qué obliga a pausar, quién revisa después y qué constancia queda. El importe es una forma de límite entre varias. **Estado corregido el 2026-09-08:** figuraba como «requiere decisión», y la decisión existe desde el 2026-09-07 —**D-037, aprobada**—, refinada por **D-072**. Ver `03-indice-maestro.md` §5.3 y el apartado siguiente. |
 | 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | G/A | Clasificar la información antes de conectar cualquier herramienta. |
 | 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |
 | 11 | Modelo de alertas críticas | `modelo-alertas-criticas.md` | 13 | A | Definir qué merece interrumpir a una persona y qué no. |

@@ -1,6 +1,15 @@
 # Parte II — Convertir experiencia en memoria transferible
 
-Capítulos 6 a 10. **Producción autorizada y en curso desde la Etapa 3.5.**
+Capítulos 6 a 10. **Completa desde el 2026-09-08.**
+
+**Un aviso sobre la etapa G, para que nadie dé por cerrado lo que no lo está.** La Parte II
+termina con el capítulo 10, y con él queda completa **G-1: la gobernanza de las decisiones** —
+quién puede decidir, hasta dónde, qué obliga a parar, quién revisa y qué constancia queda—. Pero
+**la etapa G no está completa**. Falta **G-2: la gobernanza de la información**, es decir, saber
+qué información existe, cuál es la buena y cuál no debería circular libremente. Eso se cierra en
+el **capítulo 11**, que el índice asigna a la etapa A precisamente **con G como requisito
+previo**. Que una parte del libro termine no significa que una etapa del método termine con
+ella.
 
 La Parte I sirvió para mirar: cuánto depende el negocio de una persona, qué es lo que
 depende, si la autonomía que se veía era real, qué ocurre cuando falla y qué papel quiere
@@ -19,7 +28,7 @@ por último, **fijar los límites** de lo que puede delegarse.
 | 7 | El mapa de procesos, decisiones y relaciones | E | Mapa de decisiones (4) y mapa de relaciones críticas (5) | **borrador, revisado** |
 | 8 | Cómo documentar las excepciones | E | Registro de excepciones (6) | **borrador** |
 | 9 | El Manual de criterio | E | Plantilla del Manual de criterio (7) | **borrador** |
-| 10 | Lo que puede delegarse y lo que debe protegerse | G | Matriz de autoridad y aprobaciones | no iniciado |
+| 10 | Lo que puede delegarse y lo que debe protegerse | **G (G-1)** | Matriz de autoridad y aprobaciones (8) | **borrador** |
 
 El índice completo, con la idea central y el presupuesto de palabras de cada capítulo, vive
 en `editorial/03-indice-maestro.md`. Aquí no se duplica.
@@ -48,6 +57,12 @@ El capítulo 8 **registra y todavía no explica**. Trabaja sobre las marcas «no
 es así, pero…» que dejó el 7, en dos fases: **primero el hecho, después el juicio**. Anota el
 motivo en una frase o escribe «motivo no conocido»; lo que necesite media página se aparta
 para el 9.
+
+El capítulo 10 **gobierna, y todavía no delega.** Recibe el criterio ya representado y escribe
+sus límites: quién tiene autoridad, hasta dónde llega, qué obliga a parar, quién revisa después y
+qué constancia queda. **«Puede delegarse» significa candidata a una delegación posterior**, no
+«entréguela ahora»: la transferencia real llega en el capítulo 18. Y no vuelve a extraer criterio,
+que es trabajo del 9.
 
 El capítulo 9 **representa, y todavía no transfiere** (D-071). Toma las tres decisiones
 marcadas en el mapa, las excepciones que no cupieron en una frase y las frases en crudo del

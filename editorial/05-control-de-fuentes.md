@@ -91,6 +91,36 @@ mundo y ninguna atribución. **Q-16 estaba mapeada a este capítulo y no se ejec
 citar marcos de gestión del conocimiento como adorno; su plazo real es antes del capítulo 9.
 
 
+
+**Capítulo 10: dos referencias externas, ninguna con cifras y ambas con su ámbito dicho en la
+propia frase.** Es el capítulo con más riesgo de convertir una práctica de control en una
+obligación para el lector, y por eso las dos citas llegan acompañadas de lo que la fuente **no**
+es.
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 10 | «Un manual de la administración tributaria estadounidense, escrito para orientar inspecciones fiscales y no para gestionar negocios […]: muchos negocios pequeños tienen un propietario y ningún empleado, y **en esa situación esa separación no puede existir**, aunque sí puedan existir otros procedimientos.» | **F-035** | Hecho estructural atribuido | Cerrada. **El ámbito va dentro de la frase**, antes del contenido: se dice qué es la fuente y para qué se escribió, de modo que el lector no pueda leerla como una norma de gestión. Corresponde verbatim a IRM 4.10.3.6.3.3. **No se le hace decir nada sobre cómo debe gobernarse un negocio.** |
+| 10 | «Y la norma de control interno del gobierno federal estadounidense —**que obliga a organismos públicos de aquel país, no a su negocio**— prevé exactamente lo mismo: cuando separar funciones **no resulta practicable**, se diseñan controles alternativos.» | **F-034** | Principio atribuido | Cerrada. Corresponde a los párrafos 10.21 y 10.23 del Green Book. **La exclusión del lector va en un inciso, no en una nota al pie.** |
+| 10 | «la propia norma que acabo de citar advierte que ningún conjunto de controles da **certeza absoluta**, por error humano, por juicios equivocados o porque quien manda pase por encima de sus propias reglas.» | **F-034** | Límite atribuido | Cerrada. Es el uso más importante de la fuente en el capítulo: **entra para impedir que la matriz prometa algo**, no para respaldarla. |
+| 10 | «ninguna de esas fuentes dice que un control alternativo **equivalga** a la separación, y tampoco dice que sea peor. **Su suficiencia depende del caso.** Este libro le recomienda tratarlos con más cautela que un control ajeno, y eso es un consejo nuestro, no un hallazgo.» | **F-034, F-035** | **Declaración expresa de lo que las fuentes no dicen** | Cerrada. Es la aplicación literal de **V-61**. El capítulo **no resuelve por redacción** lo que la investigación dejó abierto, y separa en la misma frase lo verificado de la recomendación propia. |
+
+**Fuentes disponibles que el capítulo 10 decidió NO citar.**
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-036** (PCAOB, *staff views*, 2009) | Dice que menos personal limita la separación y que se usan enfoques alternativos. | **No añadía nada que F-034 y F-035 no dijeran mejor**, y habría exigido explicar al lector qué es una empresa cotizada pequeña y por qué un regulador de mercados aparece en un libro para negocios familiares. **Tres fuentes para el mismo principio son decoración.** Queda disponible si una revisión posterior necesita una confirmación independiente. |
+| **F-037** (COSO, 2013) | Es el marco de referencia más conocido del asunto. | **Solo se tiene su identidad**: el marco se vende y no se abrió. **Cero contenido citado**, y el capítulo no dice que se base en él. |
+
+**Control de universalidades del capítulo 10, ejecutado el 2026-09-08.** Búsqueda literal como
+clase abierta más lectura dirigida de las treinta y cinco apariciones. **Cuatro se corrigieron por
+ser afirmaciones sobre el mundo o sobre las personas sin respaldo:** el título de apartado «el
+límite casi nunca es el dinero»; «cuando alguien oye “límite de autoridad” piensa en un importe […]
+en muchos negocios ni siquiera es la principal»; «mucha gente cree que ha aprobado algo cuando lo
+que hizo fue enterarse a tiempo»; y «hay un exceso simétrico y **hace igual daño**», que afirmaba
+una equivalencia de perjuicio que nadie ha medido. Las demás quedaron clasificadas como
+definiciones del libro, límites del método, negaciones deliberadas o material del caso. En la
+herramienta 8 se revisó además un superlativo sobre sus propios campos.
+
 **Capítulo 9: tres referencias externas, ninguna con cifras.** Es el capítulo insignia y el
 que más tentación tenía de convertirse en revisión académica. Se cita poco y cada fuente hace
 un trabajo concreto; ninguna está ahí de adorno.
