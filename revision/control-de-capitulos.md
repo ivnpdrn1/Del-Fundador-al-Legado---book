@@ -2,9 +2,9 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-09: 13 de 27 piezas escritas. 30.335 palabras.**
+**Estado del manuscrito a 2026-09-09: 14 de 27 piezas escritas. 32.548 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II COMPLETA:** capítulos 6 a 10.
-**PARTE III EN CURSO:** capítulos 11 y 12, dos de los seis.
+**PARTE III EN CURSO:** capítulos 11, 12 y 13, tres de los seis.
 **ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
 **ETAPA G COMPLETA:** G-1, gobernanza de decisiones, en el capítulo 10; **G-2, gobernanza de
 información, en el capítulo 11**. Con eso queda cerrada **G — Gobernar decisiones, permisos y
@@ -15,7 +15,7 @@ dieciocho. El catálogo sigue en **9 de 18**.
 **Lo que «G completa» significa y lo que no:** existe una base gobernada suficiente para empezar
 a asistir. **No** significa que todo el negocio esté documentado para siempre.
 **Piezas = 25 capítulos numerados + introducción + conclusión** (`03-indice-maestro.md` §0).
-**Recursos: 9 de 18 redactados (15.391 palabras en total; no computan en el manuscrito).**
+**Recursos: 11 de 18 redactados (20.556 palabras; no computan en el manuscrito).** **Recuento unificado el 2026-09-09 (Etapa 3.12B):** la cifra anterior, 15.391 para nueve herramientas, procedía de otro método de conteo; se sustituye por el mismo con el que se cuenta el manuscrito, para que no vuelva a haber dos.
 
 **Nota sobre el recuento (2026-09-08).** Un recuento completo hecho con el contador de esta
 etapa da **27.742** palabras, veintinueve más que la suma acumulada. La diferencia se concentra
@@ -51,7 +51,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | **G (G-1)** | **borrador, revisado (3.9B.1)** | **2.487** | 2.200 | Matriz de autoridad y aprobaciones (herramienta 8 de 18) | **C-07** | 0 |
 | 11 | Ordenar antes de automatizar | III | **A, con G como requisito** | **borrador, revisado (3.10B.1)** | **2.177** | 2.300 | Lista de información que no debe entregarse libremente a una inteligencia artificial (herramienta 9 de 18) | **C-08** | 0 |
 | 12 | La inteligencia artificial como aprendiz | III | **A** | **borrador, revisado (3.11B.1)** | **2.284** | 2.200 | **Cuadro de lo que puede y lo que no puede hacer — dentro del capítulo, no es una de las 18** | **C-09** | 0 |
-| 13 | El periodo de sombra y las primeras alertas | III | A | no iniciado | 0 | 2.100 | — | — | — |
+| 13 | El periodo de sombra y las primeras alertas | III | **A** | **borrador** | **2.213** | 2.100 | Lista de verificación del modo sombra (10) y Modelo de alertas críticas (11) | **C-10** | 0 |
 | 14 | De las alertas a las recomendaciones | III | A | no iniciado | 0 | 2.000 | — | — | — |
 | 15 | Autonomía limitada y aprobación humana | III | A | no iniciado | 0 | 2.200 | — | — | — |
 | 16 | Seguridad, privacidad y auditoría | III | A | no iniciado | 0 | 2.100 | — | — | — |
@@ -75,11 +75,15 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 | Introducción | 1 | 2.700 | **2.899** | completa |
 | I | 5 | 10.400 | **11.319** | **completa** |
 | II | 5 | 11.000 | **11.656** | **completa** |
-| III | 6 | 12.900 | **4.461** | **2 de 6** |
+| III | 6 | 12.900 | **6.674** | **3 de 6** |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **30.335** | **56,9 % del objetivo** |
+| **Total** | **27** | **53.300** | **32.548** | **61,1 % del objetivo** |
 
+
+**Capítulo 13 (Etapa 3.12B): 2.213 palabras, un 5,4 % sobre su objetivo y muy por debajo del tope de D-030.** Salió primero a **1.948**, por debajo del objetivo, y **no se rellenó para llegar**: se añadió lo que faltaba y era exigible —el pasaje de la ruta A, los nombres de «falso aviso» y «omisión», y el principio de trazabilidad de una alerta—, y con eso subió solo. **Las dos herramientas no computan** en el manuscrito aunque el capítulo las explique.
+
+**Desviación acumulada: 32.548 palabras frente a 28.600 de objetivo para catorce piezas, un 13,8 % por encima.** Cuarta etapa consecutiva en la que la desviación se mantiene o baja.
 
 **Ampliación de alcance de la Etapa 3.11B.2 (2026-09-09, D-075), y su coste en palabras.**
 Tres piezas crecieron y ninguna salió de su banda. **La introducción**, +61, hasta 2.899, con
@@ -157,7 +161,7 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
 | E | 2, 7, 8, 9 | 8.700 | **9.190** | **completa** |
 | G | 10 | 2.200 | **2.487** | **G-1 completa** |
-| A | 11–16 | 12.900 | **4.461** | **2 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2**; **el 12 es el primero de A en sentido pleno** |
+| A | 11–16 | 12.900 | **6.674** | **3 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2**; **el 12 es el primero de A en sentido pleno** |
 | D | 17, 18, 21, 23, 24 | 10.900 | 0 | — |
 | O | 19, 20, 22, 25, concl. | 9.400 | 0 | — |
 

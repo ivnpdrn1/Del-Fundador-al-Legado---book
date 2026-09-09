@@ -53,6 +53,8 @@
 **Etapa 3.11B.2.1 — Cierre semántico de la ampliación: COMPLETADA el 2026-09-09.**
 **Etapa 3.12A — Suficiencia de fuentes y preflight del capítulo 13: COMPLETADA el 2026-09-09.**
 **Etapa 3.12A.1 — Cierre factual y semántico del preflight: COMPLETADA el 2026-09-09.**
+**Etapa 3.12A.2 — Reconciliación numérica del preflight: COMPLETADA el 2026-09-09.**
+**Etapa 3.12B — Capítulo 13 y herramientas 10 y 11: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -88,8 +90,12 @@ el apartado 6 de este documento**, congelado desde la Etapa 3.7.
 
 **Seis constantes nuevas** fijan las fronteras del capítulo: sombra no es secreto, sombra no es entrenamiento, comparar no es imitar, **el método no fija una duración universal del periodo de observación** —renombrada en 3.12A.1 para distinguir la decisión metodológica de una afirmación sobre el mundo—, alerta ≠ recomendación ≠ decisión, y «crítico» lo define el negocio. **V-67** queda abierta: **ninguna de las fuentes revisadas establece** cuándo la evidencia acumulada basta para ampliar un permiso.
 
+**Escrito el capítulo 13 y creadas las herramientas 10 y 11.** El catálogo pasa a **11 de 18** y el manuscrito supera el **61 %**. El capítulo introduce el **modo sombra** —un sistema trabaja sobre una tarea real y produce su salida, pero **esa salida no gobierna la decisión ni la ejecución**— con sus **seis deslindes**, y el paso al **nivel 3**, que no consiste en que la herramienta sea más lista sino en que **su salida deja de ir a un registro y empieza a ir a una persona**.
+
+**Lo más difícil del capítulo no fue la tecnología.** Fue sostener que **comparar no es imitar**: cuando el comparador es una decisión humana, el libro la llama «decisión real tomada» y **no la respuesta correcta**, y una divergencia admite **seis lecturas** sin jerarquía —incluida la de que las dos respuestas fueran defendibles con información distinta, que es exactamente lo que le pasa al caso—.
+
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
-**El capítulo 13 no se ha escrito y las herramientas 10 y 11 no se han creado.**
+**El capítulo 14 no se ha escrito.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -282,8 +288,8 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 
 | Concepto | Valor |
 |---|---|
-| Piezas escritas | **13 de 27** (introducción + capítulos 1 a 12), todas en borrador |
-| Capítulos terminados | **12 de 25**. **Parte I completa** (1 a 5); **Parte II completa** (6 a 10); **Parte III, 2 de 6** (11 y 12) |
+| Piezas escritas | **14 de 27** (introducción + capítulos 1 a 13), todas en borrador |
+| Capítulos terminados | **13 de 25**. **Parte I completa** (1 a 5); **Parte II completa** (6 a 10); **Parte III, 3 de 6** (11, 12 y 13) |
 | Introducción | **Escrita y ampliada (3.11B.2)**, 2.899 palabras (objetivo 2.700) |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
@@ -297,14 +303,15 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 | Capítulo 10 | **Escrito y revisado**, 2.487 palabras (objetivo 2.200) |
 | Capítulo 11 | **Escrito y revisado**, 2.177 palabras (objetivo 2.300) |
 | Capítulo 12 | **Escrito y revisado**, 2.284 palabras (objetivo 2.200) |
+| Capítulo 13 | **Escrito**, 2.213 palabras (objetivo 2.100) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **30.335** |
+| Palabras del manuscrito | **32.548** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | **56,9 %** |
-| Recursos terminados | **9 de 18** (**15.391 palabras** según el libro mayor; no computan en el manuscrito). **Quedan nueve.** |
+| Avance sobre el objetivo | **61,1 %** |
+| Recursos terminados | **11 de 18** (**20.556 palabras**; no computan en el manuscrito). **Quedan siete.** **Recuento unificado el 2026-09-09:** la cifra anterior, 15.391, procedía de otro método de conteo. |
 | Entregables que no son herramienta del catálogo | **2**: la vista del proceso real del capítulo 7 (D-070) y el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12. Ambos viven dentro de su capítulo y **no tienen archivo en `recursos/`** |
 | Documentación del proyecto | **42 archivos**. **Regla de conteo, fijada aquí para que deje de ser una cifra sin origen:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **64** en total, menos **13** piezas del manuscrito y **9** herramientas |
-| Casos ficticios publicados | **9** (C-01 a C-09). Reparto: **5 ruta A / 4 ruta B**; **5 mujeres / 4 hombres**; **8 sectores distintos** —servicios técnicos es el único con dos casos— |
+| Casos ficticios publicados | **10** (C-01 a C-10). Reparto: **5 ruta A / 5 ruta B**; **5 mujeres / 5 hombres**; **9 sectores distintos** —servicios técnicos es el único con dos casos—. **Reparto perfectamente equilibrado en los dos ejes** |
 | Decisiones registradas | **76** (D-001 a D-076), de las cuales **2 reemplazadas y conservadas**: D-023 por D-043, y D-024 en parte por D-047 y D-034. **Nuevas el 2026-09-09:** **D-075**, ampliación del alcance, y **D-076**, los dos títulos que representaban solo el retiro |
 
 **Aviso sobre los dos recuentos, para que no vuelva a divergir.** Las cifras de esta tabla son
@@ -323,7 +330,7 @@ por separado para que no haya confusión sobre el avance real.
 |---|---|
 | Fuentes verificadas | **45**. **La tanda del capítulo 13 (Etapa 3.12A) añadió una sola, y después de comprobar que la existente casi bastaba:** **F-045**, NIST AI 800-4 *Challenges to the Monitoring of Deployed AI Systems*, marzo de 2026, **PDF oficial leído entero** y autoría confirmada en Crossref. Se registra porque aporta **un límite material que F-007 no da**: NIST clasifica la cadencia de la monitorización como **pregunta abierta**. **Su función es limitar lo que el método puede prescribir**; no dicta duración, no valida el nombre «modo sombra» y no valida ninguna herramienta. **F-007 se amplió por segunda vez** con la función MEASURE entera (2.3, 2.4, 4.1, 4.2), MANAGE 4.1 y GOVERN 1.5. Antes: **44**. **Q-17 añadió solo dos (Etapa 3.11A), y a propósito:** F-043, revisión sistemática sobre sesgo de automatización, y F-044, sobre delegación; ambas con el resumen verbatim depositado por su editor. **Tres de las cuatro preguntas de Q-17 ya estaban cubiertas** por F-007, F-009 y F-010, que se releyeron; **F-007 se amplió con su apéndice C**, que no estaba registrado y que aporta el hallazgo más importante de la etapa. Antes: **42**. **Q-05 y Q-18 añadieron F-038 a F-042 (Etapa 3.10A), las cinco leídas directamente en el documento oficial:** los Estándares Iberoamericanos de 2026, la circular de la SIC colombiana sobre IA, dos documentos del EDPB y una entrada del blog de la FTC. **Tercera tanda consecutiva con lectura directa mayoritaria.** Antes: **37**. **Q-08 añadió F-034 a F-037 (Etapa 3.9A), y es la primera tanda con la mayoría leída entera:** el Green Book de la GAO, el manual del IRS y la guía del PCAOB se leyeron directamente en sus documentos oficiales; COSO quedó **solo en identidad**, porque su marco se vende. Antes: **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
 | Fuentes consultadas y descartadas | **14**, cada una con su motivo registrado en el apartado 2 de `fuentes-verificadas.md`. **Corregido el 2026-09-09 (Etapa 3.11B.1):** decía **4**, cifra de una etapa antigua. Los descartes no son un residuo del proceso: incluyen el dato más vendedor del libro (D-016), la bibliografía de consultoría sobre separación de funciones y las búsquedas sobre modelos concretos, excluidas por caducidad |
-| Afirmaciones con fuente en el manuscrito | **33**, en ocho de las trece piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11 y 12. **Cinco nuevas en el capítulo 12 (Etapa 3.11B)**: tres de F-007 —incluido su apéndice C—, una de F-010 con doble acotación de ámbito y una de F-044 con sus límites dentro de la frase. **Las cinco piezas sin referencia externa son los capítulos 3, 4, 6, 7 y 8**, por decisión razonada. Antes: **22**. **Tres en el capítulo 11** (F-038, F-040 y F-042), **las tres con el ámbito de la fuente dentro de la propia frase**: «un marco regional de referencia… que no es una ley», «en la Unión Europea», «una entrada de su blog, no una norma». **Registradas en `editorial/05-control-de-fuentes.md` el 2026-09-09 (Etapa 3.10B.1)**, junto con las dos fuentes disponibles y no citadas. **El recuento de ese archivo estaba parado en «siete afirmaciones» desde la Etapa 2 y se corrigió: son 28 filas en siete de las doce piezas escritas.** Antes: **19**. Seis en el capítulo 9 (F-028, F-029, F-033) y **cuatro en el capítulo 10** (F-034 y F-035), **las cuatro con el ámbito de la fuente dicho dentro de la propia frase**, incluida una que declara expresamente lo que las fuentes **no** dicen. |
+| Afirmaciones con fuente en el manuscrito | **36**, en nueve de las catorce piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11, 12 y 13. **Tres nuevas en el capítulo 13**, dos de F-007 y una de F-045, y **las tres se usan para limitar lo que el método puede prescribir**, no para autorizarlo.  Antes: **33**, en ocho de trece: introducción y capítulos 1, 2, 5, 9, 10, 11 y 12. **Cinco nuevas en el capítulo 12 (Etapa 3.11B)**: tres de F-007 —incluido su apéndice C—, una de F-010 con doble acotación de ámbito y una de F-044 con sus límites dentro de la frase. **Las cinco piezas sin referencia externa son los capítulos 3, 4, 6, 7 y 8**, por decisión razonada. Antes: **22**. **Tres en el capítulo 11** (F-038, F-040 y F-042), **las tres con el ámbito de la fuente dentro de la propia frase**: «un marco regional de referencia… que no es una ley», «en la Unión Europea», «una entrada de su blog, no una norma». **Registradas en `editorial/05-control-de-fuentes.md` el 2026-09-09 (Etapa 3.10B.1)**, junto con las dos fuentes disponibles y no citadas. **El recuento de ese archivo estaba parado en «siete afirmaciones» desde la Etapa 2 y se corrigió: son 28 filas en siete de las doce piezas escritas.** Antes: **19**. Seis en el capítulo 9 (F-028, F-029, F-033) y **cuatro en el capítulo 10** (F-034 y F-035), **las cuatro con el ámbito de la fuente dicho dentro de la propia frase**, incluida una que declara expresamente lo que las fuentes **no** dicen. |
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **10 de 21**, contadas contra `plan-de-investigacion.md` el 2026-09-09: **Q-01 a Q-06, Q-08, Q-16, Q-17 y Q-18** —**Q-17 amplió su alcance a los capítulos 12, 13, 14 y 15 el 2026-09-09 (Etapa 3.12A) sin reabrir su estado resuelto**: el 13 faltaba por descuido, no por criterio— —varias con límites declarados, y **Q-02 resuelta en sentido negativo**—. **2 parciales:** Q-09, que sigue abierta para el capítulo 22 y por el vacío hispanohablante (V-56B), y Q-13, resuelta solo en su parte conceptual. **1 diferida:** Q-19, al capítulo 16. **8 sin iniciar:** Q-07, Q-10, Q-11, Q-12, Q-14, Q-15, Q-20 y Q-21. **Corregido el 2026-09-09 (Etapa 3.11B.1):** decía «4 de 21» y omitía Q-05, Q-08, Q-17 y Q-18, resueltas entre el 8 y el 9 de septiembre; **Q-16 figuraba como parcial y está resuelta con límites desde la Etapa 3.8A.1**. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |

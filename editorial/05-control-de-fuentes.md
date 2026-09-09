@@ -1,9 +1,9 @@
 # 05 — Control de fuentes en el manuscrito
 
 **Etapa:** 1 — Fundamentos. Con registros desde la Etapa 2.
-**Estado:** vigente. **Treinta y tres afirmaciones registradas a 2026-09-09, todas cerradas**,
-en ocho de las trece piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11 y 12. Cero
-marcas `[POR VERIFICAR]` en el manuscrito.
+**Estado:** vigente. **Treinta y seis afirmaciones registradas a 2026-09-09, todas cerradas**,
+en nueve de las catorce piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11, 12 y 13.
+Cero marcas `[POR VERIFICAR]` en el manuscrito.
 
 **Aviso de recuento (2026-09-09).** El encabezado decía «siete afirmaciones registradas», cifra
 de la Etapa 2 que dejó de describir el archivo hace mucho. Se corrige aquí y **se cuenta de una
@@ -99,6 +99,48 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+
+**Capítulo 13: tres referencias externas, dos documentos, ninguna cifra.** Las tres son del
+mismo instituto —**F-007** y **F-045**— y las tres se usan **para limitar lo que el método puede
+prescribir**, no para autorizarlo. Es el primer capítulo del libro en que una fuente sirve
+principalmente para **negarse a dar un número**.
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 13 | «El marco de gestión de riesgos del instituto estadounidense de normas y tecnología —el documento **de uso voluntario** que ya citamos— pide que los criterios se demuestren **en condiciones parecidas a las del uso real**, y advierte que medir en un entorno controlado **puede dar un resultado distinto del que aparece en la operación de verdad**.» | **F-007** | Requisito y advertencia atribuidos | Cerrada. Corresponde a **MEASURE 2.3** —«demonstrated for conditions similar to deployment setting(s)»— y al pasaje **«Risk in real-world settings»** del cuerpo, los dos registrados al ampliar F-007 en la Etapa 3.12A. **El carácter voluntario va dentro de la frase**, y el capítulo ya lo había dicho en el 12: **no se presenta como obligación de nadie**. Es el respaldo de por qué el modo sombra se hace sobre trabajo real y no sobre una prueba pequeña. |
+| 13 | «El propio marco citado advierte que el dato con el que uno compara **puede sencillamente no existir**.» | **F-007** | Advertencia atribuida, **parafraseada** | Cerrada. El original dice «**the ground truth may either not exist or not be available**». **La paráfrasis evita el término técnico a propósito**, por la regla del capítulo: cuando el comparador es una decisión de una persona, el libro la llama **«decisión real tomada»** y **nunca *ground truth***. La fuente se usa aquí **en apoyo de una cautela**, no de un método. |
+| 13 | «El instituto de normas, en un informe de 2026 sobre la vigilancia de sistemas ya en funcionamiento, coloca **“cuál es la cadencia correcta”** entre sus **preguntas abiertas**, y describe las metodologías validadas del asunto como incipientes. Eso no demuestra que no exista una duración adecuada; dice que **las fuentes revisadas no la establecen**.» | **F-045** | **Ausencia declarada**, y es el uso más delicado del capítulo | Cerrada. Traduce «What is the right cadence for monitoring?», del apartado 3.3.3 del informe, y «best practices, validated methodologies, and common terminology **is nascent**». **La naturaleza del documento va dicha dentro de la frase** —«un informe sobre la vigilancia de sistemas ya en funcionamiento»—, y **la frase siguiente impide el salto lógico** que la Etapa 3.12A.1 tuvo que corregir en la ficha de la propia fuente: una pregunta abierta dice **qué no está establecido**, no **qué no existe**. **Prohibido**, y no se hace: «se ha demostrado que no existe» y «nadie sabe». |
+
+**Fuentes disponibles que el capítulo 13 decidió NO citar.**
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-010** (Reglamento UE 2024/1689, art. 14) | Contiene las condiciones de la supervisión —poder no usar, ignorar, anular, revertir e interrumpir—, que encajarían en el paso al nivel 3. | **Se citó entera en el capítulo 12**, con su doble acotación de ámbito, y volver a citarla aquí habría sido repetir el mismo párrafo con otras palabras. **La cautela sí actúa**: el capítulo 13 conserva la autoridad donde estaba y no presenta ninguna alerta como aprobación. |
+| **F-043** (revisión sistemática sobre sesgo de automatización) | El nivel 3 introduce avisos, y el exceso de confianza en una salida automática es su riesgo natural. | **Su capítulo propietario sigue siendo el 14** (D-019). El capítulo 13 formula el problema del volumen de alertas **como regla de diseño del método** —«si todo interrumpe, crítico deja de distinguir»— y **declara expresamente que no es una estadística**, precisamente para no apoyarse en una fuente cuyo turno no ha llegado. |
+
+**Sobre las herramientas 10 y 11.** La herramienta 10 repite, en su apartado 10, **la misma
+afirmación de F-045** con la misma acotación. **Las herramientas no forman parte del manuscrito**
+y no se cuentan en la tabla de arriba, pero la afirmación se comprobó igual: dice lo mismo, con
+el mismo ámbito y sin cifras. **La herramienta 11 no contiene ninguna referencia externa.**
+
+**Control de universalidades del capítulo 13.** Ejecutado en las dos pasadas obligatorias.
+**Primera, literal: dieciséis apariciones.** **Segunda, de lectura: doce legítimas y cuatro
+corregidas.** Las legítimas son pronombres negativos —«sin nadie mirando», «vigilar a nadie»,
+«sin que nadie actuara por eso»—, usos internos del caso —«lo que hacía siempre», «ese cliente
+manda siempre la hora mal»—, modismos —«las excepciones de siempre», «el procedimiento de
+siempre»— y reglas —«nunca en una decisión», «siempre que se pueda»—. Las cuatro corregidas:
+**«casi todos los días coincidían»**, que era una afirmación de frecuencia dentro del caso y se
+sustituyó por «unos días coincidían y otros no»; **«su primera reacción fue la de cualquiera»**,
+que afirmaba cómo reacciona la gente y se quedó en «su primera reacción»; **«la pregunta llega
+siempre»**, que afirmaba algo sobre los lectores; y **«nadie la ha establecido todavía»**, que
+era la más grave porque reintroducía exactamente la formulación que la Etapa 3.12A.1 acababa de
+prohibir, y se corrigió a **«las fuentes revisadas no la establecen»**.
+
+**Y una quinta, que la segunda pasada encontró en un pasaje añadido después:** «la función que
+revisa **suele ver** algo que quien ejecuta no ve». Se sustituyó por una formulación condicional
+—«hay algo que esa separación **puede** aportar»—. **Cinco correcciones**, y **las cinco en
+frases de transición**, que es el patrón registrado desde el capítulo 9 y que ya lleva cinco
+capítulos cumpliéndose sin excepción.
 
 **Capítulo 12: cinco afirmaciones y tres fuentes, ninguna con cifras.** Es el capítulo con más
 riesgo de exageración del libro, y el riesgo va en la dirección contraria a la del 11: allí la
