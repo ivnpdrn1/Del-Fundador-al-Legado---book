@@ -4,7 +4,7 @@ parte: 3
 titulo: "Ordenar antes de automatizar"
 etapa_metodo: "A, con G como requisito"
 estado: borrador
-palabras: 2165
+palabras: 2177
 casos_usados: ["C-08"]
 recursos_producidos: ["informacion-restringida-ia.md"]
 afirmaciones_por_verificar: []
@@ -31,8 +31,8 @@ puede decidir. Otra:
 ## No falta información: sobra desordenada
 
 Conviene decirlo pronto, porque cuando algo así ocurre lo primero que se piensa es que falta
-información, y muchas veces sobra: hay tres versiones del mismo dato, todas verosímiles,
-ninguna marcada, y quien decide toma la que tiene más a mano.
+información, y puede que sobre: hay tres versiones del mismo dato, todas verosímiles, ninguna
+marcada, y quien decide toma la que tiene más a mano.
 
 Con equipo eso se nota cuando dos personas contestan distinto y las dos están mirando algo
 real. Trabajando solo se nota más tarde y duele más, porque no hay nadie que le contradiga: se
@@ -151,19 +151,19 @@ La primera es más útil:
 
 > **¿Necesito entregar todo esto?**
 
-Muchas veces, no. Para que le ayuden a redactar mejor un informe no hacen falta el nombre del
+Puede que no. Para que le ayuden a redactar mejor un informe no hacen falta el nombre del
 cliente, la dirección ni el apartado que aquel cliente pidió reservar. Sirve un resumen; sirve
 el fragmento concreto; sirve un ejemplo inventado que tenga la misma forma.
 
 Esa preferencia por lo mínimo no es manía nuestra. Los **Estándares de Protección de Datos de
 los Estados Iberoamericanos** —un marco regional de referencia aprobado en 2026 por las
-autoridades de protección de datos de la región, **que no es una ley y que cada país aplica a
-través de la suya**— piden tratar solo los datos «adecuados, pertinentes y limitados al mínimo
+autoridades de protección de datos de la región, **que no es una ley y cuya aplicación jurídica
+depende de la legislación de cada país**— piden tratar solo los datos «adecuados, pertinentes y limitados al mínimo
 necesario», y añaden una frase que vale la pena tener a mano: usar tecnologías automatizadas o
 sistemas de inteligencia artificial **no justifica por sí solo pedir más datos de los que
 harían falta sin ellos**.
 
-Una advertencia de vocabulario, porque se usa mal constantemente. **Quitar un nombre no es
+Una advertencia de vocabulario. **Quitar un nombre no es
 anonimizar.** Un texto sin nombres puede seguir señalando a alguien perfectamente por el
 contexto. En este libro decimos **reducir**, que es lo que usted va a hacer de verdad, y
 dejamos «anonimizar» para quien pueda sostenerlo.
@@ -182,7 +182,8 @@ Esas preguntas tienen respaldo, y conviene decir de dónde sale cada trozo. En l
 Europea**, la autoridad europea de protección de datos sostiene que quien contrata a un
 proveedor debe comprobar **antes** que ofrece garantías suficientes, y **poder demostrar que lo
 comprobó**; y que lo que se mira para eso son cosas concretas, como su política de privacidad
-o sus términos de servicio. Ese régimen no rige fuera de la Unión. La pregunta, sí.
+o sus términos de servicio. Es una regla de ese marco, y no debe leerse como una obligación
+general para quien esté en otra jurisdicción. La pregunta práctica, en cambio, sigue sirviendo.
 
 Que lo escrito por el proveedor importe tampoco es una intuición. En **Estados Unidos**,
 personal de la Federal Trade Commission publicó en 2024 una nota —**una entrada de su blog, no

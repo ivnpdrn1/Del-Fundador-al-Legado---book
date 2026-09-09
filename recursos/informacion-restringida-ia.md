@@ -26,7 +26,7 @@ Se usa **antes** de abrir la herramienta, no después.
 
 | | |
 |---|---|
-| **Cuándo** | Cada vez que vaya a poner información del negocio en una herramienta que no es suya. Las primeras veces con la hoja delante; después, de memoria. |
+| **Cuándo** | Cada vez que vaya a poner información del negocio en una herramienta que no es suya. Úsela con la hoja delante mientras le resulte útil. |
 | **Quién** | Quien vaya a entregarla. Con equipo, quien esté autorizado para esa clase de información. |
 | **Cuánto se tarda** | Lo que se tarde en contestar seis preguntas. Si tarda mucho, probablemente ha encontrado algo. |
 | **Qué hace falta** | Papel. La hoja funciona entera sin ningún programa. |
@@ -159,8 +159,8 @@ lo hace hoy, o que hoy no lo hace nadie.
 **Trabajando solo.** No hay segunda aprobación y no se finge ninguna. La hoja sirve para otra
 cosa, que es lo más difícil: **crear una interrupción deliberada** justo antes de pegar algo
 que se enviaría sin pensarlo. Detenerse, clasificar, reducir, mirar el entorno y decidir. Con
-tres o cuatro veces deja de necesitar la hoja para las situaciones corrientes; consérvela para
-las que no lo son.
+la práctica puede llegar a reconocer estas situaciones sin tener la hoja delante; consérvela
+para los casos que le generen duda.
 
 ## 11. La siguiente acción
 

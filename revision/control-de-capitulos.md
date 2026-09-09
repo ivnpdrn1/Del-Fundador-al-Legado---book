@@ -2,7 +2,7 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-09: 12 de 27 piezas escritas. 27.701 palabras.**
+**Estado del manuscrito a 2026-09-09: 12 de 27 piezas escritas. 27.713 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II COMPLETA:** capítulos 6 a 10.
 **PARTE III INICIADA:** capítulo 11, el primero de los seis.
 **ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
@@ -15,7 +15,7 @@ a asistir. **No** significa que todo el negocio esté documentado para siempre.
 **Recursos: 9 de 18 redactados (15.391 palabras en total; no computan en el manuscrito).**
 
 **Nota sobre el recuento (2026-09-08).** Un recuento completo hecho con el contador de esta
-etapa da **27.730** palabras, veintinueve más que la suma acumulada. La diferencia se concentra
+etapa da **27.742** palabras, veintinueve más que la suma acumulada. La diferencia se concentra
 en los capítulos 5 y 6 y **procede del método de conteo, no del texto**: ninguno de los dos se
 ha tocado. Se conserva la cifra acumulada para no reescribir el historial, y se anota la
 discrepancia en lugar de disimularla.
@@ -46,7 +46,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 8 | Cómo documentar las excepciones | II | E | **borrador, con preflight (3.8A) y revisado (3.8B.1)** | **2.067** | 2.000 | Registro de excepciones (6) | — (una microescena sin nombre) | 0 |
 | 9 | El Manual de criterio | II | E | **borrador, revisado (3.8B.1)** | **2.550** | 2.400 | Plantilla del Manual de criterio (herramienta 7 de 18) | **C-06** | 0 |
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | **G (G-1)** | **borrador, revisado (3.9B.1)** | **2.487** | 2.200 | Matriz de autoridad y aprobaciones (herramienta 8 de 18) | **C-07** | 0 |
-| 11 | Ordenar antes de automatizar | III | **A, con G como requisito** | **borrador** | **2.165** | 2.300 | Lista de información que no debe entregarse libremente a una inteligencia artificial (herramienta 9 de 18) | **C-08** | 0 |
+| 11 | Ordenar antes de automatizar | III | **A, con G como requisito** | **borrador, revisado (3.10B.1)** | **2.177** | 2.300 | Lista de información que no debe entregarse libremente a una inteligencia artificial (herramienta 9 de 18) | **C-08** | 0 |
 | 12 | La inteligencia artificial como aprendiz | III | A | no iniciado | 0 | 2.200 | — | — | — |
 | 13 | El periodo de sombra y las primeras alertas | III | A | no iniciado | 0 | 2.100 | — | — | — |
 | 14 | De las alertas a las recomendaciones | III | A | no iniciado | 0 | 2.000 | — | — | — |
@@ -72,14 +72,14 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 | Introducción | 1 | 2.700 | **2.838** | completa |
 | I | 5 | 10.400 | **11.042** | **completa** |
 | II | 5 | 11.000 | **11.656** | **completa** |
-| III | 6 | 12.900 | **2.165** | **1 de 6** |
+| III | 6 | 12.900 | **2.177** | **1 de 6** |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **27.701** | **52,0 % del objetivo** |
+| **Total** | **27** | **53.300** | **27.713** | **52,0 % del objetivo** |
 
-**Desviaciones, revisadas el 2026-09-08.** Las doce piezas escritas suman 27.701 palabras
+**Desviaciones, revisadas el 2026-09-08.** Las doce piezas escritas suman 27.713 palabras
 frente a un objetivo acumulado de 24.300 para esas mismas piezas: **un 14,0 % por encima**, y la
-desviación **vuelve a bajar**. **El capítulo 11 salió por debajo de su objetivo**, a un 5,9 %, y
+desviación **vuelve a bajar**. **El capítulo 11 salió por debajo de su objetivo**, a un 5,3 %, y
 no se rellenó para alcanzarlo: llevaba todo lo exigido, incluidas las tres referencias con su
 ámbito y la presentación de la plataforma dentro del total. **Eso responde en parte al aviso de
 la etapa anterior**: el objetivo de partida no se estaba quedando corto; lo que crecía era el
@@ -114,7 +114,7 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
 | E | 2, 7, 8, 9 | 8.700 | **9.190** | **completa** |
 | G | 10 | 2.200 | **2.487** | **G-1 completa** |
-| A | 11–16 | 12.900 | **2.165** | **1 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2** |
+| A | 11–16 | 12.900 | **2.177** | **1 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2** |
 | D | 17, 18, 21, 23, 24 | 10.900 | 0 | — |
 | O | 19, 20, 22, 25, concl. | 9.400 | 0 | — |
 

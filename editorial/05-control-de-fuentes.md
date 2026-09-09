@@ -1,8 +1,15 @@
 # 05 — Control de fuentes en el manuscrito
 
 **Etapa:** 1 — Fundamentos. Con registros desde la Etapa 2.
-**Estado:** vigente. Siete afirmaciones registradas, todas cerradas. Cero marcas
+**Estado:** vigente. **Veintiocho afirmaciones registradas a 2026-09-09, todas cerradas**, en
+siete de las doce piezas escritas: introducción y capítulos 1, 2, 5, 9, 10 y 11. Cero marcas
 `[POR VERIFICAR]` en el manuscrito.
+
+**Aviso de recuento (2026-09-09).** El encabezado decía «siete afirmaciones registradas», cifra
+de la Etapa 2 que dejó de describir el archivo hace mucho. Se corrige aquí y **se cuenta de una
+sola manera, para que no vuelva a divergir: una fila de la tabla del apartado 3 es una
+afirmación**, aunque cite dos fuentes. Las cinco piezas restantes no llevan ninguna
+referencia externa, por decisión razonada registrada más abajo: los capítulos 3, 4, 6, 7 y 8.
 
 Este archivo controla el uso de fuentes **dentro del texto**. El repositorio de fuentes
 en sí vive en `investigacion/fuentes-verificadas.md`. La separación es deliberada: una
@@ -91,6 +98,42 @@ mundo y ninguna atribución. **Q-16 estaba mapeada a este capítulo y no se ejec
 citar marcos de gestión del conocimiento como adorno; su plazo real es antes del capítulo 9.
 
 
+
+
+**Capítulo 11: tres referencias externas, ninguna con cifras y las tres con su ámbito dicho
+dentro de la propia frase.** Es el capítulo con más riesgo del libro hasta ahora, porque trata
+de protección de datos y confidencialidad sin ser un capítulo jurídico: **la tentación no era
+citar de menos, sino convertir la norma de una jurisdicción en una obligación para cualquier
+lector.** Por eso cada cita dice **qué es la fuente y a quién obliga antes de decir lo que
+dice**, y por eso el capítulo remite a la jurisdicción cada vez que el asunto lo exige.
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 11 | «Los **Estándares de Protección de Datos de los Estados Iberoamericanos** —un marco regional de referencia aprobado en 2026 por las autoridades de protección de datos de la región, **que no es una ley y cuya aplicación jurídica depende de la legislación de cada país**— piden tratar solo los datos “adecuados, pertinentes y limitados al mínimo necesario”.» | **F-038** | Principio atribuido | Cerrada. **Lectura directa del PDF oficial.** Corresponde al apartado 18.1. **El ámbito va en un inciso, antes del contenido.** Corregido el 2026-09-09 (Etapa 3.10B.1): la redacción anterior decía «que cada país aplica a través de la suya», que afirmaba más de lo que la fuente permite sobre lo que hace cada Estado. |
+| 11 | «…y añaden una frase que vale la pena tener a mano: usar tecnologías automatizadas o sistemas de inteligencia artificial **no justifica por sí solo pedir más datos de los que harían falta sin ellos**.» | **F-038** | Principio atribuido, **parafraseado** | Cerrada. El original dice que la IA «no justificará, por sí sola, la obtención masiva, indiscriminada o desproporcionada de datos personales». **La paráfrasis conserva el sentido y baja el registro**, que es lo que pide la guía de estilo; el original consta íntegro en la fila de F-038. |
+| 11 | «En la **Unión Europea**, la autoridad europea de protección de datos sostiene que quien contrata a un proveedor debe comprobar **antes** que ofrece garantías suficientes, y **poder demostrar que lo comprobó**; y que lo que se mira para eso son cosas concretas, como su política de privacidad o sus términos de servicio. **Es una regla de ese marco, y no debe leerse como una obligación general para quien esté en otra jurisdicción.** La pregunta práctica, en cambio, sigue sirviendo.» | **F-040** | Principio atribuido, **con exclusión expresa** | Cerrada. Corresponde a los párrafos 94 y 95 de las *Guidelines 07/2020*. **Lectura directa del PDF oficial.** Corregido el 2026-09-09 (Etapa 3.10B.1): decía «Ese régimen no rige fuera de la Unión», una exclusión más amplia de lo que hacía falta y de lo que las fuentes registradas permiten sostener. La redacción vigente **acota el ámbito sin pronunciarse sobre lo que rige en ninguna otra parte**. |
+| 11 | «En **Estados Unidos**, personal de la Federal Trade Commission publicó en 2024 una nota —**una entrada de su blog, no una norma**— advirtiendo de que las empresas de estos servicios deben cumplir lo que prometen a sus clientes, incluidas las promesas de no usar sus datos para entrenar o actualizar sus sistemas.» | **F-042** | Advertencia atribuida | Cerrada. **La naturaleza del documento va dentro de la frase, entre guiones**, para que no pueda leerse como legislación. **Prohibido**, y no se hace: escribir «la ley estadounidense dice» o «la FTC exige a toda empresa». |
+| 11 | «Y observaba algo que describe exactamente el momento de Óscar: **los clientes introducen en estas herramientas documentos internos e información de sus propios clientes.**» | **F-042** | Observación atribuida | Cerrada. Traduce «customers may reveal sensitive or confidential information when using a company's models, such as internal documents and even their own users' data». **Es una observación de riesgo, no una obligación**, y así entra. |
+
+**Fuentes disponibles que el capítulo 11 decidió NO citar.**
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-039** (SIC Colombia, Circular Externa 002 de 2024) | Es el ejemplo más concreto de la tanda: una autoridad nacional que ya escribió reglas sobre IA y datos personales, con cuatro criterios de ponderación. | **No añadía nada que F-038 no diera con ámbito más amplio**, y habría obligado a explicar por qué aparece un país concreto en un libro que se dirige a lectores de muchos. **Informa el diseño de la herramienta 9 sin aparecer en el manuscrito.** Queda disponible para el capítulo 16, donde el asunto jurídico sí se trata de frente. |
+| **F-041** (EDPB, *Opinion 28/2024*) | Sostiene que los modelos entrenados con datos personales **no pueden considerarse anónimos en todos los casos**, y que la anonimidad se valora caso por caso. | **La cautela que respalda —que quitar un nombre no es anonimizar— se enuncia como constante propia del libro y no necesita la cita.** Citarla habría obligado a entrar en entrenamiento de modelos, que es **exactamente lo que el capítulo 11 tiene prohibido**. Sostiene la constante en `06-control-de-continuidad.md` sin aparecer aquí. |
+
+**Control de universalidades del capítulo 11.** Ejecutado en dos pasadas. La primera, el
+2026-09-09 al escribirlo: veintiocho apariciones, **cuatro corregidas** por afirmar cómo se
+comporta la gente sin respaldo —«casi nunca el problema es que no haya datos», «la pregunta que
+casi todo el mundo se hace», «casi nunca» como respuesta, «la parte que casi nadie mira»—. La
+segunda, en la Etapa 3.10B.1: **tres correcciones más**. Dos eran adverbios de frecuencia que
+habían entrado como sustitutos de los anteriores —«muchas veces sobra» y «muchas veces, no»—,
+sustituidos ahora por formas condicionales, «puede que sobre» y «puede que no»; y la tercera
+era «porque se usa mal constantemente», que se eliminó sin sustituto. **La lección que deja:
+corregir un enunciado de frecuencia con otro adverbio de frecuencia no lo corrige.** En la
+herramienta 9 se retiraron además un umbral inventado —«con tres o cuatro veces deja de
+necesitar la hoja»— y una progresión presentada como segura —«las primeras veces con la hoja
+delante; después, de memoria»—.
 
 **Capítulo 10: dos referencias externas, ninguna con cifras y ambas con su ámbito dicho en la
 propia frase.** Es el capítulo con más riesgo de convertir una práctica de control en una
