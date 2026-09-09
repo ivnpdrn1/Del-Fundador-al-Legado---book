@@ -61,6 +61,7 @@
 **Etapa 3.13B — Capítulo 14: COMPLETADA el 2026-09-09.**
 **Etapa 3.13B.1 — Control conceptual del capítulo 14 y reconciliación de recuentos: COMPLETADA el 2026-09-09.**
 **Etapa 3.13B.2 — Microcorrección final del capítulo 14: COMPLETADA el 2026-09-09.**
+**Etapa 3.14A — Preflight del capítulo 15: COMPLETADA el 2026-09-09, con una decisión pendiente del autor.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -122,8 +123,14 @@ el apartado 6 de este documento**, congelado desde la Etapa 3.7.
 
 El resto eran afirmaciones más amplias que la evidencia: la herramienta **no «tiene opinión»** —produce propuestas—; el libro **no afirma qué fuente nombró primero** el sesgo de automatización; el caso **no diagnostica** qué sesgo operó en su protagonista, solo observa que una propuesta con la que se está de acuerdo es fácil de dejar sin comprobar; y **un porcentaje de confianza no se declara inútil**, sino insuficiente como sustituto de decir qué falta.
 
+**El preflight del capítulo 15 se cerró sin investigación y sin fuentes nuevas, y con un asunto que no puede cerrar solo.** Q-17 basta —F-007, F-009 y F-010, cada una en su ámbito— y **Q-20 sigue diferida**: el capítulo no necesita afirmar nada sobre ninguna profesión regulada, y D-033 sigue gobernando.
+
+**Lo que el capítulo 15 establece:** que **autorizar una clase de acciones no es aprobar cada ejecución** —si lo fuera, el nivel 5 sería el 4 con otro nombre—, que **una excepción no concede autonomía sino que la retira**, y que **detener tiene tres alcances** distintos, porque si la única forma de parar es apagarlo todo, nadie para.
+
+**Decisión pendiente del autor: V-69.** La definición de «bajo riesgo» del nivel 5 **no se puede aplicar tal como está escrita** —«no afecta a personas», leído literalmente, vacía el nivel 5; leído con manga ancha, no filtra nada—. **La definición vigente no se ha tocado** y hay una redacción propuesta registrada. **La Etapa 3.14B no debería empezar sin resolverlo.**
+
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
-**El capítulo 15 no se ha escrito.**
+**El capítulo 15 no se ha escrito y la herramienta 12 no se ha creado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -363,7 +370,7 @@ por separado para que no haya confusión sobre el avance real.
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **10 de 21**, contadas contra `plan-de-investigacion.md` el 2026-09-09: **Q-01 a Q-06, Q-08, Q-16, Q-17 y Q-18** —**Q-17 amplió su alcance a los capítulos 12, 13, 14 y 15 el 2026-09-09 (Etapa 3.12A) sin reabrir su estado resuelto**: el 13 faltaba por descuido, no por criterio— —varias con límites declarados, y **Q-02 resuelta en sentido negativo**—. **2 parciales:** Q-09, que sigue abierta para el capítulo 22 y por el vacío hispanohablante (V-56B), y Q-13, resuelta solo en su parte conceptual. **1 diferida:** Q-19, al capítulo 16. **8 sin iniciar:** Q-07, Q-10, Q-11, Q-12, Q-14, Q-15, Q-20 y Q-21. **Corregido el 2026-09-09 (Etapa 3.11B.1):** decía «4 de 21» y omitía Q-05, Q-08, Q-17 y Q-18, resueltas entre el 8 y el 9 de septiembre; **Q-16 figuraba como parcial y está resuelta con límites desde la Etapa 3.8A.1**. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
-| Verificaciones abiertas | **12** en `revision/verificaciones-pendientes.md`: V-56B, V-57, V-59, V-60, V-61, V-62, V-63, V-64, V-65, **V-68** —que ninguna evidencia sostiene que el formato del capítulo 14 reduzca el sesgo de automatización—, **V-66** —la auditoría del destino, que comprobará en la Etapa 4 que ni el retiro ni la expansión se leen como finalidad del método— y **V-67**, que registra que **ninguna de las fuentes revisadas establece cuándo la evidencia de un periodo de observación basta para ampliar un permiso**. Las dos últimas se **aplicaron** en el capítulo 12 y **siguen abiertas**: aplicar una regla no es cerrar la verificación que la obligó. |
+| Verificaciones abiertas | **13** en `revision/verificaciones-pendientes.md`: V-56B, V-57, V-59, V-60, V-61, V-62, V-63, V-64, V-65, **V-69 —la única que bloquea una etapa: la definición de «bajo riesgo» del nivel 5 necesita decisión del autor antes de escribir el capítulo 15—**, **V-68** —que ninguna evidencia sostiene que el formato del capítulo 14 reduzca el sesgo de automatización—, **V-66** —la auditoría del destino, que comprobará en la Etapa 4 que ni el retiro ni la expansión se leen como finalidad del método— y **V-67**, que registra que **ninguna de las fuentes revisadas establece cuándo la evidencia de un periodo de observación basta para ampliar un permiso**. Las dos últimas se **aplicaron** en el capítulo 12 y **siguen abiertas**: aplicar una regla no es cerrar la verificación que la obligó. |
 | Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
 | Fuentes verificadas sobre el público nuevo | **0.** Vacío declarado al lector en la introducción. |

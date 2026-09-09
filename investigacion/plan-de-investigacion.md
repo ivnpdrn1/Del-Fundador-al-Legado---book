@@ -2141,3 +2141,365 @@ exista antes y no después.
 el sesgo · que la supervisión humana garantice seguridad · que persona más sistema sea mejor ·
 que la herramienta explique por qué piensa · que una recomendación explicada sea fiable · que
 más evidencia produzca mejores decisiones · que la persona vaya a detectar el error.
+
+
+---
+
+## Preflight del capítulo 15 (Etapa 3.14A, 2026-09-09)
+
+**No se ha escrito el capítulo 15, no se ha creado la herramienta 12 y no se ha ejecutado
+ninguna investigación.** Y hay **un asunto que este preflight no puede cerrar solo**: está en el
+apartado 4.
+
+### 1. Qué cambia, y qué no
+
+La pregunta que deja el capítulo 14: *si ya puede proponerme qué hacer y yo sigo decidiendo cada
+vez, ¿hay algo que pueda hacer por sí mismo sin volver a preguntármelo?*
+
+**El cambio no es que la herramienta empiece a decidir.** Es este:
+
+> **Una persona autoriza por adelantado una clase de acciones dentro de límites escritos.**
+> Después, la tecnología puede ejecutar **sin volver a preguntar en cada caso**, mientras el
+> caso siga dentro de esos límites.
+
+Y de ahí sale la frontera nueva del libro, que se suma a la del capítulo 12 sin sustituirla:
+
+| Capítulo 12 | Capítulo 15 |
+|---|---|
+| **Que pueda hacerlo no contesta si debe permitírsele hacerlo** | **Que tenga permiso para una clase de casos no significa que lo tenga fuera de ella** |
+
+### 2. Los cinco momentos, y por qué el título no se contradice
+
+El título del capítulo es *Autonomía limitada y aprobación humana*, y hay una contradicción
+aparente que conviene deshacer antes de escribir: **si una persona tuviera que aprobar cada
+ejecución individual antes de que ocurra, el nivel 5 sería el nivel 4 con otro nombre.**
+
+No lo es, porque «aprobación» aquí ocurre **una vez y sobre una regla**, no una vez por caso:
+
+| | Momento | Quién |
+|---|---|---|
+| **1** | **Autorización previa del permiso.** Qué clase de tarea puede ejecutarse y con qué límites | Una persona, **antes** |
+| **2** | **Ejecución.** Dentro de esos límites, sin nueva consulta | La tecnología |
+| **3** | **Excepción.** El caso sale del límite: **se detiene** | La tecnología, y ahí acaba lo suyo |
+| **4** | **Decisión sobre la excepción** | Una persona |
+| **5** | **Revisión posterior** de lo ejecutado | Una persona |
+
+**Y la convención de la herramienta 8 se conserva sin tocarla:** **aprobación** es autorizar
+**antes**; **revisión** es comprobar **después**. Lo que el capítulo 15 añade es que **una
+aprobación puede autorizar una regla y no un acto**. Es la misma palabra haciendo un trabajo
+más grande, no una palabra nueva.
+
+### 3. Nivel 5 y nivel 6
+
+**Nivel 5 — Ejecución limitada.** Ejecuta solo tareas de bajo riesgo dentro de reglas escritas
+y autorizadas antes. **Debe**: registrar lo que hace, detenerse ante una excepción, devolverla a
+una persona y poder detenerse de inmediato. **No puede**, y la lista es cerrada: **ampliar sus
+propios límites**, reinterpretar su permiso para obtener más permiso, **decidir qué excepción
+deja de ser excepción**, ni concederse una categoría nueva de acción.
+
+**Nivel 6 — Mano derecha digital supervisada.** Coordina tareas ordinarias, prepara decisiones,
+da seguimiento, informa de excepciones, escala lo sensible y mantiene informado al propietario.
+**Bajo supervisión humana.**
+
+**La frontera 5/6 no es «cuánto puede hacer»: es sobre qué.** El nivel 5 **ejecuta acciones
+sueltas** dentro de una regla; el nivel 6 **coordina un conjunto de tareas** y **prepara** lo que
+decide una persona. Un sistema de nivel 6 no ejecuta más cosas: ejecuta lo mismo y además
+**ordena el trabajo alrededor**.
+
+**El nivel 6 es el techo** (D-008). **No existe un nivel 7**, y el capítulo no puede escribirse
+como una escalera en la que subir sea mejor: **subir, mantener, bajar y retirar son las cuatro
+salidas legítimas**, igual que en el modo sombra.
+
+**El capítulo 15 presenta el nivel 6; no lo desarrolla.** No es autonomía absoluta, no sustituye
+al propietario, no decide estrategia, no modifica sus permisos y no actúa fuera de lo
+autorizado.
+
+### 4. Auditoría de «bajo riesgo» — **PROPUESTA PENDIENTE DE DECISIÓN DEL AUTOR**
+
+**La definición vigente no se ha tocado**, y no debe tocarse hasta que el autor decida. Dice:
+
+> *Criterio para clasificar una tarea como de bajo riesgo:* es reversible, su impacto económico
+> está acotado por escrito, **no afecta a personas** y no compromete a la empresa frente a un
+> tercero.
+
+**Problema 1, y es el que obliga a detenerse: «no afecta a personas» no se puede usar
+literalmente.** Casi cualquier acción de un negocio afecta a alguna persona de alguna manera:
+reordenar unas revisiones cambia la semana de un técnico, clasificar una reclamación toca a un
+cliente. **Leída al pie de la letra, la condición vacía el nivel 5**: no habría ninguna tarea que
+la cumpliera. Leída con manga ancha, no filtra nada. **Las dos lecturas son malas**, y el
+capítulo 15 no puede apoyarse en una condición que no se puede aplicar.
+
+**Lo que el método parece querer excluir** —y esto es interpretación, no doctrina aprobada— no
+es *afectar a alguien*, sino **producir un efecto material sobre**: derechos · seguridad ·
+empleo, remuneración o condiciones de trabajo · obligaciones · relaciones contractuales · datos
+personales.
+
+**Problema 2: «impacto económico acotado por escrito» reduce el límite a dinero**, y eso choca
+con lo que el capítulo 10 ya estableció y este archivo registró como constante: **el importe es
+una forma de límite entre varias**. Un permiso puede acotarse por alcance, tipo de caso, plazo,
+reversibilidad, terceros implicados o categoría de tarea, y en muchas tareas **no hay ninguna
+cifra que poner**.
+
+**Problema 3: «reversible» no está definido**, y es la palabra de la que cuelga todo lo demás.
+
+**Redacción propuesta, para decisión:**
+
+> *Criterio para clasificar una tarea como de bajo riesgo **en este método**:*
+> **(a)** es **reversible** —existe una forma realista de deshacer su efecto principal sin
+> causar un daño mayor—; **(b)** su alcance está **acotado por escrito**, por importe, tipo de
+> caso, plazo, volumen o cualquier otro límite que sirva para esa tarea; **(c)** **no produce
+> efectos materiales sobre derechos, seguridad, empleo, remuneración, obligaciones o datos
+> personales de nadie**; y **(d)** no compromete al negocio frente a un tercero.
+
+**Consecuencias si se adopta:** el nivel 5 pasa a tener un criterio **aplicable**; el capítulo 15
+puede apoyarse en él sin contradecirse; se alinea con la constante del importe como una forma de
+límite entre varias; y **no cambia ningún nivel, ninguna herramienta ni ninguna decisión
+vigente**. **Consecuencia si no se adopta:** el capítulo 15 tendría que escribirse **evitando**
+citar el criterio, lo cual es posible pero deja la escala con una condición inaplicable en su
+escalón más delicado.
+
+**No se ha registrado ninguna decisión y no se ha modificado `08-niveles-de-autonomia.md`.**
+Queda como **V-69**, y **la Etapa 3.14B no debería empezar sin resolverlo**.
+
+### 5. Reversibilidad, límites, excepción y detención
+
+**Reversible**, definición operativa propuesta para el método —y es **razonamiento propio**, no
+de ninguna fuente—: **existe una forma realista de deshacer el efecto principal de la acción sin
+crear un daño mayor.** Con dos cautelas que el capítulo debe decir: **no todo lo digital es
+reversible**, y **poder borrar un registro no es lo mismo que deshacer lo que ese registro ya
+provocó** —un aviso leído, una expectativa creada, una decisión que otro tomó a partir de él—.
+
+**El límite no es necesariamente dinero.** Puede ser alcance, tipo de caso, información,
+reversibilidad, terceros, plazo, consecuencia o categoría de tarea. **Cero umbrales
+inventados**: los pone el negocio.
+
+**Excepción**, y aquí está una de las dos frases fuertes del capítulo: **una excepción no
+concede autonomía; la retira.** Fuera del límite se pausa, y la decisión vuelve a una persona.
+**El sistema no decide que una excepción es lo bastante pequeña como para seguir.** Enlaza con
+el capítulo 8 **sin reexplicarlo**.
+
+**Detener tiene tres alcances**, y confundirlos es lo que hace que nadie detenga nada:
+
+| | |
+|---|---|
+| **Detener una acción** | Esta, la que está en curso |
+| **Detener una tarea automatizada** | Ese permiso deja de ejercerse; los demás siguen |
+| **Desconectar el sistema** | Todo se para |
+
+**No toda excepción exige apagarlo todo**, y esa es exactamente la razón de distinguirlos: si la
+única forma de parar es apagar, nadie para. **F-010** habla, **en su ámbito**, de un botón de
+parada **o procedimiento equivalente**; el método conserva **la función y no el producto**: cero
+interfaz, cero botón físico universal.
+
+### 6. Evidencia: qué basta y qué no
+
+**Q-17 basta. Cero investigación nueva y cero fuentes nuevas.**
+
+| Fuente | Qué sostiene para el capítulo 15 | Qué NO sostiene |
+|---|---|---|
+| **F-007** | Que los procesos de supervisión se **definan, evalúen y documenten** (MAP 3.5); que existan **mecanismos y responsables asignados para anular, desconectar o desactivar** (MANAGE 2.4); que los roles persona-sistema estén **definidos y diferenciados** (GOVERN 3.2); **monitorización posterior al despliegue** con anulación y retirada (MANAGE 4.1); y que **la frecuencia de la revisión periódica la determina la organización** (GOVERN 1.5) | **Ningún criterio de bajo riesgo**, ningún umbral, ninguna cadencia. Y **el hallazgo negativo del apéndice C sigue vigente**: persona más sistema **puede dar peor resultado**. **Prohibido** presentar la supervisión como garantía |
+| **F-009** | Mecanismos y salvaguardas, **capacidad de intervención y supervisión humanas**, responsabilidad y trazabilidad. **Uso previsto: una sola mención, o ninguna** | Es **no vinculante**, y no añade nada que F-007 no diga con más precisión. **Se cita solo si el capítulo necesita una segunda voz para la trazabilidad** |
+| **F-010** | Que la supervisión exija poder **no usar, ignorar, anular, revertir e interrumpir**, y el **botón de parada o procedimiento equivalente** | **Solo Unión Europea y solo alto riesgo.** **D-020: coincidencia no es cumplimiento.** El método toma **las condiciones como buen diseño**, no como deber del lector |
+
+**F-043** pertenece al capítulo 14 y **no se reincorpora**. **F-044** —lo difícil que es juzgar el
+propio metaconocimiento— **sí tiene aquí su segundo capítulo registrado**, y **se evalúa**: podría
+sostener por qué conviene escribir el límite antes y no en caliente. **Pero eso ya lo dijo el
+capítulo 12 con esa misma fuente**, y repetirlo sería citar dos veces lo mismo. **Decisión:
+disponible, y solo si el capítulo la necesita para algo que no sea repetir.**
+
+**Q-20 — «qué reservan las normas profesionales al juicio de una persona con licencia»: NO se
+ejecuta, y sigue diferida.** La pregunta previa del encargo se contesta que no: **el capítulo 15
+no necesita hacer ninguna afirmación sobre ninguna profesión regulada.** La arquitectura
+—autorizar una clase, ejecutar dentro del límite, detenerse en la excepción— se enseña entera sin
+entrar ahí, y **D-033 sigue gobernando**: cuando el asunto aparezca, se remite a la jurisdicción
+y al profesional competente. **El caso C-12 no será de una actividad regulada.**
+
+**Y una cautela que el capítulo debe respetar:** el criterio de bajo riesgo es **diseño del
+Método LEGADO**. **Prohibido** escribir «los marcos internacionales consideran de bajo riesgo…»
+o atribuirlo a NIST, la OCDE, el reglamento europeo o ISO. Se dice **«para este método»**.
+
+**Human-in-the-loop no se usa como garantía.** El capítulo habla de funciones concretas: quién
+autoriza, quién puede detener, quién recibe la excepción, quién revisa y qué queda registrado.
+**Una persona formalmente presente no es una supervisión efectiva** (V-65, abierta).
+
+### 7. Herramienta 12 — Matriz de niveles de autonomía
+
+**No se crea en esta etapa.** Archivo futuro: `recursos/matriz-niveles-autonomia.md`.
+**Herramienta 12 de 18.** Al terminar este preflight, **los recursos siguen en 11 de 18**.
+
+**Qué la distingue de la herramienta 8, en una línea que el propio capítulo usará:**
+
+> **La matriz de autoridad dice quién puede decidir qué. Esta dice cuánto puede hacer la
+> tecnología sin volver a preguntar.**
+
+La 8 gobierna **autoridad humana**; la 12 gobierna **autonomía de la tecnología, por tipo de
+tarea**. Se relacionan —el permiso de la 12 no puede exceder lo que la 8 permite a quien lo
+autoriza— pero **no se rellenan dos veces los mismos campos**, y la 12 **remite** a la 8 en lugar
+de repetirla.
+
+**Qué decisión produce la matriz**, antes que ninguna columna: **para cada tipo de tarea, cuál es
+el nivel de autonomía que hoy tiene autorizado.**
+
+**Ocho campos.** Se llega a ocho desde los once del encargo, y **la fusión más importante es la
+primera**:
+
+| | Campo | Por qué existe |
+|---|---|---|
+| **1** | **La tarea** | Una, concreta. **El nivel es de la tarea, no del negocio** |
+| **2** | **Nivel autorizado hoy** | **Una sola columna, no dos.** Ver abajo |
+| **3** | **Qué puede hacer sin volver a preguntar** | El permiso en positivo. Si no se puede escribir, no está autorizado |
+| **4** | **Dentro de qué límites** | Alcance, tipo de caso, plazo, volumen, importe… **lo que sirva para esa tarea** |
+| **5** | **Qué obliga a detenerse, y a quién vuelve** | La excepción **y su destinatario**, juntos: una excepción sin destinatario es solo una parada |
+| **6** | **Cómo se detiene la automatización** | Los tres alcances. **Escrito antes de necesitarlo** |
+| **7** | **Qué queda registrado, y quién puede mirarlo** | Lo mínimo para saber qué se ejecutó, bajo qué permiso y qué pasó con las excepciones |
+| **8** | **Cuándo se revisa este permiso** | **Fecha o condición.** Un permiso no es eterno |
+
+**Por qué una sola columna de nivel y no dos.** El encargo planteaba «nivel actual» y «nivel
+máximo permitido», y **escribir un máximo superior al actual convierte la matriz en una hoja de
+objetivos**: el número de al lado se lee como la meta. La alternativa —**«nivel autorizado hoy»**
+más el campo 8— dice exactamente lo mismo sin sugerir dirección: **este es el permiso, y así se
+revisa.** Coherente con D-040 y con las cuatro salidas del modo sombra.
+
+**Ningún nivel se gana automáticamente.** No hay fórmula, no hay número de casillas, no hay
+puntuación. **La matriz no otorga permisos: los registra.** Los concede una persona, y la
+evidencia puede justificar subir, mantener, bajar o retirar.
+
+**Revisión sin cadencia inventada.** El campo 8 admite **una fecha o una condición** —«cuando
+cambie el procedimiento», «cuando entre un tipo de caso nuevo»—. **F-007 (GOVERN 1.5) deja la
+frecuencia en manos de la organización**, y el método no inventa ninguna.
+
+**Ruta A:** puede haber una persona que autoriza, otra que opera y otra que revisa, **pero la
+herramienta no exige tres**: usa las funciones que existan, y **no se inventan cargos** (D-073).
+**Ruta B:** la misma persona define el permiso, recibe la excepción y revisa después. **No se
+finge separación de funciones** y **no existe la «autoaprobación»**: el campo 5 dice a quién
+vuelve la excepción, y en ruta B la respuesta es «a mí», escrita tal cual. Lo que protege ahí no
+es la separación —no la hay— sino que **el límite estuviera escrito antes**, la pausa exista y
+haya registro.
+
+**Dos páginas** para lo que se imprime y rellena, papel, lenguaje no técnico, ejemplo ficticio,
+responsable, frecuencia y salida operativa, como exige el catálogo.
+
+### 8. El caso C-12
+
+**No se escribe en esta etapa.**
+
+| | |
+|---|---|
+| **Nombre** | **Ismael** (solo nombre de pila) |
+| **Género** | **Hombre**, por la alternancia caso a caso: el reparto está en 6 mujeres y 5 hombres |
+| **Ruta** | **B.** El reparto está en 6 A y 5 B, y el 14 fue ruta A |
+| **Sector** | **Importación y distribución** |
+| **Riesgo** | **Bajo**, con las medidas de siempre |
+
+**Por qué importación y distribución, después de haberlo evitado dos veces.** Se apartó en los
+capítulos 12 y 14 **por una razón que aquí no aplica**: en los dos casos el protagonista iba a
+ser **mujer y de ruta A**, exactamente el perfil del ejemplo de la herramienta 9. **C-12 es
+hombre y de ruta B**, opuesto en los dos ejes, y el ejemplo de la herramienta 9 queda ya a cuatro
+capítulos. El sector tiene **cero apariciones de caso** y ha perdido dos de sus tres turnos: usarlo
+ahora lo deja en **1 de 3**, conservando el capítulo 17.
+
+**Por qué no manufactura ligera, que era el sector previsto.** Porque **el ejemplo de la
+herramienta 10 es manufactura ligera** y está **dos capítulos atrás**, que es la distancia más
+corta de todo el libro. El sector conserva sus capítulos 2 y 15… y pierde el 15; le queda el
+turno del capítulo 2 ya usado y **una aparición disponible**.
+
+**La tarea, y cumple las cinco condiciones del encargo.** Ismael importa y distribuye por su
+cuenta. Cada envío genera **varios documentos que llegan por separado y en momentos distintos**,
+y hasta ahora los clasificaba y archivaba él, de noche. Autoriza una clase de acción: **clasificar
+y archivar los documentos que llegan, asociándolos al envío que les corresponde, y registrar que
+llegaron.**
+
+- **(A)** se ejecuta muchas veces dentro del límite;
+- **(B)** no necesita preguntar en cada documento;
+- **(C)** la excepción es realista: **llega un documento que no corresponde a ningún envío
+  abierto** —el proveedor manda una factura corregida de un envío que Ismael cerró el mes
+  pasado—;
+- **(D)** el sistema **se detiene**;
+- **(E)** y le devuelve la decisión: reabrir el registro es cosa suya.
+
+**Es interna, reversible y acotada**, y **no es trivial**: le ahorra el trabajo de todas las
+noches. **Y el error se puede parar antes de tener consecuencias**, que es lo que la hace apta
+para enseñar. **Nada de** transferencias, pagos, contratación, contratos, decisiones
+regulatorias, salud, seguridad física ni acciones irreversibles.
+
+**El segundo hallazgo del caso, que es el que enseña:** el sistema **no decidió** que la factura
+corregida era un caso menor y podía archivarse igual. **Se detuvo porque estaba fuera del
+límite**, y eso es lo contrario de lo que el lector teme.
+
+**Tres rasgos**, no más: (1) importa y distribuye por su cuenta, sin empleados; (2) cada envío
+genera varios documentos que llegan por separado; (3) archivaba todo él, de noche.
+
+### 9. Arquitectura narrativa
+
+**Once movimientos.** Doce se descarta: «qué es un límite operativo» y «qué es una excepción» son
+**las dos caras de lo mismo** y se leen mejor juntas —el límite se entiende cuando se ve qué pasa
+al cruzarlo—.
+
+1. **La pregunta heredada del capítulo 14**, en la primera línea.
+2. **Autorizar una regla no es aprobar cada ejecución**, y por qué el título no se contradice.
+3. **La escena**: Ismael, los documentos y la noche.
+4. **Qué es la ejecución limitada**, con los cinco momentos.
+5. **El límite y la excepción**, juntos. **Una excepción no concede autonomía: la retira.**
+6. **Cómo se detiene**, con los tres alcances.
+7. **Qué queda registrado**, y hasta dónde llega este capítulo.
+8. **El nivel 5 entero**, con lo que no puede hacer.
+9. **El nivel 6 como techo**, y por qué no hay un 7.
+10. **La Matriz de niveles de autonomía**, y su frontera con la herramienta 8.
+11. **Señal de paso y puente al 16.**
+
+**El orden se aparta del encargo en un punto:** el nivel 5 **no abre** el capítulo, lo cierra.
+Primero se ve funcionando —permiso, límite, excepción, parada— y solo entonces se le pone
+nombre. Poner el nombre delante convertiría el capítulo en una explicación de la escala.
+
+### 10. Señal de paso, falsable
+
+Para **una** tarea, y **ninguna de las nueve condiciones dice nada sobre acertar**:
+
+hay un **permiso escrito** · hay un **nivel autorizado** · se sabe **qué puede ejecutar** · hay
+**al menos un límite** · hay una **condición que obliga a detenerse** · está claro **quién recibe
+la excepción** · existe **una forma de detener la automatización** · **queda registro** de lo
+ejecutado · y **alguien puede revisarlo**.
+
+**No exige resultado favorable.** **«Lo bajé de nivel» cumple el método**, y «lo retiré» también.
+
+### 11. Puente al capítulo 16
+
+> *Si ya puede hacer algunas cosas sin preguntarme cada vez, ¿quién puede ver todo esto, qué
+> queda registrado, dónde están los datos y qué pasa cuando algo falla?*
+
+**El capítulo 15 no la contesta.** Puede exigir registro, capacidad de detener, responsable y
+límites; **no desarrolla** arquitectura de seguridad, control de acceso, almacenamiento,
+retención, ciberseguridad, auditoría técnica ni tratamiento profundo de datos personales.
+
+### 12. Decisiones de vocabulario
+
+**«Mano derecha digital»: se usa**, es el nombre del nivel 6 y del título de la parte. **Se
+define por función** —coordina, sigue, informa, escala, prepara— y **nunca** como persona
+digital, clon, doble del fundador ni réplica de nadie.
+
+**Gemelo de IA: NO se usa.** V-25b abre la ventana en el capítulo 15, y **abrir la ventana no
+obliga a entrar**. La doctrina de la autonomía limitada funciona entera sin él, e introducirlo
+traería un concepto de producto que el capítulo no necesita. **Queda disponible para el 16 o
+posterior**, y su ausencia aquí es **una elección registrada**, no un olvido.
+
+**ADN Empresarial: como mucho una frase**, y solo si hace falta. Si aparece, sería para decir que
+lo que el nivel 5 ejecuta actúa sobre **conocimiento, criterios, reglas, procesos y permisos ya
+organizados** —el trabajo de las Partes II y III—. **Prohibido** «la IA ya conoce el ADN del
+negocio», y prohibido adelantar arquitectura de producto.
+
+### 13. Extensión y presupuesto
+
+**Objetivo 2.200 palabras**, preferencia **2.100–2.300**, sin rellenar. La herramienta 12 **no
+cuenta** en el manuscrito.
+
+La Parte III lleva **8.719 palabras en cuatro capítulos**. Con el 15 en 2.200 y el 16 en 2.100,
+terminaría en **13.019 palabras, el 24,4 % del manuscrito**, por debajo del techo del 26 %. **Hay
+margen, y no es motivo para cortar una distinción necesaria**; tampoco para repetir lo ya dicho.
+
+### 14. Lo que el capítulo 15 tiene prohibido prometer
+
+Nueve, y conviene tenerlas a la vista al escribir: que **el nivel 5 es seguro** · que **la
+supervisión humana evita errores** · que **si es reversible no tiene riesgo** · que **un humano
+siempre puede corregirlo** · que **la herramienta sabe cuándo detenerse** · que **más autonomía
+es mejor** · que **el nivel 6 reemplaza al propietario** · que **la mano derecha digital decide
+por usted** · y que **cumplir la matriz autoriza a automatizar**.
