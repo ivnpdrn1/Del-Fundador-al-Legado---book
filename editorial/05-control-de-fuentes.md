@@ -1,9 +1,9 @@
 # 05 — Control de fuentes en el manuscrito
 
 **Etapa:** 1 — Fundamentos. Con registros desde la Etapa 2.
-**Estado:** vigente. **Veintiocho afirmaciones registradas a 2026-09-09, todas cerradas**, en
-siete de las doce piezas escritas: introducción y capítulos 1, 2, 5, 9, 10 y 11. Cero marcas
-`[POR VERIFICAR]` en el manuscrito.
+**Estado:** vigente. **Treinta y tres afirmaciones registradas a 2026-09-09, todas cerradas**,
+en ocho de las trece piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11 y 12. Cero
+marcas `[POR VERIFICAR]` en el manuscrito.
 
 **Aviso de recuento (2026-09-09).** El encabezado decía «siete afirmaciones registradas», cifra
 de la Etapa 2 que dejó de describir el archivo hace mucho. Se corrige aquí y **se cuenta de una
@@ -99,6 +99,54 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+
+**Capítulo 12: cinco afirmaciones y tres fuentes, ninguna con cifras.** Es el capítulo con más
+riesgo de exageración del libro, y el riesgo va en la dirección contraria a la del 11: allí la
+tentación era convertir una norma en obligación universal; **aquí la tentación es prometer**.
+Por eso la fuente más citada del capítulo se usa **en su contra**: el hallazgo que más pesa dice
+que juntar persona y sistema **puede empeorar** el resultado.
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 12 | «…el marco de gestión de riesgos del instituto estadounidense de normas y tecnología —un documento **de uso voluntario**, no una ley— describe configuraciones que van de lo uno a lo otro, e incluye la posibilidad de que un sistema se use **como una opinión más** dentro de una decisión que sigue siendo de una persona.» | **F-007** | Descripción atribuida | Cerrada. Apéndice C, **registrado en la Etapa 3.11A al releer el PDF oficial completo**. Traduce «Human-AI configurations can span from fully autonomous to fully manual… or be used by a human decision maker as an additional opinion». **La naturaleza del documento va dentro de la frase**, entre guiones, y el capítulo dice acto seguido que **los siete escalones concretos son del libro y no de la fuente**. |
+| 12 | «…advierte que **los resultados de la interacción entre personas y sistemas varían**: en ciertas condiciones, la parte del sistema puede amplificar los sesgos de la persona y llevar a decisiones **peores que las que habrían tomado la persona o el sistema por separado**. Y añade lo otro…: cuando esas variaciones se tienen en cuenta al organizar el trabajo, sí puede aparecer complementariedad y un resultado mejor.» | **F-007** | **Hallazgo atribuido, en sentido contrario a la intuición** | Cerrada, y es **la afirmación más importante del capítulo**. Traduce el apéndice C íntegro, **con sus dos mitades**: la fuente dice las dos cosas y el libro no puede quedarse con una. **La condición «en ciertas condiciones» se conserva**; el ejemplo que da la fuente —tareas de juicio perceptivo— **no se reproduce**, porque nombrarlo habría obligado a explicar un dominio que el libro no trata. De aquí sale la constante **«persona más sistema no es automáticamente mejor»** y la frase del capítulo: la mejora no viene de juntarlos, viene de gobernar cómo se juntan. |
+| 12 | «Y el marco voluntario pide que existan **mecanismos y responsables asignados** para desconectar un sistema cuyos resultados no encajan con el uso previsto.» | **F-007** | Requisito atribuido | Cerrada. Corresponde a **MANAGE 2.4**. **Se dice «pide», no «exige»**, y el carácter voluntario ya quedó dicho dos párrafos antes en la misma sección, de modo que no se repite el inciso. |
+| 12 | «El reglamento europeo de inteligencia artificial —**una norma de la Unión Europea, y solo para sistemas de alto riesgo**, de modo que **no es una obligación general**— exige que las personas encargadas puedan **no usar la salida, ignorarla, anularla, revertirla e interrumpir el sistema**.» | **F-010** | Obligación atribuida, **con ámbito doble** | Cerrada. Artículo 14. **El ámbito se acota dos veces en la misma frase** —jurisdicción y clase de sistema— y el capítulo añade a continuación que **el libro toma esas condiciones como buen diseño, no como deber legal**. **Corregido durante la redacción (2026-09-09):** la primera versión decía «no es una obligación para cualquier lector», formulación que se leía como enunciado sobre lectores; se sustituyó por una **de alcance**. **Prohibido**, y no se hace: escribir que la ley obliga al lector. |
+| 12 | «Un estudio experimental sobre una tarea concreta —**no sobre negocios, y sin muestra declarada, así que no puede convertirse en una afirmación sobre nadie**— observó que a las personas les cuesta juzgar su propio metaconocimiento… y que delegar bien en un sistema depende justamente de eso.» | **F-044** | Hallazgo atribuido, **con sus límites dentro de la frase** | Cerrada. **La acotación va antes del contenido**, que es la regla que este archivo viene aplicando desde el capítulo 10. **Prohibido**, y no se hace: convertirlo en «las personas delegan mal». La cita literaria del resumen original **no se reproduce**. La consecuencia práctica que el capítulo extrae —escribir el permiso en frío— **se presenta como del método, no como resultado del estudio**. |
+
+**Fuentes disponibles que el capítulo 12 decidió NO citar.**
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-043** (Romeo y Conti, revisión sistemática sobre sesgo de automatización) | Es la fuente central de Q-17 sobre el exceso de confianza, y su hallazgo contraintuitivo —que explicar mejor **no basta**— habría encajado en la sección sobre supervisión. | **Su capítulo propietario es el 14** (D-019), y adelantarla habría vaciado ese capítulo. El 12 tenía permitido **nombrar el problema**; decidió **ni nombrarlo**, porque nombrarlo sin poder desarrollarlo habría obligado a un párrafo de aplazamiento. **La cautela que aporta sí actúa**: el capítulo no promete en ningún punto que explicar el razonamiento corrija la confianza. |
+| **F-009** (OCDE) | Contiene la capacidad de intervención y supervisión humanas, y es no vinculante. | **No añadía nada que F-007 y F-010 no dieran con más precisión**, y una tercera fuente en la misma sección habría convertido dos párrafos de argumento en una lista de citas. Sostiene el capítulo sin aparecer. |
+
+**Control de universalidades del capítulo 12.** Ejecutado en las dos pasadas obligatorias el
+2026-09-09, y **el recuento se da entero para que pueda comprobarse**.
+
+*Primera pasada, literal, de clase abierta:* **diez apariciones**. *Segunda pasada, de lectura,
+clasificándolas una a una:* **ocho son legítimas y dos se corrigieron.** Las ocho son pronombres
+negativos o usos internos del caso —«nadie le había pedido que la fijara» y «nadie le había dicho
+que no», del relato; «una réplica de nadie», dentro de la delimitación de la metáfora; «una
+afirmación sobre nadie», que es precisamente la acotación de F-044; «si hoy nadie responde de esa
+tarea», y «ninguna condición que nadie autorizó», de la fila de ejemplo, las dos condicionales;
+«nunca por empresa entera», instrucción; «lo ha hecho siempre ella», del caso—. Las dos corregidas: **«va contra lo que promete casi cualquier folleto»**, que afirmaba
+qué promete el mercado y **se eliminó sin sustituto**, aplicando la lección registrada en la
+Etapa 3.10B.1 —**un enunciado de frecuencia no se corrige con otro adverbio de frecuencia, se
+corrige quitándolo**—; y **«no es una obligación para cualquier lector»**, que se leía como
+enunciado sobre lectores y se sustituyó por uno de alcance, «no es una obligación general».
+
+*Y una tercera corrección que la búsqueda literal no podía encontrar*, porque no contenía
+ninguna palabra de la lista: **«un buen resultado da confianza, y la confianza pide margen»**,
+que enunciaba cómo se comporta la gente sin respaldo alguno. Se sustituyó por el enunciado del
+riesgo —**«dejar que la calidad de la salida decida el permiso»**—, que es una regla del libro y
+no una descripción de nadie. **Es la confirmación de por qué la segunda pasada es obligatoria:
+la afirmación más discutible del capítulo era invisible a la primera.**
+
+**Tres correcciones**, frente a las cuatro del capítulo 11 y las tres de su control posterior.
+El patrón registrado desde el capítulo 9 —de tres a cuatro afirmaciones de frecuencia por
+capítulo, **siempre en frases de transición**— **vuelve a cumplirse**: las tres estaban en
+frases de enlace, ninguna en el argumento central ni en el caso.
 
 **Capítulo 11: tres referencias externas, ninguna con cifras y las tres con su ámbito dicho
 dentro de la propia frase.** Es el capítulo con más riesgo del libro hasta ahora, porque trata

@@ -47,6 +47,7 @@
 **Etapa 3.10B — Capítulo 11 y herramienta 9: COMPLETADA el 2026-09-09.**
 **Etapa 3.10B.1 — Cierre editorial y control de fuentes del capítulo 11: COMPLETADA el 2026-09-09.**
 **Etapa 3.11A — Investigación Q-17 y preflight del capítulo 12: COMPLETADA el 2026-09-09.**
+**Etapa 3.11B — Capítulo 12 y su cuadro: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -55,12 +56,18 @@ insignia del libro. La Parte II va por 4 de 5.
 decisiones**. **La etapa G no está completa:** falta G-2, la gobernanza de la información, que se
 cierra en el capítulo 11.
 
-**Hito: la etapa G queda completa** —G-1 en el capítulo 10, G-2 en el 11— y **empieza la Parte
-III**. Con doce piezas escritas el manuscrito pasa del **52 % del objetivo**.
+**Hito: la etapa G queda completa** —G-1 en el capítulo 10, G-2 en el 11— y **la etapa A empieza
+en sentido pleno con el capítulo 12**. Con trece piezas escritas el manuscrito pasa del **56 %
+del objetivo**.
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión antes
-de escribir el capítulo 12. **El capítulo 12 no se ha escrito, su entregable no se ha creado y la
-Etapa 3.11B no se ha iniciado.**
+**El capítulo 12 introduce el marco que gobierna toda la Parte III: capacidad no es permiso.**
+Su entregable, el **Cuadro de lo que puede y lo que no puede hacer**, **vive dentro del
+capítulo y no es una de las dieciocho herramientas**: no hay archivo en `recursos/` y el
+catálogo sigue en **9 de 18**. Es el segundo entregable del libro que se resuelve así, después
+de la vista del proceso real del capítulo 7 (D-070).
+
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión del
+capítulo 12. **El capítulo 13 no se ha escrito y las herramientas 10 y 11 no se han creado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 

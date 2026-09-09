@@ -37,13 +37,14 @@ cada dato importante. Hay responsables y controles básicos.
 misma respuesta.
 
 **Advertencia editorial obligatoria:** digitalizar no es inteligencia artificial. El
-libro debe repetirlo aquí y en el capítulo 11, porque es la confusión más frecuente y la
-más cara.
+libro conserva esta distinción en el capítulo 11 y en el 12. **Corregido el 2026-09-09:** decía que era «la confusión más frecuente y la más cara», y **ninguna de las dos cosas está medida ni hace falta**.
 
 ### Nivel 2 — Inteligencia artificial en modo sombra
 
 El sistema observa, clasifica, resume, compara y **registra sus resultados junto a las
-decisiones humanas**. No recomienda decisiones sensibles y no ejecuta ninguna acción.
+decisiones humanas**. **No propone qué hacer** y no ejecuta ninguna acción.
+
+**Frontera reconciliada el 2026-09-09 (Etapa 3.11B).** Decía «no recomienda decisiones **sensibles**», y ese adjetivo dejaba abierta la puerta a recomendar las demás, que es el nivel 4. **Proponer qué hacer no es de este nivel en ningún caso**: entre observar y recomendar está informar, que es el nivel 3. No cambia la arquitectura; la enuncia sin ambigüedad.
 
 **Corregido el 2026-09-09 (Etapa 3.11A), tras Q-17.** Este nivel decía «**aprende de las
 decisiones humanas**», y esa frase se lee como aprendizaje técnico automático: **ninguna fuente

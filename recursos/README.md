@@ -10,7 +10,14 @@ capítulo.
 
 **El capítulo 7 trabaja con tres vistas y produce dos herramientas** (D-070). La vista del
 proceso real se traza dentro del capítulo y **no es una de las dieciocho**: no hay archivo
-para ella y no se crea una herramienta 19. No se crean archivos vacíos: cada archivo nace cuando existe contenido
+para ella y no se crea una herramienta 19.
+
+**El capítulo 12 se resuelve igual, y conviene que conste aquí (2026-09-09, Etapa 3.11B).**
+Su entregable —el **Cuadro de lo que puede y lo que no puede hacer**— **vive dentro del
+capítulo**, con sus siete columnas y una fila de ejemplo rellena. **No es una de las dieciocho,
+no tiene archivo en esta carpeta y no se crea una herramienta 19.** No debe confundirse con la
+**herramienta 12**, la *Matriz de niveles de autonomía* del capítulo 15, que es otra cosa: el
+cuadro fija **permisos iniciales por tarea**; la matriz gobierna la **autonomía de ejecución**. No se crean archivos vacíos: cada archivo nace cuando existe contenido
 real.
 
 La columna «Cap.» refleja el orden de la Parte III vigente desde el 2026-09-06 (D-017).
@@ -127,7 +134,7 @@ remite a un profesional y no fija ninguna cifra.
 | 7 | Plantilla del Manual de criterio **(redactada)** | `manual-criterio-fundador.md` | 9 | E | Reconstruir el criterio de una decisión desde **casos concretos**, con cinco columnas —qué pasó, qué le hizo darse cuenta, típico o raro, en qué condiciones, qué habría cambiado la decisión— y una **síntesis provisional** debajo. **No pide «explique su criterio»**, no convierte un caso en regla y no reparte autoridad, que es la 8. El nombre del archivo se conserva (D-071 no lo toca): lo que se renombró en su día fue el capítulo, no el recurso. |
 | 8 | Matriz de autoridad y aprobaciones **(redactada)** | `matriz-autoridad-aprobaciones.md` | 10 | G | **Hasta dónde puede llegar una decisión sin nueva consulta**, qué obliga a pausar, quién revisa después y qué constancia queda. El importe es una forma de límite entre varias. **Estado corregido el 2026-09-08:** figuraba como «requiere decisión», y la decisión existe desde el 2026-09-07 —**D-037, aprobada**—, refinada por **D-072**. Ver `03-indice-maestro.md` §5.3 y el apartado siguiente. |
 | 9 | Lista de información que no debe entregarse libremente a una inteligencia artificial **(redactada)** | `informacion-restringida-ia.md` | 11 | **G-2, como requisito de A** | Una **pausa estructurada antes de entregar información a una herramienta externa**: seis bloques —qué entrego, de quién procede, tres lentes que se solapan, puedo reducirlo, sé qué hará el proveedor, decisión— y **cuatro salidas**: usar tal cual, reducir antes, solo en un entorno aceptado, o no entregar hasta resolver lo que falta. **No es una evaluación jurídica, no certifica y ninguna salida significa «legalmente autorizado».** Funciona en papel y en las dos rutas. |
-| 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |
+| 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema **observa, registra y compara** sin decidir ni ejecutar. **Verbo corregido el 2026-09-09 (Etapa 3.11B):** decía «observa y **aprende**», y ninguna fuente respalda que un sistema mejore por ser usado. La arquitectura futura de la herramienta no cambia. |
 | 11 | Modelo de alertas críticas | `modelo-alertas-criticas.md` | 13 | A | Definir qué merece interrumpir a una persona y qué no. |
 | 12 | Matriz de niveles de autonomía | `matriz-niveles-autonomia.md` | 15 | A | Asignar a cada tipo de tarea el nivel de autonomía máximo permitido. |
 | 13 | Modelo de informe diario | `modelo-informe-diario.md` | 19 | O | Resumen operativo breve para quien ya no está en la operación. |

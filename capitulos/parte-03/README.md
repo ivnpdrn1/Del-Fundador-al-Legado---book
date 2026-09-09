@@ -1,6 +1,6 @@
 # Parte III — Construir una mano derecha digital
 
-Capítulos 11 a 16. **Producción iniciada el 2026-09-09 con el capítulo 11.**
+Capítulos 11 a 16. **Producción iniciada el 2026-09-09. Escritos el 11 y el 12.**
 
 Las dos partes anteriores sirvieron para **mirar** y para **trabajar**: cuánto depende el
 negocio de una persona, qué es exactamente lo que depende, cómo se documenta y quién puede
@@ -12,7 +12,7 @@ defiende: **primero se ordena, después se asiste**.
 | # | Capítulo | Etapa | Entregable | Estado |
 |---|---|---|---|---|
 | 11 | Ordenar antes de automatizar | **A, con G como requisito** | Lista de información que no debe entregarse libremente a una inteligencia artificial (9) | **borrador** |
-| 12 | La inteligencia artificial como aprendiz | A | — | no iniciado |
+| 12 | La inteligencia artificial como aprendiz | A | **Cuadro de lo que puede y lo que no puede hacer — dentro del capítulo, no es una de las 18** | **borrador** |
 | 13 | El periodo de sombra y las primeras alertas | A | Lista de verificación del modo sombra (10) y modelo de alertas críticas (11) | no iniciado |
 | 14 | De las alertas a las recomendaciones | A | — | no iniciado |
 | 15 | Autonomía limitada y aprobación humana | A | Matriz de niveles de autonomía (12) | no iniciado |
@@ -44,6 +44,24 @@ tecnología**. **No** significa que el negocio esté documentado entero, ni para
 parte que trata de la tecnología es **no entregarle nada todavía**. Nombra la IA porque la
 herramienta 9 decide qué se le puede entregar, pero no explica modelos, ni instrucciones, ni
 autonomía. El cambio pedagógico lo hace el capítulo 12.
+
+## Qué hace el capítulo 12, y qué deja para después
+
+Establece el marco que gobierna los cuatro capítulos siguientes: **la capacidad la trae la
+herramienta; el permiso lo decide el negocio**, y se decide **por tarea**. Define qué es una
+inteligencia artificial en términos de función, delimita la metáfora del aprendiz en su primera
+aparición, presenta la escala de siete niveles **declarándola como diseño de este proyecto y no
+como estándar**, y advierte con fuente que **juntar persona y sistema no garantiza un resultado
+mejor**.
+
+**Lo que no hace:** no desarrolla el modo sombra (13), ni las recomendaciones y su evidencia
+(14), ni la ejecución y la aprobación (15), ni la seguridad (16). **Y no usa inteligencia
+artificial:** aquí se explica, no se prueba. No hay demostración, ni instrucción para el lector,
+ni una sola marca, modelo o proveedor en todo el capítulo.
+
+**Su entregable no es una de las dieciocho herramientas.** El *Cuadro de lo que puede y lo que
+no puede hacer* se rellena dentro del propio capítulo, con su tabla de columnas y una fila de
+ejemplo completa. No hay archivo en `recursos/` y **el catálogo sigue en 9 de 18**.
 
 ## La plataforma
 
