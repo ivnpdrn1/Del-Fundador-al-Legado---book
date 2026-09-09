@@ -88,13 +88,24 @@ Mismo método, dos recorridos. **No son dos libros ni dos mitades del libro.**
 
 Fundador o propietaria → conocimiento tácito → documentación → procesos → delegación →
 controles → sistemas → automatización → inteligencia artificial supervisada →
-transferencia del criterio → menor dependencia del fundador → continuidad empresarial →
-**y desde ahí, lo que la persona elija: permanencia elegida, papel estratégico, reducción de
-dedicación, una nueva línea o unidad, otro negocio, sucesión, retiro o legado**.
+transferencia del criterio → menor dependencia del fundador → continuidad empresarial → **y
+desde ahí ya no hay una cadena, sino tres preguntas que se contestan por separado: qué papel
+elige la persona —permanencia elegida, papel estratégico, menos dedicación, retiro—; qué ocurre
+con el negocio —continuidad, transferencia, sucesión, legado—; y dónde pone ella el tiempo que
+el negocio deje de exigirle —aquí mismo, otra línea, otra unidad, otro negocio, o algo que no es
+trabajo—**.
 
-**Corregida la cadena el 2026-09-09.** Terminaba en «sucesión, retiro o legado», tres
-destinos que **son del negocio y no de la persona**, y que además cerraban el recorrido en
-una sola dirección.
+**Corregida la cadena el 2026-09-09.** Terminaba en «sucesión, retiro o legado», y ahí se
+mezclaban **dos categorías que no son la misma**: **sucesión y legado describen qué ocurre con
+el negocio; retiro describe una decisión de la persona sobre su propia participación.** Poner
+las tres en fila las hacía parecer variantes de un mismo final. Y además cerraban el recorrido
+en una sola dirección.
+
+**Precisado el 2026-09-09 (Etapa 3.11B.2.1).** La nota anterior decía que los tres eran
+«destinos del negocio y no de la persona», y **eso era exacto para dos de los tres**: el retiro
+no es un destino del negocio. Es una **posición del Mapa de Participación**, y por tanto de la
+persona. La corrección refuerza **D-068**, que ya había sacado la sucesión y el legado del eje
+de participación por el mismo motivo, en sentido contrario.
 
 ### Ruta B — Profesional independiente o negocio unipersonal
 
@@ -102,7 +113,7 @@ Profesional, freelancer, consultor o dueño-operador → conocimiento tácito �
 → procedimientos → información estructurada → automatización → asistente digital →
 inteligencia artificial con el contexto del trabajo → capacidad de asistir o ejecutar las
 tareas permitidas → reducción progresiva de la dependencia personal → reducción voluntaria
-de horas → continuidad económica → **y desde ahí, lo que la persona elija: seguir ejerciendo por elección, crear un producto o un sistema a partir de su conocimiento, abrir otra actividad, mantener la práctica mientras construye otra fuente de trabajo, transferir la cartera, retirarse o dejar algo en pie**.
+de horas → continuidad económica → **y desde ahí, las mismas tres preguntas separadas: qué papel elige —seguir ejerciendo por elección, menos horas, retirarse—; qué ocurre con la actividad —continuidad, transferir la cartera, dejar algo en pie—; y dónde pone el tiempo recuperado —un producto o un sistema hecho con su conocimiento, otra actividad, o sostener la práctica mientras construye otra fuente de trabajo—**.
 
 **Corregida la cadena el 2026-09-09 (D-075), igual que la de la ruta A.** Y con la misma cautela que rige todo el apartado 3.2: **nada de esto se afirma como frecuente**. Son posibilidades editoriales, no una descripción de lo que hace la gente.
 
@@ -217,16 +228,20 @@ participa la persona**; la sucesión y el legado describen **qué ocurre con el 
 cosas distintas y pueden combinarse de muchas maneras: se puede estar en «retiro parcial»
 con una sucesión ya hecha, o en «100 % operativo» sin ningún destino decidido.
 
-| Eje | Qué describe | Ejemplos |
+| Dimensión | Qué pregunta contesta | Ejemplos |
 |---|---|---|
-| **Mapa de Participación** | Cuánto participa la persona en la operación | Las ocho posiciones de 7.2 |
-| **Resultado o destino del negocio** | Qué ocurre con el negocio | Continuidad · transferencia · sucesión · legado |
-| **Destino de la capacidad recuperada** *(2026-09-09, D-075)* | **Qué hace la persona con el tiempo y la atención que este negocio ya no le exige** | Más dedicación a este mismo negocio · estrategia · otra línea · otra unidad · otro negocio · menos horas · retiro · algo fuera del trabajo |
+| **Mapa de Participación** | **¿Cuánto participo en este negocio?** | Las ocho posiciones de 7.2 |
+| **Destino del negocio** | **¿Qué ocurre con este negocio?** | Continuidad · transferencia · sucesión · legado |
+| **Uso de la capacidad recuperada** *(2026-09-09, D-075)* | **¿Dónde decido poner el tiempo y la atención que este negocio ya no me exige?** | Este mismo negocio · estrategia · otra línea · otra unidad · otro negocio · menos horas · retiro · algo fuera del trabajo |
 
 No se introduce ninguna taxonomía nueva: los cuatro destinos ya estaban en la arquitectura.
 Venta y cierre no se desarrollan aquí porque no constan en los documentos vigentes.
 
-**Sobre el tercer eje, y por qué no es una novena posición del mapa.** El mapa contesta **una sola pregunta: ¿cuánto participo en este negocio?** No contesta **qué hago con el tiempo que este negocio ya no necesita**, que es otra pregunta y de otro orden. Por eso **«abrir otro negocio» no es una posición del mapa y no se añade ninguna**: las ocho siguen siendo ocho.
+**Son tres preguntas separadas, y esa es toda la arquitectura.** No hay un eje nuevo, no hay una escala nueva y no hay una novena posición: hay **tres preguntas distintas que antes se contestaban con una sola**.
+
+**Renombrada la tercera el 2026-09-09 (Etapa 3.11B.2.1).** Se llamaba «tercer eje» y «destino de la capacidad recuperada», y las dos palabras arrastraban una deriva: «eje» invitaba a leerla como una **ampliación formal del Mapa de Participación**, y «destino» la emparentaba con los destinos del negocio, que son otra cosa. **La tercera dimensión no es una posición del mapa, ni una escala, ni una ruta, ni una etapa, ni un destino obligatorio.** El encabezado de la tabla pasó de «Eje» a «Dimensión» por la misma razón.
+
+El mapa contesta **una sola pregunta: ¿cuánto participo en este negocio?** No contesta **dónde pongo el tiempo que este negocio ya no me exige**, que es otra pregunta y de otro orden. Por eso **«abrir otro negocio» no es una posición del mapa y no se añade ninguna**: las ocho siguen siendo ocho.
 
 El ejemplo que lo deja claro: una persona puede estar en **supervisión** en el negocio actual —una de las ocho posiciones, sin cambio alguno— y dedicar **la mayor parte de su actividad a un segundo negocio**. Su posición en el mapa describe el primero; el segundo no aparece en el mapa, porque el mapa no es de la persona: **es de su participación en un negocio concreto**.
 

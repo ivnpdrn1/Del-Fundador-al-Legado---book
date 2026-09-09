@@ -91,7 +91,7 @@ El mapa sirve para contestar dos preguntas, y nada más que esas dos:
 
 No sirve para contestar «¿hasta dónde debo llegar?», porque esa pregunta no tiene respuesta
 correcta. Y hay una tercera que tampoco contesta: **qué hace usted con el tiempo que este
-negocio deje de pedirle.** El mapa mide su participación **en este negocio**, y nada más. Se
+negocio deje de pedirle.** El mapa describe su participación **en este negocio**, y nada más. Se
 puede estar en «supervisión» aquí y tener la cabeza en otra cosa media semana.
 
 Y conviene decir lo que el mapa no es, porque son cuatro cosas y las cuatro importan. **No

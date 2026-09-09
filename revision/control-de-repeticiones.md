@@ -173,8 +173,14 @@ clasificado como C.**
 | 11 | **A** | Una aparición, de «LEGADO». Falso positivo. |
 | 12 | **A** | Tres apariciones, todas de **retirar un permiso** o del nombre del método. Falsos positivos. |
 
-**Resultado: nueve piezas A, dos C —una de ellas de cuatro palabras— y una B por
-instrucción.** Es el hallazgo más útil de la auditoría y conviene dejarlo escrito: **el
+**Resultado: diez piezas A, dos C —una de ellas de cuatro palabras— y una B por instrucción.
+Diez más dos más una son trece, que son las piezas escritas.**
+
+**Corregido el 2026-09-09 (Etapa 3.11B.2.1).** Esta frase decía «nueve piezas A» y sumaba doce.
+**La tabla de arriba estaba bien desde el principio** —diez filas con A: los capítulos 1, 2, 4,
+6, 7, 8, 9, 10, 11 y 12—; lo que estaba mal era el resumen, y con él el informe narrativo de la
+etapa. Se corrige el recuento y **no se reclasifica ninguna pieza**: reclasificar para cuadrar
+una suma sería exactamente el defecto que esta auditoría existe para evitar. Es el hallazgo más útil de la auditoría y conviene dejarlo escrito: **el
 manuscrito no estaba sesgado hacia el retiro; su superficie sí.** El problema se concentraba
 en la introducción y en el título del capítulo 5, que son exactamente los dos sitios donde un
 lector decide si el libro va con él.

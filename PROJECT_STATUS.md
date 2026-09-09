@@ -50,6 +50,7 @@
 **Etapa 3.11B — Capítulo 12 y su cuadro: COMPLETADA el 2026-09-09.**
 **Etapa 3.11B.1 — Cierre conceptual del capítulo 12 y reconciliación de este documento: COMPLETADA el 2026-09-09.**
 **Etapa 3.11B.2 — Ampliación estratégica del alcance (D-075): COMPLETADA el 2026-09-09.**
+**Etapa 3.11B.2.1 — Cierre semántico de la ampliación: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -76,6 +77,8 @@ el apartado 6 de este documento**, congelado desde la Etapa 3.7.
 **Ampliación de alcance aprobada por el autor (D-075), y es la de más consecuencias desde la ampliación de público de la Etapa 2.2.** El problema central no cambia; **cambia el motivo por el que el lector quiere resolverlo**. Reducir la dependencia sirve para preparar una ausencia o un retiro, y **también para liberar tiempo y atención que la persona decida dedicar a otra línea, otra unidad u otro negocio**. **No se creó lector C ni ruta C**: las dos rutas describen **cómo está organizado el negocio**, no por qué la persona quiere reducir su dependencia. El capítulo 5 pasa a llamarse **«Trabajar por elección, no por obligación»** (D-076) y la conclusión, en arquitectura, **«Usted elige cómo seguir»**.
 
 **Lo que la ampliación no autoriza:** ninguna promesa de éxito, crecimiento o ingresos; ninguna afirmación de frecuencia sin fuente; y **ninguna formulación en la que la inteligencia artificial dirija el negocio** —la arquitectura del capítulo 12 no se tocó: capacidad ≠ permiso—.
+
+**El cierre semántico 3.11B.2.1 corrigió tres residuos de la ampliación y un recuento.** El capítulo 5 decía que el Mapa de Participación «mide», contradiciendo su propia frase de tres párrafos antes —**el mapa describe, no mide**—. La nota de la ruta A llamaba al retiro «destino del negocio», cuando es **una posición del mapa y por tanto de la persona**; las dos cadenas se reescribieron para separar las tres preguntas. Y la tercera dimensión de D-075 dejó de llamarse «tercer eje», denominación que invitaba a leerla como una ampliación del mapa: **las ocho posiciones siguen siendo ocho**.
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
 **El capítulo 13 no se ha escrito y las herramientas 10 y 11 no se han creado.**
