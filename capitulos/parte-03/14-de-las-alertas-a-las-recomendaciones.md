@@ -4,7 +4,7 @@ parte: 3
 titulo: "De las alertas a las recomendaciones"
 etapa_metodo: "A"
 estado: borrador
-palabras: 1978
+palabras: 1980
 casos_usados: ["C-11"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -74,9 +74,10 @@ nivel 4».
 ## Por qué esto tiene nombre propio
 
 Al problema que aparece cuando una herramienta empieza a proponer se le llama **sesgo de
-automatización**, y no es una preocupación de este libro: el reglamento europeo de inteligencia
-artificial —**norma de la Unión Europea y solo para sistemas de alto riesgo**— **lo menciona
-expresamente** y exige que las personas encargadas de supervisar sean **conscientes** de él.
+automatización**, y no es una preocupación inventada por este libro: el reglamento europeo de
+inteligencia artificial —**norma de la Unión Europea y solo para sistemas de alto riesgo**— **lo
+menciona expresamente** y exige que las personas encargadas de supervisar sean **conscientes** de
+él.
 
 Una revisión académica de literatura lo define como **la tendencia a confiar en exceso en las
 recomendaciones automáticas**. La misma revisión —de estudios sobre sanidad, derecho y
@@ -86,8 +87,8 @@ verificación exige la tarea y **lo complicada que sea la explicación**.
 
 No hace falta diagnosticar qué le pasó a Inés por dentro. Lo que importa es observable: **la
 propuesta coincidía con lo que ella ya pensaba, y por eso resultaba fácil dejar de comprobarla.**
-Una propuesta con la que uno está de acuerdo deja de parecer una propuesta y empieza a parecer
-una confirmación.
+Una propuesta con la que uno está de acuerdo **puede dejar de parecer una propuesta** y empezar
+a parecer una confirmación.
 
 ## Explicar no basta
 

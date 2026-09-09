@@ -60,6 +60,7 @@
 **Etapa 3.13A — Preflight del capítulo 14: COMPLETADA el 2026-09-09.**
 **Etapa 3.13B — Capítulo 14: COMPLETADA el 2026-09-09.**
 **Etapa 3.13B.1 — Control conceptual del capítulo 14 y reconciliación de recuentos: COMPLETADA el 2026-09-09.**
+**Etapa 3.13B.2 — Microcorrección final del capítulo 14: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -331,9 +332,9 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 | Capítulo 11 | **Escrito y revisado**, 2.177 palabras (objetivo 2.300) |
 | Capítulo 12 | **Escrito y revisado**, 2.284 palabras (objetivo 2.200) |
 | Capítulo 13 | **Escrito y revisado (3.12B.1 y 3.12B.2)**, 2.278 palabras (objetivo 2.100) |
-| Capítulo 14 | **Escrito y revisado (3.13B.1)**, 1.978 palabras (objetivo 2.000). **Sigue por debajo de su objetivo**, como pedía la etapa |
+| Capítulo 14 | **Escrito y revisado (3.13B.1 y 3.13B.2)**, 1.980 palabras (objetivo 2.000). **Sigue por debajo de su objetivo**, como pedía la etapa |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **34.591** |
+| Palabras del manuscrito | **34.593** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
 | Avance sobre el objetivo | **64,9 %** |
 | Recursos terminados | **11 de 18** (**20.556 palabras**; no computan en el manuscrito). **Quedan siete.** **Recuento unificado el 2026-09-09:** la cifra anterior, 15.391, procedía de otro método de conteo. |
