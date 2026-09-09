@@ -13,7 +13,7 @@ ultima_actualizacion: "2026-09-07"
 
 # 8. Cómo documentar las excepciones
 
-Coja una de las marcas que dejó al margen. Cualquiera. Vamos a abrirla.
+Tome una de las marcas que dejó al margen. Cualquiera. Vamos a abrirla.
 
 Debajo de esa señal hay una frase que se dijo usted mismo sin darle importancia: *«esto
 normalmente se hace así, pero con este cliente no»*, *«el pedido va completo, salvo cuando

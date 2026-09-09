@@ -38,13 +38,13 @@
 **Etapa 3.8A — Investigación Q-06 / Q-13 / Q-16 y preflight del capítulo 8: COMPLETADA el 2026-09-07.**
 **Etapa 3.8A.1 — Recuperación dirigida de fuentes y corrección del registro bibliográfico: COMPLETADA el 2026-09-07.**
 **Etapa 3.8B — Capítulo 9 y herramienta 7: COMPLETADA el 2026-09-08.**
+**Etapa 3.8B.1 — Control editorial y metodológico final de la etapa E: COMPLETADA el 2026-09-08.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión del
-capítulo 9 y de la herramienta 7. **El capítulo 10 no se ha escrito y la Etapa 3.9 no se ha
-iniciado.**
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión final
+antes de pasar de E a G. **El capítulo 10 no se ha escrito y la Etapa 3.9 no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -370,9 +370,16 @@ publicado a continuación.
 
 ## 13. Próxima acción recomendada
 
-1. **Revisar el capítulo 9 y la herramienta 7.** Es lo único que el autor ha pedido a
+1. **Revisión final de la etapa E antes de pasar a G.** Es lo único que el autor ha pedido a
    continuación. No se escribirá el capítulo 10 ni se iniciará la Etapa 3.9 sin nueva
    autorización.
+1 bis. **La Etapa 3.8B.1 dejó el capítulo 9 y la herramienta 7 sin absolutos injustificados y
+   sin cifras metodológicas inventadas.** Cayeron el intervalo de quince a treinta minutos y el
+   umbral de dos o tres casos. **Regla vigente y común a capítulo y herramienta:** un caso basta
+   para una hipótesis provisional marcada como tal; varios casos comparables permiten
+   contrastarla, sin número fijo. Se repararon además dos defectos heredados: el verbo «Coja» en
+   las aperturas de los capítulos 7 y 8, y la estructura de las filas tachadas D-023 y D-024, que
+   tenían una columna de más. **Ninguna decisión editorial nueva y ninguna fuente nueva.**
 2. **La etapa E se cerró con una corrección de fondo del método (D-071).** Su criterio de paso
    a G afirmaba que las dependencias «han dejado de ser exclusivamente personales», que es una
    afirmación de **transferencia** al final de una etapa que solo **extrae**. Ahora E cubre

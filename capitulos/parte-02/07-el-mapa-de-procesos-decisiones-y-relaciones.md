@@ -13,7 +13,7 @@ ultima_actualizacion: "2026-09-07"
 
 # 7. El mapa de procesos, decisiones y relaciones
 
-Coja los tres primeros elementos de su lista. Con esos vamos a trabajar.
+Tome los tres primeros elementos de su lista. Con esos vamos a trabajar.
 
 Cada uno de ellos parece una cosa suelta: «las condiciones especiales de tres clientes»,
 «cuándo se adelanta un pedido», «el acuerdo con el proveedor antiguo». Escritos así, en una

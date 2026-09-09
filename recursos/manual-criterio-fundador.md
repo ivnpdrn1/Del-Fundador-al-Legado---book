@@ -31,18 +31,23 @@ sirve para garantizar que otra persona decidiría igual.
 |---|---|
 | **Cuándo** | Cuando ya tiene localizadas las decisiones que dependen de su criterio, y no antes. |
 | **Con qué material** | Las tres decisiones que marcó en el mapa de decisiones; las excepciones que apartó porque su motivo no cabía en una frase; y las frases en crudo que anotó al margen al resolver. |
-| **Cuánto se tarda** | Entre quince y treinta minutos por caso. Si un caso le lleva mucho más, lo que hay ahí dentro son dos decisiones y conviene separarlas. |
-| **Cada cuánto** | Un caso cada vez. Dos o tres de la misma decisión ya permiten escribir un criterio provisional. |
+| **Cuánto se tarda** | Lo que haga falta. Trabaje un caso cada vez y deténgase cuando pueda describirlo sin mezclarlo con otras decisiones. **No fijamos un tiempo**: no tenemos con qué sostenerlo. |
+| **Cada cuánto** | Un caso cada vez. Vuelva cuando aparezca otro caso que valga la pena, o cuando lo que escribió necesite contraste. |
 | **Qué hace falta** | Papel. Nada más. |
 
 **Empiece por una sola decisión, no por una lista.** La más reciente o la que más le incomode.
+Y si el caso empieza a crecer demasiado, **compruebe si está mezclando más de una decisión**.
+Puede serlo, o puede ser un caso complicado, o que le falte información, o que todavía no sepa
+cómo escribirlo.
 
 ## 3. Quién la completa
 
 **Si trabaja con alguien.** El caso lo aporta la persona de quien depende esa decisión. Otra
 persona puede ayudar preguntando, escribiendo y devolviendo lo que ha entendido; quien sabe
-algo da por supuesto justo lo que más falta. Esa segunda persona **no necesita saber del
-asunto**: necesita insistir.
+algo da por supuesto justo lo que más falta. Esa segunda persona **no necesita necesariamente
+ser especialista**: su función principal es preguntar, pedir ejemplos y devolver lo que
+entendió. En algunos asuntos le hará falta conocer algo del contexto para que sus preguntas
+sirvan, y eso se resuelve explicándoselo antes de empezar.
 
 **Si trabaja solo.** Se entrevista usted mismo, y esto hay que decirlo sin adornos: **es una
 adaptación de este libro, no un método comprobado.** Todos los métodos que hemos podido
@@ -59,13 +64,14 @@ Lo que sí puede hacer para compensarlo en parte:
 
 ## 4. De dónde sacar el caso
 
-Cualquiera de estos sirve, y todos tienen la misma ventaja sobre pensar en abstracto: hay un
-caso delante.
+Cualquiera de estos sirve, y todos ofrecen lo mismo: un punto de apoyo concreto sobre el que
+reconstruir una decisión.
 
 - Una decisión que tomó esta semana.
 - Una excepción que registró y cuyo motivo no cupo en una línea.
 - Una propuesta que aceptó.
-- Una que rechazó. Un no obliga a haber comparado algo, y por eso vale la pena trabajarlo.
+- Una que rechazó. Una negativa puede hacer visible un límite o una comparación que vale la
+  pena explorar.
 - Un caso que le costó resolver.
 
 ---
@@ -104,14 +110,18 @@ elección. Se dejó fuera para que la hoja siguiera teniendo cinco columnas y se
 
 ## 6. Debajo de la hoja: el criterio provisional
 
-Sin esto, lo que tiene es una colección de casos, no un manual. Después de uno o dos casos de
-la misma decisión, escriba tres o cuatro líneas con **sus palabras**, no con fórmulas:
+Sin esto, lo que tiene es una colección de casos, no un manual. **Con un solo caso ya puede
+escribirla**, siempre que quede marcada como lo que es. Tres o cuatro líneas con **sus
+palabras**, no con fórmulas:
 
 > **El criterio que parece mantenerse:** …
 >
 > **Dónde deja de aplicarse:** …
 >
 > **Qué sigo sin saber explicar:** …
+
+Y si todavía no le sale, escríbalo también: **«con este caso empiezo a ver…»** y **«todavía no
+puedo sintetizarlo»** son las dos respuestas válidas en este punto. Ninguna es un fallo.
 
 **Provisional quiere decir provisional.** Es lo que parece cierto con los casos que tiene hoy
 delante. El caso siguiente puede confirmarlo o romperlo, y las dos cosas sirven. **Un caso
@@ -134,9 +144,9 @@ No hay puntuación ni resultado. Se mira el conjunto y se contestan tres cosas:
 
 | | |
 |---|---|
-| **¿Aparece una señal repetida en varios casos?** | Ahí hay criterio de verdad, y es lo primero que conviene escribir bien. |
-| **¿Los casos se contradicen?** | Muy probablemente falta una condición en la cuarta columna. Búsquela antes de dar por incoherente el criterio. |
-| **¿Hay una columna que siempre queda vacía?** | Puede que esa decisión no dependa de eso. También es un hallazgo. |
+| **¿Aparece una señal repetida en varios casos?** | Puede indicar un patrón de criterio, y es lo primero que conviene escribir bien. **Compruébelo con otros casos antes de darlo por firme.** |
+| **¿Los casos se contradicen?** | Puede faltar una condición en la cuarta columna. También puede haber una señal distinta, un cambio de contexto, una excepción o simplemente una descripción incompleta. **Compruébelo antes de concluir que el criterio es incoherente.** |
+| **¿Hay una columna que queda vacía una y otra vez?** | Puede que esa decisión no dependa de eso. Puede también que no lo haya detectado, o que lo haya detectado y no sepa aún cómo escribirlo: **son cosas distintas**. En los tres casos es un hallazgo, y conviene anotar cuál de los tres cree que es. |
 
 ## 9. Comprobar el documento
 
@@ -146,8 +156,9 @@ que un criterio escrito sea utilizable por otra persona. Lo que sigue es propues
 **Si trabaja con alguien.** Déle el caso y la hoja, y pídale que le diga **qué miraría y qué
 decisión se plantearía**. No tiene que coincidir palabra por palabra, y **no se busca el mismo
 resultado**: dos casos pueden ser distintos y el resultado depende también de cosas de fuera. Lo
-que la prueba busca es **qué falta en la representación**. Anote lo que esa persona tuvo que
-preguntarle: eso es exactamente lo que no estaba escrito.
+que la prueba busca es **qué falta en la representación**. Anote las preguntas que esa persona
+tuvo que hacerle: son pistas de lo que puede faltar o de lo que quizá esté escrito sin la
+claridad suficiente.
 
 **Si trabaja solo.** Vuelva a la hoja en un caso real, sígala a propósito y **marque cada punto
 en el que tuvo que añadir algo que no estaba escrito**. Después corrija la hoja.

@@ -4,7 +4,7 @@ parte: 2
 titulo: "El Manual de criterio"
 etapa_metodo: "E"
 estado: borrador
-palabras: 2449
+palabras: 2550
 casos_usados: ["C-06"]
 recursos_producidos: ["manual-criterio-fundador.md"]
 afirmaciones_por_verificar: []
@@ -24,22 +24,25 @@ ningún otro sitio: usted estaba delante las dos veces.
 
 Eso que decidió la diferencia es lo que vamos a escribir aquí.
 
-## La pregunta que no funciona
+## La pregunta que se queda corta
 
-Empecemos por descartar el camino corto, que es el que se intenta primero y el que no lleva
-a ninguna parte.
+Empecemos por descartar el camino corto, que parece el más directo y deja muy poco material
+con el que trabajar.
 
 El camino corto es sentarse con una hoja en blanco y escribir arriba: **«explique su
-criterio»**. Ahí se acaba el ejercicio. Se miran las manos, se escriben tres obviedades y se
-cierra la carpeta con la sensación de que uno no sabe explicar lo que hace.
+criterio»**. Ese ejercicio puede terminar antes de empezar: se miran las manos, se escriben
+tres obviedades y se cierra la carpeta con la sensación de que uno no sabe explicar lo que
+hace.
 
 Conviene decirlo claro, porque esa sensación hace daño y es falsa: **no explicar el criterio
-cuando se lo preguntan en abstracto no significa no tenerlo.** Significa que la pregunta es
-demasiado grande. Nadie contesta bien a «explíquelo todo». Se contesta bien a «cuénteme
-aquella vez».
+cuando se lo preguntan en abstracto no significa no tenerlo.** Puede significar, sencillamente,
+que la pregunta es demasiado grande. «Explíquelo todo» se puede contestar, pero una pregunta así
+de amplia deja al que responde sin nada donde apoyarse. «Cuénteme aquella vez» le pone delante
+un caso, y un caso sí se puede mirar por partes.
 
-> **Principio central.** El criterio no se explica: se reconstruye. Y se reconstruye desde
-> casos concretos, no desde preguntas generales.
+> **Principio central.** En este método el criterio no se pide: se reconstruye. Y se
+> reconstruye trabajando sobre un caso concreto, que ofrece un punto de apoyo que una pregunta
+> general no da.
 
 Esto no quiere decir que preguntar «¿y por qué decidió eso?» esté mal. Es una buena pregunta
 y va a usarla mucho, sobre todo hablando. Lo que no puede es ser **la única**.
@@ -90,7 +93,7 @@ Del **mapa de decisiones** trae las tres que marcó para llevar primero a este t
 etiqueta de su criterio en una frase. Del **registro de excepciones** trae las que apartó
 porque su motivo no cabía en una línea. Y trae, si hizo el encargo del capítulo 7, las frases
 en crudo que fue anotando al margen cada vez que resolvía algo: sin pulir, tal como le
-salieron. Ese montón desordenado es exactamente el mejor punto de partida.
+salieron. Ese montón desordenado es un punto de partida excelente, porque ya está hecho.
 
 **Elija una sola cosa de ese montón para empezar.** La más reciente, o la que más le incomode.
 Una.
@@ -143,16 +146,18 @@ una decisión nuestra, no una conclusión de nada.
 
 ## Cómo se contestan cuando no hay nadie más
 
-**Si trabaja con alguien**, lo mejor es que pregunte otra persona. Quien sabe algo da por
-supuesto justo lo que más falta, y una pregunta ajena rompe ese automatismo. No hace falta que
-esa persona entienda del asunto; hace falta que insista.
+**Si trabaja con alguien**, ayuda mucho que pregunte otra persona. Quien sabe algo da por
+supuesto justo lo que más falta, y una pregunta ajena rompe ese automatismo. **No necesita ser
+especialista**: su papel es preguntar, pedir ejemplos y devolver lo que ha entendido. En algunos
+asuntos necesitará conocer algo del contexto para que sus preguntas sirvan.
 
 **Si trabaja solo**, se entrevista usted mismo, y conviene decir con todas las letras qué es
 eso: **una adaptación nuestra, no un método respaldado.** Todos los métodos que hemos podido
 consultar para sacar a la luz el conocimiento de una persona experta suponen que hay alguien
-preguntando. Aquí no lo hay. Lo que sí ayuda es no fiarlo a la memoria: conteste las cinco preguntas **mientras el
-caso todavía se reconoce**, y vuelva a leerlo días después, cuando ya esté fuera de la
-situación. Esa distancia es lo único que sustituye, y solo en parte, a la segunda mirada.
+preguntando. Aquí no lo hay. Lo que sí ayuda es no fiarlo a la memoria: conteste las cinco
+preguntas **mientras el caso todavía se reconoce**, y vuelva a leerlo días después, ya fuera de la
+situación. Esa distancia es **uno de los mecanismos** que proponemos para compensar en parte
+la falta de una segunda persona. No equivale a una revisión independiente.
 
 ## Un caso trabajado entero
 
@@ -186,14 +191,18 @@ había tenido que preguntárselo.**
 Con una sola fila no tiene un manual: tiene un caso bien contado. Aquí es donde se decide si
 esto sirve para algo.
 
-Después de uno o dos casos de la misma decisión, escriba debajo, en tres o cuatro líneas, tres
-cosas: **el criterio que parece mantenerse**, **dónde deja de aplicarse** y **qué sigue sin
-saber explicar**. Sin fórmulas y sin lenguaje técnico. Con sus palabras.
+**Con un caso ya puede empezar**, siempre que lo escriba como lo que es: una hipótesis. Escriba
+debajo, en tres o cuatro líneas, tres cosas: **el criterio que parece mantenerse**, **dónde
+deja de aplicarse** y **qué sigue sin saber explicar**. Sin fórmulas y sin lenguaje técnico.
+Con sus palabras.
 
 El hombre de la tienda escribió esto: *«Aparto cuando la persona dice para qué lo quiere y
 para cuándo, y cuando el artículo no es de los que se venden solos. Con una señal, aparto casi
 siempre. En temporada alta no aparto nada. No sé explicar qué me hace fiarme de algunas
 personas que no dicen nada de eso.»*
+
+Y si todavía no le sale, escríbalo igual: «con este caso empiezo a ver…» y «todavía no puedo
+sintetizarlo» son las dos respuestas válidas en este punto.
 
 La palabra que sostiene todo el ejercicio es **provisional**. Ese párrafo no es una regla de la
 casa: es lo que parece cierto con los casos que tiene delante hoy. El siguiente caso puede
@@ -204,7 +213,7 @@ solo tiene uno, escríbalo como caso y no lo convierta en política.
 
 Esa frase es una respuesta legítima y debe poder escribirse en cualquiera de las cinco
 columnas y también en el criterio provisional. No es un hueco: es información, y de la buena,
-porque señala exactamente dónde seguir trabajando.
+porque señala dónde seguir trabajando.
 
 Hay una razón de fondo para dejarle esa salida. El mismo análisis de Eraut señala que el
 conocimiento tácito es problemático en dos frentes distintos: **detectarlo y representarlo**.
@@ -230,9 +239,10 @@ vistos y alguien al lado. Si su actividad exige una licencia o una responsabilid
 profesional, eso no se traspasa con ningún documento: lo que sí puede dejar escrito es el
 contexto, los antecedentes, las señales y la preparación.
 
-**Y no copia a la persona.** Este es el trozo del ADN empresarial que más se parece a usted
-—sus señales, sus condiciones, sus límites—, y por eso conviene repetir aquí lo que dijimos al
-principio del libro: se preserva la forma de decidir del negocio, no se clona a quien decide.
+**Y no copia a la persona.** Esta es una de las capas del ADN empresarial más ligadas a su
+manera de decidir —sus señales, sus condiciones, sus límites—, y por eso conviene repetir aquí
+lo que dijimos al principio del libro: se preserva la forma de decidir del negocio, no se clona
+a quien decide.
 
 **Escribirlo tampoco es haberlo transferido.** Que el documento exista significa que el
 criterio está representado. Que alguien pueda usarlo es otra cosa, y se comprueba después.
