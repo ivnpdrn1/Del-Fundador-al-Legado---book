@@ -89,7 +89,7 @@ frase es.
 |---|---|---|---|---|
 | **M1. Primera alusión de organización** | Capítulo 6 | Una frase: estos documentos necesitan un sitio, una fecha y un responsable. Sin decir «digital». | **A** | 1 frase |
 | **M2. Primera alusión a herramientas o sistemas** | Final del capítulo 9 | Párrafo breve: a partir de aquí el material crece; puede llevarse en papel, en documentos, en un repositorio o en un sistema. **Genérico, en plural, sin marca.** | **B** | 1 párrafo |
-| **M3. Presentación explícita de la plataforma** | **Capítulo 11**, sección delimitada al final | Qué es, qué hace, que es opcional y que el libro funciona sin ella. **Primera vez que el libro identifica la plataforma.** | **D** (+ C, + 1 E al cierre) | **450 palabras** |
+| **M3. Presentación explícita de la plataforma** | **Capítulo 11**, sección delimitada al final | Qué es, qué hace, que es opcional y que el libro funciona sin ella. **Primera vez que el libro identifica la plataforma.** | **D** (+ C, + 1 E al cierre **si existe destino real**; ver V-62) | **450 palabras** |
 | **M4. Primera invitación al lector** | Pie de la herramienta 1, en el anexo de recursos | Versión digital gratuita del Índice. **No en el cuerpo del capítulo 1.** | **E** | 2 frases |
 | **M5. Primeras funciones de IA** | Capítulos 12 a 15 | Menciones de una frase. El **Asistente del ADN Empresarial** se nombra en el 14, donde ya se exige mostrar la evidencia. | **C** | 1 frase por capítulo |
 | **M6. Gemelo de IA** | **Capítulo 15 o posterior. Nunca antes.** | Según D-045 y V-25b. | **C** | — |
@@ -111,6 +111,17 @@ no como un producto de IA. Eso protege la secuencia del libro.
 donde se gana o se pierde al lector. Una invitación en su cuerpo lo convertiría en un embudo. En
 el pie de la herramienta, en el anexo, es lo que es: una comodidad opcional para un
 instrumento que el libro ya entrega completo.
+
+
+**Aviso sobre la categoría E de M3 y M4 (Etapa 3.10A, 2026-09-09).** El presupuesto **permite**
+una invitación al cierre de M3, y M4 ya promete una versión digital gratuita del Índice al pie de
+la herramienta 1. **Comprobado por búsqueda en todo el repositorio: no existe ningún destino
+real** —ni dirección, ni registro, ni producto disponible— y los documentos de producto declaran
+«arquitectura conceptual, sin stack, sin proveedores, sin base de datos, sin código». **No se
+inventa ninguno.** La categoría E es **un presupuesto editorial, no una obligación**: si al
+escribir el capítulo 11 no hay destino aprobado, **la invitación no se escribe y el presupuesto se
+deja sin gastar**. Registrado como **V-62**. Esto **no modifica D-053**, que ya estaba redactada en
+términos de lo permitido.
 
 ## 5. Qué cuenta como mención: cinco categorías
 

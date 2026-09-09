@@ -207,8 +207,9 @@ Exponer en el documento información sensible sin clasificarla.
 
 **Responsables.** La persona clave aporta el contenido. **Con equipo**, conviene que otra
 persona redacte y pregunte: quien sabe algo da por supuesto lo que más falta. **Trabajando
-sola**, ese segundo par de ojos no existe y no se inventa; se sustituye por dos mecanismos
-más débiles y honestos: escribir primero y releer días después, y **comprobar el documento
+sola**, ese segundo par de ojos no existe y no se inventa; en su lugar se usan dos mecanismos
+propios de este método, que **no equivalen a una segunda persona**: escribir primero y releer
+días después, y **comprobar el documento
 usándolo**, siguiéndolo deliberadamente la próxima vez y **anotando cada punto en que hizo
 falta añadir algo que no estaba escrito**. **Corregido el 2026-09-08 (D-071):** la redacción
 anterior pedía usarlo «sin recurrir a la memoria», y eso **no se puede comprobar**. Nadie
@@ -248,11 +249,14 @@ transferencia esté terminada** para cerrar E.
 real, **marca cada punto donde tuvo que añadir algo que no estaba escrito** y corrige la
 representación. Eso es **una prueba de completitud del documento hecha por su autor**, no una
 prueba de transferibilidad a otra persona, y **debe decirse así**. Si existe un colaborador
-externo que pueda leerlo, su lectura vale más y se aprovecha.
+externo que pueda leerlo, su lectura **aporta un contraste externo adicional** y se aprovecha.
 
-**No se inventan empleados ni segundos contactos internos para poder cerrar la etapa**, y una
-comprobación hecha por uno mismo es más débil que una ajena, lo que se reconoce en lugar de
-disimularse. **Tampoco se exige «el mismo resultado»**: dos casos pueden ser distintos y
+**No se inventan empleados ni segundos contactos internos para poder cerrar la etapa.** Una
+comprobación hecha por uno mismo y una hecha por otra persona **no son equivalentes**: la propia
+**no es independiente** y **no equivale a repartir la comprobación entre dos personas**, y eso se
+reconoce en lugar de disimularse. **Corregido el 2026-09-09 por V-61:** la redacción anterior
+decía que la comprobación propia «es más débil» y que la lectura ajena «vale más», y **ninguna
+fuente consultada estableció esa jerarquía**, en ninguna de las dos direcciones. **Tampoco se exige «el mismo resultado»**: dos casos pueden ser distintos y
 el resultado depende también de factores externos. La prueba formal de ausencia es otra cosa y llega
 en el capítulo 24.
 
@@ -342,8 +346,24 @@ mismo capítulo**, y conviene decirlo para que nadie dé la etapa por cerrada an
 | **G-1 — decisiones** | Quién puede decidir qué, hasta dónde, qué obliga a pausar, quién revisa y qué constancia queda. | **Capítulo 10** |
 | **G-2 — información** | Qué información existe, de dónde sale y **cuál es sensible**. | **Capítulo 11**, que el índice asigna a A **con G como requisito previo** |
 
-**Criterio, entonces:** existe una matriz de autoridad fechada y probada contra un caso real, y
+**Criterio de G-1:** existe una matriz de autoridad fechada y probada contra un caso real, y
 queda constancia de quién decide qué. **Eso cierra G-1 y basta para empezar el capítulo 11.**
+
+**Contenido de G-2, fijado el 2026-09-09 tras Q-05 y Q-18.** Gobernar la información **no es
+poner los archivos en una carpeta**. Es dejar contestadas siete preguntas, y **solo sobre la
+información que sostiene las decisiones prioritarias**, no sobre todo el negocio: qué información
+existe; **cuál es la fuente de referencia**, es decir la versión que manda hoy; quién puede
+cambiarla; cuándo se revisa; qué tan sensible es; quién puede verla o usarla; y **qué no debe
+entregarse libremente a un tercero**.
+
+**Tres cosas que no se mezclan y que no se combinan en una puntuación:** la **fuente** —cuál
+manda—, la **vigencia** —hasta cuándo puede confiarse en ella— y la **sensibilidad** —qué cuidado
+pide—. Un dato puede ser el bueno y estar desactualizado; puede estar actualizado y ser delicado.
+
+**Criterio de cierre de G-2.** La información que sostiene las decisiones prioritarias tiene:
+**fuente de referencia identificada, vigencia o condición de revisión, sensibilidad declarada,
+regla de acceso y uso, y —hasta donde el negocio pueda saberlo— tratamiento por terceros
+definido.** **No se exige tener el negocio entero ordenado, ni software, ni ningún porcentaje.**
 **La clasificación de la información por sensibilidad sigue siendo requisito para entrar de
 lleno en A**, y se completa en el capítulo 11, no en el 10. **Al terminar el capítulo 10 no debe
 declararse «G completa»**: está completa la gobernanza de las decisiones.

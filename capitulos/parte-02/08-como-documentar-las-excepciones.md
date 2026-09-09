@@ -194,8 +194,9 @@ no puede es quedar en blanco, porque una excepción sin horizonte **puede manten
 inercia** mucho después de que su razón se acabe, como el plazo de la ficha.
 
 **Quién vuelve a mirarlo.** Con equipo, alguien que participe en ese trabajo. **Trabajando
-solo, usted mismo, y conviene decir con todas las letras que eso es más débil**: quien
-registró y quien revisa son la misma persona, así que no hay ninguna mirada independiente.
+solo, usted mismo, y conviene decir con todas las letras qué es eso y qué no es**: quien
+registró y quien revisa son la misma persona, de modo que **no hay ninguna mirada independiente**
+y **no equivale a repartir la revisión entre dos personas**.
 Lo que sí ayuda es la distancia: registrar dentro de la situación y volver cuando ya está
 fuera de ella. No se inventa un revisor que no existe.
 

@@ -61,7 +61,7 @@ con solidez sin resolverla.
 | Q-02 | ¿Qué evidencia existe sobre tasas de continuidad entre generaciones, y qué fiabilidad tiene? | Intro, 21 | Alta | **Resuelta 2026-09-06 en sentido negativo.** No se localizó fuente primaria legible. Ninguna cifra generacional entra en el libro (D-016). El argumento se apoya en F-003 y F-012. |
 | Q-03 | ¿Qué marcos reconocidos existen sobre continuidad del negocio y gestión de riesgos operativos? | 4, 16 | Alta | **Resuelta 2026-09-06.** F-005, F-006, F-011. |
 | Q-04 | ¿Qué marcos existen sobre gestión de riesgos de la inteligencia artificial y qué recomiendan sobre supervisión humana? | 12, 15, 16 | Alta | **Resuelta 2026-09-06.** F-007, F-008, F-009, F-010. Coinciden con las reglas 4 y 5 del método (D-020). |
-| Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | Sin iniciar. Prioridad alta por D-014. |
+| Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | **RESUELTAS CONJUNTAMENTE con límites el 2026-09-09 (Etapa 3.10A)**: F-038 a F-042, las cinco leídas directamente en el documento oficial. **El hallazgo que decide el capítulo 11 es negativo y era previsible: no existe una regla única aplicable a todos los lectores.** Lo que sí existe es un conjunto de **preguntas de control que siguen sirviendo aunque cambie la jurisdicción**. Resultado completo al final de este documento. Antes: sin iniciar, prioridad alta por D-014. |
 | Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **RESUELTA, para el capítulo 2 y para el capítulo 9. Cerrada el 2026-09-07 (Etapa 3.8A.1).** Ver «Q-06 · Q-13 · Q-16 — Resultado conjunto» al final de este documento. Antes: **resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. La parte que quedaba abierta —métodos de externalización del criterio, no solo diagnóstico— **se cerró en la Etapa 3.8A.1** con las tres categorías de técnicas de F-028, leídas en el resumen del propio artículo. **No queda ninguna parte de Q-06 abierta.** **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
 | Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media, **materialmente necesaria antes del capítulo 10** | **RESUELTA con límites el 2026-09-08 (Etapa 3.9A)**: F-034, F-035, F-036 y F-037. Tres de las cuatro leídas directamente en el original. **El hallazgo que decide el capítulo 10:** la separación de funciones **no es una regla universal**, y las tres fuentes leídas coinciden en que cuando no hay personal suficiente se diseñan **controles alternativos**. **Límite que permanece:** ninguna fuente cubre negocios privados pequeños como estándar de gestión —una es federal, otra es de auditoría fiscal y otra de empresas cotizadas—, y **ninguna dice que un control alternativo equivalga a la separación ni que sea más débil**. Resultado completo al final de este documento. |
@@ -84,7 +84,7 @@ frecuencia (regla V-41).
 | Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
 | Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **RESUELTA con límites el 2026-09-07 (Etapa 3.8A.1)**: F-027, F-028, F-030, F-031, F-032 y F-033. **Corrige el estado de la Etapa 3.8A**, que la dejó parcialmente resuelta por no haber podido leer F-028: el resumen íntegro de F-028 sí se obtuvo después, y con él las tres categorías de técnicas que faltaban. **Límite que permanece:** ningún texto completo, de modo que el libro puede nombrar las tres categorías pero no sus subtipos ni la comparación empírica entre técnicas. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Su plazo real era **antes del capítulo 9**, y se cumplió. |
 | Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | Sin iniciar. Parcialmente cubierta por F-007 y F-010. |
-| Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | Sin iniciar. Se fusiona en la práctica con Q-05. |
+| Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | **RESUELTAS CONJUNTAMENTE con límites el 2026-09-09 (Etapa 3.10A)**: F-038 a F-042, las cinco leídas directamente en el documento oficial. **El hallazgo que decide el capítulo 11 es negativo y era previsible: no existe una regla única aplicable a todos los lectores.** Lo que sí existe es un conjunto de **preguntas de control que siguen sirviendo aunque cambie la jurisdicción**. Resultado completo al final de este documento. **Se ejecutó fusionada con Q-05, como el propio plan preveía**, y aporta lo que Q-05 sola no da: la distinción entre **dato personal**, **información confidencial de terceros** y **credenciales**, que son tres problemas distintos. |
 | Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **Permanece abierta para el capítulo 16**, o para el momento en que la propiedad del conocimiento codificado sea materialmente necesaria. Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
 | Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | Sin iniciar. **Muy dependiente de jurisdicción**; probablemente se resuelva remitiendo a la norma local y no citando ninguna. |
 | Q-21 | ¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el precio de venta de un negocio pequeño? | 21, 25 | Media | Sin iniciar. **Mientras no se resuelva rige D-032:** el libro habla de transferibilidad y continuidad, no de valor. |
@@ -889,7 +889,7 @@ having that knowledge limited to a few personnel**» (3.10).
 **9. ¿Qué puede revisar después la misma persona? Sin respaldo.** Ninguna de las fuentes leídas
 describe la autorrevisión como control. F-035, cuando habla de revisión, la califica de
 **independiente**. Por tanto: **lo que el capítulo 10 proponga para quien trabaja solo es diseño
-propio**, no puede llamarse revisión independiente y debe presentarse como más débil por decisión del
+propio**, no puede llamarse revisión independiente y **no puede presentarse como más débil ni como más fuerte** que otra clase de control —eso quedó sin resolver en las dos direcciones (V-61)—. El método puede recomendar mayor cautela, y entonces es recomendación del
 libro, no por autoridad de nadie.
 
 **10. ¿Qué puede requerir un tercero real?** La revisión periódica por terceros independientes figura
@@ -974,3 +974,263 @@ convierte a la Matriz de autoridad en un instrumento respaldado**. Su estructura
 que importa si sale mal y por la posibilidad de deshacerlo, y después fijar límite, pausa, revisión y
 evidencia— **no procede de ninguna de estas fuentes**. Es diseño del Método LEGADO informado por
 principios, y el capítulo debe decirlo con esas palabras.
+
+---
+
+## Q-05 · Q-18 — Resultado conjunto (Etapa 3.10A, 2026-09-09)
+
+Las dos preguntas se ejecutaron juntas porque el propio plan preveía que se fusionarían, y así
+ha sido: el profesional que pega un documento en una herramienta externa y la pyme que sube un
+listado de clientes **tienen el mismo problema con distinta ropa**.
+
+### 1. La pregunta que se investigó, y la que no
+
+**No se investigó** «qué leyes de privacidad existen». Eso es derecho comparado y el libro no lo
+hace. **Se investigó** esto:
+
+> Antes de entregar información de un negocio a una herramienta externa, **¿qué debe saber,
+> comprobar o reducir la persona responsable?**
+
+### 2. Nivel de lectura
+
+| Fuente | Qué es | Lectura |
+|---|---|---|
+| **F-038** RIPD, *Estándares Iberoamericanos*, **26 de mayo de 2026** | **Marco regional de referencia. No es ley.** | **Directa, PDF oficial** |
+| **F-039** SIC Colombia, Circular Externa 002 de 2024 | Norma vinculante **en Colombia** | **Directa, PDF oficial** |
+| **F-040** EDPB, *Guidelines 07/2020*, v2.1 | Directriz interpretativa **UE/EEE** | **Directa, PDF oficial** |
+| **F-041** EDPB, *Opinion 28/2024* | Dictamen **UE/EEE**, sobre modelos de IA | **Directa, PDF oficial** |
+| **F-042** FTC, entrada de blog del personal, 2024 | **Blog de un organismo. No es norma.** | **Directa, página oficial** |
+
+**Tercera tanda consecutiva con lectura directa mayoritaria.** El riesgo aquí no era citar de
+menos: era **convertir la norma de un sitio en obligación de todos**.
+
+### 3. El resultado principal, y es negativo
+
+**No existe una regla única aplicable a todos los lectores de este libro.** Cambian el país, el
+estado o provincia, el sector, el tipo de dato, el contrato, la profesión, la relación con la
+persona afectada, el destino del dato y el proveedor. **Y el libro no debe enseñar cumplimiento
+global.**
+
+Pero el resultado negativo no deja las manos vacías, y esta es la conclusión útil de la etapa:
+
+> **Lo que sobrevive al cambio de jurisdicción no son las obligaciones: son las preguntas.**
+
+### 4. Principios que aparecen de forma suficientemente transversal
+
+Aparecen, con distinto nombre y distinta fuerza jurídica, en más de una de las fuentes leídas:
+
+| Principio | Dónde aparece | Qué permite decir al libro |
+|---|---|---|
+| **Finalidad y minimización** | F-038, 18.1: solo datos «adecuados, pertinentes y limitados al mínimo necesario»; F-039, criterio de **necesidad** | Que **preguntarse si hace falta el dato completo** es un paso reconocido, no una manía |
+| **La tecnología no cambia la obligación** | F-039: las normas son «neutrales temática y tecnológicamente» y se aplican «al margen de… las tecnologías»; F-042: «There is no AI exemption from the laws on the books» | Que **usar una herramienta nueva no crea una excepción**. Dos jurisdicciones muy distintas dicen lo mismo |
+| **Responsabilidad de quien decide** | F-038, «responsabilidad demostrada»; F-039, *accountability*; F-040: el responsable debe **poder probar** que evaluó las garantías | Que **la responsabilidad no se subcontrata** |
+| **Comprobar antes de contratar** | F-040: solo proveedores que ofrezcan «sufficient guarantees», valorando pericia, fiabilidad, recursos y certificaciones | La lista de **qué mirar en un proveedor** |
+| **El proveedor no va más allá de lo instruido** | F-040: «documented instructions»… «shall not go beyond»; F-038, 34.4: el encargado que decide por su cuenta **pasa a ser responsable** | Que **hay una frontera** entre quien encarga y quien ejecuta, y que cruzarla cambia de sitio la responsabilidad |
+| **Seguridad y confidencialidad** | F-038, 34.3.c y e; F-039, instrucción VIII, con medidas técnicas, humanas, administrativas, físicas y **contractuales** | Que la seguridad **también se pacta**, no solo se instala |
+| **Fin de la relación** | F-038, 34.3.f: suprimir, devolver o comunicar los datos al terminar | Que **preguntar qué pasa al cerrar la cuenta** es pertinente |
+| **Subcontratación** | F-038, 35.1: hace falta **autorización previa por escrito** del responsable | Que **quién más toca el dato** es una pregunta legítima |
+| **Información sobre el propio sistema** | **F-038, 34.3.k**, y es la pieza más útil de la tanda | Que cuando el servicio implica IA, **el proveedor debe dar información sobre funcionamiento, limitaciones, seguridad, trazabilidad, calidad de datos, supervisión y gestión de riesgos** |
+
+### 5. Lo que hay que remitir siempre a la jurisdicción
+
+**Sin excepción, y el capítulo debe decirlo:**
+
+- **Qué datos son «sensibles» o de categoría especial.** Ninguna de las fuentes leídas permite una
+  lista universal, y las que existen no coinciden entre sí.
+- **Qué base legitima un tratamiento** y si hace falta consentimiento.
+- **Qué exige un contrato con un proveedor**, y si hace falta uno por escrito.
+- **Cuándo puede salir un dato del país.**
+- **Qué obligaciones impone una profesión regulada.** No lo decide este libro (D-033).
+- **Qué hay que notificar, a quién y en cuánto tiempo, si algo se filtra.**
+
+### 6. Las tres clases de información, que no son lo mismo
+
+La distinción más útil que produce esta investigación, y **es del libro, no de las fuentes**:
+
+| | Qué es | Qué la gobierna |
+|---|---|---|
+| **A. Datos personales** | Información vinculada a una persona identificada o identificable | Normas de protección de datos, **que varían por jurisdicción** |
+| **B. Información confidencial del negocio o de terceros** | Puede **no** ser dato personal: precios, fórmulas, un documento de un cliente | Contrato, secreto empresarial, deber profesional, relación comercial |
+| **C. Credenciales y secretos de acceso** | Contraseñas, claves, tokens, códigos de recuperación | **Ni privacidad ni confidencialidad: es otra cosa.** Una credencial no es información que se analiza |
+
+**Meterlas todas dentro de «privacidad» es el error que la herramienta 9 debe evitar.** Un
+documento puede ser suyo, no contener ningún dato personal **y aun así no poder entregarlo**,
+porque lo protege un contrato. Y de ahí una regla que el capítulo 11 puede enunciar:
+
+> **«Es mío» no significa «puedo entregarlo».**
+
+### 7. Datos sensibles: por qué no habrá lista
+
+Las fuentes tratan las categorías reforzadas de manera distinta y remiten a la legislación
+nacional. **Una taxonomía universal en el libro sería falsa y además envejecería mal.** La
+herramienta preguntará en su lugar:
+
+> **¿Su jurisdicción o su profesión tratan este tipo de dato con protección reforzada?**
+
+Es menos vistoso y **es más seguro**: obliga a mirar donde hay que mirar.
+
+### 8. El proveedor externo: qué preguntar, y de dónde sale cada pregunta
+
+**A** respaldado · **B** compatible · **C** diseño propio del Método LEGADO
+
+| Pregunta | Clase | Origen |
+|---|---|---|
+| ¿Para qué usa los datos? | **A** | F-040: instrucciones documentadas; F-038, 34.3.b |
+| ¿Los usa para entrenar o mejorar su sistema? | **A** | F-042: los compromisos sobre no usar datos «to train or update their models» obligan |
+| ¿Cuánto los conserva y cómo se eliminan? | **A** | F-038, 34.3.f |
+| ¿Quién más puede acceder? ¿Hay subproveedores? | **A** | F-038, 35.1 |
+| ¿Qué medidas de seguridad declara? | **A** | F-038, 34.3.c; F-039, instrucción VIII |
+| ¿Qué dice sobre el funcionamiento y las limitaciones de su sistema? | **A** | **F-038, 34.3.k** |
+| ¿Dónde se procesa la información? | **B** | Las fuentes tratan transferencias, pero remiten a la ley nacional |
+| ¿Qué documentación puede enseñarle? | **A** | F-040: política de privacidad, términos de servicio, registro de tratamientos |
+| ¿Qué pasa si cierra la cuenta? ¿Puede exportar o borrar? | **B** | Compatible con F-038, 34.3.f; no enunciado así en ninguna fuente |
+| ¿Ha cambiado sus condiciones sin avisar? | **B** | F-042 lo trata como problema del proveedor, no como comprobación del cliente |
+
+**Ninguna de estas preguntas es una obligación legal universal**, y el capítulo debe presentarlas
+como lo que son: **lo que conviene saber antes de entregar algo**.
+
+### 9. Minimización antes que prohibición
+
+**La herramienta 9 no dirá «si hay datos personales, no use la herramienta».** Sería falso y
+además inútil. La secuencia respaldada es la contraria —F-038 pide el mínimo necesario y F-039
+exige comprobar que no haya «otra medida más moderada e igual de eficaz»—:
+
+**¿necesita de verdad el dato completo?** Y si no: quitar nombres, resumir, sustituir
+identificadores, trabajar con un extracto, usar datos inventados para probar, separar la parte
+sensible.
+
+**Con una cautela terminológica que el libro debe respetar.** Quitar un nombre **no es
+anonimizar**. F-041 lo confirma desde el otro extremo del problema: la anonimidad de un modelo se
+valora **caso por caso**, y los modelos entrenados con datos personales **no pueden considerarse
+anónimos en todos los casos**. De modo que el libro usará **«reducir»**, que es lo que el lector
+va a hacer de verdad, y reservará *seudonimizar* y *anonimizar* para cuando correspondan.
+
+### 10. Qué podrá afirmar el capítulo 11, y qué no
+
+**Podrá decir, con la fuente y su ámbito dentro de la frase:**
+
+- Que existe un marco regional iberoamericano de referencia —**no una ley**— actualizado en 2026,
+  y que pide tratar solo los datos mínimos necesarios, con una frase que vale la pena citar: **la
+  IA «no justificará, por sí sola, la obtención masiva, indiscriminada o desproporcionada de datos
+  personales»** (F-038).
+- Que cuando el servicio implica IA, ese marco espera que **el proveedor informe sobre el
+  funcionamiento, las limitaciones, la seguridad, la trazabilidad, la calidad de los datos, la
+  supervisión y la gestión de riesgos** (F-038, 34.3.k).
+- Que **una autoridad nacional ya ha escrito reglas concretas** sobre IA y datos personales, y que
+  parte de comprobar **idoneidad, necesidad, razonabilidad y proporcionalidad** (F-039, Colombia).
+- Que en la Unión Europea **quien contrata debe comprobar antes** que el proveedor ofrece garantías
+  suficientes, **y poder probar que lo comprobó** (F-040).
+- Que **usar una herramienta nueva no crea una excepción**: en Estados Unidos el personal de la FTC
+  lo dice en una frase, «no hay exención de IA respecto de las leyes vigentes» (F-042).
+
+**No podrá decir:**
+
+- Ninguna obligación como universal. **Ninguna de las cinco fuentes obliga a todos los lectores.**
+- Que exista una lista universal de datos sensibles.
+- Que haya que firmar un contrato de encargo, como regla general.
+- Nada sobre entrenamiento de modelos más allá de que **no se dé por anónimo** lo que pasó por uno.
+- Que la RIPD sea una ley, que la circular colombiana valga fuera de Colombia, que el EDPB obligue
+  fuera de la UE, o que una entrada de blog de la FTC sea «la ley de privacidad de Estados Unidos».
+- Qué puede o no puede compartir una profesión regulada.
+
+### 11. Arquitectura de G-2 — gobernanza de la información
+
+G-2 no es poner los archivos en una carpeta. Debe dejar contestadas **siete preguntas**, y solo
+sobre la información que sostiene las decisiones prioritarias:
+
+| | Pregunta | Nota |
+|---|---|---|
+| 1 | **¿Qué información existe?** | Sale del inventario del capítulo 6; aquí no se rehace |
+| 2 | **¿Cuál es la fuente de referencia?** | La versión que manda hoy |
+| 3 | **¿Quién puede cambiarla?** | Enlaza con la matriz del capítulo 10 |
+| 4 | **¿Cuándo se revisa?** | Vigencia, no exactitud eterna |
+| 5 | **¿Qué tan sensible es?** | Las tres clases del apartado 6 |
+| 6 | **¿Quién puede verla o usarla?** | Acceso, distinto de autoridad |
+| 7 | **¿Qué no debe entregarse libremente a terceros?** | Es la herramienta 9 |
+
+**Fuente de referencia, no copia única.** «Fuente única» leído literalmente es imposible: hay
+copias, respaldos y exportaciones, y está bien que las haya. Lo que debe poder contestarse es
+**cuál es la versión que manda hoy**.
+
+**Y tres cosas que no se mezclan:** **fuente** —cuál manda—, **vigencia** —hasta cuándo se puede
+confiar en ella— y **sensibilidad** —qué cuidado pide—. Un dato puede ser el bueno y estar
+desactualizado; puede estar actualizado y ser delicado. **No hay una puntuación que las combine.**
+
+**Criterio de cierre de G-2.** La información que sostiene las decisiones prioritarias tiene:
+fuente de referencia identificada, vigencia o condición de revisión, sensibilidad declarada, regla
+de acceso y uso, y —hasta donde el negocio pueda saberlo— tratamiento por terceros definido. **No
+se exige tener el negocio entero ordenado, ni software, ni porcentaje alguno.**
+
+### 12. Arquitectura de la herramienta 9
+
+**No se crea el archivo en esta etapa.** Nombre y ubicación vigentes en el catálogo: *Lista de
+información que no debe entregarse libremente a una inteligencia artificial*,
+`recursos/informacion-restringida-ia.md`, herramienta 9 de 18.
+
+**«Entregar libremente», definición operativa del libro** —no es un término jurídico—:
+
+> **Introducir información en una herramienta externa sin haber decidido antes si hace falta, si
+> puede reducirse, si se tiene autorización suficiente, qué hará el proveedor con ella y en qué
+> condiciones queda protegida.** Lo contrario de entregar libremente no es negarse: es **entregar
+> habiendo decidido**.
+
+**Seis bloques, imprimibles:**
+
+| | Bloque | Qué resuelve |
+|---|---|---|
+| 1 | **¿Qué quiero entregar?** | Describirlo en una línea |
+| 2 | **¿De quién es y a quién afecta?** | Aquí se separan las tres clases: dato personal, confidencial de tercero, credencial |
+| 3 | **¿Qué tan delicado es?** | Con la pregunta de la protección reforzada remitida a la jurisdicción o a la profesión |
+| 4 | **¿Puedo reducirlo?** | Minimización antes que prohibición |
+| 5 | **¿Sé qué hará el proveedor?** | Las preguntas del apartado 8 |
+| 6 | **Decisión** | Una de las cuatro salidas |
+
+**Cuatro salidas, y son del método, no categorías jurídicas:**
+
+| | |
+|---|---|
+| **Puede usarse tal cual** | No hay información restringida en juego |
+| **Reducir antes de usar** | Se entrega, pero menos |
+| **Solo en un entorno aprobado** | Existe un sitio pactado para ese tipo de información |
+| **No entregar libremente** | Hoy no sale sin resolver antes lo que falta |
+
+**Regla propia sobre credenciales.** Q-07 no está ejecutada, así que el libro **no hará ninguna
+afirmación de ciberseguridad**. Lo que sí puede fijar como regla del método: **una credencial no
+es material de análisis y no se pega en una conversación.** Se declara como diseño propio.
+
+**Ruta A:** debe quedar escrito **quién puede entregar qué tipo de información a qué clase de
+herramienta**. **No se inventan cargos** —ni delegado de protección de datos, ni responsable de
+seguridad, ni departamento legal— si no existen. **Ruta B:** el problema no desaparece, empeora,
+porque quien decide, prepara y pega es la misma persona; **la función de la hoja es crear una
+pausa** antes de entregar algo que se enviaría sin pensarlo. **No se finge aprobación externa.**
+
+### 13. Diseño de M3 — primera presentación de la plataforma
+
+**No se escribe en esta etapa.** Presupuesto vigente (D-053): capítulo 11, sección delimitada al
+final, **máximo 450 palabras**, categoría **D**, más **C** y, si corresponde, una **E** al cierre.
+
+**Por dónde debe entrar.** Por la necesidad que el lector acaba de descubrir, no por la
+tecnología: tiene inventario, mapas, excepciones, manual de criterio, matriz de autoridad e
+información clasificada, y **todo eso hay que mantenerlo vivo, ordenado y consultable**. Esa es
+la pregunta que abre la puerta.
+
+**Qué puede decir:** que existe —o puede existir— **una plataforma digital guiada que implementa
+el Método LEGADO**, **opcional**, y que **el libro funciona entero sin ella**.
+
+**Qué NO puede decir, y esto es lo más importante del apartado.** Los documentos de producto
+declaran hoy **«arquitectura conceptual. Sin stack, sin proveedores, sin base de datos, sin
+código»**. Por tanto **está prohibido escribir en presente** «la plataforma cifra», «la plataforma
+cumple», «la plataforma protege», «la plataforma elimina», ni **prometer cumplimiento** de ninguna
+norma. Un principio de diseño **no es una certificación**. Y tampoco puede presentarse como
+agente, copiloto, cerebro ni gemelo: en el capítulo 11 la plataforma es **un sitio guiado para
+organizar el método**, y las funciones de IA empiezan progresivamente después.
+
+**Nombre:** ninguno. **D-061 sigue vigente** y no hay marca decidida. Se nombrará por su función.
+
+**El problema del CTA, que no se resuelve aquí.** El presupuesto de D-053 **permite** una
+invitación al cierre de M3, y M4 ya promete una versión digital gratuita del Índice al pie de la
+herramienta 1. **Pero no existe ningún destino real**: ni dirección, ni registro, ni producto
+disponible, comprobado por búsqueda en todo el repositorio. **No se inventa ninguno.** Queda
+registrado como **V-62**, y la regla para la Etapa 3.10B es simple: **si al escribir el capítulo 11
+no hay destino aprobado, no se escribe la invitación.** La categoría E es un presupuesto, no una
+obligación.

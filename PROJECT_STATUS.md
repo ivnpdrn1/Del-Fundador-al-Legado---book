@@ -43,6 +43,7 @@
 **Etapa 3.9B — Capítulo 10 y herramienta 8: COMPLETADA el 2026-09-08.**
 **Etapa 3.9B.1 — Control conceptual final de G-1: COMPLETADA el 2026-09-09.**
 **Etapa 3.9B.2 — Reconciliación documental final de G-1: COMPLETADA el 2026-09-09.**
+**Etapa 3.10A — Investigación Q-05 y Q-18 y arquitectura de G-2: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -52,8 +53,8 @@ decisiones**. **La etapa G no está completa:** falta G-2, la gobernanza de la i
 cierra en el capítulo 11.
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión antes
-de abrir la investigación del capítulo 11. **El capítulo 11 no se ha escrito y Q-05 y Q-18 no se
-han ejecutado.**
+de producir el primer capítulo de la Parte III. **El capítulo 11 no se ha escrito, la herramienta 9
+no se ha creado y la Etapa 3.10B no se ha iniciado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -264,7 +265,7 @@ por separado para que no haya confusión sobre el avance real.
 
 | Concepto | Valor |
 |---|---|
-| Fuentes verificadas | **37**. **Q-08 añadió F-034 a F-037 (Etapa 3.9A), y es la primera tanda con la mayoría leída entera:** el Green Book de la GAO, el manual del IRS y la guía del PCAOB se leyeron directamente en sus documentos oficiales; COSO quedó **solo en identidad**, porque su marco se vende. Antes: **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
+| Fuentes verificadas | **42**. **Q-05 y Q-18 añadieron F-038 a F-042 (Etapa 3.10A), las cinco leídas directamente en el documento oficial:** los Estándares Iberoamericanos de 2026, la circular de la SIC colombiana sobre IA, dos documentos del EDPB y una entrada del blog de la FTC. **Tercera tanda consecutiva con lectura directa mayoritaria.** Antes: **37**. **Q-08 añadió F-034 a F-037 (Etapa 3.9A), y es la primera tanda con la mayoría leída entera:** el Green Book de la GAO, el manual del IRS y la guía del PCAOB se leyeron directamente en sus documentos oficiales; COSO quedó **solo en identidad**, porque su marco se vende. Antes: **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
 | Fuentes consultadas y descartadas | **4**, con motivo registrado |
 | Afirmaciones con fuente en el manuscrito | **19**. Seis en el capítulo 9 (F-028, F-029, F-033) y **cuatro en el capítulo 10** (F-034 y F-035), **las cuatro con el ámbito de la fuente dicho dentro de la propia frase**, incluida una que declara expresamente lo que las fuentes **no** dicen. |
 | Cifras publicadas sin fuente | **0** |

@@ -102,8 +102,9 @@ acabe.
 
 **Quién vuelve a mirarlo.** No es quien aprueba: es quien comprobará si esto sigue teniendo
 sentido. **Con equipo**, alguien que participe en ese trabajo. **Trabajando solo**, usted
-mismo — y conviene reconocer que **eso es más débil**, porque quien registró y quien revisa
-son la misma persona y no hay mirada independiente. Lo que ayuda es la distancia: registrar
+mismo — y conviene decir exactamente qué es eso: quien registró y quien revisa son la misma
+persona, de modo que **no es una revisión independiente** y **no equivale a repartir la revisión
+entre dos personas**. Lo que ayuda es la distancia: registrar
 dentro de la situación y volver cuando ya está fuera. **No se inventa un revisor que no
 existe.**
 

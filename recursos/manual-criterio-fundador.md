@@ -52,7 +52,9 @@ sirvan, y eso se resuelve explicándoselo antes de empezar.
 **Si trabaja solo.** Se entrevista usted mismo, y esto hay que decirlo sin adornos: **es una
 adaptación de este libro, no un método comprobado.** Todos los métodos que hemos podido
 consultar para sacar a la luz lo que sabe una persona experta suponen que hay alguien
-preguntando. Aquí no lo hay, y el sustituto es más débil.
+preguntando. Aquí no lo hay: la autoentrevista **es una adaptación propia de este método**, no
+está validada por ninguna de las fuentes consultadas y **no equivale a una entrevista hecha por
+otra persona**.
 
 Lo que sí puede hacer para compensarlo en parte:
 
