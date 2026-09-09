@@ -1601,10 +1601,18 @@ converja con la persona.
 ### 6. Duración y salida del periodo
 
 **Cero cifras.** No 7 días, no 14, no 30, no 90, no un número de casos ni de observaciones.
-Respaldo para negarse: **F-045** declara abierta la pregunta de la cadencia, y **F-007** deja la
-frecuencia en manos de la organización. Lo que sí puede decirse, y es razonamiento y no
-estadística: **una tarea que ocurre a menudo produce material para comparar antes que una
-excepción rara**, y por eso el periodo se mide en **casos observados, no en días**.
+**Y la formulación importa tanto como la cifra ausente.** Lo autorizado es: **las fuentes
+revisadas no establecen una duración ni una cadencia universales** —**F-045** clasifica «What
+is the right cadence for monitoring?» como pregunta abierta, y **F-007** deja la frecuencia de
+la revisión en manos de la organización—, **y por eso el Método LEGADO no fija una**.
+**Prohibido** escribir que se haya demostrado que no exista, o que nadie lo sepa: una pregunta
+abierta dice qué no está establecido, no qué no existe.
+
+**El método no fija la duración por calendario.** La evidencia se acumula a partir de
+**situaciones reales relevantes para la tarea**, y **una persona decide cuándo revisarla**. Una
+tarea que ocurre a menudo puede dar más ocasiones de observar que una excepción rara, y eso es
+una observación sobre la tarea, **no una fórmula de duración**: el método **tampoco mide el
+periodo en número de casos**.
 
 **El periodo no termina por calendario: termina cuando una persona revisa la evidencia y decide.**
 Cinco salidas, todas legítimas:
