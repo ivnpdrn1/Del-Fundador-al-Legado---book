@@ -54,7 +54,7 @@ formulada después de un disgusto describe el disgusto; formulada antes, describ
 | **4** | **A quién se avisa** | |
 | **5** | **Cuándo** | ☐ interrumpir ahora · ☐ próxima revisión · ☐ solo registrar |
 | **6** | **Qué debe ver esa persona** | |
-| **7** | **Cuándo se cierra o se revisa este aviso** | |
+| **7** | **Cierre del aviso y revisión de la condición** | |
 
 ## 5. Campo 1 — La condición
 
@@ -107,28 +107,45 @@ existe justamente para que la primera siga significando algo.
 
 ## 10. Campo 6 — Qué debe ver esa persona
 
-**Dos cosas, y bastan:**
+**Dos elementos como mínimo:**
 
 > **qué condición se cumplió** · **qué información la disparó**
 
-Con eso, quien recibe el aviso tiene **información suficiente para evaluarlo**. **No hace falta
-que el sistema explique cómo llegó ahí**, y este libro no se lo va a pedir todavía: explicar el razonamiento
-de una herramienta es asunto del capítulo 14. Aquí lo que se exige es **poder seguir el rastro
-de la condición**.
+Con eso, quien recibe el aviso tiene **una base visible para empezar a evaluarlo**. **Si para
+juzgar esa situación hace falta más contexto —el histórico, el documento entero, lo que se hizo
+la última vez—, muéstrelo:** esta hoja fija un mínimo, no un máximo. Lo que no puede faltar son
+esos dos.
 
-## 11. Campo 7 — Cuándo se cierra o se revisa este aviso
+**No hace falta que el sistema explique cómo llegó ahí**, y este libro no se lo va a pedir
+todavía: explicar el razonamiento de una herramienta es asunto del capítulo 14. Aquí lo que se
+exige es **poder seguir el rastro de la condición**.
 
-**Regla de esta herramienta:** toda ficha debe llevar escrito **cuándo se considera resuelto un
-aviso, cuándo deja de mostrarse y cuándo se vuelve a mirar la condición**. Si no está escrito,
-las fichas se acumulan y deja de estar claro cuáles siguen vivas.
+## 11. Campo 7 — Cierre del aviso y revisión de la condición
 
-> «Hasta que se corrija el procedimiento» · «hasta la fecha de revisión de esta excepción» ·
-> «mientras dure esta situación» · «se revisa cuando se revise la tarea»
+**Este campo toca dos objetos distintos, y por eso lleva dos respuestas.** Sigue siendo un solo
+campo, el séptimo de siete, y no se parte en dos.
 
-**Y conviene no confundir dos cosas que este campo toca a la vez.** Cerrar **un aviso** no
-retira **la condición**: «si falta X» puede seguir siendo una regla válida mañana aunque el
-aviso de hoy ya esté resuelto. **La condición se retira solo cuando alguien decide retirarla**,
-y esa decisión también se escribe aquí.
+**Una condición no es un aviso.** La que usted escribió en el campo 1 puede vivir meses y
+producir **cero avisos, uno o veinte**. Cerrar un aviso **no retira la condición**.
+
+**A. ¿Qué cierra este aviso?**
+
+> «Cuando quien lo recibe lo revise y registre el resultado» · «cuando desaparezca la situación
+> que lo disparó» · «cuando se resuelva la discrepancia»
+
+**B. ¿Cuándo se revisa o se retira la condición?**
+
+> «Cuando cambie el procedimiento» · «cuando se renueve el acuerdo» · «cuando cambie la fuente
+> de referencia» · «cuando una persona decida retirarla»
+
+**Regla de esta herramienta: toda ficha debe llevar escritas las dos respuestas.** Si no lo
+están, los avisos se quedan abiertos, las fichas se acumulan y deja de estar claro cuáles siguen
+vivas.
+
+**Y retirar una condición es siempre una decisión de una persona, registrada.** No se retira
+porque haya dejado de dispararse, ni porque hayan pasado meses, ni por ningún automatismo de la
+herramienta. **Que una condición no salte nunca es información**, no un motivo para borrarla:
+quiere decir, como mínimo, que conviene mirarla.
 
 ## 12. Cuando el sistema no puede saberlo
 
@@ -164,7 +181,7 @@ primera ficha.
 | **4. A quién se avisa** | A quien confirma pedidos. Si es una condición de precio, además a él |
 | **5. Cuándo** | **Interrumpir ahora**, porque el pedido se confirma el mismo día |
 | **6. Qué debe ver** | La línea del pedido y la línea del acuerdo, una al lado de la otra |
-| **7. Cuándo deja de estar activa** | Se revisa cuando se renueve el acuerdo con ese cliente |
+| **7. Cierre y revisión** | **Cierre del aviso:** cuando quien confirma pedidos revise la discrepancia entre el pedido y el acuerdo y registre que lo atendió. **Revisión de la condición:** cuando se renueve o cambie el acuerdo con ese cliente |
 
 Y una segunda ficha, escrita el mismo día y marcada **solo registrar**: si un pedido llega
 fuera del horario habitual de ese cliente. Le pareció interesante y **no le pareció motivo para

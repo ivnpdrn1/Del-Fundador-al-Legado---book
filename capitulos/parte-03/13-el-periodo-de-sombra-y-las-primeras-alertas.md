@@ -4,7 +4,7 @@ parte: 3
 titulo: "El periodo de sombra y las primeras alertas"
 etapa_metodo: "A"
 estado: borrador
-palabras: 2273
+palabras: 2278
 casos_usados: ["C-10"]
 recursos_producidos: ["verificacion-modo-sombra.md", "modelo-alertas-criticas.md"]
 afirmaciones_por_verificar: []
@@ -225,10 +225,12 @@ dirección no coinciden entre los dos documentos, avísame antes de que salga la
 
 La **herramienta 11** sirve para escribir eso sin que se convierta en otra cosa. Siete campos:
 la condición, de qué fuente sale la información, por qué merece atención, a quién se avisa,
-cuándo, qué debe ver esa persona para juzgarlo y cuándo deja de estar activa.
+cuándo, qué debe ver esa persona para juzgarlo, y cómo se cierra el aviso y se revisa la
+condición.
 
 El campo sexto es el que impide que un aviso sea inútil: **qué condición se cumplió y qué
-información la disparó**. Con eso una persona puede juzgar en diez segundos si el aviso importa.
+información la disparó**. Con eso, quien lo recibe tiene **una base visible para empezar a
+evaluarlo**.
 No hace falta que el sistema explique cómo llegó ahí —**eso es del capítulo siguiente**—; hace
 falta que se pueda seguir el rastro de la condición.
 
