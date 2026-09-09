@@ -4,7 +4,7 @@ parte: 3
 titulo: "El periodo de sombra y las primeras alertas"
 etapa_metodo: "A"
 estado: borrador
-palabras: 2213
+palabras: 2273
 casos_usados: ["C-10"]
 recursos_producidos: ["verificacion-modo-sombra.md", "modelo-alertas-criticas.md"]
 afirmaciones_por_verificar: []
@@ -17,10 +17,10 @@ Terminó el capítulo anterior con una pregunta: ya sé qué le permito hoy, ¿c
 merece más sin entregarle todavía ninguna decisión?
 
 Hay una manera evidente de contestarla, y es la equivocada: probar la herramienta en algo
-pequeño, que no importe, a ver qué tal sale. El problema de esa prueba es que funciona
-demasiado bien. Una tarea que no importa se hace con información incompleta, sin las
-excepciones de siempre y sin nadie mirando el resultado, así que lo único que se aprende es
-cómo se comporta el sistema **en una tarea que no importa**.
+pequeño, que no importe, a ver qué tal sale. **Una prueba montada aparte puede dejar fuera lo
+que hace difícil la tarea de verdad** —la información tal como llega, las excepciones, las
+restricciones, las consecuencias de equivocarse—, y entonces lo que sale es una buena
+impresión sobre una situación que no es la suya.
 
 La respuesta es la contraria y solo suena rara la primera vez: **póngalo a trabajar sobre algo
 real, y no le dé la decisión.**
@@ -40,8 +40,8 @@ Unos días las dos listas coincidían y otros no. Y hubo uno en que la diferenci
 ## Qué es el modo sombra
 
 Lo que hizo Julián tiene nombre en este método, y conviene decir enseguida que **el nombre es
-una convención de este libro**: no es un estándar, ni una certificación, ni un término técnico
-reconocido por nadie.
+una convención de este libro**, y **este libro no lo presenta como estándar, certificación,
+categoría jurídica ni definición normativa de nada**.
 
 > **Modo sombra:** un sistema **trabaja sobre una tarea real y produce su propia salida**, pero
 > esa salida **no gobierna la decisión ni la ejecución**. La operación sigue por su
@@ -54,10 +54,11 @@ sistema esté escondido. No autoriza vigilar a nadie sin decírselo, ni observar
 usar información de forma clandestina. Lo que puede entregarse a una herramienta lo decidió
 usted en el capítulo 11, y aquí no cambia nada.
 
-**Dos. No es entrenamiento.** El sistema **no aprende de usted** durante este periodo, no se
-entrena con sus decisiones y no absorbe su criterio. Lo que hace es producir salidas y quedar
-registrado junto a lo que ocurrió. Si algo mejora después, será porque **una persona** cambió
-la información, una regla o un permiso.
+**Dos. No es entrenamiento.** El modo sombra **no requiere ni presupone** que la herramienta se
+entrene, se actualice, recuerde nada de un día para otro o se adapte sola: este periodo
+**observa, registra y compara**. Si algo mejora después, será porque **una persona** cambió la
+información, una regla o un permiso. Que la tecnología que usted use tenga además memoria o
+adaptación propias **es otra decisión técnica**, y no es esto.
 
 **Tres. No es un examen que el sistema apruebe.** No hay resultado obligatorio y no hay nota
 de corte.
@@ -75,8 +76,8 @@ Aquí es, además, donde el trabajo de las dos partes anteriores se pone por pri
 de una tecnología. **Clonar el ADN Empresarial no es enseñarle a una máquina a imitarle**: es
 dejar accesibles, dentro de condiciones que usted fijó, la información, el criterio escrito,
 los procesos, las excepciones, las relaciones y los límites. El modo sombra es la primera
-comprobación de qué ocurre cuando un sistema trabaja con todo eso **sin autoridad para
-usarlo**.
+comprobación de qué ocurre cuando un sistema trabaja con ese contexto **sin autoridad para
+gobernar la decisión ni la ejecución**.
 
 Y tiene un motivo que no es del libro. El marco de gestión de riesgos del instituto
 estadounidense de normas y tecnología —el documento de uso voluntario que ya citamos— pide que
@@ -156,8 +157,9 @@ compara, dónde queda registrado y quién lo revisa, qué diferencias apareciero
 explican, y la decisión.
 
 Lo que la hoja **no** le pregunta: si la herramienta ya aprendió, si usted ya confía, qué
-porcentaje acertó o cuánto tiempo lleva. Ninguna de esas preguntas se puede contestar, y las
-cuatro empujan hacia el mismo sitio.
+porcentaje acertó o cuánto tiempo lleva. Alguna tendría respuesta —el tiempo se cuenta—, pero
+**este método no las usa como criterio para ampliar un permiso**, y las cuatro empujan hacia lo
+mismo: decidir sin mirar.
 
 ## Qué hacer con la evidencia
 
@@ -179,8 +181,9 @@ universales**, y el propio instituto de normas, en un informe de 2026 sobre la v
 sistemas ya en funcionamiento, coloca **«cuál es la cadencia correcta»** entre sus **preguntas
 abiertas**, y describe las metodologías validadas del asunto como incipientes. Eso no
 demuestra que no exista una duración adecuada; dice que **las fuentes revisadas no la
-establecen**, y que quien le prometa una cifra se la está sacando de algún sitio que no es la
-evidencia.
+establecen**. Su negocio sí puede tener la suya —una obligación del sector, una política
+interna, su propia experiencia—, y eso es legítimo. Lo que no hay es una que valga para todos,
+y por eso **este método no la fija**.
 
 Lo que este método sí dice: **no se fija por calendario.** La evidencia se acumula a partir de
 situaciones reales que le importen a esa tarea, y **una persona decide cuándo mirarla**. Una
@@ -245,7 +248,8 @@ aviso para revisar. **Nunca en una decisión.**
 Con **una** tarea basta, y hacen falta seis cosas:
 
 - Hay registro de lo que el sistema habría señalado.
-- Hay un resultado real con el que compararlo.
+- Hay un comparador válido: **un resultado observado o una decisión real tomada**, según la
+  tarea.
 - Las diferencias están revisadas —**y que no hubiera ninguna también cuenta**.
 - Está escrito qué merece un aviso.
 - Está escrito quién lo recibe.

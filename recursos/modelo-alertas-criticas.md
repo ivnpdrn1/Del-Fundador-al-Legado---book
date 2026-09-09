@@ -54,7 +54,7 @@ formulada después de un disgusto describe el disgusto; formulada antes, describ
 | **4** | **A quién se avisa** | |
 | **5** | **Cuándo** | ☐ interrumpir ahora · ☐ próxima revisión · ☐ solo registrar |
 | **6** | **Qué debe ver esa persona** | |
-| **7** | **Cuándo deja de estar activa** | |
+| **7** | **Cuándo se cierra o se revisa este aviso** | |
 
 ## 5. Campo 1 — La condición
 
@@ -111,18 +111,24 @@ existe justamente para que la primera siga significando algo.
 
 > **qué condición se cumplió** · **qué información la disparó**
 
-Con eso se puede juzgar en unos segundos si el aviso importa. **No hace falta que el sistema
-explique cómo llegó ahí**, y este libro no se lo va a pedir todavía: explicar el razonamiento
+Con eso, quien recibe el aviso tiene **información suficiente para evaluarlo**. **No hace falta
+que el sistema explique cómo llegó ahí**, y este libro no se lo va a pedir todavía: explicar el razonamiento
 de una herramienta es asunto del capítulo 14. Aquí lo que se exige es **poder seguir el rastro
 de la condición**.
 
-## 11. Campo 7 — Cuándo deja de estar activa
+## 11. Campo 7 — Cuándo se cierra o se revisa este aviso
 
-**Toda condición caduca, se resuelve o se revisa.** Si ninguna de las tres cosas está escrita,
+**Regla de esta herramienta:** toda ficha debe llevar escrito **cuándo se considera resuelto un
+aviso, cuándo deja de mostrarse y cuándo se vuelve a mirar la condición**. Si no está escrito,
 las fichas se acumulan y deja de estar claro cuáles siguen vivas.
 
 > «Hasta que se corrija el procedimiento» · «hasta la fecha de revisión de esta excepción» ·
 > «mientras dure esta situación» · «se revisa cuando se revise la tarea»
+
+**Y conviene no confundir dos cosas que este campo toca a la vez.** Cerrar **un aviso** no
+retira **la condición**: «si falta X» puede seguir siendo una regla válida mañana aunque el
+aviso de hoy ya esté resuelto. **La condición se retira solo cuando alguien decide retirarla**,
+y esa decisión también se escribe aquí.
 
 ## 12. Cuando el sistema no puede saberlo
 

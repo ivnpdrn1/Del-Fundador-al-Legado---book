@@ -136,7 +136,11 @@ siempre»**, que afirmaba algo sobre los lectores; y **«nadie la ha establecido
 era la más grave porque reintroducía exactamente la formulación que la Etapa 3.12A.1 acababa de
 prohibir, y se corrigió a **«las fuentes revisadas no la establecen»**.
 
-**Y una quinta, que la segunda pasada encontró en un pasaje añadido después:** «la función que
+**Control posterior del capítulo 13 (Etapa 3.12B.1), y el resultado es el mejor del libro hasta ahora.** Se repasaron las tres piezas —capítulo, herramienta 10 y herramienta 11— con el mismo control de dos pasos: **cuarenta apariciones literales entre las tres**, y en la lectura dirigida **ninguna resultó ser una universalidad excesiva**. Todas son negaciones metodológicas —«ninguna de las fuentes revisadas sostiene un umbral»—, reglas explícitas del método —«toda ficha debe llevar escrito cuándo se cierra»—, o usos internos de los ejemplos ficticios. **Solo hubo una corrección**, y la había introducido el propio control: «las cuatro preguntas que **todo el mundo** trae puestas», en la herramienta 10.
+
+**Lo que sí corrigió esa etapa fueron ocho residuos conceptuales**, y dos tocaban afirmaciones que este archivo debía haber detectado al registrarlas: **«no es un término técnico reconocido por nadie»**, que afirmaba algo sobre todas las disciplinas sin haberlo investigado, y **«quien le prometa una cifra se la está sacando de algún sitio que no es la evidencia»**, que juzgaba cualquier duración que pudiera existir en otro contexto —un sector con obligación propia, una política interna—. **La afirmación registrada arriba no cambia**: sigue diciendo que las fuentes revisadas no establecen una cadencia y que NIST la trata como pregunta abierta. Lo que se retiró fue **el juicio que el libro había añadido por su cuenta**.
+
+**Y una quinta corrección de la etapa anterior, que la segunda pasada encontró en un pasaje añadido después:** «la función que
 revisa **suele ver** algo que quien ejecuta no ve». Se sustituyó por una formulación condicional
 —«hay algo que esa separación **puede** aportar»—. **Cinco correcciones**, y **las cinco en
 frases de transición**, que es el patrón registrado desde el capítulo 9 y que ya lleva cinco

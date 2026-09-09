@@ -55,6 +55,7 @@
 **Etapa 3.12A.1 — Cierre factual y semántico del preflight: COMPLETADA el 2026-09-09.**
 **Etapa 3.12A.2 — Reconciliación numérica del preflight: COMPLETADA el 2026-09-09.**
 **Etapa 3.12B — Capítulo 13 y herramientas 10 y 11: COMPLETADA el 2026-09-09.**
+**Etapa 3.12B.1 — Control conceptual del capítulo 13 y de sus dos herramientas: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -93,6 +94,8 @@ el apartado 6 de este documento**, congelado desde la Etapa 3.7.
 **Escrito el capítulo 13 y creadas las herramientas 10 y 11.** El catálogo pasa a **11 de 18** y el manuscrito supera el **61 %**. El capítulo introduce el **modo sombra** —un sistema trabaja sobre una tarea real y produce su salida, pero **esa salida no gobierna la decisión ni la ejecución**— con sus **seis deslindes**, y el paso al **nivel 3**, que no consiste en que la herramienta sea más lista sino en que **su salida deja de ir a un registro y empieza a ir a una persona**.
 
 **Lo más difícil del capítulo no fue la tecnología.** Fue sostener que **comparar no es imitar**: cuando el comparador es una decisión humana, el libro la llama «decisión real tomada» y **no la respuesta correcta**, y una divergencia admite **seis lecturas** sin jerarquía —incluida la de que las dos respuestas fueran defendibles con información distinta, que es exactamente lo que le pasa al caso—.
+
+**El control 3.12B.1 corrigió ocho residuos**, y dos eran del mismo tipo: **el libro afirmando más de lo que había comprobado**. Decía que «modo sombra» no es un término técnico «reconocido por nadie», cuando lo único que el proyecto puede sostener es **que este libro no lo presenta como estándar**; y decía que quien prometa una duración concreta «se la está sacando de algún sitio que no es la evidencia», cuando **un sector con obligación propia o una política interna pueden dar una duración legítima para esa situación**. También se corrigió el deslinde del aprendizaje: el modo sombra **no presupone** entrenamiento, que es una regla del método, en lugar de afirmar que ningún sistema aprende, que es una afirmación técnica que el libro no puede hacer.
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
 **El capítulo 14 no se ha escrito.**
@@ -303,11 +306,11 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 | Capítulo 10 | **Escrito y revisado**, 2.487 palabras (objetivo 2.200) |
 | Capítulo 11 | **Escrito y revisado**, 2.177 palabras (objetivo 2.300) |
 | Capítulo 12 | **Escrito y revisado**, 2.284 palabras (objetivo 2.200) |
-| Capítulo 13 | **Escrito**, 2.213 palabras (objetivo 2.100) |
+| Capítulo 13 | **Escrito y revisado (3.12B.1)**, 2.273 palabras (objetivo 2.100) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **32.548** |
+| Palabras del manuscrito | **32.608** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | **61,1 %** |
+| Avance sobre el objetivo | **61,2 %** |
 | Recursos terminados | **11 de 18** (**20.556 palabras**; no computan en el manuscrito). **Quedan siete.** **Recuento unificado el 2026-09-09:** la cifra anterior, 15.391, procedía de otro método de conteo. |
 | Entregables que no son herramienta del catálogo | **2**: la vista del proceso real del capítulo 7 (D-070) y el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12. Ambos viven dentro de su capítulo y **no tienen archivo en `recursos/`** |
 | Documentación del proyecto | **42 archivos**. **Regla de conteo, fijada aquí para que deje de ser una cifra sin origen:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **64** en total, menos **13** piezas del manuscrito y **9** herramientas |

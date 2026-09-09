@@ -11,8 +11,10 @@ Para comprobar que un sistema **observa, registra y compara** una tarea real de 
 
 **Lo que esta hoja NO es, y conviene leerlo entero:**
 
+- **No presupone que la herramienta aprenda.** Este periodo **observa, registra y compara**; no
+  requiere entrenamiento ni memoria de un día para otro.
 - **No es un examen que el sistema apruebe.** No hay resultado obligatorio ni nota de corte.
-- **No mide nada.** No hay puntuación, ni porcentaje, ni tasa de aciertos.
+- **No puntúa.** No produce una nota de aprobación, ni un porcentaje, ni una tasa de aciertos. **Eso no le prohíbe anotar cifras**: si su negocio ya usa un tiempo, una cantidad o un indicador para esa tarea, **regístrelo**; lo que no hará esta hoja es convertirlo en el criterio que decide.
 - **No dice cuánto tiene que durar el periodo.** Ver el apartado 10.
 - **No autoriza nada.** Ninguna de sus salidas significa que el sistema esté «listo».
 - **No cambia quién manda.** La matriz de autoridad del capítulo 10 sigue como estaba.
@@ -61,7 +63,7 @@ solo la conclusión, para tenerla delante:
 | | |
 |---|---|
 | **Qué produce el sistema** | Una clasificación, un listado, un resumen, un aviso, un borrador… |
-| **Con qué se compara** | ☐ **Decisión real tomada** por una persona · ☐ **Resultado observado**, un hecho comprobable |
+| **Con qué se compara** | **Un comparador válido, y hay dos:** ☐ **decisión real tomada** por una persona · ☐ **resultado observado**, un hecho comprobable. **Según la tarea**, y hay tareas que solo admiten el primero |
 
 **La diferencia entre las dos casillas importa.** Si el comparador es una decisión humana, es
 la decisión que se tomó, **no la respuesta correcta**: una persona también se equivoca. Si la
@@ -83,7 +85,8 @@ decisión la autoriza hoy una función concreta, es esa función.
 
 > **Trabajando solo:** usted ejecuta, decide y revisa. **Anótelo tal cual**, sin llamarlo
 > revisión independiente, porque no lo es. Lo que protege aquí no es la separación —no la hay—:
-> es que la comparación esté escrita antes de mirarla.
+> es que **la tarea, el permiso y el criterio de comparación estén definidos antes de juzgar la
+> salida**. Los bloques 1 a 4 se rellenan primero; la comparación se registra después.
 
 ## 7. Bloque 5 — Qué diferencias aparecieron y cómo se explican
 
@@ -141,14 +144,17 @@ nada.
 
 ## 9. Lo que esta hoja no le va a preguntar
 
-Y conviene saber por qué, porque son las cuatro preguntas que todo el mundo trae puestas:
+Y conviene saber por qué, porque son las cuatro preguntas que esta situación invita a hacer:
+
+**No es que no tengan respuesta.** El tiempo se cuenta, y en algunas tareas las coincidencias
+también. **El motivo es que este método no las usa como criterio de aprobación.**
 
 | Pregunta | Por qué no está |
 |---|---|
-| «¿Ya aprendió la herramienta?» | **No aprende durante este periodo.** Lo que cambia, si cambia, lo cambia una persona |
+| «¿Ya aprendió la herramienta?» | **El modo sombra no presupone que aprenda.** Lo que cambia, si cambia, lo cambia una persona |
 | «¿Ya puedo confiar?» | La hoja construye **evidencia para calibrar la confianza**, no confianza |
-| «¿Qué porcentaje acertó?» | Ninguna fuente sostiene un umbral, y un número aquí decidiría por usted |
-| «¿Cuánto tiempo lleva?» | El tiempo transcurrido no es un criterio de aprobación |
+| «¿Qué porcentaje acertó?» | Ninguna de las fuentes revisadas sostiene un umbral, y un número puesto aquí decidiría por usted |
+| «¿Cuánto tiempo lleva?» | El tiempo transcurrido **no es un criterio de aprobación** |
 
 ## 10. Cuánto dura esto
 
