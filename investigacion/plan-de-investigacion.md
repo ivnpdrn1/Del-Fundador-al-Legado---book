@@ -83,7 +83,7 @@ frecuencia (regla V-41).
 | Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
 | Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
 | Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **RESUELTA con límites el 2026-09-07 (Etapa 3.8A.1)**: F-027, F-028, F-030, F-031, F-032 y F-033. **Corrige el estado de la Etapa 3.8A**, que la dejó parcialmente resuelta por no haber podido leer F-028: el resumen íntegro de F-028 sí se obtuvo después, y con él las tres categorías de técnicas que faltaban. **Límite que permanece:** ningún texto completo, de modo que el libro puede nombrar las tres categorías pero no sus subtipos ni la comparación empírica entre técnicas. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Su plazo real era **antes del capítulo 9**, y se cumplió. |
-| Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | **RESUELTA con límites el 2026-09-09 (Etapa 3.11A)**: releídas F-007, F-009 y F-010, **ampliada F-007 con su apéndice C**, y dos fuentes nuevas —F-043 y F-044— solo para lo que ninguna norma contesta: cómo se comportan las personas. **El hallazgo que decide el capítulo 12 es negativo:** la combinación de persona y sistema **puede dar peor resultado que cualquiera de los dos por separado**, según el apéndice C de F-007. Resultado completo al final de este documento. |
+| Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | **12, 13, 14, 15** | **Alta** | **RESUELTA con límites el 2026-09-09 (Etapa 3.11A)**: releídas F-007, F-009 y F-010, **ampliada F-007 con su apéndice C**, y dos fuentes nuevas —F-043 y F-044— solo para lo que ninguna norma contesta: cómo se comportan las personas. **El hallazgo que decide el capítulo 12 es negativo:** la combinación de persona y sistema **puede dar peor resultado que cualquiera de los dos por separado**, según el apéndice C de F-007. Resultado completo al final de este documento. **Alcance ampliado al capítulo 13 el 2026-09-09 (Etapa 3.12A), y el estado resuelto no se reabre.** El campo de capítulos decía «12, 14, 15» y **omitía el 13 por descuido, no por criterio**: el periodo de sombra es colaboración persona-sistema en el sentido más literal de la pregunta —una persona decide, un sistema observa, y después se comparan— y la supervisión, que es la mitad del enunciado de Q-17, **es exactamente lo que el capítulo 13 pone en práctica**. **No se crea otra pregunta para corregir una omisión de alcance**, y no se vuelve a investigar: las fuentes que el capítulo 13 usa —F-007 ampliada y F-045— entran por esta misma pregunta. |
 | Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | **RESUELTAS CONJUNTAMENTE con límites el 2026-09-09 (Etapa 3.10A)**: F-038 a F-042, las cinco leídas directamente en el documento oficial. **El hallazgo que decide el capítulo 11 es negativo y era previsible: no existe una regla única aplicable a todos los lectores.** Lo que sí existe es un conjunto de **preguntas de control que siguen sirviendo aunque cambie la jurisdicción**. Resultado completo al final de este documento. **Se ejecutó fusionada con Q-05, como el propio plan preveía**, y aporta lo que Q-05 sola no da: la distinción entre **dato personal**, **información confidencial de terceros** y **credenciales**, que son tres problemas distintos. |
 | Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **Permanece abierta para el capítulo 16**, o para el momento en que la propiedad del conocimiento codificado sea materialmente necesaria. Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
 | Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | Sin iniciar. **Muy dependiente de jurisdicción**; probablemente se resuelva remitiendo a la norma local y no citando ninguna. |
@@ -1497,3 +1497,332 @@ persona y sistema no garantiza un resultado mejor** (F-007, apéndice C).
 presentar la escala como estándar; afirmar que el sistema aprende del negocio con el uso; usar
 *human-in-the-loop* como garantía; nombrar marcas, modelos o proveedores; ni decidir qué puede
 delegar una profesión regulada.
+
+
+---
+
+## Preflight del capítulo 13 (Etapa 3.12A, 2026-09-09)
+
+**No se ha escrito el capítulo 13, ni la herramienta 10, ni la herramienta 11.** Esto es el
+diseño previo, y su función es que la Etapa 3.12B no tenga que decidir nada estructural con el
+texto ya empezado.
+
+### 1. Suficiencia de la evidencia
+
+La etapa empezó por comprobar si **F-007 bastaba**, antes de buscar nada. Casi.
+
+**Lo que F-007 sí afirma, y sirve al capítulo 13** (releído en su PDF oficial, ampliando el
+registro con la función MEASURE entera):
+
+| Qué respalda | Dónde |
+|---|---|
+| Que los criterios se demuestren **para condiciones parecidas al entorno de uso real**, y que la medida pueda ser **cualitativa o cuantitativa** | MEASURE 2.3 |
+| Que el comportamiento del sistema **se monitorice cuando está en producción** | MEASURE 2.4 |
+| Que el enfoque de medición esté **conectado al contexto de despliegue** y consultado con quien conoce el dominio | MEASURE 4.1 |
+| Que los resultados los **valide una persona experta en el dominio**, no el propio sistema, y queden documentados | MEASURE 4.2 |
+| Que exista un **plan de monitorización posterior al despliegue** con mecanismos de **anulación y de retirada del sistema** | MANAGE 4.1 |
+| Que **la frecuencia de la revisión periódica la determine la organización** | GOVERN 1.5 |
+| Que medir en un entorno controlado **puede diferir de los riesgos que aparecen en la operación real** | Cuerpo, «Risk in real-world settings» |
+| Que **«the ground truth may either not exist or not be available»** | Cuerpo, riesgos propios de la IA |
+
+**Lo que F-007 NO afirma**, y hacía falta decirlo: no dice cuánto debe durar un periodo de
+observación, no fija cadencia, no da umbral, no da porcentaje, no define cuándo la evidencia
+acumulada basta para ampliar un permiso, y **no menciona en ningún punto el modo sombra ni las
+alertas**. El término «shadow» no aparece; «alert» tampoco.
+
+**Por eso se registró una fuente, y solo una: F-045**, NIST AI 800-4, *Challenges to the
+Monitoring of Deployed AI Systems*, marzo de 2026. Aporta un límite material que F-007 no da y
+lo aporta la misma institución: que las buenas prácticas y las metodologías validadas de
+monitorización posterior al despliegue son **nascent**, que la prueba previa está
+**inherentemente limitada** por hacerse en entornos controlados, y —lo que decide el capítulo—
+que **«What is the right cadence for monitoring?» es una pregunta abierta declarada**.
+
+**No se buscó «shadow mode» para legitimar el nombre**, por la razón que fija el propio encargo:
+el nombre es una convención de este método y no necesita respaldo. Lo que necesita respaldo es
+**la práctica** —observar, comparar y monitorizar antes de ampliar permisos—, y esa la dan las
+dos fuentes.
+
+### 2. Qué es el modo sombra, en este método
+
+> **Modo sombra** es una **convención operativa del Método LEGADO**, no un estándar ni un
+> término técnico reconocido. Describe una situación: **un sistema trabaja sobre una tarea real
+> del negocio y produce su propia salida, pero esa salida no gobierna la decisión ni la
+> ejecución.** La operación sigue por su procedimiento vigente, decide quien decidía, y después
+> **se compara**.
+
+Lo que define el nivel 2 no es que el sistema esté escondido: es que **su salida no tiene
+autoridad operativa**.
+
+### 3. Qué NO es el modo sombra
+
+Seis deslindes, y los seis van en el capítulo:
+
+| No es | Por qué importa decirlo |
+|---|---|
+| **No es secreto.** «Sombra» describe **ausencia de autoridad de la salida**, no invisibilidad ante las personas | La palabra invita al malentendido más caro del capítulo: uso oculto, vigilancia de empleados sin autorización, captura indiscriminada de comunicaciones. **Nada de eso está autorizado**, y **el capítulo 11 sigue gobernando qué información puede entregarse** |
+| **No es entrenamiento** | **Prohibidas** estas seis formulaciones: «la IA aprende durante el periodo sombra», «se va entrenando con sus decisiones», «aprende cómo piensa usted», «absorbe su criterio», «se acostumbra al negocio», «cada decisión la hace más inteligente». El modo sombra **registra y compara**; lo que cambie después —reglas, información, configuración, permisos— **lo cambia una persona** |
+| **No es una prueba que el sistema apruebe** | No hay aprobación automática ni ascenso por calendario |
+| **No es una métrica** | Sin score, sin porcentaje mínimo, sin tasa de aciertos obligatoria, sin nota, sin «90 % para avanzar». Si el negocio ya tiene una medida pertinente, **puede registrarla**; el método **no inventa una para todos** |
+| **No cambia la matriz de autoridad** | Quien decidía sigue decidiendo. **No se inventa ningún responsable de IA** |
+| **No es ejecución** | Cero «actúa», «corrige», «resuelve», «bloquea», «envía», «ajusta», salvo para decir que no debe hacerlo |
+
+### 4. Relación con la clonación del ADN Empresarial
+
+Sin publicidad y en una frase: **clonar el ADN Empresarial no es enseñarle a una IA a repetir lo
+que hace el fundador.** Es hacer accesibles, dentro de condiciones definidas, la información, el
+criterio documentado, los procesos, las excepciones, las relaciones registradas, los límites y
+los permisos. **El modo sombra comprueba qué ocurre cuando un sistema trabaja con ese contexto
+sin tener autoridad operativa.** Es la primera vez en el libro que el material de las Partes II y
+III se pone delante de una tecnología, y por eso el capítulo 13 es donde el método se mira al
+espejo.
+
+### 5. Qué se compara, y qué no significa comparar
+
+**Arquitectura mínima, deliberadamente corta.** Para una tarea concreta:
+
+**qué información estaba disponible · qué señaló el sistema · qué ocurrió realmente o qué decidió
+la persona · qué diferencia hay · qué explicación tiene esa diferencia**
+
+Cinco cosas, no siete. Las dos que se retiraron del diseño de partida —«qué registró» y «qué
+ocurrió realmente» como columna separada de «qué decidió la persona»— se absorben: **el registro
+es el soporte, no una columna, y el resultado real y la decisión humana son el mismo casillero
+con dos posibles contenidos** según la tarea tenga o no un desenlace comprobable.
+
+**La decisión humana no es verdad automática.** Cuando el comparador sea una decisión de una
+persona, el libro la llama **«decisión real tomada»** o **«resultado observado»**, nunca *ground
+truth* —término que además F-007 usa para advertir que puede no existir—. Una divergencia admite
+**seis lecturas** y el capítulo las enumera sin jerarquía: se equivocó el sistema · se equivocó la
+persona · faltaba información · había una excepción · la regla estaba mal formulada · **las dos
+respuestas eran defendibles con información distinta**.
+
+De ahí la regla del capítulo: **comparar no es imitar.** El objetivo no es que el sistema
+converja con la persona.
+
+### 6. Duración y salida del periodo
+
+**Cero cifras.** No 7 días, no 14, no 30, no 90, no un número de casos ni de observaciones.
+Respaldo para negarse: **F-045** declara abierta la pregunta de la cadencia, y **F-007** deja la
+frecuencia en manos de la organización. Lo que sí puede decirse, y es razonamiento y no
+estadística: **una tarea que ocurre a menudo produce material para comparar antes que una
+excepción rara**, y por eso el periodo se mide en **casos observados, no en días**.
+
+**El periodo no termina por calendario: termina cuando una persona revisa la evidencia y decide.**
+Cinco salidas, todas legítimas:
+
+**seguir en sombra · corregir información o reglas y repetir · mantener el mismo permiso · pasar
+la tarea al nivel 3 · reducir o retirar el uso del sistema**
+
+**No existe la aprobación automática**, y **no se exige un resultado favorable**: la señal de paso
+del capítulo se cumple con cualquiera de las cinco.
+
+### 7. La frontera entre el nivel 2 y el nivel 3
+
+| | Nivel 2 | Nivel 3 |
+|---|---|---|
+| **Qué hace** | Observa, clasifica, resume, compara, registra | Informa, organiza, recuerda, detecta diferencias, **avisa** |
+| **La pregunta** | **¿Qué habría señalado el sistema, sin que nadie actuara por eso?** | **¿Qué merece que el sistema llame mi atención?** |
+| **Quién ve la salida** | Quien revisa la comparación, después | La persona a quien va dirigido el aviso, cuando corresponde |
+| **No hace** | No propone qué hacer. No ejecuta | **No propone qué hacer.** No ejecuta |
+
+El cambio no es de capacidad: es de **destino de la salida**. En el nivel 2 la salida va a un
+registro; en el nivel 3 va a una persona.
+
+### 8. Alerta: qué es y qué no
+
+> Una **alerta** dice: **algo necesita su atención.** Una **recomendación** dice: **propongo que
+> haga esto.** La primera es el capítulo 13; la segunda, el 14.
+
+**Alerta ≠ decisión.** Una alerta no aprueba, no rechaza, no compromete, no firma, no ordena y no
+ejecuta. **Eleva algo a la atención de una persona, y la autoridad permanece donde estaba.**
+
+Ejemplo abstracto, del tipo que el capítulo usará: **«este dato se aparta de la condición
+definida»** es una alerta. «Cambie de proveedor», «rechace el pedido» o «suba el precio» **no lo
+son**, y ninguna de las tres puede aparecer en el capítulo 13.
+
+**«Crítico» no es una categoría universal.** En este método significa **una condición que el
+negocio ha decidido que justifica interrumpir o elevar la atención**, y se define **antes de que
+ocurra** siempre que sea posible. No es una definición jurídica ni un estándar.
+
+**Sobre el exceso de alertas**, y sin estadística: **si todo interrumpe, la categoría «crítico»
+deja de distinguir.** Es razonamiento, no un dato sobre el comportamiento humano, y así se
+escribe. **No se abre investigación sobre fatiga de alertas**, y **no se extrapolan** hospitales,
+aviación, ciberseguridad ni emergencias a los negocios del lector.
+
+**Tres destinos de una señal**, adoptados como diseño del método: **interrumpir ahora · mostrar
+en la próxima revisión · solo registrar.** No es un calendario: la «próxima revisión» es la que
+el negocio ya tenga. Su función es impedir que todo se convierta en notificación inmediata.
+
+**Umbral no significa dinero.** Puede ser una cantidad, una condición, un estado, una combinación
+de sucesos, **la ausencia de algo esperado**, una excepción, un vencimiento o un cambio frente a
+una referencia. **Cero cifras**: las condiciones las define el negocio.
+
+**Incertidumbre.** Si la herramienta no puede determinar con la información disponible si una
+condición se cumple, **eso puede ser una alerta de revisión, y nunca una decisión**. Sin
+porcentaje de confianza. La incertidumbre en las recomendaciones es del capítulo 14.
+
+**Trazabilidad, no explicación.** Una alerta debe poder mostrar **qué condición se cumplió y qué
+información la disparó**. Explicar el razonamiento de un sistema **es del capítulo 14**.
+
+**Falsos avisos y omisiones**, en lenguaje llano y sin métricas: **el sistema avisó y no había
+nada que mereciera atención**; **ocurrió algo que debía haberse señalado y el sistema no lo
+señaló**. Se registran las dos.
+
+### 9. Arquitectura de la herramienta 10 — Lista de verificación del modo sombra
+
+Archivo futuro: `recursos/verificacion-modo-sombra.md`. **Herramienta 10 de 18. No se crea en
+esta etapa.**
+
+**Propósito:** comprobar que el sistema **observa, registra y compara sin decidir, sin recomendar
+y sin ejecutar** —y que alguien ha mirado el resultado—.
+
+**Seis bloques, no ocho.** Los ocho del diseño de partida se simplifican: «dónde se registra» y
+«quién revisa» caben en un mismo bloque de gobierno, y «qué diferencias se encontraron» y «qué
+decisión se toma después» son las dos caras de la revisión.
+
+| | Bloque | Qué resuelve |
+|---|---|---|
+| 1 | **La tarea observada** | Una, concreta, ya definida en el cuadro del capítulo 12 |
+| 2 | **Qué información puede recibir** | Remite a la herramienta 9. No se decide aquí |
+| 3 | **Qué salida produce en sombra, y con qué se compara** | Y si el comparador es una decisión humana, se dice |
+| 4 | **Dónde queda registrado y quién lo revisa** | Persona, puesto u órgano reales (D-073). Trabajando solo, usted |
+| 5 | **Qué diferencias aparecieron y cómo se explican** | Con las seis lecturas de una divergencia, y con «no resuelto» como opción |
+| 6 | **La decisión** | Una de las cinco salidas del apartado 6 |
+
+**Cabe en dos páginas imprimibles** en la parte que se rellena, como exige el catálogo.
+
+**Lo que la herramienta 10 tiene prohibido preguntar**, porque predetermina el resultado:
+«¿aprendió la IA?» · «¿ya confía?» · «¿qué porcentaje acertó?» como obligación · «¿cuánto tiempo
+lleva?» como criterio de aprobación · «¿está lista para producción?».
+
+**Salidas:** mantener en sombra · revisar información · revisar la regla · reducir el alcance ·
+detener · permitir alertas de nivel 3. **Ninguna es la correcta, y no obliga a subir.**
+
+### 10. Arquitectura de la herramienta 11 — Modelo de alertas críticas
+
+Archivo futuro: `recursos/modelo-alertas-criticas.md`. **Herramienta 11 de 18. No se crea en esta
+etapa.**
+
+**Propósito:** definir **qué condición merece llamar la atención de una persona y cómo se
+presenta**, sin decirle qué decisión tomar.
+
+**Siete campos, no ocho.** «Qué se observa» y «condición que activa el aviso» se funden: una
+condición ya nombra lo que observa.
+
+| | Campo | Nota |
+|---|---|---|
+| 1 | **La condición** | Escrita **antes** de que ocurra, siempre que sea posible: «si falta X», «si aparece Y», «si cambia Z», «si esta excepción sigue vigente» |
+| 2 | **De qué fuente sale la información** | Enlaza con la fuente de referencia del capítulo 11 |
+| 3 | **Por qué merece atención** | En una línea, y del negocio: es lo que hace que «crítico» signifique algo |
+| 4 | **A quién se avisa** | Persona, puesto u órgano reales. **No se inventan cargos** |
+| 5 | **Cuándo** | Interrumpir ahora · próxima revisión · solo registrar |
+| 6 | **Qué debe ver la persona para evaluarlo** | La condición cumplida y el dato que la disparó. **Nada más** |
+| 7 | **Cuándo deja de estar activa** | Toda alerta caduca o se revisa. Si no, se acumulan |
+
+**Lo que la herramienta 11 no puede contener:** «acción recomendada» · «decisión sugerida» ·
+«aceptar recomendación» · «ejecutar» · «aprobar automáticamente» · «la IA decide la prioridad».
+**La prioridad la gobierna una condición definida por el negocio.**
+
+**El mismo dato, dos resultados.** Una misma observación puede no interrumpir en una tarea y
+generar alerta en otra, **porque los permisos y las condiciones son por tarea**. Sigue sin existir
+«una empresa en nivel 3».
+
+### 11. Las dos rutas
+
+**Ruta A.** El sistema observa una tarea cuya decisión **sigue tomando quien ya la tenía**. El
+modo sombra **no cambia la matriz de autoridad**, y la evidencia la revisa quien tenga esa
+responsabilidad de verdad. **No se inventa un responsable de IA.**
+
+**Ruta B.** La misma persona ejecuta la tarea, decide y después revisa la comparación. **La
+herramienta funciona igual** y debe poder decir «la comparación la hago yo después». **No se
+finge independencia**, y **la revisión propia no se presenta como independiente** —constante ya
+registrada—.
+
+**Profesiones reguladas.** El capítulo **no decide** qué alertas debe usar una profesión concreta
+ni qué puede observar una IA sobre datos regulados. **Remite** al capítulo 11 y al 16.
+
+### 12. Arquitectura narrativa propuesta
+
+Trece movimientos, y la secuencia se aparta del orden de partida en dos sitios, por un motivo
+concreto en cada caso.
+
+1. **La pregunta heredada del capítulo 12**, en la primera línea.
+2. **Ver sin entregar la decisión**: la escena del caso, con el sistema observando y la persona
+   decidiendo como siempre.
+3. **Qué es el modo sombra**, con la definición y **los seis deslindes juntos** —incluido «sombra
+   no es secreto», que va **aquí y no al final**: si el lector sospecha vigilancia, deja de leer.
+4. **Qué se compara**, con las cinco cosas.
+5. **Por qué una divergencia no es automáticamente un error del sistema**: las seis lecturas.
+6. **Comparar no es imitar**, y **la decisión humana no es verdad automática**.
+7. **La herramienta 10.**
+8. **Qué hacer con la evidencia**: las cinco salidas, sin resultado obligatorio.
+9. **Cuánto dura esto**, con la negativa razonada y las dos fuentes.
+10. **El paso al nivel 3**: cambia el destino de la salida, no la capacidad.
+11. **Qué es una alerta y qué no es**: frente a recomendación y frente a decisión.
+12. **La herramienta 11**, con los tres destinos de una señal y el exceso de alertas.
+13. **Señal de paso y puente al 14.**
+
+**Los dos cambios respecto al orden de partida**, y por qué: «qué NO es el modo sombra» sube al
+movimiento 3 en lugar de quedar después de la definición suelta, porque los seis deslindes son la
+definición; y «cuánto dura» baja al 9, después de la herramienta 10, porque la pregunta solo se
+hace de verdad cuando el lector ya tiene una hoja rellenándose.
+
+### 13. El caso
+
+**No se elige en esta etapa, y hay una razón para no elegirlo.** El encargo lo permite, y elegir
+ahora repetiría el error de asignar sector con las listas todavía abiertas: **las herramientas 10
+y 11 llevan ejemplo propio y se escriben en la misma etapa 3.12B**, de modo que los tres sectores
+se deciden a la vez, mirando las dos listas —regla registrada en la Etapa 3.9B—.
+
+**Lo que sí queda fijado, y son restricciones, no preferencias:**
+
+| | |
+|---|---|
+| **Nuria no continúa** | La regla del apartado 5 de `control-de-casos.md` prohíbe **historia continuada entre capítulos**. Se comprobó expresamente. El capítulo 13 puede abrir **recordando la pregunta** con la que terminó el 12, pero **no la escena ni el personaje** |
+| **Ruta** | **B**, salvo motivo mejor. El capítulo 12 fue ruta A y el reparto está en **5 A / 4 B**; una ruta B lo deja en 5 y 5, y el modo sombra en un negocio de una persona es **más fácil, no más difícil**, como ya anota el índice |
+| **Género** | **Hombre**, por la alternancia caso a caso, que no se ha roto en nueve casos |
+| **Sector** | **Sin fijar.** El previsto es *distribución regional*, disponible y sin repetición consecutiva —el 12 fue agricultura—, pero su único caso, C-01, es de ruta A y de una empresa con estructura. Si el capítulo va por ruta B, la lista corta es **mantenimiento**, **construcción** o **logística**, las tres con cero apariciones de caso |
+| **Qué debe permitir ver el caso** | Una salida en sombra · una decisión humana tomada con independencia de ella · **una divergencia** · la revisión de esa divergencia · y **el primer aviso de nivel 3** |
+| **Cómo no puede salir** | **Que el sistema acierte todo** —convierte el capítulo en publicidad— ni **que falle de forma caricaturesca** —lo convierte en una advertencia—. La lección está en la comparación, no en el resultado |
+
+### 14. Señal de paso, falsable
+
+Para **una** tarea, el lector puede avanzar cuando existan las seis cosas:
+
+- un registro de lo que el sistema habría señalado;
+- un resultado real con el que compararlo;
+- las divergencias revisadas, **incluida la posibilidad de que no hubiera ninguna**;
+- escrito **qué merece alerta**;
+- escrito **quién la recibe**;
+- y **una decisión humana** entre mantener, modificar, detener o pasar al nivel 3.
+
+**No exige un resultado favorable**, y «lo detuve» cumple la señal igual que «lo subí a nivel 3».
+
+### 15. Puente al capítulo 14, y las dos fronteras
+
+El capítulo 13 termina cuando el sistema ya puede **avisar**. La pregunta nueva: **si ya puede
+llamar mi atención, ¿cuándo debería proponerme qué hacer?** El capítulo 13 **no la contesta**.
+
+| Frontera | Del 13 | Del 14 o del 15 |
+|---|---|---|
+| **13 / 14** | Observa, compara, registra, informa, alerta | **Propone**, explica razones, muestra evidencia, señala incertidumbre |
+| **13 / 15** | **Cero ejecución** | Ejecución limitada dentro de reglas escritas |
+
+**Cualquier frase que cruce esas fronteras es un defecto**, no una licencia narrativa.
+
+### 16. Extensión y plataforma
+
+**Objetivo 2.100 palabras; tope de D-030 con dos rutas, 2.415.** Las herramientas 10 y 11 viven
+en `recursos/` y **no cuentan** en el manuscrito, aunque el capítulo las explique. **No se
+rellena para llegar al objetivo.**
+
+**Plataforma:** una mención de categoría C como máximo, **y no es obligatoria**. `producto/`
+prevé ejecutar el modo sombra y guardar la comparación, pero **el libro debe poder hacer lo mismo
+con papel y una tabla**, y eso es lo que el capítulo enseña. Si se menciona: **una frase, sin
+llamada a la acción, sin dirección web, sin producto comercial y sin afirmar que existe hoy.**
+
+### 17. Alcance ampliado (D-075)
+
+El capítulo 13 trata **confianza operativa y permisos**, no jubilación. **No necesita mencionar la
+expansión** y **no puede contradecirla**. La razón para construir evidencia es la misma para los
+dos lectores de D-075: **no reducir la participación humana antes de saber qué ocurre cuando el
+sistema observa el trabajo real.** Y sigue prohibido prometer que la IA llevará el negocio.
