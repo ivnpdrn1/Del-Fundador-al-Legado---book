@@ -2,7 +2,7 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-09: 13 de 27 piezas escritas. 29.938 palabras.**
+**Estado del manuscrito a 2026-09-09: 13 de 27 piezas escritas. 29.997 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II COMPLETA:** capítulos 6 a 10.
 **PARTE III EN CURSO:** capítulos 11 y 12, dos de los seis.
 **ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
@@ -50,7 +50,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 9 | El Manual de criterio | II | E | **borrador, revisado (3.8B.1)** | **2.550** | 2.400 | Plantilla del Manual de criterio (herramienta 7 de 18) | **C-06** | 0 |
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | **G (G-1)** | **borrador, revisado (3.9B.1)** | **2.487** | 2.200 | Matriz de autoridad y aprobaciones (herramienta 8 de 18) | **C-07** | 0 |
 | 11 | Ordenar antes de automatizar | III | **A, con G como requisito** | **borrador, revisado (3.10B.1)** | **2.177** | 2.300 | Lista de información que no debe entregarse libremente a una inteligencia artificial (herramienta 9 de 18) | **C-08** | 0 |
-| 12 | La inteligencia artificial como aprendiz | III | **A** | **borrador** | **2.225** | 2.200 | **Cuadro de lo que puede y lo que no puede hacer — dentro del capítulo, no es una de las 18** | **C-09** | 0 |
+| 12 | La inteligencia artificial como aprendiz | III | **A** | **borrador, revisado (3.11B.1)** | **2.284** | 2.200 | **Cuadro de lo que puede y lo que no puede hacer — dentro del capítulo, no es una de las 18** | **C-09** | 0 |
 | 13 | El periodo de sombra y las primeras alertas | III | A | no iniciado | 0 | 2.100 | — | — | — |
 | 14 | De las alertas a las recomendaciones | III | A | no iniciado | 0 | 2.000 | — | — | — |
 | 15 | Autonomía limitada y aprobación humana | III | A | no iniciado | 0 | 2.200 | — | — | — |
@@ -75,16 +75,35 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 | Introducción | 1 | 2.700 | **2.838** | completa |
 | I | 5 | 10.400 | **11.042** | **completa** |
 | II | 5 | 11.000 | **11.656** | **completa** |
-| III | 6 | 12.900 | **4.402** | **2 de 6** |
+| III | 6 | 12.900 | **4.461** | **2 de 6** |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **29.938** | **56,2 % del objetivo** |
+| **Total** | **27** | **53.300** | **29.997** | **56,3 % del objetivo** |
 
-**Desviaciones, revisadas el 2026-09-09.** Las trece piezas escritas suman 29.938 palabras
-frente a un objetivo acumulado de 26.500 para esas mismas piezas: **un 13,0 % por encima**, y la
-desviación **baja por tercera etapa consecutiva**. **El capítulo 12 salió a 25 palabras de su
-objetivo**, un 1,1 % por encima, **con el cuadro contado dentro**: es el ajuste más limpio del
-libro hasta ahora y no se debe a haber escrito menos, sino a que el entregable del capítulo **cabe en el capítulo** y no hubo que repetir fuera lo que ya estaba dicho dentro.
+**Desviaciones, revisadas el 2026-09-09 tras el control 3.11B.1.** Las trece piezas escritas
+suman 29.997 palabras frente a un objetivo acumulado de 26.500 para esas mismas piezas: **un
+13,2 % por encima**. **El capítulo 12 quedó en 2.284 palabras, un 3,8 % sobre su objetivo** y
+muy por debajo del tope de D-030, **con el cuadro contado dentro**.
+
+**Y el control 3.11B.1 vuelve a medir el mismo coste que los tres anteriores.** Las once
+correcciones conceptuales añadieron **101 palabras**; se recuperaron **42** recortando
+fórmulas que no sostenían nada —«llevamos veinte párrafos deshaciendo», «lo que sí conviene
+es decidirlo antes, y hay un motivo para no dejarlo al momento»—, y **quedan 59 de más**. Se
+declaran en lugar de disimularse: **sustituir una formulación cómoda por una precisa cuesta
+palabras**, y es el cuarto capítulo consecutivo en que ocurre. **No creció el argumento**: no
+hay ninguna idea nueva en el capítulo tras el control.
+
+**Reconciliación del *front matter* (2026-09-09, Etapa 3.11B.1).** Al recalcular desde los
+archivos apareció que **el campo `palabras:` de los capítulos 1 y 10 llevaba desfasado desde
+sus respectivas revisiones**: decía 2.322 y 2.310, cuando esta tabla registra 2.753 y 2.487.
+La tabla es correcta —el capítulo 10 creció exactamente las 177 palabras que su propia nota
+documenta— y **lo que estaba mal era el metadato**, que no se actualizó al cerrar aquellas
+revisiones. **Corregidos los dos campos; ninguna cifra del libro mayor cambia por esto.** El
+recuento en vivo sigue dando cifras algo mayores que la suma acumulada, por el motivo ya
+registrado el 2026-09-08: **procede del método de conteo, no del texto**.
+
+**Desviación anterior, del 2026-09-09 antes del control.** Trece piezas, 29.938 palabras,
+**13,0 % por encima**; el capítulo 12 estaba a 25 palabras de su objetivo.
 
 **Desviaciones, revisadas el 2026-09-08.** Las doce piezas escritas sumaban 27.713 palabras
 frente a un objetivo acumulado de 24.300 para esas mismas piezas: **un 14,0 % por encima**. **El capítulo 11 salió por debajo de su objetivo**, a un 5,3 %, y
@@ -122,7 +141,7 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
 | E | 2, 7, 8, 9 | 8.700 | **9.190** | **completa** |
 | G | 10 | 2.200 | **2.487** | **G-1 completa** |
-| A | 11–16 | 12.900 | **4.402** | **2 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2**; **el 12 es el primero de A en sentido pleno** |
+| A | 11–16 | 12.900 | **4.461** | **2 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2**; **el 12 es el primero de A en sentido pleno** |
 | D | 17, 18, 21, 23, 24 | 10.900 | 0 | — |
 | O | 19, 20, 22, 25, concl. | 9.400 | 0 | — |
 

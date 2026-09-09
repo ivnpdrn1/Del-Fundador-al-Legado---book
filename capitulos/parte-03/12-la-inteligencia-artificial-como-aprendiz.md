@@ -4,7 +4,7 @@ parte: 3
 titulo: "La inteligencia artificial como aprendiz"
 etapa_metodo: "A"
 estado: borrador
-palabras: 2225
+palabras: 2284
 casos_usados: ["C-09"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -32,14 +32,15 @@ le había pedido que la fijara. Nadie le había dicho que no.
 
 ## Lo que la escena demuestra y lo que no
 
-La herramienta demostró una capacidad: sabe redactar esa clase de respuesta. No demostró nada
-sobre una cuestión distinta, que es si **debe fijar una fecha de entrega en nombre del negocio**.
+La herramienta demostró una capacidad real: **es capaz de redactar** esa clase de respuesta. No
+demostró nada sobre una cuestión distinta, que es si **debe fijar una fecha de entrega en nombre
+del negocio**.
 
-Son dos preguntas separadas y el idioma las junta en un mismo verbo. Cuando se dice que una
-herramienta «puede» hacer algo, a veces se quiere decir *es capaz* y a veces *está autorizada*.
-En este libro van separadas:
+Son dos preguntas separadas y el idioma las junta en un mismo verbo: cuando se dice que una
+herramienta «puede» hacer algo, a veces significa *es capaz* y a veces *está autorizada*. En este
+libro van separadas:
 
-> **Capacidad** es lo que la herramienta sabe hacer. Viene con ella.
+> **Capacidad** es lo que la herramienta **puede hacer técnicamente**. Viene con ella.
 >
 > **Permiso** es lo que este negocio le deja hacer. Lo decide usted.
 
@@ -55,23 +56,26 @@ de eso cambia porque quien ejecute sea un programa.
 
 Este libro va a usar una definición funcional, que es la que hace falta para decidir permisos:
 
-> Una inteligencia artificial es un sistema que **recibe información y produce una salida** —un
-> texto, una clasificación, un aviso, un resumen, una propuesta— **a partir de patrones
-> extraídos cuando se construyó**.
+> En este libro llamaremos **herramienta de inteligencia artificial** a un sistema que **recibe
+> información y produce salidas**: un texto, una clasificación, un aviso, un resumen, una
+> propuesta.
 
-Eso es todo, y no exige entender cómo está hecha por dentro. Aquí no se explica esa parte por dos
-razones: no hace falta para lo que el libro tiene que resolver, y caducaría antes que el resto.
+**Es una convención de este libro y nada más:** no es una definición jurídica ni técnica, y no
+dice nada sobre cómo está construida por dentro. Aquí no se explica esa parte porque no hace
+falta para decidir permisos y caducaría antes que el resto.
 
 Lo que esa definición deja fuera importa más que lo que incluye:
 
 - **No comprende su negocio.** Produce salidas verosímiles, que no es lo mismo que correctas.
-- **No sabe qué es importante aquí.** La fecha de entrega del borrador de Nuria era plausible
-  precisamente porque el sistema no tenía manera de saber que esa era la parte delicada.
-- **No conoce lo que no está en lo que recibe.**
+- **No distingue qué es importante aquí.** La fecha de entrega del borrador de Nuria era
+  plausible precisamente porque nada le señalaba que esa era la parte delicada.
+- **No puede tratar como verdad de su negocio** lo que no procede de información que el negocio
+  haya decidido poner a su alcance.
 - **No responde de nada.** Ante un comprador molesto no hay ningún sistema a quien preguntarle.
 
-De la primera se deduce lo que hicimos en el capítulo anterior: si no comprende su negocio, todo
-lo que sepa de su negocio se lo tiene que dar usted, y por eso ordenar la información iba antes.
+De ahí se deduce lo que hicimos en el capítulo anterior: **lo que una herramienta utilice sobre
+su negocio debe provenir de fuentes que el negocio haya decidido poner a su alcance**, y por eso
+ordenar la información iba antes.
 
 ## El aprendiz, y hasta dónde llega la comparación
 
@@ -79,15 +83,14 @@ A un aprendiz no se le entrega la caja el primer día. Primero mira. Después av
 Más tarde propone. Y solo entonces se le deja hacer algo pequeño por su cuenta. Ese orden —y no
 otra cosa— es lo que este libro toma prestado al llamar aprendiz a una inteligencia artificial.
 
-**La metáfora dice eso y no dice nada más.** Conviene delimitarla en su primera aparición, porque
-se estira sola. No significa que el sistema se reentrene, que cambien sus parámetros, que aprenda
+**La metáfora dice eso y no dice nada más**, y conviene delimitarla aquí porque se estira sola. No significa que el sistema se reentrene, que cambien sus parámetros, que aprenda
 de su negocio con el uso, que recuerde todo lo que ha visto, que adquiera criterio ni que se
 vuelva autónomo de tanto usarlo. Y el aprendiz de la comparación **no es empleado, ni sucesor, ni
 socio, ni una réplica de nadie**: aquí no se clona a la persona.
 
-Queda además una diferencia que la comparación no salva, y es mejor decirla que dejarla flotando:
-**un aprendiz humano se convierte con los años en alguien que sabe.** La escala de este libro no
-describe ese camino. Describe el orden en que un negocio va concediendo permisos, que es un
+Queda una diferencia que la comparación no salva, y es mejor decirla:
+**un aprendiz humano puede adquirir experiencia y criterio con el tiempo.** La escala de este
+libro no describe ese proceso. Describe el orden en que un negocio va concediendo permisos, que es un
 asunto del negocio y no del aprendiz.
 
 ## Una escala que es de este libro
@@ -103,36 +106,37 @@ Tres advertencias antes de seguir.
 siete niveles y no debe presentarse como algo más de lo que es. Que exista un abanico entre lo
 totalmente manual y lo totalmente autónomo sí está reconocido fuera: el marco de gestión de
 riesgos del instituto estadounidense de normas y tecnología —un documento **de uso voluntario**,
-no una ley— describe configuraciones que van de lo uno a lo otro, e incluye la posibilidad de que
-un sistema se use **como una opinión más** dentro de una decisión que sigue siendo de una
-persona. Los siete escalones concretos, en cambio, son de aquí.
+no una ley— describe configuraciones que recorren ese abanico, e incluye la posibilidad de que un
+sistema se use **como una opinión más** dentro de una decisión que sigue siendo de una persona. Los siete escalones concretos, en cambio, son de aquí.
 
 **Segunda: la escala mide autorización.** No mide inteligencia, ni calidad, ni potencia, ni
-precio, ni tamaño. Un sistema muy capaz puede estar en nivel cero de permisos en su negocio, y
-eso no es un defecto del sistema.
+precio, ni tamaño. Una herramienta muy capaz puede tener **permiso cero** para una tarea de su
+negocio, y eso no es un defecto de la herramienta.
 
-**Tercera, sobre el primer escalón.** El nivel 0 no describe el permiso de ninguna herramienta:
+**Tercera, y no debe confundirse con lo anterior.** Ese permiso cero
+**no es el nivel 0 de esta escala**. El nivel 0 no describe el permiso de ninguna herramienta:
 describe la situación de partida, un negocio que depende de una persona. Está ahí porque es donde
 estaba usted al empezar este libro, no porque haya nada autorizado que medir.
 
 ## El nivel se asigna por tarea
 
-Aquí está el error que conviene no cometer: decir «mi negocio está en el nivel 3».
+El error que conviene no cometer: decir «mi negocio está en el nivel 3».
 
 Nuria, esa misma tarde, podía permitir dos cosas distintas con la misma herramienta. Redactar el
 borrador de una respuesta: se lo permite. Fijar una fecha de entrega: no. No es incoherencia. Son
 dos tareas, y **el permiso se concede por tarea**.
 
-Lo mismo dentro de una empresa con personas: que una tarea de un área esté autorizada no dice
-nada sobre otra. **El nivel no es un rasgo del negocio ni un rasgo de la herramienta.** Es una
+Lo mismo con equipo: que una tarea de un área esté autorizada no dice nada sobre otra. **El nivel no es un rasgo del negocio ni un rasgo de la herramienta.** Es una
 decisión sobre un trabajo concreto, y por eso se escribe en filas.
 
 ## Subir, mantener y bajar
 
-Los permisos se conceden hacia arriba, en orden, y **se pueden retirar**. Bajar de nivel no es un
-fracaso del proyecto: es la prueba de que el permiso era suyo y no de la herramienta.
+Cuando se amplían los permisos de una tarea, se avanza **gradualmente y sin saltos** por los
+niveles que a esa tarea le resulten aplicables. Y en cualquier momento se pueden **mantener,
+reducir o retirar**. Bajar no es un fracaso del proyecto: es la prueba de que el permiso era suyo
+y no de la herramienta.
 
-Lo que sí conviene es decidirlo antes, y hay un motivo para no dejarlo al momento. Un estudio
+Conviene decidirlo antes, y hay un motivo. Un estudio
 experimental sobre una tarea concreta —no sobre negocios, y sin muestra declarada, así que no
 puede convertirse en una afirmación sobre nadie— observó que a las personas les cuesta juzgar su
 propio metaconocimiento, es decir, saber qué saben bien y qué no, y que delegar bien en un
@@ -154,9 +158,9 @@ tomado la persona o el sistema por separado**. Y añade lo otro, que es lo que s
 cuando esas variaciones se tienen en cuenta al organizar el trabajo, sí puede aparecer
 complementariedad y un resultado mejor.
 
-**Léalo dos veces.** La mejora no viene de juntarlos: **viene de gobernar cómo se juntan.** Que es
-exactamente lo que usted lleva once
-capítulos haciendo.
+**Léalo dos veces.** **Juntarlos no garantiza una mejora, y precisamente por eso importa gobernar
+cómo trabajan juntos.** Gobernarlo tampoco la garantiza: lo que hace es dejar de confiarla al
+azar. Que es exactamente lo que usted lleva once capítulos haciendo.
 
 De ahí sale también qué se le pide a la supervisión. El reglamento europeo de inteligencia
 artificial —**una norma de la Unión Europea, y solo para sistemas de alto riesgo**, de modo que
@@ -167,14 +171,16 @@ encajan con el uso previsto. Este libro toma esas condiciones como **buen diseñ
 legal.
 
 Con una consecuencia incómoda: **supervisar no es aprobar.** Quien pulsa «aceptar» sin poder
-decir que no, sin con qué juzgar y sin manera de parar, no está supervisando. Está firmando.
+decir que no, sin información suficiente para juzgar y sin manera de parar, no está supervisando.
+Está firmando.
 
 ## El cuadro de lo que puede y lo que no puede hacer
 
-El entregable de este capítulo lleva a propósito la misma palabra ambigua que llevamos veinte
-párrafos deshaciendo, y la deshace por dentro: **tiene una columna para lo que es capaz de hacer
-y otra distinta para lo que tiene permitido**. Si las dos se rellenan igual, no se ha decidido
-nada.
+El entregable de este capítulo lleva a propósito la misma palabra ambigua que el capítulo entero
+deshace, y la deshace por dentro: **tiene una columna para lo que es capaz de hacer
+y otra distinta para lo que tiene permitido**. **Las dos pueden coincidir, pero nunca por
+defecto:** si coinciden, debe ser porque usted decidió conceder ese permiso, no porque la
+herramienta sea capaz de hacerlo.
 
 **Una fila por tarea. Nunca por empresa entera. Empiece por una.**
 
@@ -183,7 +189,7 @@ nada.
 | 1 | **La tarea** | Concreta y reconocible, tal como se hace hoy |
 | 2 | **Qué información necesita** | Sale del capítulo 11 y de la lista de lo que no se entrega libremente |
 | 3 | **Qué podría hacer técnicamente** | La capacidad, sin exagerarla ni minimizarla |
-| 4 | **Qué le permito hoy** | El permiso. Esta columna y la anterior **no se rellenan igual** |
+| 4 | **Qué le permito hoy** | El permiso. **Puede coincidir con la anterior, pero solo si usted lo decidió así** |
 | 5 | **Qué no le permito** | Escrito, y con la razón al lado: qué queda fuera y por qué |
 | 6 | **Quién responde** | Una persona, un puesto o un órgano que existan de verdad |
 | 7 | **Qué tendría que ver para ampliar o reducir** | La condición. Sin plazo, sin porcentaje y sin nota |
@@ -194,11 +200,11 @@ Así quedó la primera fila de Nuria, escrita el mismo día:
 |---|---|
 | **La tarea** | Preparar el borrador de respuesta a una petición de información de un comprador |
 | **Qué información necesita** | La petición y los datos de la fuente de referencia. Sin las condiciones pactadas con ese comprador |
-| **Qué podría hacer técnicamente** | Redactarla entera, con fechas y condiciones incluidas |
+| **Qué podría hacer técnicamente** | Redactar un borrador completo, incluso incorporando fechas o condiciones al texto |
 | **Qué le permito hoy** | Redactar el texto y ordenar lo que el comprador pregunta |
 | **Qué no le permito** | Fijar fechas de entrega ni condiciones, porque de eso responde el negocio. Enviar nada. Aparecer como remitente |
 | **Quién responde** | Quien atiende a compradores. De las condiciones, ella |
-| **Qué tendría que ver para ampliar o reducir** | Borradores en los que no haya tenido que quitar ninguna condición que nadie autorizó |
+| **Qué tendría que ver para ampliar o reducir** | Borradores sin condiciones no autorizadas que haya tenido que retirar |
 
 Tres precisiones sobre cómo se rellena.
 

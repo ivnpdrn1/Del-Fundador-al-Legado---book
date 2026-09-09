@@ -4,7 +4,7 @@ parte: 2
 titulo: "Lo que puede delegarse y lo que debe protegerse"
 etapa_metodo: "G"
 estado: borrador
-palabras: 2310
+palabras: 2487
 casos_usados: ["C-07"]
 recursos_producidos: ["matriz-autoridad-aprobaciones.md"]
 afirmaciones_por_verificar: []

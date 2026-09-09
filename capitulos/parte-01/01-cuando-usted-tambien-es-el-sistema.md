@@ -4,7 +4,7 @@ parte: 1
 titulo: "Cuando usted también es el sistema"
 etapa_metodo: "L"
 estado: borrador
-palabras: 2322
+palabras: 2753
 casos_usados: ["C-01"]
 recursos_producidos: ["indice-dependencia-fundador.md"]
 afirmaciones_por_verificar: []

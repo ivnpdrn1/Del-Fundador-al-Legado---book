@@ -4,7 +4,7 @@
 **Repositorio:** Del-Fundador-al-Legado---book
 **Remoto:** https://github.com/ivnpdrn1/Del-Fundador-al-Legado---book.git
 **Rama activa:** `main`
-**Actualizado:** 2026-09-07
+**Actualizado:** 2026-09-09
 
 ---
 
@@ -48,6 +48,7 @@
 **Etapa 3.10B.1 — Cierre editorial y control de fuentes del capítulo 11: COMPLETADA el 2026-09-09.**
 **Etapa 3.11A — Investigación Q-17 y preflight del capítulo 12: COMPLETADA el 2026-09-09.**
 **Etapa 3.11B — Capítulo 12 y su cuadro: COMPLETADA el 2026-09-09.**
+**Etapa 3.11B.1 — Cierre conceptual del capítulo 12 y reconciliación de este documento: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -66,8 +67,13 @@ capítulo y no es una de las dieciocho herramientas**: no hay archivo en `recurs
 catálogo sigue en **9 de 18**. Es el segundo entregable del libro que se resuelve así, después
 de la vista del proceso real del capítulo 7 (D-070).
 
-El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de la revisión del
-capítulo 12. **El capítulo 13 no se ha escrito y las herramientas 10 y 11 no se han creado.**
+**El control 3.11B.1 corrigió once residuos conceptuales del capítulo 12** —entre ellos una
+causalidad que la fuente no sostiene: el capítulo prometía que gobernar la colaboración
+produce mejora, y ahora dice que **ni juntarlos ni gobernarlos la garantizan**— y **reconcilió
+el apartado 6 de este documento**, congelado desde la Etapa 3.7.
+
+El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
+**El capítulo 13 no se ha escrito y las herramientas 10 y 11 no se han creado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -250,9 +256,18 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 
 ## 6. Manuscrito
 
+**Reconciliado el 2026-09-09 (Etapa 3.11B.1) recalculando desde los archivos, no desde este
+documento.** Este apartado llevaba congelado desde la Etapa 3.7: decía ocho capítulos, 20.499
+palabras, seis recursos y cinco casos, mientras el apartado 1 del mismo documento hablaba de
+trece piezas y nueve herramientas. **La contradicción era interna y se corrige entera.** Fuentes
+de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulos.md`,
+`revision/control-de-casos.md`, `recursos/README.md`, `editorial/decisiones-editoriales.md`,
+`editorial/05-control-de-fuentes.md` e `investigacion/fuentes-verificadas.md`.
+
 | Concepto | Valor |
 |---|---|
-| Capítulos terminados | **8 de 25** (en borrador). **Parte I completa; Parte II, 3 de 5.** |
+| Piezas escritas | **13 de 27** (introducción + capítulos 1 a 12), todas en borrador |
+| Capítulos terminados | **12 de 25**. **Parte I completa** (1 a 5); **Parte II completa** (6 a 10); **Parte III, 2 de 6** (11 y 12) |
 | Introducción | **Escrita**, 2.838 palabras |
 | Capítulo 1 | **Escrito**, 2.753 palabras |
 | Capítulo 2 | **Escrito y revisado**, 2.162 palabras (objetivo 2.000) |
@@ -262,14 +277,26 @@ internacionales sin cumplimiento. Detalle en `editorial/decisiones-editoriales.m
 | Capítulo 6 | **Escrito y revisado**, 2.141 palabras (objetivo 2.100) |
 | Capítulo 7 | **Escrito y revisado**, 2.411 palabras (objetivo 2.300) |
 | Capítulo 8 | **Escrito**, 2.067 palabras (objetivo 2.000) |
+| Capítulo 9 | **Escrito y revisado**, 2.550 palabras (objetivo 2.400) |
+| Capítulo 10 | **Escrito y revisado**, 2.487 palabras (objetivo 2.200) |
+| Capítulo 11 | **Escrito y revisado**, 2.177 palabras (objetivo 2.300) |
+| Capítulo 12 | **Escrito y revisado**, 2.284 palabras (objetivo 2.200) |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **20.499** |
+| Palabras del manuscrito | **29.997** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | 38,5 % |
-| Recursos terminados | **6 de 18** (9.831 palabras, no computan en el manuscrito). Quedan doce. |
-| Documentación del proyecto | 42 archivos |
-| Casos ficticios publicados | **5** (C-01 a C-05). Reparto: 3 ruta A / 2 ruta B; 3 mujeres / 2 hombres; 5 sectores distintos. |
-| Decisiones registradas | 70, de las cuales 2 reemplazadas y conservadas |
+| Avance sobre el objetivo | **56,3 %** |
+| Recursos terminados | **9 de 18** (**15.391 palabras** según el libro mayor; no computan en el manuscrito). **Quedan nueve.** |
+| Entregables que no son herramienta del catálogo | **2**: la vista del proceso real del capítulo 7 (D-070) y el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12. Ambos viven dentro de su capítulo y **no tienen archivo en `recursos/`** |
+| Documentación del proyecto | **42 archivos**. **Regla de conteo, fijada aquí para que deje de ser una cifra sin origen:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **64** en total, menos **13** piezas del manuscrito y **9** herramientas |
+| Casos ficticios publicados | **9** (C-01 a C-09). Reparto: **5 ruta A / 4 ruta B**; **5 mujeres / 4 hombres**; **8 sectores distintos** —servicios técnicos es el único con dos casos— |
+| Decisiones registradas | **74** (D-001 a D-074), de las cuales **2 reemplazadas y conservadas**: D-023 por D-043, y D-024 en parte por D-047 y D-034 |
+
+**Aviso sobre los dos recuentos, para que no vuelva a divergir.** Las cifras de esta tabla son
+las del libro mayor `revision/control-de-capitulos.md`. Un recuento en vivo separando por
+espacios da cifras algo mayores —30.414 en el manuscrito, 17.161 en los recursos— porque cuenta
+como palabra los separadores de las tablas. **La diferencia procede del método de conteo, no del
+texto**, como quedó registrado el 2026-09-08. **Se publica una sola cifra, la del libro mayor**,
+y aquí queda dicha la otra para que nadie la descubra como una discrepancia.
 
 Ninguna palabra de la documentación del proyecto forma parte del manuscrito. Se registra
 por separado para que no haya confusión sobre el avance real.
@@ -279,11 +306,12 @@ por separado para que no haya confusión sobre el avance real.
 | Concepto | Valor |
 |---|---|
 | Fuentes verificadas | **44**. **Q-17 añadió solo dos (Etapa 3.11A), y a propósito:** F-043, revisión sistemática sobre sesgo de automatización, y F-044, sobre delegación; ambas con el resumen verbatim depositado por su editor. **Tres de las cuatro preguntas de Q-17 ya estaban cubiertas** por F-007, F-009 y F-010, que se releyeron; **F-007 se amplió con su apéndice C**, que no estaba registrado y que aporta el hallazgo más importante de la etapa. Antes: **42**. **Q-05 y Q-18 añadieron F-038 a F-042 (Etapa 3.10A), las cinco leídas directamente en el documento oficial:** los Estándares Iberoamericanos de 2026, la circular de la SIC colombiana sobre IA, dos documentos del EDPB y una entrada del blog de la FTC. **Tercera tanda consecutiva con lectura directa mayoritaria.** Antes: **37**. **Q-08 añadió F-034 a F-037 (Etapa 3.9A), y es la primera tanda con la mayoría leída entera:** el Green Book de la GAO, el manual del IRS y la guía del PCAOB se leyeron directamente en sus documentos oficiales; COSO quedó **solo en identidad**, porque su marco se vende. Antes: **33**. De las nueve de Q-09: una leída íntegra (F-024), cinco en la página del editor y tres solo a nivel de resumen. **De las siete de Q-06/Q-13/Q-16 (F-027 a F-033): ninguna íntegra**, pero la Etapa 3.8A.1 subió tres de nivel: **F-031 leída en parte sobre el original**, **F-029 y F-033 con resumen verbatim depositado por el editor**, **F-028 con resumen íntegro verbatim** —dejó de ser inutilizable— y **F-032 con la autoría corregida a tres autores**. Solo F-027 y F-032 dependen ya de un registro agregado. |
-| Fuentes consultadas y descartadas | **4**, con motivo registrado |
-| Afirmaciones con fuente en el manuscrito | **22**. **Tres nuevas en el capítulo 11** (F-038, F-040 y F-042), **las tres con el ámbito de la fuente dentro de la propia frase**: «un marco regional de referencia… que no es una ley», «en la Unión Europea», «una entrada de su blog, no una norma». **Registradas en `editorial/05-control-de-fuentes.md` el 2026-09-09 (Etapa 3.10B.1)**, junto con las dos fuentes disponibles y no citadas. **El recuento de ese archivo estaba parado en «siete afirmaciones» desde la Etapa 2 y se corrigió: son 28 filas en siete de las doce piezas escritas.** Antes: **19**. Seis en el capítulo 9 (F-028, F-029, F-033) y **cuatro en el capítulo 10** (F-034 y F-035), **las cuatro con el ámbito de la fuente dicho dentro de la propia frase**, incluida una que declara expresamente lo que las fuentes **no** dicen. |
+| Fuentes consultadas y descartadas | **14**, cada una con su motivo registrado en el apartado 2 de `fuentes-verificadas.md`. **Corregido el 2026-09-09 (Etapa 3.11B.1):** decía **4**, cifra de una etapa antigua. Los descartes no son un residuo del proceso: incluyen el dato más vendedor del libro (D-016), la bibliografía de consultoría sobre separación de funciones y las búsquedas sobre modelos concretos, excluidas por caducidad |
+| Afirmaciones con fuente en el manuscrito | **33**, en ocho de las trece piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11 y 12. **Cinco nuevas en el capítulo 12 (Etapa 3.11B)**: tres de F-007 —incluido su apéndice C—, una de F-010 con doble acotación de ámbito y una de F-044 con sus límites dentro de la frase. **Las cinco piezas sin referencia externa son los capítulos 3, 4, 6, 7 y 8**, por decisión razonada. Antes: **22**. **Tres en el capítulo 11** (F-038, F-040 y F-042), **las tres con el ámbito de la fuente dentro de la propia frase**: «un marco regional de referencia… que no es una ley», «en la Unión Europea», «una entrada de su blog, no una norma». **Registradas en `editorial/05-control-de-fuentes.md` el 2026-09-09 (Etapa 3.10B.1)**, junto con las dos fuentes disponibles y no citadas. **El recuento de ese archivo estaba parado en «siete afirmaciones» desde la Etapa 2 y se corrigió: son 28 filas en siete de las doce piezas escritas.** Antes: **19**. Seis en el capítulo 9 (F-028, F-029, F-033) y **cuatro en el capítulo 10** (F-034 y F-035), **las cuatro con el ámbito de la fuente dicho dentro de la propia frase**, incluida una que declara expresamente lo que las fuentes **no** dicen. |
 | Cifras publicadas sin fuente | **0** |
-| Preguntas de investigación resueltas | **4 de 21 completas** (Q-01 a Q-04). **Q-06** resuelta para los capítulos 2 y 9. **Q-13** resuelta en su parte conceptual. **Q-09** y **Q-16** resueltas parcialmente. **Q-19** diferida al capítulo 16. |
+| Preguntas de investigación resueltas | **10 de 21**, contadas contra `plan-de-investigacion.md` el 2026-09-09: **Q-01 a Q-06, Q-08, Q-16, Q-17 y Q-18** —varias con límites declarados, y **Q-02 resuelta en sentido negativo**—. **2 parciales:** Q-09, que sigue abierta para el capítulo 22 y por el vacío hispanohablante (V-56B), y Q-13, resuelta solo en su parte conceptual. **1 diferida:** Q-19, al capítulo 16. **8 sin iniciar:** Q-07, Q-10, Q-11, Q-12, Q-14, Q-15, Q-20 y Q-21. **Corregido el 2026-09-09 (Etapa 3.11B.1):** decía «4 de 21» y omitía Q-05, Q-08, Q-17 y Q-18, resueltas entre el 8 y el 9 de septiembre; **Q-16 figuraba como parcial y está resuelta con límites desde la Etapa 3.8A.1**. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
+| Verificaciones abiertas | **9** en `revision/verificaciones-pendientes.md`: V-56B, V-57, V-59, V-60, V-61, V-62, V-63, **V-64 y V-65**. Las dos últimas se **aplicaron** en el capítulo 12 y **siguen abiertas**: aplicar una regla no es cerrar la verificación que la obligó. |
 | Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
 | Fuentes verificadas sobre el público nuevo | **0.** Vacío declarado al lector en la introducción. |
