@@ -123,6 +123,18 @@ escribir el capítulo 11 no hay destino aprobado, **la invitación no se escribe
 deja sin gastar**. Registrado como **V-62**. Esto **no modifica D-053**, que ya estaba redactada en
 términos de lo permitido.
 
+
+**M3 ejecutada el 2026-09-09 (Etapa 3.10B).** Está al final del capítulo 11, en una sección
+titulada «Una nota sobre dónde vive todo esto», y ocupa **271 palabras** de las 450 permitidas.
+**Redactada íntegramente en futuro de proyecto** —«está concebido para poder acompañarse de»—,
+porque los documentos de producto declaran arquitectura conceptual: **no se afirma que la
+plataforma exista, ni cómo funciona, ni que garantice nada**. Incluye la frase de opcionalidad
+sin ambigüedad —«**este libro está completo sin ella**»— y la delimitación frente a la IA: en
+esta parte del recorrido la plataforma es «un sitio ordenado para el método, no un sustituto de
+nadie». **Sin nombre comercial** (D-061). **Y sin ninguna llamada a la acción: la categoría E no
+se gastó**, porque V-62 sigue abierta y no existe destino real. El presupuesto queda intacto para
+cuando lo haya.
+
 ## 5. Qué cuenta como mención: cinco categorías
 
 **Corregido el 2026-09-07 (Etapa 2.5.1).** La versión anterior de este apartado y de D-053

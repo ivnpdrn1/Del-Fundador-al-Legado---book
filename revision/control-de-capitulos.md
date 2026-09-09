@@ -2,16 +2,20 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-08: 11 de 27 piezas escritas. 25.536 palabras.**
+**Estado del manuscrito a 2026-09-09: 12 de 27 piezas escritas. 27.701 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II COMPLETA:** capítulos 6 a 10.
+**PARTE III INICIADA:** capítulo 11, el primero de los seis.
 **ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
-**ETAPA G: la primera mitad, G-1 —gobernanza de decisiones—, completa con el capítulo 10.**
-**G no está completa:** G-2, la gobernanza de la información, se cierra en el capítulo 11.
+**ETAPA G COMPLETA:** G-1, gobernanza de decisiones, en el capítulo 10; **G-2, gobernanza de
+información, en el capítulo 11**. Con eso queda cerrada **G — Gobernar decisiones, permisos y
+controles**, y **empieza A**, que ocupa los capítulos 12 a 16.
+**Lo que «G completa» significa y lo que no:** existe una base gobernada suficiente para empezar
+a asistir. **No** significa que todo el negocio esté documentado para siempre.
 **Piezas = 25 capítulos numerados + introducción + conclusión** (`03-indice-maestro.md` §0).
-**Recursos: 8 de 18 redactados (13.756 palabras en total; no computan en el manuscrito).**
+**Recursos: 9 de 18 redactados (15.391 palabras en total; no computan en el manuscrito).**
 
 **Nota sobre el recuento (2026-09-08).** Un recuento completo hecho con el contador de esta
-etapa da **25.552** palabras, dieciséis más que la suma acumulada. La diferencia se concentra
+etapa da **27.730** palabras, veintinueve más que la suma acumulada. La diferencia se concentra
 en los capítulos 5 y 6 y **procede del método de conteo, no del texto**: ninguno de los dos se
 ha tocado. Se conserva la cifra acumulada para no reescribir el historial, y se anota la
 discrepancia en lugar de disimularla.
@@ -42,7 +46,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 8 | Cómo documentar las excepciones | II | E | **borrador, con preflight (3.8A) y revisado (3.8B.1)** | **2.067** | 2.000 | Registro de excepciones (6) | — (una microescena sin nombre) | 0 |
 | 9 | El Manual de criterio | II | E | **borrador, revisado (3.8B.1)** | **2.550** | 2.400 | Plantilla del Manual de criterio (herramienta 7 de 18) | **C-06** | 0 |
 | 10 | Lo que puede delegarse y lo que debe protegerse | II | **G (G-1)** | **borrador, revisado (3.9B.1)** | **2.487** | 2.200 | Matriz de autoridad y aprobaciones (herramienta 8 de 18) | **C-07** | 0 |
-| 11 | Ordenar antes de automatizar | III | A (G previa) | no iniciado | 0 | 2.300 | — | — | — |
+| 11 | Ordenar antes de automatizar | III | **A, con G como requisito** | **borrador** | **2.165** | 2.300 | Lista de información que no debe entregarse libremente a una inteligencia artificial (herramienta 9 de 18) | **C-08** | 0 |
 | 12 | La inteligencia artificial como aprendiz | III | A | no iniciado | 0 | 2.200 | — | — | — |
 | 13 | El periodo de sombra y las primeras alertas | III | A | no iniciado | 0 | 2.100 | — | — | — |
 | 14 | De las alertas a las recomendaciones | III | A | no iniciado | 0 | 2.000 | — | — | — |
@@ -68,13 +72,19 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 | Introducción | 1 | 2.700 | **2.838** | completa |
 | I | 5 | 10.400 | **11.042** | **completa** |
 | II | 5 | 11.000 | **11.656** | **completa** |
-| III | 6 | 12.900 | 0 | — |
+| III | 6 | 12.900 | **2.165** | **1 de 6** |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **25.536** | **47,9 % del objetivo** |
+| **Total** | **27** | **53.300** | **27.701** | **52,0 % del objetivo** |
 
-**Desviaciones, revisadas el 2026-09-08.** Las once piezas escritas suman 25.536 palabras
-frente a un objetivo acumulado de 22.000 para esas mismas piezas: **un 16,1 % por encima**.
+**Desviaciones, revisadas el 2026-09-08.** Las doce piezas escritas suman 27.701 palabras
+frente a un objetivo acumulado de 24.300 para esas mismas piezas: **un 14,0 % por encima**, y la
+desviación **vuelve a bajar**. **El capítulo 11 salió por debajo de su objetivo**, a un 5,9 %, y
+no se rellenó para alcanzarlo: llevaba todo lo exigido, incluidas las tres referencias con su
+ámbito y la presentación de la plataforma dentro del total. **Eso responde en parte al aviso de
+la etapa anterior**: el objetivo de partida no se estaba quedando corto; lo que crecía era el
+coste de sustituir absolutos por formulaciones precisas, y aquí ese coste se pagó dentro del
+presupuesto.
 **El capítulo 10 quedó, tras el control de la Etapa 3.9B.1, un 13 % sobre su objetivo**, dentro
 del tope de D-030 pero con poco margen: **creció 177 palabras al sustituir formulaciones
 absolutas por otras precisas**, que es el mismo efecto que tuvo el control del capítulo 9. Se
@@ -103,8 +113,8 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 | Contexto previo | 3, 4, 5 | 5.700 | **6.127** | **completa** |
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
 | E | 2, 7, 8, 9 | 8.700 | **9.190** | **completa** |
-| G | 10 | 2.200 | **2.487** | **G-1 completa; G-2 en el cap. 11** |
-| A | 11–16 | 12.900 | 0 | — |
+| G | 10 | 2.200 | **2.487** | **G-1 completa** |
+| A | 11–16 | 12.900 | **2.165** | **1 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2** |
 | D | 17, 18, 21, 23, 24 | 10.900 | 0 | — |
 | O | 19, 20, 22, 25, concl. | 9.400 | 0 | — |
 
@@ -164,6 +174,24 @@ F-035), y **declara lo que no se sabe**: que un control alternativo equivalga a 
 funciones. Cierra con la objeción emocional —un límite no es desconfianza, pero un límite
 demasiado bajo devuelve todo a la misma persona— y abre el capítulo 11 por la información.
 
+**Capítulo 11 (Etapa 3.10B). Abre la Parte III y cierra la etapa G.** Empieza con una
+respuesta dada con seguridad que sale mal **sin que nadie se equivocara**, porque la fuente
+consultada estaba desactualizada. De ahí saca la pregunta de todo el capítulo: **¿cuál es la
+información que manda hoy?** Sustituye «fuente única» por **fuente de referencia** —no se trata
+de que haya una sola copia, sino de poder señalar cuál vale— y separa **tres lentes que no se
+suman**: fuente, vigencia y sensibilidad. Desactiva el malentendido de la parte: **digitalizar no
+es automatizar ni es inteligencia artificial**, y una tecnología puede trabajar perfectamente
+sobre información desordenada, que es justo lo que se quiere evitar. El caso **C-08** muestra las
+tres versiones de un mismo documento propio y un informe que estaba a punto de entregarse entero.
+De ahí la idea central: **«es mío» no contesta a la pregunta de si puedo entregarlo**. Separa
+**datos de personas, información confidencial y credenciales**, y dice expresamente que **se
+solapan**. Propone **reducir antes de decidir**, con la advertencia de que **quitar un nombre no
+es anonimizar**. Cierra con las preguntas que conviene hacerle a la herramienta, **tres
+referencias externas con su ámbito dentro de la frase** (F-038, F-040 y F-042), la señal de paso
+y el puente hacia el capítulo 12. Incluye **M3**, la primera presentación de la plataforma, en
+**271 palabras**, en futuro de proyecto, **sin ninguna llamada a la acción** porque V-62 sigue
+abierta.
+
 ## 5. Procedimiento de actualización
 
 Después de cada bloque:
@@ -185,6 +213,7 @@ promesa. Un capítulo que no pueda rellenar esta fila vuelve a revisión.
 |---|---|---|
 | Introducción | Nada todavía; establece el contrato: qué se va a sacar, con qué método, con qué límites y cómo se comprobará. Enuncia las cuatro preguntas de la prueba. | Sí |
 | Capítulo 1 | Convierte la sensación de dependencia en una medida fechada y en un perfil por dimensiones; produce además una lista escrita de las diez dependencias de mayor impacto y un registro de interrupciones. | Sí |
+| Capítulo 11 | Hace verificable algo que los diez capítulos anteriores daban por supuesto: **que la información con la que se decide es la buena**. Produce, de al menos una decisión prioritaria, la fuente que manda, su vigencia, su clasificación, quién puede usarla y qué haría antes de entregarla fuera. **Lo que expresamente no hace verificable:** que el negocio entero esté ordenado, ni que una entrega concreta sea legalmente admisible. | Sí |
 | Capítulo 10 | No saca nada nuevo de la cabeza de nadie, y esa es su función: **protege lo que los cuatro capítulos anteriores sacaron.** Convierte un criterio escrito en una frontera utilizable —quién, hasta dónde, qué obliga a parar, quién revisa, qué queda anotado— y hace verificable una cosa concreta: **si el límite se aplicó a un caso real y qué pasó**. Lo que expresamente no hace verificable: que la decisión esté delegada. | Sí |
 | Capítulo 9 | **Es el capítulo que más saca.** Convierte el porqué de una decisión —lo único que hasta aquí seguía existiendo solo dentro de una persona— en una hoja consultable con señales, condiciones y límites, más un criterio provisional escrito y sus huecos señalados. Y lo hace verificable de dos maneras honestas: con otra persona, comprobando qué falta en la representación; y en solitario, siguiendo el documento y marcando dónde no bastó. **Lo que expresamente no hace verificable: que el criterio esté transferido.** | Sí |
 
@@ -197,5 +226,6 @@ cuando el mecanismo se manifieste de forma distinta en cada escala.
 |---|---|---|---|
 | Introducción | Sí, ejemplo de la empresa que se detiene por una autorización. | Sí, ejemplo de la consultora independiente. | Sí |
 | Capítulo 1 | Caso C-01, Elena, distribución regional. | Caso C-02, Andrés, servicios profesionales. | Sí |
+| Capítulo 11 | Pasaje sobre las dos personas que contestan distinto mirando cada una algo real, y el **ejemplo de la herramienta 9**, de ruta A y en importación y distribución. | **Caso principal C-08**, Óscar, servicios técnicos, con tres versiones de su propia propuesta y un informe de cliente a punto de entregarse entero. | Sí. El caso principal es de ruta B y la ruta A queda cubierta dentro del capítulo y en la herramienta, sin ningún ejemplo largo añadido. |
 | Capítulo 10 | **Caso principal C-07**, Pilar, empresa familiar de alimentos, con una persona que atiende pedidos y un límite que reparte decisiones. | Apartado propio sobre trabajar solo, más el ejemplo del profesional con encargos repetidos, y todo el tratamiento de «cuando una sola persona lo hace todo». | Sí. El caso principal es de ruta A y la ruta B recibe **dos pasajes integrados**, no una sección de consolación: la matriz del modo B se declara *matriz completa, no versión reducida*. |
 | Capítulo 9 | Pasaje sobre quién pregunta cuando hay alguien más, y **el ejemplo de la herramienta 7**, de ruta A y en logística. | **Caso principal C-06**, Rafael, comercio minorista, y el apartado sobre la autoentrevista. | Sí. El caso principal es de ruta B y la ruta A queda cubierta dentro del capítulo y en la herramienta, sin ningún ejemplo largo añadido. |

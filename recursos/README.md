@@ -4,8 +4,8 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
-**Estado actual: 8 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
-la 8, con sus capítulos, en la Etapa 3. **Quedan diez**, y cada una se produce junto con su
+**Estado actual: 9 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
+la 9, con sus capítulos, en la Etapa 3. **Quedan nueve**, y cada una se produce junto con su
 capítulo.
 
 **El capítulo 7 trabaja con tres vistas y produce dos herramientas** (D-070). La vista del
@@ -126,7 +126,7 @@ remite a un profesional y no fija ninguna cifra.
 | 6 | Registro de excepciones **(redactada)** | `registro-de-excepciones.md` | 8 | E | Registrar los casos en que el negocio se aparta de su forma normal, **en dos fases: primero el hecho, después el juicio**. Admite «motivo no conocido» y clasifica en mantener, temporal, revisar o dejar de hacerse. No escribe el criterio completo, que es la 7, ni reparte autoridad, que es la 8. |
 | 7 | Plantilla del Manual de criterio **(redactada)** | `manual-criterio-fundador.md` | 9 | E | Reconstruir el criterio de una decisión desde **casos concretos**, con cinco columnas —qué pasó, qué le hizo darse cuenta, típico o raro, en qué condiciones, qué habría cambiado la decisión— y una **síntesis provisional** debajo. **No pide «explique su criterio»**, no convierte un caso en regla y no reparte autoridad, que es la 8. El nombre del archivo se conserva (D-071 no lo toca): lo que se renombró en su día fue el capítulo, no el recurso. |
 | 8 | Matriz de autoridad y aprobaciones **(redactada)** | `matriz-autoridad-aprobaciones.md` | 10 | G | **Hasta dónde puede llegar una decisión sin nueva consulta**, qué obliga a pausar, quién revisa después y qué constancia queda. El importe es una forma de límite entre varias. **Estado corregido el 2026-09-08:** figuraba como «requiere decisión», y la decisión existe desde el 2026-09-07 —**D-037, aprobada**—, refinada por **D-072**. Ver `03-indice-maestro.md` §5.3 y el apartado siguiente. |
-| 9 | Lista de información que no debe entregarse libremente a una IA | `informacion-restringida-ia.md` | 11 | G/A | Clasificar la información antes de conectar cualquier herramienta. |
+| 9 | Lista de información que no debe entregarse libremente a una inteligencia artificial **(redactada)** | `informacion-restringida-ia.md` | 11 | **G-2, como requisito de A** | Una **pausa estructurada antes de entregar información a una herramienta externa**: seis bloques —qué entrego, de quién procede, tres lentes que se solapan, puedo reducirlo, sé qué hará el proveedor, decisión— y **cuatro salidas**: usar tal cual, reducir antes, solo en un entorno aceptado, o no entregar hasta resolver lo que falta. **No es una evaluación jurídica, no certifica y ninguna salida significa «legalmente autorizado».** Funciona en papel y en las dos rutas. |
 | 10 | Lista de verificación del modo sombra | `verificacion-modo-sombra.md` | 13 | A | Comprobar que el sistema observa y aprende sin decidir ni ejecutar. |
 | 11 | Modelo de alertas críticas | `modelo-alertas-criticas.md` | 13 | A | Definir qué merece interrumpir a una persona y qué no. |
 | 12 | Matriz de niveles de autonomía | `matriz-niveles-autonomia.md` | 15 | A | Asignar a cada tipo de tarea el nivel de autonomía máximo permitido. |

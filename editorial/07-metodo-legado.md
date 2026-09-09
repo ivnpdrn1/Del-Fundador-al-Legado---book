@@ -363,7 +363,15 @@ pide—. Un dato puede ser el bueno y estar desactualizado; puede estar actualiz
 **Criterio de cierre de G-2.** La información que sostiene las decisiones prioritarias tiene:
 **fuente de referencia identificada, vigencia o condición de revisión, sensibilidad declarada,
 regla de acceso y uso, y —hasta donde el negocio pueda saberlo— tratamiento por terceros
-definido.** **No se exige tener el negocio entero ordenado, ni software, ni ningún porcentaje.**
+definido.** **No se exige tener el negocio entero ordenado, ni software, ni ningún porcentaje**, y
+**basta con una decisión prioritaria** para poder avanzar.
+
+**G-2 cerrada en el capítulo 11 (Etapa 3.10B), y con ella G.** Escrito el capítulo 11, las dos
+mitades de la etapa están completas: **G-1 en el capítulo 10** y **G-2 en el 11**. **Qué significa
+eso y qué no:** significa que **existe una base gobernada suficiente para empezar a asistir la
+operación con tecnología**. **No** significa que el negocio esté documentado entero, ni para
+siempre. A partir de aquí el trabajo es **A**, y su primera pregunta —qué clase de ayudante es y
+cuál no— ocupa el capítulo 12.
 **La clasificación de la información por sensibilidad sigue siendo requisito para entrar de
 lleno en A**, y se completa en el capítulo 11, no en el 10. **Al terminar el capítulo 10 no debe
 declararse «G completa»**: está completa la gobernanza de las decisiones.
