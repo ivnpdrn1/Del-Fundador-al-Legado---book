@@ -1846,3 +1846,298 @@ El capítulo 13 trata **confianza operativa y permisos**, no jubilación. **No n
 expansión** y **no puede contradecirla**. La razón para construir evidencia es la misma para los
 dos lectores de D-075: **no reducir la participación humana antes de saber qué ocurre cuando el
 sistema observa el trabajo real.** Y sigue prohibido prometer que la IA llevará el negocio.
+
+
+---
+
+## Preflight del capítulo 14 (Etapa 3.13A, 2026-09-09)
+
+**No se ha escrito el capítulo 14 y no se ha creado ningún archivo en `recursos/`.**
+
+### 1. Suficiencia de la evidencia
+
+**Cero investigación nueva, y la comprobación se hizo antes de decidirlo.** Q-17 ya cubre el
+capítulo 14, y las tres fuentes que hacían falta estaban registradas.
+
+| Fuente | Qué sostiene para el capítulo 14 | Qué NO sostiene |
+|---|---|---|
+| **F-010**, Reglamento (UE) 2024/1689, art. 14 | Que la supervisión humana exige poder **no usar la salida, ignorarla, anularla y revertirla**, y que quien supervisa debe ser **consciente del sesgo de automatización**. **Es la fuente de la que el concepto entra en el libro** (D-019) | **Nada fuera de su ámbito: Unión Europea y solo sistemas de alto riesgo.** No es ley mundial ni obligación del lector. **D-020: coincidencia no es cumplimiento**, y el libro no puede decir que seguirlo signifique cumplir nada |
+| **F-043**, Romeo y Conti, revisión sistemática PRISMA | La **definición**: «the tendency to **over-rely on automated recommendations**». Los factores que interactúan —alfabetización en IA, experiencia, perfil cognitivo, evolución de la confianza, **cuánta verificación exige la tarea**, complejidad de la explicación—. Y el hallazgo que decide el capítulo: explicaciones **demasiado técnicas, exigentes o incluso demasiado simples pueden reforzar una confianza mal colocada**, y «although explanations may increase perceived system acceptability, **they are often insufficient to improve decision accuracy or mitigate AB**» | **Ningún dato, ninguna magnitud, ningún estudio individual**: solo se leyó el resumen íntegro del editor. Su ámbito son **dominios de alto riesgo**, no negocios pequeños. Y la verificación aparece como **propuesta de los autores**, no como resultado medido |
+| **F-007**, NIST AI RMF | Que los resultados de la interacción persona-sistema **varían** y pueden ser **peores que los de cualquiera de los dos por separado**; que **presentar información y explicaciones a personas es complejo**, porque cada una deriva significado de manera distinta; y que la supervisión debe **definirse y documentarse** | **Complementariedad no es promesa.** Prohibido «humano + IA es mejor» |
+
+**F-044 se evalúa y se descarta para este capítulo.** Aporta que juzgar el propio metaconocimiento
+es difícil, lo cual sostiene *cuándo* delegar —capítulos 12 y 15—, no *cómo se presenta una
+propuesta*, que es lo que trata el 14. **No se introduce solo porque exista.** **F-009** tampoco:
+lo que aporta sobre intervención humana ya está dicho, con más precisión, por F-010.
+
+**Conclusión: las fuentes actuales bastan. Cero investigación nueva y cero fuentes nuevas.**
+
+### 2. Qué es una recomendación, en este método
+
+> Una **recomendación** es **una propuesta de qué hacer, dirigida a una persona que conserva la
+> autoridad** para aceptarla, modificarla, rechazarla, pedir más información o no actuar
+> todavía.
+
+**No es una decisión, ni una orden, ni una aprobación, ni una ejecución.**
+
+### 3. Las tres fronteras
+
+| Frontera | De un lado | Del otro |
+|---|---|---|
+| **Alerta / recomendación** | «**Algo necesita su atención**». Capítulo 13 | «**Propongo que haga esto**». Capítulo 14 |
+| **Recomendación / decisión** | La produce el sistema y **no obliga a nada** | La toma una persona, **y la autoridad no se mueve** |
+| **Capítulo 14 / capítulo 15** | **Propone.** Termina en una decisión humana, **sin ninguna ejecución automática** | Puede empezar a **ejecutar dentro de reglas escritas** |
+
+**La tercera es absoluta.** En el capítulo 14, «**aprobé la recomendación**» **no significa** «la
+herramienta la ejecutó». Significa que una persona decidió, y lo que pase después lo hace quien
+lo hacía antes. **Prohibido en el capítulo 14:** ejecutar, aprobar por sí solo, enviar
+comunicaciones, contratar, comprar, cancelar, modificar registros, cambiar permisos o reglas,
+cerrar una alerta o retirar una condición.
+
+**Y una cuarta que no es de nivel sino de expectativa: no todo aviso necesita recomendación.**
+Una alerta puede terminar en revisión, en registro, en pedir más información o simplemente en
+cerrarse. **El nivel 4 es un permiso adicional, no el destino obligatorio del nivel 3**, y el
+paso requiere concederlo **para esa tarea** —sigue sin existir «su negocio ya está en nivel 4»—.
+
+### 4. El sesgo de automatización, y por qué explicar no basta
+
+Es el concepto que D-019 reserva a este capítulo, y **entra por F-010**, que exige que quien
+supervisa sea consciente de él. **Definición**, sostenida por F-043: **la tendencia a confiar en
+exceso en una recomendación automatizada.**
+
+**Lo que el capítulo NO puede decir**, y es lo contrario de lo que casi cualquiera esperaría:
+que explicar la recomendación haga desaparecer el problema. F-043 registra que las explicaciones
+**pueden aumentar la aceptación sin mejorar la exactitud de la decisión**, y que una explicación
+demasiado técnica, demasiado exigente **o incluso demasiado simple** puede **reforzar una
+confianza mal colocada**.
+
+**La consecuencia para el método no es «explicar más». Es otra, y más robusta:**
+
+> **Una recomendación no se acepta porque suene bien, porque venga explicada, porque traiga
+> muchos datos ni porque la haya producido una herramienta. Se acepta cuando usted ha podido
+> comprobar algo.**
+
+La explicación ayuda. La evidencia ayuda. **Ninguna de las dos sustituye la evaluación de una
+persona.**
+
+**Verificación activa, con su etiqueta puesta.** F-043 recoge que sus autores **proponen**
+—no que hayan demostrado— que un mayor esfuerzo de verificación reduce la complacencia ante
+recomendaciones incorrectas. El libro lo traduce sin tecnicismo y **como diseño propio**: la
+persona **no solo recibe una propuesta; recibe algo que puede ir a comprobar**. Por eso el
+formato exige decir **dónde mirar**, no solo qué se concluyó.
+
+### 5. Qué significa «explicar» aquí
+
+**No significa mostrar el razonamiento interno de un modelo.** El capítulo **no pide** cadena de
+razonamiento, pasos ocultos, «cómo pensó la IA» ni explicación técnica de nada —y **F-007
+advierte además que presentar explicaciones a personas es complejo**, porque cada una deriva un
+significado distinto—.
+
+Significa algo operativo y comprobable: **qué propone · en qué hechos o documentos se apoya ·
+qué criterio aplicó · qué no sabe · qué cambiaría la propuesta.** Es **rastreabilidad**, no
+narración del interior de la herramienta.
+
+**Y explicación no es evidencia.** Una frase convincente no es una prueba: la evidencia es un
+documento, un dato, un registro, una condición, una excepción, una regla o un resultado
+observado, **con su fuente de referencia** (capítulo 11). Separar **evidencia** de **criterio**
+—el criterio documentado del capítulo 9— es lo que impide confundir **fluidez** con **solidez**,
+que es el mecanismo exacto que F-043 describe.
+
+**Sobre el criterio, una cautela.** Que una recomendación diga qué regla aplica **no significa
+que el Manual de criterio se haya convertido en un motor de reglas** ni que ese criterio esté
+automatizado sin pérdida. Puede apoyarse en criterio documentado **sin prometer que lo aplica
+perfectamente**.
+
+### 6. La incertidumbre
+
+**Sin porcentajes, sin scores, sin «confianza del 87 %».** Un número sin contexto es
+exactamente lo que este capítulo tiene que evitar: da apariencia de rigor y no se puede
+comprobar.
+
+La incertidumbre se declara **en términos del negocio y específica de esa recomendación**:
+
+> «falta este dato» · «esta fuente lleva sin actualizarse desde tal cosa» · «hay dos reglas que
+> podrían aplicarse» · «hay una excepción sin resolver»
+
+**Y no puede ser un descargo genérico.** «Puede equivocarse» o «consulte a un profesional» al
+pie de todas las recomendaciones **no es declarar incertidumbre: es no declararla**. Si la misma
+frase vale para cualquier propuesta, no dice nada de esta.
+
+**«No hay recomendación todavía» es una salida legítima.** Cuando la información no alcanza, la
+propuesta prudente es no proponer, y el formato debe admitirlo **sin que parezca un fallo**.
+
+### 7. La decisión humana, y por qué no puede ser automática
+
+El capítulo 13 estableció que **la decisión de una persona no es verdad automática**. El 14
+necesita la cara contraria: **la recomendación del sistema no puede convertirse en la opción por
+defecto.**
+
+**Principio, no interfaz** —el libro no diseña pantallas—: **aceptar no puede costar menos
+trabajo que rechazar.** Si aceptar es una firma y rechazar exige explicarse, el formato ha
+decidido por la persona. Por eso las cinco respuestas van juntas y al mismo nivel:
+
+**aceptar · modificar · rechazar · posponer · pedir más información**
+
+**Y aprobar no es ejecutar.** En este capítulo la aprobación termina en una persona que hace, o
+manda hacer, lo que ya hacía. Qué puede ocurrir *después* de una aprobación es el capítulo 15.
+
+**Registro mínimo, no auditoría.** Basta con que quede **qué se recomendó, quién decidió, qué
+decidió, cuándo y qué modificó si modificó algo**. Lo suficiente para que una recomendación **no
+desaparezca al aceptarse o rechazarse**; la auditoría completa es del capítulo 16.
+
+### 8. Situación del Formato de recomendación explicada
+
+**Comprobado antes de diseñarlo, y no hay contradicción que requiera una decisión nueva.**
+
+- El **índice maestro** asigna al capítulo 14 el entregable *Formato de recomendación
+  explicada*.
+- El **catálogo de recursos** tiene **dieciocho** herramientas y **ninguna del capítulo 14**: la
+  herramienta 12 es la *Matriz de niveles de autonomía*, del capítulo 15.
+- **Ninguna decisión editorial vigente** dice que el formato deba ser una de las dieciocho. Se
+  revisó el registro completo.
+
+**Por tanto es un entregable interno del capítulo**, y hay **dos precedentes exactos**: la vista
+del proceso real del capítulo 7 —**D-070**, que además dice literalmente «no se crea una
+herramienta 19»— y el *Cuadro de lo que puede y lo que no puede hacer* del capítulo 12, resuelto
+igual en la Etapa 3.11B **sin decisión nueva**.
+
+**Consecuencia: el catálogo sigue en 18, la herramienta 12 no se desplaza, y al terminar la
+Etapa 3.13B los recursos seguirán en 11 de 18.** **No se propone ninguna decisión editorial**,
+porque no hay nada que decidir que no esté ya decidido; si el autor prefiere elevarlo a decisión
+formal para que los tres casos queden bajo una sola regla, **es una preferencia razonable y no
+un requisito**.
+
+### 9. Arquitectura del Formato de recomendación explicada
+
+**No se redacta en esta etapa.** Vive **dentro del capítulo 14** y tiene que caber sin convertir
+el capítulo en una plantilla.
+
+**Seis componentes, y se llega a seis desde los siete de partida.** Se fusionan «qué propone» y
+«para qué», que **una sola frase bien escrita contesta a la vez** y que separadas invitan a
+rellenar dos casillas con lo mismo. **No se fusionan** «qué no sabe» y «qué cambiaría la
+propuesta», porque hacen trabajos distintos: la primera es honestidad, la segunda es **la que
+le dice a usted dónde mirar**.
+
+| | Componente | Qué impide |
+|---|---|---|
+| **1** | **Qué propone, y para qué** | Una propuesta sin finalidad. Y admite **«no hay recomendación todavía»** |
+| **2** | **En qué evidencia se apoya, y dónde está** | Que una frase convincente pase por prueba. **Con la fuente de referencia**, para poder ir a mirarla |
+| **3** | **Qué criterio o regla aplica** | Una conclusión sin origen. Separado de la evidencia **a propósito** |
+| **4** | **Qué no sabe** | El descargo genérico. Tiene que ser de **esta** recomendación |
+| **5** | **Qué haría cambiar la propuesta** | Que declarar una laguna se quede en gesto. Es el componente que **convierte la duda en algo comprobable** |
+| **6** | **La decisión** | Que aceptar sea el camino de menor esfuerzo. Cinco respuestas al mismo nivel, más **quién, cuándo y qué modificó** |
+
+**Los componentes 2 y 3 son el «por qué» partido en dos**, y esa partición es deliberada: junta,
+una explicación fluida se confunde con una explicación sólida.
+
+**Ruta A y ruta B: el mismo formato, sin dos versiones.** Con equipo, quien recibe la propuesta y
+quien decide pueden ser personas distintas. Trabajando solo son la misma, **y eso no se disfraza
+de nada**: no existe la «autoaprobación» como función, es simplemente su decisión. Lo que el
+formato conserva en las dos rutas es **la separación entre la propuesta y la decisión**, aunque
+las dos pasen por la misma mesa. **No se finge separación de funciones** (V-61).
+
+### 10. El caso C-11
+
+**No se escribe en esta etapa.** Queda elegido, porque el capítulo 14 **no produce herramienta** y
+hay un solo sector que asignar.
+
+| | |
+|---|---|
+| **Ruta** | **A.** El 13 fue ruta B y el reparto está en 5 y 5 |
+| **Género** | **Mujer**, por la alternancia caso a caso, intacta en diez casos |
+| **Sector** | **Mantenimiento.** Cero apariciones de caso, y su único capítulo previsto —el 7— ya está escrito, así que **no le cuesta nada a nadie**. Sin repetición consecutiva: el 13 fue logística |
+| **Riesgo** | **Bajo**, con las medidas de siempre |
+
+**Por qué no importación y distribución, que es el sector previsto.** Porque el ejemplo de la
+**herramienta 9** es **una mujer, de ruta A, en importación y distribución**, y C-11 iba a ser
+mujer y de ruta A: **la misma triple coincidencia que hizo mover el capítulo 12 en la Etapa
+3.11B**, ahora a tres capítulos de distancia en vez de uno. La regla se aplica igual. **El sector
+conserva sus capítulos 14 y 17**; solo pierde el turno.
+
+**Y la coincidencia que sí queda anotada**, porque es real aunque lejana: el ejemplo de la
+**herramienta 4** —capítulo 7, siete capítulos atrás— transcurre en un taller de reparación de
+maquinaria. Se diferencia en **género, escala y decisión**: aquel es un hombre en un taller
+pequeño decidiendo *cuándo se acepta un trabajo urgente*, y **ese asunto está vedado a C-11**,
+porque el ejemplo de la herramienta 8 lo usa otra vez. El caso del capítulo 14 **no puede tratar
+de aceptar trabajos urgentes.**
+
+**El mecanismo que el caso debe mostrar, en siete pasos:** una situación o alerta previa · una
+recomendación · su evidencia · su criterio · **algo que la recomendación no sabe** · la revisión
+de una persona · y una salida que **no sea aceptar ni rechazar, sino modificar**, que es la
+respuesta que el formato existe para hacer posible y la que ningún capítulo ha mostrado todavía.
+
+**El sesgo de automatización, encarnado sin caricatura.** **Prohibido** el retrato de la persona
+crédula que obedece a la máquina. El mecanismo elegido es el más incómodo y el más creíble: **la
+recomendación está bien escrita, viene con datos y coincide con lo que ella ya sospechaba.** Se
+acepta fácil porque **se está de acuerdo**, y estar de acuerdo es exactamente cuando nadie
+comprueba. **No se afirma que esto le pase a nadie en general**: le pasa a ella, en esa tarea.
+
+**Y no puede salir ni acertando todo ni fallando de forma ridícula.** La recomendación tiene que
+ser **defendible con la información que tenía** y aun así insuficiente, por algo que no podía
+saber.
+
+**Profesiones reguladas: no se usa ninguna** (D-033). Mantenimiento no lo es, y el mecanismo se
+enseña sin necesidad de entrar ahí.
+
+### 11. Arquitectura narrativa
+
+**Once movimientos.** Doce era una opción y se descarta: «aceptar, modificar, rechazar o pedir
+más información» **no es un movimiento aparte**, es el contenido del componente 6 del formato y
+del desenlace del caso.
+
+1. **La pregunta heredada del capítulo 13**, en la primera línea.
+2. **Alerta y recomendación**, la diferencia en dos frases. **Sin reexplicar las alertas ni el
+   modo sombra**, que se reciben hechos.
+3. **La escena**: la recomendación que llega, bien escrita, y la tentación de aceptarla.
+4. **Qué es una recomendación en este método**, y las tres cosas que no es.
+5. **No todo aviso necesita recomendación**, y el nivel 4 como permiso por tarea.
+6. **El sesgo de automatización**, con F-010 y F-043 y sus ámbitos dentro de la frase.
+7. **Por qué explicar no basta**, que es el giro del capítulo.
+8. **Evidencia y criterio**, el «por qué» partido en dos.
+9. **La incertidumbre**, específica y sin números.
+10. **El Formato de recomendación explicada**, con sus seis componentes y la decisión que no
+    puede ser automática.
+11. **Señal de paso y puente al 15.**
+
+**El orden se aparta del de partida en un punto y por un motivo:** el sesgo de automatización va
+**antes** de «por qué explicar no basta», no después, porque el segundo solo se entiende como
+consecuencia del primero. Y la escena sube al tercer movimiento para que el lector tenga delante
+una recomendación concreta antes de que el capítulo empiece a desconfiar de ella.
+
+### 12. Señal de paso, falsable
+
+Para **una** tarea, y **ninguna de las seis condiciones habla de acertar**:
+
+- existe **permiso** para que esa tarea produzca recomendaciones;
+- la **propuesta está separada de la decisión**, y se ve cuál es cuál;
+- la recomendación **muestra su evidencia**, con dónde comprobarla;
+- **dice qué criterio aplica**;
+- **declara lo que no sabe**, en términos de esa propuesta;
+- y **hay una decisión humana registrada**, que puede ser rechazarla o modificarla.
+
+**No exige que la recomendación fuera buena, ni que el lector confíe, ni pasar al nivel 5.**
+«La rechacé» cumple la señal.
+
+### 13. Puente al capítulo 15
+
+> *Si ya puede proponerme qué hacer y yo sigo decidiendo, ¿hay algo que pueda hacer por sí mismo
+> sin volver a preguntarme cada vez?*
+
+**El capítulo 14 no la contesta.**
+
+### 14. Extensión y controles
+
+**Objetivo 2.000 palabras**, con el margen de D-030. **El formato vive dentro y cuenta dentro.**
+
+**Aviso de presupuesto, para decisión del autor.** La Parte III lleva **6.739 palabras en tres
+capítulos** frente a un objetivo acumulado de 6.400, y los tres han salido por encima. Con los
+objetivos vigentes de los capítulos 14, 15 y 16, la parte terminaría en torno a **13.000
+palabras, el 24,5 % del manuscrito**, por debajo del techo del 26 %. **Si el patrón de desviación
+se mantiene** —entre un 5 y un 9 % por capítulo—, rondaría el **25,5 %**: sigue dentro, pero sin
+el margen de antes. **No se propone cambiar ningún objetivo**; se anota para que la decisión
+exista antes y no después.
+
+**Lo que el capítulo 14 tiene prohibido prometer**, y son siete: que las explicaciones reduzcan
+el sesgo · que la supervisión humana garantice seguridad · que persona más sistema sea mejor ·
+que la herramienta explique por qué piensa · que una recomendación explicada sea fiable · que
+más evidencia produzca mejores decisiones · que la persona vaya a detectar el error.

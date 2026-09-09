@@ -13,6 +13,8 @@ observar y avisar son dos trabajos distintos y cada uno necesita su hoja.
 proceso real se traza dentro del capítulo y **no es una de las dieciocho**: no hay archivo
 para ella y no se crea una herramienta 19.
 
+**El capítulo 14 se resolverá igual (2026-09-09, Etapa 3.13A).** Su entregable —el **Formato de recomendación explicada**— **vive dentro del capítulo**, con sus seis componentes. **No es una de las dieciocho, no tiene archivo en esta carpeta y no se crea una herramienta 19.** Se comprobó el registro completo de decisiones antes de fijarlo: **ninguna decisión vigente dice que deba ser una herramienta del catálogo**, y el catálogo nunca reservó ninguna para el capítulo 14 —la **herramienta 12** es la *Matriz de niveles de autonomía*, del capítulo 15, y **no se desplaza**—. Es el tercer caso, después del capítulo 7 (D-070) y del 12.
+
 **El capítulo 12 se resuelve igual, y conviene que conste aquí (2026-09-09, Etapa 3.11B).**
 Su entregable —el **Cuadro de lo que puede y lo que no puede hacer**— **vive dentro del
 capítulo**, con sus siete columnas y una fila de ejemplo rellena. **No es una de las dieciocho,

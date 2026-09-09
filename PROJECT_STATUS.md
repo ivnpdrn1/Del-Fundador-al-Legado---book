@@ -57,6 +57,7 @@
 **Etapa 3.12B — Capítulo 13 y herramientas 10 y 11: COMPLETADA el 2026-09-09.**
 **Etapa 3.12B.1 — Control conceptual del capítulo 13 y de sus dos herramientas: COMPLETADA el 2026-09-09.**
 **Etapa 3.12B.2 — Reconciliación del ciclo de vida de las alertas: COMPLETADA el 2026-09-09.**
+**Etapa 3.13A — Preflight del capítulo 14: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -99,6 +100,14 @@ el apartado 6 de este documento**, congelado desde la Etapa 3.7.
 **El control 3.12B.1 corrigió ocho residuos**, y dos eran del mismo tipo: **el libro afirmando más de lo que había comprobado**. Decía que «modo sombra» no es un término técnico «reconocido por nadie», cuando lo único que el proyecto puede sostener es **que este libro no lo presenta como estándar**; y decía que quien prometa una duración concreta «se la está sacando de algún sitio que no es la evidencia», cuando **un sector con obligación propia o una política interna pueden dar una duración legítima para esa situación**. También se corrigió el deslinde del aprendizaje: el modo sombra **no presupone** entrenamiento, que es una regla del método, en lugar de afirmar que ningún sistema aprende, que es una afirmación técnica que el libro no puede hacer.
 
 **La reconciliación 3.12B.2 cerró el ciclo de vida de las alertas**, que era el único punto de la herramienta 11 que seguía sin distinguir dos cosas: **una condición no es un aviso**. La condición puede vivir meses y producir cero avisos o veinte; **cerrar un aviso no la retira**, y retirarla es siempre **una decisión de una persona, registrada** —nunca porque haya dejado de dispararse—. El campo 7 pasa a llamarse **«Cierre del aviso y revisión de la condición»** y lleva las dos respuestas dentro, **sin convertirse en un octavo campo**.
+
+**El preflight del capítulo 14 se cerró sin investigación y sin fuentes nuevas.** Q-17 ya cubría el capítulo, y las tres fuentes que hacían falta —F-010, F-043 y F-007— estaban registradas; **F-044 y F-009 se evaluaron y se descartaron** por no añadir nada indispensable.
+
+**El giro del capítulo es contraintuitivo y conviene tenerlo delante antes de escribirlo:** **explicar no basta**. F-043 registra que una explicación puede **aumentar la aceptación sin mejorar la decisión**, y que una demasiado técnica —o demasiado simple— puede **reforzar una confianza mal colocada**. De ahí que la condición del método no sea explicar más, sino que **la persona pueda comprobar algo**: el formato separa **evidencia** de **criterio**, obliga a declarar **qué no se sabe** y deja **aceptar y rechazar al mismo nivel de esfuerzo**.
+
+**Cuatro constantes nuevas** y **V-68**, que es la más incómoda del proyecto: **ninguna evidencia sostiene que el propio formato del libro reduzca el sesgo de automatización**. Es una respuesta razonada, no validada, y así tendrá que presentarse.
+
+**El Formato de recomendación explicada será un entregable interno del capítulo**, como el cuadro del 12 y la vista del proceso real del 7 (D-070). Se comprobó el registro de decisiones antes de fijarlo: **ninguna vigente lo contradice**, el catálogo sigue en **18** y los recursos seguirán en **11 de 18** al terminar la Etapa 3.13B.
 
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
 **El capítulo 14 no se ha escrito.**
@@ -340,7 +349,7 @@ por separado para que no haya confusión sobre el avance real.
 | Cifras publicadas sin fuente | **0** |
 | Preguntas de investigación resueltas | **10 de 21**, contadas contra `plan-de-investigacion.md` el 2026-09-09: **Q-01 a Q-06, Q-08, Q-16, Q-17 y Q-18** —**Q-17 amplió su alcance a los capítulos 12, 13, 14 y 15 el 2026-09-09 (Etapa 3.12A) sin reabrir su estado resuelto**: el 13 faltaba por descuido, no por criterio— —varias con límites declarados, y **Q-02 resuelta en sentido negativo**—. **2 parciales:** Q-09, que sigue abierta para el capítulo 22 y por el vacío hispanohablante (V-56B), y Q-13, resuelta solo en su parte conceptual. **1 diferida:** Q-19, al capítulo 16. **8 sin iniciar:** Q-07, Q-10, Q-11, Q-12, Q-14, Q-15, Q-20 y Q-21. **Corregido el 2026-09-09 (Etapa 3.11B.1):** decía «4 de 21» y omitía Q-05, Q-08, Q-17 y Q-18, resueltas entre el 8 y el 9 de septiembre; **Q-16 figuraba como parcial y está resuelta con límites desde la Etapa 3.8A.1**. |
 | Afirmaciones marcadas `[POR VERIFICAR]` | **0** |
-| Verificaciones abiertas | **11** en `revision/verificaciones-pendientes.md`: V-56B, V-57, V-59, V-60, V-61, V-62, V-63, V-64, V-65, **V-66** —la auditoría del destino, que comprobará en la Etapa 4 que ni el retiro ni la expansión se leen como finalidad del método— y **V-67**, que registra que **ninguna de las fuentes revisadas establece cuándo la evidencia de un periodo de observación basta para ampliar un permiso**. Las dos últimas se **aplicaron** en el capítulo 12 y **siguen abiertas**: aplicar una regla no es cerrar la verificación que la obligó. |
+| Verificaciones abiertas | **12** en `revision/verificaciones-pendientes.md`: V-56B, V-57, V-59, V-60, V-61, V-62, V-63, V-64, V-65, **V-68** —que ninguna evidencia sostiene que el formato del capítulo 14 reduzca el sesgo de automatización—, **V-66** —la auditoría del destino, que comprobará en la Etapa 4 que ni el retiro ni la expansión se leen como finalidad del método— y **V-67**, que registra que **ninguna de las fuentes revisadas establece cuándo la evidencia de un periodo de observación basta para ampliar un permiso**. Las dos últimas se **aplicaron** en el capítulo 12 y **siguen abiertas**: aplicar una regla no es cerrar la verificación que la obligó. |
 | Asuntos abiertos del proyecto | **5** (A-01, A-02, A-07, A-08 y el seguimiento de A-04). Cerrados en la Etapa 2.3: A-09 en parte, A-10, A-11 y A-12. |
 | Preguntas de investigación definidas | **21** (Q-01 a Q-21) |
 | Fuentes verificadas sobre el público nuevo | **0.** Vacío declarado al lector en la introducción. |
