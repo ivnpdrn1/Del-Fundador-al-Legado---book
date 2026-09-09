@@ -13,7 +13,11 @@ registra en `editorial/06-control-de-continuidad.md`.
 ## 1. La escala de siete niveles
 
 La escala describe **qué se permite hacer a la tecnología**, no qué sabe hacer. Es una
-escala de permisos, no de capacidad. Esa distinción debe explicarse al lector en el
+escala de permisos, no de capacidad. **Y es diseño de este proyecto**: no es un estándar
+internacional, ninguna institución reconoce estos siete niveles y **está prohibido presentarla
+como tal** (D-020). Comprobada contra la evidencia de Q-17 el 2026-09-09 y **conservada sin
+cambios de arquitectura**: no necesita coincidir con ninguna taxonomía externa, solo ser
+coherente, útil y prudente. Esa distinción debe explicarse al lector en el
 capítulo 12, porque es la que le devuelve el control: el nivel lo decide la empresa.
 
 ### Nivel 0 — Operación dependiente y manual
@@ -38,12 +42,24 @@ más cara.
 
 ### Nivel 2 — Inteligencia artificial en modo sombra
 
-El sistema observa, clasifica, resume, compara y registra. Aprende de las decisiones
-humanas. No recomienda decisiones sensibles y no ejecuta ninguna acción.
+El sistema observa, clasifica, resume, compara y **registra sus resultados junto a las
+decisiones humanas**. No recomienda decisiones sensibles y no ejecuta ninguna acción.
 
-*Propósito real del nivel:* no es entrenar a la máquina, es **ganarse la confianza del
-fundador con evidencia**. Al final del periodo debe poder mostrarse una comparación entre
-lo que el sistema señaló y lo que las personas decidieron.
+**Corregido el 2026-09-09 (Etapa 3.11A), tras Q-17.** Este nivel decía «**aprende de las
+decisiones humanas**», y esa frase se lee como aprendizaje técnico automático: **ninguna fuente
+de Q-17 respalda que un sistema mejore por el hecho de ser usado**, y la metáfora del aprendiz
+no lo implica. Lo que el nivel hace es **registrar y comparar**, para que **una persona** pueda
+evaluar si merece más permisos.
+
+*Propósito real del nivel:* **construir evidencia para calibrar la confianza.** Al final del
+periodo debe poder mostrarse una comparación entre lo que el sistema señaló y lo que las
+personas decidieron.
+
+**Segunda corrección del 2026-09-09.** Decía que el propósito era «**ganarse la confianza del
+fundador con evidencia**», y eso **predetermina el resultado**, que es justo lo que la regla
+derivada de la Etapa 3.2.1 prohíbe: ninguna señal de avance puede exigir un resultado
+determinado. **La evidencia puede llevar a ampliar los permisos, a mantenerlos, a reducirlos o a
+retirar el sistema**, y las cuatro salidas son legítimas.
 
 *Señal:* existe un registro comparado y alguien lo ha revisado.
 
@@ -86,7 +102,10 @@ propone en ningún capítulo, en ningún ejemplo y en ningún material derivado.
 
 ## 2. Reglas de la escala
 
-1. Los niveles se recorren en orden. No se salta del 1 al 4.
+1. Los niveles se recorren en orden. No se salta del 1 al 4. **Y el orden completo incluye el
+   escalón informativo**: mira, **avisa**, recomienda, ejecuta poco. La fórmula abreviada del
+   índice —«primero mira, luego sugiere, después hace lo pequeño»— **se salta el nivel 3**, que
+   tiene capítulo propio; sirve como resumen y **no como descripción de la escala**.
 2. El nivel se asigna **por tipo de tarea**, no a la empresa entera. Una misma
    organización puede estar en nivel 5 para conciliar documentos y en nivel 2 para todo
    lo que toque a personas.

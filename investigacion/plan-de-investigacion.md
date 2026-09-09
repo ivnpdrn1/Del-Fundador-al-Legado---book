@@ -83,7 +83,7 @@ frecuencia (regla V-41).
 | Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
 | Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
 | Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **RESUELTA con límites el 2026-09-07 (Etapa 3.8A.1)**: F-027, F-028, F-030, F-031, F-032 y F-033. **Corrige el estado de la Etapa 3.8A**, que la dejó parcialmente resuelta por no haber podido leer F-028: el resumen íntegro de F-028 sí se obtuvo después, y con él las tres categorías de técnicas que faltaban. **Límite que permanece:** ningún texto completo, de modo que el libro puede nombrar las tres categorías pero no sus subtipos ni la comparación empírica entre técnicas. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Su plazo real era **antes del capítulo 9**, y se cumplió. |
-| Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | Sin iniciar. Parcialmente cubierta por F-007 y F-010. |
+| Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | 12, 14, 15 | **Alta** | **RESUELTA con límites el 2026-09-09 (Etapa 3.11A)**: releídas F-007, F-009 y F-010, **ampliada F-007 con su apéndice C**, y dos fuentes nuevas —F-043 y F-044— solo para lo que ninguna norma contesta: cómo se comportan las personas. **El hallazgo que decide el capítulo 12 es negativo:** la combinación de persona y sistema **puede dar peor resultado que cualquiera de los dos por separado**, según el apéndice C de F-007. Resultado completo al final de este documento. |
 | Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | **RESUELTAS CONJUNTAMENTE con límites el 2026-09-09 (Etapa 3.10A)**: F-038 a F-042, las cinco leídas directamente en el documento oficial. **El hallazgo que decide el capítulo 11 es negativo y era previsible: no existe una regla única aplicable a todos los lectores.** Lo que sí existe es un conjunto de **preguntas de control que siguen sirviendo aunque cambie la jurisdicción**. Resultado completo al final de este documento. **Se ejecutó fusionada con Q-05, como el propio plan preveía**, y aporta lo que Q-05 sola no da: la distinción entre **dato personal**, **información confidencial de terceros** y **credenciales**, que son tres problemas distintos. |
 | Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **Permanece abierta para el capítulo 16**, o para el momento en que la propiedad del conocimiento codificado sea materialmente necesaria. Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
 | Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | Sin iniciar. **Muy dependiente de jurisdicción**; probablemente se resuelva remitiendo a la norma local y no citando ninguna. |
@@ -1234,3 +1234,266 @@ disponible, comprobado por búsqueda en todo el repositorio. **No se inventa nin
 registrado como **V-62**, y la regla para la Etapa 3.10B es simple: **si al escribir el capítulo 11
 no hay destino aprobado, no se escribe la invitación.** La categoría E es un presupuesto, no una
 obligación.
+
+---
+
+## Q-17 — Resultado (Etapa 3.11A, 2026-09-09)
+
+Se investigó para tres capítulos —12, 14 y 15— y con una consigna de austeridad: **tres de las
+cuatro preguntas ya estaban cubiertas** por fuentes verificadas. Solo se buscó fuera para la que
+no lo estaba.
+
+### 1. Qué aportaba cada fuente ya verificada, releída
+
+| Fuente | Qué contesta de Q-17 | Ámbito |
+|---|---|---|
+| **F-007** NIST AI RMF 1.0 | Supervisión documentada (MAP 3.5); mecanismos y responsables para **anular, desconectar o desactivar** (MANAGE 2.4); roles diferenciados en configuraciones persona-sistema (GOVERN 3.2). **Y el apéndice C, no registrado hasta ahora.** | **Voluntario**, internacional |
+| **F-009** OCDE | Mecanismos y salvaguardas, incluida la **capacidad de intervención y supervisión humanas**; responsabilidad y trazabilidad. | **No vinculante** |
+| **F-010** Reglamento (UE) 2024/1689, art. 14 | Supervisión por personas físicas; **conciencia del sesgo de automatización**; poder no usar, ignorar, anular o revertir la salida; e **interrumpir con un botón de parada** o procedimiento equivalente. | **UE, y solo alto riesgo** |
+
+**Hallazgo negativo que conviene registrar:** **NIST no menciona el sesgo de automatización en
+ningún punto**. Ese concepto llega al libro por F-010, y así debe atribuirse.
+
+### 2. El hallazgo más importante de la etapa
+
+Del **apéndice C de F-007**, que estaba sin registrar:
+
+> «**Human-AI interaction results vary.** Under certain conditions —for example, in
+> perceptual-based judgment tasks— the AI part of the human-AI interaction **can amplify human
+> biases, leading to more biased decisions than the AI or human alone**. When these variations are
+> judiciously taken into account in organizing human-AI teams, however, they **can result in
+> complementarity and improved overall performance**.»
+
+**Consecuencia editorial, y es una prohibición:** el libro **no puede prometer sinergia
+automática**. Ni «lo mejor de ambos mundos», ni «la IA libera al humano para lo importante», ni
+«persona más sistema siempre es mejor». La propia fuente dice que **puede salir peor**, y que la
+mejora depende de **cómo se organice el trabajo**. Eso es exactamente lo que el Método LEGADO
+propone hacer, y ahora puede decirlo sin exagerar: **la mejora no viene de juntarlos, viene de
+gobernar cómo se juntan.**
+
+El mismo apéndice añade dos matices útiles. **Contra el universal de supervisión:** «Some AI
+systems may not require human oversight… Other systems may specifically require human oversight».
+Y sobre el abanico real: «Human-AI configurations can span from **fully autonomous to fully
+manual**… AI systems can autonomously make decisions, defer decision making to a human expert, or
+be used by a human decision maker **as an additional opinion**.»
+
+### 3. Sobre el exceso de confianza
+
+**F-043**, revisión sistemática con PRISMA 2020 sobre **35 estudios de 2015 a 2025**, define el
+sesgo de automatización como **la tendencia a confiar en exceso en las recomendaciones
+automáticas**, y va más allá de la explicación habitual —exceso de confianza y falta de atención—
+para nombrar factores que interactúan: **alfabetización en IA, nivel de experiencia profesional,
+perfil cognitivo, cómo evoluciona la confianza con el tiempo, cuánta verificación exige la tarea y
+la complejidad de la explicación**.
+
+**Lo que no sabemos:** el texto completo no se abrió, así que **no puede atribuirse ningún dato
+concreto, ninguna magnitud y ningún estudio individual**. Y su ámbito son dominios de alto riesgo
+—sanidad, derecho, administración—, **no negocios pequeños**.
+
+### 4. Sobre las explicaciones, y es contraintuitivo
+
+Aquí F-043 contradice la intuición de la que parte casi todo el mundo:
+
+> «although Explainable AI (XAI) and transparency mechanisms are designed to mitigate AB,
+> **overly technical, cognitively demanding, or even simplistic explanations may inadvertently
+> reinforce misplaced trust**, especially among less experienced professionals with low AI
+> literacy… although explanations may increase perceived system acceptability, **they are often
+> insufficient to improve decision accuracy or mitigate AB**.»
+
+**Prohibición que se deriva:** el libro **no puede decir que explicar el razonamiento elimine el
+sesgo**, ni que la explicabilidad garantice una confianza correcta. Una explicación puede subir
+la aceptación **sin mejorar la decisión**, y una mala explicación —demasiado técnica o demasiado
+simple— puede **reforzar una confianza equivocada**.
+
+**Lo que la fuente sí propone**, y hay que citarlo como propuesta y no como resultado medido:
+**el punto de intervención más viable es la participación del usuario**, porque «increased
+verification effort has been shown to reduce complacency toward AI mis-recommendations». Los
+autores **proponen** diseñar explicaciones que promuevan «critical engagement and independent
+verification».
+
+**Esto pertenece al capítulo 14** (D-019). El capítulo 12 **solo puede nombrar el problema**.
+
+### 5. Sobre la delegación
+
+**F-044** aporta lo que ninguna norma dice, y es asimétrico:
+
+> «Modern AI can do a remarkable job of **efficient delegation to humans because it knows what it
+> knows well and what it does not**. Humans, on the other hand, are **poor judges of their
+> metaknowledge and are not good at delegating knowledge work to AI**.»
+
+**Cómo puede usarse y cómo no.** Es **un estudio experimental sobre una tarea concreta**, y su
+resumen no declara muestra ni dominio: **prohibido convertirlo en «las personas delegan mal»**.
+Lo que sí sostiene, y es suficiente para el capítulo 12: **saber qué sabe uno y qué no es
+difícil, y delegar bien depende de eso**. De ahí una consecuencia práctica del método: **si
+juzgar el propio límite es difícil, más vale escribir el permiso antes que decidirlo en caliente,
+delante de una salida que impresiona.**
+
+### 6. Sobre la supervisión efectiva
+
+Ninguna fuente define «supervisión efectiva» como concepto medible. Lo que sí hay es **una lista
+de condiciones concretas**, y viene de F-010: poder **no usar** la salida, **ignorarla**,
+**anularla**, **revertirla** e **interrumpir el sistema**. Más, de F-007, que existan
+**mecanismos y responsables asignados** para anular o desconectar, y que los roles estén
+**definidos y diferenciados**.
+
+**Consecuencia:** *human-in-the-loop* **no es una garantía y no se usará como tal**. Una persona
+que solo pulsa «aceptar» **no está supervisando**; lo que hace que una supervisión sea real es
+poder decir que no, tener con qué juzgar y poder parar. **Y el ámbito de F-010 es la UE y solo
+alto riesgo**: el libro toma de ahí **las condiciones como buen diseño**, no como obligación.
+
+### 7. Clasificación de los principios del capítulo 12
+
+**A** respaldado · **B** compatible, no confirmado · **C** diseño del Método LEGADO · **D** no
+respaldado, no se afirma
+
+| Principio | Clase | Nota |
+|---|---|---|
+| Que exista un abanico entre lo totalmente manual y lo totalmente autónomo | **A** | F-007, apéndice C |
+| Que un sistema pueda usarse **como una opinión más** | **A** | F-007, apéndice C |
+| Que la supervisión exija poder **ignorar, anular, revertir y detener** | **A**, con ámbito | F-010, UE y alto riesgo |
+| Que tenga que haber **mecanismos y responsables** para desconectar | **A** | F-007, MANAGE 2.4 |
+| Que los roles persona-sistema deban **definirse y diferenciarse** | **A** | F-007, GOVERN 3.2 |
+| Que juntar persona y sistema **pueda empeorar** el resultado | **A** | F-007, apéndice C |
+| Que **explicar no baste** para corregir el exceso de confianza | **A** | F-043. **Su capítulo es el 14** |
+| Que a las personas les cueste juzgar **su propio metaconocimiento** | **A**, acotado | F-044 |
+| **Capacidad ≠ permiso** | **C** | Es del libro. Ninguna fuente lo formula así |
+| **El nivel se asigna por tarea, no a la empresa** | **C** | Compatible con F-007, que diferencia por configuración; **no derivado de él** |
+| **Escala de siete niveles** | **C** | Diseño del proyecto. **Prohibido presentarla como estándar** |
+| **Se puede bajar de nivel** | **C**, compatible | F-010 exige poder revertir y detener; bajar de nivel es del método |
+| **Una buena respuesta no es un ascenso** | **C** | Del libro |
+| **Responsable con nombre en cada nivel** | **C**, compatible | F-007 asigna responsabilidades; el «con nombre» es del método |
+| Que la IA «aprenda» del uso ordinario | **D** | **No se afirma.** Ninguna fuente lo respalda y la metáfora del aprendiz no lo implica |
+| Que persona + sistema sea mejor | **D** | **Desmentido** por F-007, apéndice C |
+| Que *human-in-the-loop* garantice supervisión | **D** | **No se afirma** |
+
+### 8. Auditoría de la escala de siete niveles
+
+Hecha contra la evidencia de Q-17 y contra D-008, D-019, D-020, D-044 y D-045. **La escala se
+mantiene: no hay motivo para rediseñarla.** Es diseño del método y no necesita coincidir con
+ninguna taxonomía externa. Lo que sí aparecen son **dos residuos y una tensión**.
+
+| Nivel | Función | Permiso | Qué NO permite | Respaldo | Diseño propio |
+|---|---|---|---|---|---|
+| **0** | Operación dependiente y manual | — | — | — | **Todo.** Ver la tensión abajo |
+| **1** | Organización y digitalización | Ninguno de IA | Nada automático | Compatible con F-007 (MAP) | La secuencia |
+| **2** | Observación, modo sombra | Recibir, clasificar, comparar, registrar | Recomendar lo sensible; ejecutar | **A**: «as an additional opinion» y configuraciones no autónomas (F-007) | El nombre y el propósito |
+| **3** | Asistente informativo | Informar, avisar | Proponer qué hacer | Compatible | La frontera con el 4 |
+| **4** | Recomendaciones | Proponer con evidencia | Ejecutar | **A**: F-043 obliga a no fiarlo a la explicación | La condición de explicabilidad |
+| **5** | Ejecución limitada | Actuar dentro de reglas escritas | Salirse de ellas | **A**: F-010 y MANAGE 2.4 exigen poder detener | El criterio de «bajo riesgo» |
+| **6** | Mano derecha digital supervisada | Coordinar y preparar | Decidir sin supervisión | Compatible | El techo (D-008) |
+
+**Residuo 1 — «Aprende de las decisiones humanas» (nivel 2).** Esa frase puede leerse como
+aprendizaje técnico automático, y **ninguna fuente de Q-17 respalda que un sistema mejore solo
+por ser usado**. Corregido aquí: el nivel 2 **registra y compara** sus resultados con las
+decisiones humanas, para que una persona pueda evaluar si merece más permisos.
+
+**Residuo 2 — «Ganarse la confianza del fundador» (nivel 2).** Predetermina el resultado del
+periodo de observación, que es exactamente el defecto que la Etapa 3.2.1 convirtió en regla del
+proyecto: **ninguna señal de avance puede exigir un resultado determinado**. La evidencia puede
+llevar a ampliar permisos, mantenerlos, reducirlos o retirar el sistema. Corregido: el propósito
+es **construir evidencia para calibrar la confianza**.
+
+**Tensión registrada, no corregida — el nivel 0.** Describe **dependencia de una persona**, no
+**autonomía de un sistema**, de modo que la escala mezcla dos ejes en su primer escalón. **No se
+toca**: el nivel 0 funciona bien como punto de partida narrativo y cambiarlo obligaría a rehacer
+la correspondencia con los capítulos 1 a 5. Queda como **V-64**, para que el capítulo 12 lo
+explique en una frase en lugar de disimularlo.
+
+**Tercer hallazgo, en el índice.** La fórmula «primero mira, luego sugiere, después hace lo
+pequeño» **se salta el escalón informativo**: entre mirar y sugerir está **avisar**, que es el
+nivel 3 y tiene su propio capítulo. La secuencia correcta es **mira → avisa → recomienda →
+ejecuta poco**. Se corrige al escribir el capítulo; el índice conserva su formulación como
+resumen, con la advertencia registrada.
+
+### 9. Arquitectura del capítulo 12
+
+**Apertura.** Una escena donde una herramienta produce algo que impresiona de verdad —correcto,
+rápido, mejor de lo que el lector esperaba— y el propietario se hace la pregunta natural: *si
+puede hacerlo, ¿por qué no dejarla?* **Cero cliché tecnológico**: nada de revoluciones, nuevas
+eras ni «cada día más empresas».
+
+**Tesis central**, pendiente de mejor redacción al escribir:
+
+> **Que una herramienta sea capaz de hacer algo no contesta si debe permitírsele hacerlo. La
+> capacidad la trae de fábrica; el permiso lo da usted.**
+
+**Progresión:** la escena → capacidad no es permiso → qué es y qué no es, en lenguaje llano → la
+metáfora del aprendiz, con sus límites → la escala, declarada como del libro → el nivel se asigna
+por tarea → subir, mantener o bajar → el cuadro → puente al modo sombra.
+
+**Definición funcional de IA**, sin tecnicismos y sin fuente porque es del libro: **un sistema que
+recibe información y produce una salida —un texto, una clasificación, un aviso, un resumen, una
+recomendación— a partir de patrones extraídos durante su construcción.** Cero *transformers*,
+*tokens*, *embeddings*, parámetros o redes neuronales.
+
+**El aprendiz, delimitado.** Es **una metáfora sobre el orden en que se conceden permisos**, y
+nada más. **No significa** que el sistema se reentrene, que cambien sus parámetros, que aprenda
+de su negocio con el uso, que recuerde todo, que adquiera criterio, que construya personalidad ni
+que se vuelva autónomo por exposición. Y no es **empleado, sucesor, socio, conciencia, réplica ni
+persona digital**: **la autoridad no se gana produciendo buenas respuestas; la asigna el negocio.**
+
+**Qué NO hace el capítulo 12.** No desarrolla el modo sombra (13), ni las recomendaciones, la
+evidencia, las explicaciones y el sesgo de automatización (14), ni la ejecución, la aprobación y
+la detención (15). **Y no usa IA**: aquí se explica, no se prueba. Cero demostración, cero
+instrucción para el lector, cero asistente.
+
+**Señal de paso, falsable.** Con **una sola tarea** basta: poder decir qué puede hacer
+técnicamente la herramienta, qué le permite hoy, qué no, quién responde y **qué tendría que ver
+para ampliar el permiso**. **No exige que exista tecnología implantada**, y responder «hoy no le
+permito nada» es un resultado válido.
+
+**Puente al 13.** «Ya sé qué le permito. ¿Cómo consigo evidencia sin entregarle todavía la
+decisión?» Esa pregunta abre el modo sombra, y el capítulo 12 **no la contesta**.
+
+### 10. Arquitectura del entregable
+
+Nombre oficial vigente: **Cuadro de lo que puede y lo que no puede hacer**. **No se crea en esta
+etapa** y **no se renombra** sin decisión editorial, aunque su nombre contenga la ambigüedad que
+el propio capítulo existe para deshacer —«puede» significa a la vez *es capaz* y *está
+autorizado*—. **Se resuelve dentro del cuadro, con dos columnas separadas.**
+
+**Una fila por tarea. Nunca por empresa entera.**
+
+| | Columna | Qué resuelve |
+|---|---|---|
+| 1 | **La tarea** | Concreta y reconocible. Una sola para empezar |
+| 2 | **Qué información necesita** | Enlaza con el capítulo 11 y con la herramienta 9 |
+| 3 | **Qué podría hacer técnicamente** | La capacidad, sin exagerarla ni minimizarla |
+| 4 | **Qué le permito hoy** | El permiso. **Esta columna y la anterior no se rellenan igual** |
+| 5 | **Qué no le permito** | En positivo, escrito |
+| 6 | **Quién responde** | Persona, puesto u órgano real (D-073). Trabajando solo, usted |
+| 7 | **Qué tendría que ver para ampliar o reducir** | La condición, **sin número, sin plazo y sin porcentaje** |
+
+**Sin puntuación, sin porcentaje, sin marca, sin modelo y sin software.** Imprimible.
+
+**En qué se diferencia de la herramienta 12**, la matriz de niveles del capítulo 15: **el cuadro
+del 12 fija permisos iniciales por tarea** y contesta *¿qué le permito hacer hoy con esto?*; **la
+matriz del 15 gobierna la autonomía de ejecución**, con sus condiciones, su aprobación y su
+procedimiento de detención. **El cuadro no se convierte en la matriz**, y la matriz no repite el
+cuadro.
+
+**Ruta A:** la autorización puede recaer en una función o un responsable reales. **No se inventan
+comités de IA, ni responsables de IA, ni cargos técnicos** que no existan. **Ruta B:** la misma
+persona usa, autoriza y revisa; **no se finge separación**, y la protección viene de otro sitio:
+límites escritos antes de usar, gradualidad, evidencia, reversibilidad y poder detener. **No se
+afirma que eso equivalga a una separación de funciones** (V-61).
+
+**Profesiones reguladas:** el cuadro puede marcar **«sujeto a regla profesional o sectorial»** y
+remitir. **No decide qué puede delegar ninguna profesión** (D-033).
+
+**Plataforma:** M3 ya ocurrió en el capítulo 11 y **no se repite**. El mapa producto-libro prevé
+que la plataforma podría configurar permisos por tipo de tarea, pero **eso es arquitectura del
+producto y no entra en el manuscrito**.
+
+### 11. Qué podrá y qué no podrá afirmar el capítulo 12
+
+**Podrá, con fuente y ámbito:** que existe un abanico entre lo totalmente manual y lo totalmente
+autónomo, y que un sistema puede usarse **como una opinión más** (F-007); que una supervisión que
+merezca el nombre exige poder **ignorar, anular, revertir y detener** (F-010, UE y alto riesgo);
+que debe haber **mecanismos y responsables asignados** para desconectar (F-007); y que **juntar
+persona y sistema no garantiza un resultado mejor** (F-007, apéndice C).
+
+**No podrá:** prometer sinergia; decir que explicar elimina el sesgo —y además eso es del 14—;
+presentar la escala como estándar; afirmar que el sistema aprende del negocio con el uso; usar
+*human-in-the-loop* como garantía; nombrar marcas, modelos o proveedores; ni decidir qué puede
+delegar una profesión regulada.
