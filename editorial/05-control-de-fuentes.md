@@ -100,6 +100,90 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+**Capítulo 19: cero afirmaciones con fuente, y es el tercero consecutivo.** Los capítulos 17, 18
+y 19 no citan a nadie, y en los tres se llegó ahí por una prueba de necesidad escrita antes de
+buscar. Aquí las afirmaciones que el capítulo tendría que haber hecho para necesitar una fuente se
+escribieron una por una —que exista un número universal de indicadores, una frecuencia universal,
+un KPI que todo negocio deba mirar, una estructura universal de tablero o una cadencia
+empíricamente superior— y **el capítulo se niega a las cinco**. **Una negativa no necesita
+fuente.**
+
+**Qué se comprobó antes de descartar** (Etapa 3.18A). **Ninguna pregunta del plan está asignada al
+capítulo 19** —revisadas Q-01 a Q-21— y no se abrió ninguna. De las 46 fuentes, cuatro podían
+tentar y **ninguna sostiene una frase que este capítulo necesite**: **F-034 a F-037** hablan de
+**marcos de control interno**, con su componente de *monitoring*, no del instrumento privado de una
+persona propietaria; **F-007** (MEASURE) y **F-045** miden **sistemas de inteligencia artificial
+desplegados**, no tableros. **Usarlas sería citar por asociación**, y F-045 ya prestó en el
+capítulo 13 el único argumento que aquí serviría —que la cadencia de monitorización es una
+pregunta abierta—.
+
+**De dónde sale entonces cada afirmación del capítulo, que es lo que sustituye a las fuentes.** La
+definición de tablero incorpora el criterio de cierre de la etapa O —*«el fundador recibe
+información sin pedirla»*—; la apertura desarrolla dos cosas que el método ya registra —el riesgo
+de que **la supervisión se convierta en control informal que anule la delegación** y el
+diagnóstico de **qué se mira de más por costumbre**—; «ver no es decidir» es **D-072** aplicado, y
+un informe es un **control**, que no tiene autoridad; y el principio de **fuente de referencia** es
+del capítulo 11 y **se usa sin reexplicarlo**.
+
+**La auditoría de «tres cifras», que era el riesgo mayor del capítulo.** La pregunta 1 de la etapa
+O dice «¿qué tres cifras necesita ver cada semana para dormir tranquilo?». **Auditada en 3.18A y
+tratada como pregunta de concentración, no como regla**, con cuatro pruebas: está entre las
+*preguntas al fundador*, junto a «¿cuál es su papel, **dicho en una frase**?», que nadie ha
+convertido en regla; **el índice dice «pocas cifras», no «tres»**; el riesgo que la etapa registra
+es **el exceso**, no un número; y **`06-control-de-continuidad.md` lleva la lista de los números
+fijos del proyecto y «tres cifras» no está en ella**. El capítulo **usa la pregunta como pregunta**
+y dice en voz alta que no es una regla.
+
+**Control de universalidades del capítulo 19 y de las herramientas 13 y 14.** Dos pasadas sobre
+los tres archivos juntos.
+
+**Primera, literal: sesenta apariciones con límite de palabra, y las sesenta son legítimas** —47
+de la lista general y 13 del distributivo «cada», que aquí es inevitable porque el capítulo habla
+de lo que se mira **cada** día, **cada** semana y **cada** mes—. Cuatro grupos: **negaciones** —«no garantiza que alguien lo lea», «no es que llegue
+todos los días», «este libro no elige ninguna»—; **acotaciones del propio capítulo** —«la única
+regla del capítulo»—; **distributivos** —«cualquier soporte», «cualquier porcentaje»—; e
+**interiores de la microescena y de los dos ejemplos**.
+
+**Segunda, de lectura: seis correcciones, y ninguna contenía una palabra de la lista literal:**
+
+| Lo que decía | Por qué no podía quedarse | Cómo quedó |
+|---|---|---|
+| «Es lo primero que pide **casi cualquiera** que acaba de dejar de aprobar cada decisión» | Afirmación de frecuencia sobre conducta ajena, **en la primera línea del capítulo** | «Es una petición razonable, y **es la que más fácilmente aparece**» |
+| «**Suele ser** lo que usted miraba cuando estaba dentro» | Afirmación de frecuencia | «**Aquí entra** lo que usted miraba cuando estaba dentro y **puede seguir abriendo** por inercia» |
+| «La segunda columna es la que **suele sorprender**» | Afirmación de frecuencia | «La segunda columna **tiene una consecuencia práctica**» |
+| «**Se habla a veces** de mirar tres cifras cada semana» | Afirmación sobre un discurso ajeno, **y además impreciso**: la pregunta es del propio método | «**Este método pregunta**, cuando llega esta etapa, qué tres cifras necesitaría ver cada semana» |
+| «esa otra cosa **suele estar** en el límite escrito, no en quien la resolvió» (h14) | Afirmación de frecuencia sobre dónde está la causa, **y rozaba el orden de examen de D-079** | «**conviene buscarla primero en el límite escrito**, antes que en quien la resolvió» |
+| «Se llena igual, y **suele ser** más corto» (h14) | Afirmación de frecuencia | «**será más corto mientras haya menos bloques transferidos**» |
+
+**Control de antropomorfismos.** **Cero apariciones** de «el sistema decide», «el sistema
+entiende», «el sistema quiere», «el sistema sabe», «la IA decide», «la IA entiende», «el informe
+decide», «el informe elige», «el tablero decide», «el tablero elige», «el procedimiento decide» y
+«sistema responsable». El capítulo enuncia la doctrina en positivo: **un informe puede mostrar,
+resumir, comparar, señalar y dejar constancia, y no puede autorizar, aprobar, rechazar, cambiar un
+permiso, ampliar una autonomía ni decidir una intervención**. Y sobre la tecnología: **puede
+preparar la información; qué importa sale del negocio y de los límites ya escritos.**
+
+**Control de la ampliación D-075.** **Cero apariciones** de retiro, retirado, jubilación, sucesión,
+sucesor, heredero, hijo y expansión en los tres archivos. **La herramienta 13 lo dice en positivo,
+porque su propósito catalogado lo pedía:** «para quien ya no está **en esa parte** de la
+operación», y **«esta hoja no supone que se haya ido del negocio, y no le pide que lo haga»**.
+**Y se retiró una lista** —«otra unidad, otro negocio, clientes, estrategia, menos horas»— que
+convertía las posibilidades de D-075 en un menú; quedó en **«dónde esté esa persona mientras tanto
+es asunto suyo, y este método no lo decide»**.
+
+**Control de plataforma y producto.** `editorial/16-libro-metodo-y-plataforma.md` §5.2 **autoriza
+al capítulo 19 una (1) frase de categoría C** y categoría B. **El encargo de la etapa fijó cero, y
+se escribió cero: el permiso queda sin consumir.** Barrido sobre los tres archivos de «http»,
+«www», «regístr», «suscríb», «nuestra plataforma», «nuestra herramienta», «proveedor», «precio»,
+«demo» y «descargue»: **cero apariciones**. `producto/` intacto.
+
+**Control de fronteras, hecho sobre los tres archivos.** **Cero** apariciones de «umbral»,
+«escalamiento», «protocolo de intervención», «cuándo intervenir», «cuándo retomar», «cuándo
+corregir», «cuándo esperar» —capítulo **20**—; **cero** de «prueba de ausencia», «24 horas»,
+«7 días» —capítulo **24** y herramientas 15 y 16—; **cero** de «evaluación anual» —capítulo **25**
+y herramienta 18—; y **cero** de «nuevo papel» —capítulo **22**—. El límite 5 de cada herramienta
+**remite expresamente al capítulo 20**, que es la forma correcta de anunciar sin desarrollar.
+
 **Capítulo 18: cero afirmaciones con fuente, igual que el 17, y por el mismo motivo.** Es el
 segundo capítulo consecutivo sin ninguna referencia externa, y en los dos se llegó ahí por una
 prueba de necesidad, no por descuido. Todo lo que el capítulo afirma es **clase A —doctrina del
