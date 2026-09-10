@@ -4,7 +4,7 @@ Registro obligatorio de todos los casos y personajes del libro. **Un caso se reg
 aquí antes de escribirse.** Es el instrumento de cumplimiento de
 `editorial/09-reglas-de-casos-ficticios.md`.
 
-**Casos registrados a 2026-09-09: 11.**
+**Casos registrados a 2026-09-09: 12.**
 
 Desde la Etapa 2.2 cada caso declara además su **ruta**: A (empresa con estructura) o B
 (profesional independiente o negocio de una sola persona). Ver `editorial/14-publico-y-rutas.md`.
@@ -26,6 +26,7 @@ Desde la Etapa 2.2 cada caso declara además su **ruta**: A (empresa con estruct
 | C-09 | Nuria (solo nombre de pila) | Mujer | **A** | Agricultura | 12 | Le pide a una herramienta el borrador de una respuesta a un comprador y lo que recibe es mejor de lo que ella habría escrito con prisa. A la tercera lectura ve que el borrador **había fijado una fecha de entrega** que nadie le pidió que fijara. | **Que sea capaz de hacerlo no contesta si debe permitírsele hacerlo.** La calidad de la salida no concede autoridad, y el permiso **se decide por tarea**: redactar el texto, sí; fijar condiciones, no. Enseña además que **el permiso se escribe en frío**, antes de tener delante una salida que impresiona. | Tres: (1) dirige un negocio agrícola con varias personas a su cargo; (2) ha contestado ella misma a los compradores desde siempre; (3) nunca había separado **redactar** una respuesta de **decidir sus condiciones**. | Bajo | Sin apellido. Sin lugar. **Sin cifras, importes ni moneda.** Sin fechas —la fecha del borrador se menciona como categoría, nunca como dato—. Sin composición familiar. Sin número de personas. **Sin producto, cultivo, temporada, campaña, maquinaria ni vocabulario agrícola**: se dice «negocio agrícola» y nada más. **Sin nombre, marca ni proveedor de la herramienta**, que se llama «una herramienta» durante todo el capítulo. Construido desde el mecanismo hacia el ejemplo. |
 | C-10 | Julián (solo nombre de pila) | Hombre | **B** | Logística | 13 | Pone en modo sombra una tarea real —revisar cada mañana los encargos que entran y decidir cuáles acepta y cuáles aparta para llamar antes— y sigue decidiendo él. El día que las dos listas no coinciden descubre que **ni el sistema ni él se habían equivocado**: la herramienta apartó un encargo porque la hora de recogida y la dirección venían en dos documentos distintos y no cuadraban; él lo aceptó porque ese cliente manda siempre mal la hora y la corrige por teléfono, cosa que Julián sabe y no ha escrito en ninguna parte. | **Comparar no es imitar**, y **la decisión de una persona no es la respuesta correcta por defecto**: una divergencia admite seis lecturas y aquí se cumplieron dos a la vez —faltaba información y las dos respuestas eran defendibles—. Enseña además de dónde sale una alerta que sirve: **de una divergencia real, escrita como condición antes de que vuelva a pasar**. Y enseña la simétrica, que el capítulo también necesitaba: hubo un encargo que él apartó y el sistema no señaló, porque el motivo no estaba en ningún documento —**una omisión que no siempre tiene arreglo**—. | Tres: (1) trabaja solo y hace las rutas él mismo; (2) resuelve por teléfono lo que no cuadra, sin anotarlo; (3) nunca había escrito en qué se fija antes de aceptar un encargo. | Bajo | Sin apellido. Sin lugar. **Sin cifras, importes ni moneda.** Sin fechas —solo «cada mañana» y «un día»—. Sin composición familiar. **Sin tipo de vehículo, sin marca, sin mercancía y sin vocabulario del oficio**: se dice «hace rutas de reparto» y nada más. El cliente del encargo **no se nombra ni se describe**, y **la herramienta se llama «una herramienta» en todo el capítulo**. Construido desde el mecanismo hacia el ejemplo. |
 | C-11 | Inés (solo nombre de pila) | Mujer | **A** | Mantenimiento | 14 | Concede a una tarea —decidir en qué orden se hacen las revisiones preventivas del mes— permiso para proponerle qué hacer. La primera recomendación está bien escrita, trae sus datos y su regla, y **coincide con lo que ella ya había pensado**. Al comprobarla aparece lo que la recomendación no podía saber: ese equipo llevaba unas semanas trabajando en condiciones distintas, y **los partes registran horas, no condiciones**. | **Estar de acuerdo no es lo mismo que haber comprobado.** Es la encarnación del **sesgo de automatización sin caricatura**: no hay una persona crédula obedeciendo a una máquina, hay una propuesta que **confirma** lo que ya se pensaba, y una confirmación es justo lo que nadie verifica. Enseña además la respuesta que ningún capítulo había mostrado: **modificar** —ni aceptar ni rechazar—, y que el hallazgo de una recomendación puede no estar en la recomendación sino **en lo que el negocio no registra**. | Tres: (1) dirige una empresa de mantenimiento con varios técnicos; (2) planifica ella el orden de las revisiones desde siempre; (3) sus partes de trabajo recogen horas y no condiciones de uso. | Bajo | Sin apellido. Sin lugar. **Sin cifras, horas concretas, importes ni moneda** —los equipos se comparan por «menos» y «bastantes más»—. Sin fechas. Sin composición familiar. Sin número de técnicos. **Sin marca ni tipo de maquinaria, sin nombre ni sector del cliente**, y sin vocabulario de oficio. **La herramienta se llama «una herramienta» y no se nombra.** Construido desde el mecanismo hacia el ejemplo. |
+| C-12 | Ismael (solo nombre de pila) | Hombre | **B** | Importación y distribución | 15 | Escribe un permiso de línea y media para una tarea que hacía él de noche —clasificar y archivar los documentos de cada envío— y durante semanas **deja de volver a decidir en cada caso**. Una noche llega **una versión corregida de un documento de un envío que ya había cerrado**: fuera del permiso escrito. La herramienta **no decide que sea un cambio pequeño, no archiva encima y no abre el envío por su cuenta**. Se detiene y le devuelve la decisión. | **Una excepción no concede autonomía: la retira.** Y el caso enseña algo que ningún capítulo anterior había podido mostrar: **el valor no está en que el sistema acierte, sino en que ante un caso distinto no improvise**. Enseña además la diferencia entre **autorizar una clase de acciones** y **aprobar cada ejecución**, y que **pasar de nivel no significa que la herramienta sea más lista: significa que cambió el permiso, porque una persona decidió cambiarlo**. | Tres: (1) importa y distribuye por su cuenta, sin empleados; (2) cada envío le genera varios documentos que llegan por separado y en momentos distintos; (3) los archivaba él, de noche. | Bajo | Sin apellido. Sin lugar. **Sin cifras, importes ni moneda** —«decenas de documentos», «unas semanas»—. Sin fechas concretas. Sin composición familiar. **Sin mercancía, sin origen, sin proveedor, sin cliente y sin vocabulario aduanero, fiscal o contable**: se dice «importa y distribuye» y nada más. **El documento corregido no se identifica como factura ni como ningún tipo concreto**, precisamente para no meter contabilidad en el mecanismo. **La herramienta se llama «una herramienta» en todo el capítulo.** Construido desde el mecanismo hacia el ejemplo. |
 
 **Riesgo de semejanza:** `bajo` · `medio` · `alto`.
 Un caso calificado como **alto no se escribe**: se rediseña o se descarta.
@@ -45,7 +46,7 @@ Máximo tres apariciones por sector. Sin repetición en capítulos consecutivos.
 | Sector | Apariciones | Capítulos previstos | Capítulos usados |
 |---|---|---|---|
 | Distribución regional | 1 | 1, 13 | 1 |
-| Manufactura ligera | 1 | 2, 15 | 2 |
+| Manufactura ligera | 1 | 2, ~~15~~ | 2 |
 | Comercio mayorista | 1 | 3, 18 | 3 |
 | Servicios profesionales | 1 | 1, 4, 20 | 1 |
 | Agricultura | **1** | 5, **12**, 21 | **12** |
@@ -55,11 +56,32 @@ Máximo tres apariciones por sector. Sin repetición en capítulos consecutivos.
 | Comercio minorista | **1** | 9, 22 | **9** |
 | Empresa familiar de alimentos | **1** | 10, 25 | **10** |
 | Servicios técnicos | **2** | 4, **11**, 24 | 4, **11** |
-| Importación y distribución | 0 (una microescena sin nombre, cap. 8; **y el ejemplo de la herramienta 9**) | ~~12~~, ~~14~~, 17 | — |
+| Importación y distribución | **1** | ~~12~~, ~~14~~, **15**, 17 | **15** |
 
 **Nota de la Etapa 3.7.** La fila de *Construcción* aparecía **dos veces**: al anotar la
 microescena del capítulo 7 se insertó una fila nueva en lugar de actualizar la existente.
 Corregido.
+
+**Sectores del capítulo 15 y de la herramienta 12 (Etapa 3.14B): decididos en el preflight y
+ejecutados sin cambios.**
+
+| Pieza | Sector | Por qué |
+|---|---|---|
+| **Caso C-12, capítulo 15** | **Importación y distribución** | Cero apariciones de caso, y el sector **había perdido dos de sus tres turnos** —los capítulos 12 y 14— por coincidir con el ejemplo de la herramienta 9, que es **mujer y de ruta A**. **C-12 es hombre y de ruta B**, opuesto en los dos ejes, y aquel ejemplo queda a cuatro capítulos. Queda en **1 de 3** y conserva el capítulo 17 |
+| **Ejemplo de la herramienta 12** | **Distribución regional** | **Ningún ejemplo de herramienta lo había usado**, en doce herramientas. Su único caso es **C-01, del capítulo 1**, catorce capítulos atrás, y el ejemplo **no usa nombre propio**: habla de «la responsable de almacén» como función, para no rozar a Elena |
+
+**Una anotación de asignación que conviene dejar por escrito.** El sector previsto para el
+capítulo 15 era **manufactura ligera**, y se descartó porque **el ejemplo de la herramienta 10 lo
+usa dos capítulos atrás**, la distancia más corta de todo el libro. Y el sector que sí se usó,
+importación y distribución, **no tenía asignado el capítulo 15**: sus turnos previstos eran 12, 14
+y 17. **Es la primera vez que un sector entra en un capítulo que no figuraba en su lista**, y la
+razón es acumulativa: se le apartó dos veces seguidas por una coincidencia que aquí no se da.
+**Conserva el capítulo 17.**
+
+**Reparto por ruta: 6 y 6.** **Reparto por género: 6 y 6.** Es la primera vez que los dos ejes
+quedan exactamente equilibrados con doce casos, y la alternancia caso a caso **sigue sin romperse
+ni una vez**: Elena, Andrés, Marta, Tomás, Lucía, Rafael, Pilar, Óscar, Nuria, Julián, Inés,
+Ismael.
 
 **Sector del capítulo 14 (Etapa 3.13B): mantenimiento, y NO el previsto.** Decidido en el
 preflight de la Etapa 3.13A y ejecutado sin cambios. El capítulo 14 **no produce herramienta**
@@ -210,11 +232,13 @@ final, porque corregirlo al final obliga a reescribir muchos pasajes.
 
 | | Casos | Porcentaje |
 |---|---|---|
-| Protagonistas mujeres | **6** | **55 %** |
-| Protagonistas hombres | 5 | **45 %** |
+| Protagonistas mujeres | 6 | **50 %** |
+| Protagonistas hombres | **6** | **50 %** |
 | Sin género especificado | 0 | — |
 
-**Nota de la Etapa 3.13B.** Con C-11 el reparto queda **6 a 5**. Con once casos el desequilibrio de uno es inevitable y **no crea deuda**.
+**Nota de la Etapa 3.14B.** Con C-12 el reparto vuelve a **6 a 6**, y con doce casos **los dos ejes quedan exactamente equilibrados por primera vez**. Sin deuda.
+
+**Nota de la Etapa 3.13B.** Con C-11 el reparto quedaba **6 a 5**. Con once casos el desequilibrio de uno es inevitable y **no crea deuda**.
 
 **Nota de la Etapa 3.12B.** Con C-10 el reparto volvía a **5 a 5**, y la alternancia caso a caso **no se ha roto ni una vez en diez casos**. Sin deuda.
 
@@ -247,10 +271,12 @@ escala.
 
 | | Casos | Capítulos |
 |---|---|---|
-| Ruta A — empresa con estructura | **6** | 1, 2, 3, 10, 12, **14** |
-| Ruta B — profesional independiente | 5 | 1, 4, 9, 11, 13 |
+| Ruta A — empresa con estructura | 6 | 1, 2, 3, 10, 12, 14 |
+| Ruta B — profesional independiente | **6** | 1, 4, 9, 11, 13, **15** |
 
-**Reparto a 2026-09-09, tras el capítulo 14: 6 a 5.** El caso del capítulo 14 es de **ruta A** y alterna con el 13, que era de ruta B. **La ruta B se atiende dentro del capítulo con un pasaje breve y explícito**: quien recibe la propuesta y quien decide pueden ser la misma persona, **y eso no se disfraza de nada** —no hay «autoaprobación», hay una persona decidiendo—. Lo que se conserva en las dos rutas es la separación entre **propuesta** y **decisión**. El capítulo **no produce herramienta**, así que esa vía de compensación no estaba disponible.
+**Reparto a 2026-09-09, tras el capítulo 15: 6 a 6.** El caso del capítulo 15 es de **ruta B** y alterna con el 14, que era de ruta A. **La ruta A se atiende dos veces dentro del capítulo**: con un pasaje sobre cómo se reparten autorizar, operar y revisar cuando hay funciones distintas —**sin exigir tres personas ni inventar cargos**— y con el **ejemplo de la herramienta 12**, que es de ruta A, de otro sector y **sin nombre propio**.
+
+**Reparto anterior, tras el capítulo 14: 6 a 5.** El caso del capítulo 14 es de **ruta A** y alterna con el 13, que era de ruta B. **La ruta B se atiende dentro del capítulo con un pasaje breve y explícito**: quien recibe la propuesta y quien decide pueden ser la misma persona, **y eso no se disfraza de nada** —no hay «autoaprobación», hay una persona decidiendo—. Lo que se conserva en las dos rutas es la separación entre **propuesta** y **decisión**. El capítulo **no produce herramienta**, así que esa vía de compensación no estaba disponible.
 
 **Reparto anterior, tras el capítulo 13: 5 a 5.** El caso del capítulo 13 es de **ruta B** y alterna con el 12, que era de ruta A. **Y esta vez la otra ruta no se atiende con un pasaje breve, sino con tres cosas:** una sección propia del capítulo sobre cómo cambia la revisión cuando hay equipo, **y los ejemplos de las dos herramientas, los dos de ruta A y de sectores distintos entre sí y del capítulo**. Ninguna de las dos rutas queda sin manifestación concreta, y ninguna se lleva el capítulo entero.
 

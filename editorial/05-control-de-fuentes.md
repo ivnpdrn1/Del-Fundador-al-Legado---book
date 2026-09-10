@@ -1,9 +1,9 @@
 # 05 — Control de fuentes en el manuscrito
 
 **Etapa:** 1 — Fundamentos. Con registros desde la Etapa 2.
-**Estado:** vigente. **Cuarenta y una afirmaciones registradas a 2026-09-09, todas cerradas**,
-en diez de las quince piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11, 12, 13 y
-14. Cero marcas `[POR VERIFICAR]` en el manuscrito.
+**Estado:** vigente. **Cuarenta y tres afirmaciones registradas a 2026-09-09, todas cerradas**,
+en once de las dieciséis piezas escritas: introducción y capítulos 1, 2, 5, 9, 10, 11, 12, 13,
+14 y 15. Cero marcas `[POR VERIFICAR]` en el manuscrito.
 
 **Aviso de recuento (2026-09-09).** El encabezado decía «siete afirmaciones registradas», cifra
 de la Etapa 2 que dejó de describir el archivo hace mucho. Se corrige aquí y **se cuenta de una
@@ -99,6 +99,47 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+
+**Capítulo 15: dos afirmaciones y dos fuentes, ninguna con cifras.** Es el capítulo con **más
+doctrina propia y menos fuentes de toda la Parte III**, y es deliberado: **el criterio que
+gobierna qué tarea puede automatizarse es diseño del método (D-077)** y no se apoya en ninguna
+institución. Las dos fuentes que aparecen sostienen **la detención**, no el criterio.
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 15 | «En el reglamento europeo de inteligencia artificial —**norma de la Unión Europea y solo para sistemas de alto riesgo**— eso se llama botón de parada **o procedimiento equivalente**, y lo segundo importa tanto como lo primero: **puede ser un procedimiento, no un botón**.» | **F-010** | Requisito atribuido, **con ámbito doble dentro de la frase** | Cerrada. Artículo 14. **La frase se usa para quedarse con la función y descartar el producto**, que es exactamente lo que el método necesita: la fuente ofrece la alternativa —«o procedimiento equivalente»— y el libro se apoya en ella para **no exigir ningún botón**. **Prohibido**, y no se hace: presentarlo como obligación del lector o sugerir que seguirlo signifique cumplir nada (D-020). |
+| 15 | «El marco de gestión de riesgos que ya citamos —**el documento de uso voluntario**— pide que existan **mecanismos** para anular o desconectar un sistema **y que haya responsabilidades asignadas y entendidas** para hacerlo.» | **F-007** | Requisito atribuido | Cerrada. Corresponde a **MANAGE 2.4**: «Mechanisms are in place and applied, and **responsibilities are assigned and understood**, to supersede, disengage, or deactivate AI systems…». **La mitad que el capítulo subraya es la segunda**, y es la que la fuente permite subrayar: no basta el mecanismo, hacen falta responsables. **Se dice «pide», no «exige»**, y el carácter voluntario va dentro de la frase. |
+
+**Fuentes disponibles que el capítulo 15 decidió NO citar.**
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-009** (OCDE) | Contiene intervención y supervisión humanas, responsabilidad y trazabilidad, y el capítulo trata las tres. | **Redundante con F-007 y F-010**, que ya están citadas y dicen lo mismo con más precisión. **El preflight lo previó y el capítulo lo cumplió**: no se cita una fuente por completar una lista. |
+| **F-044** (metaconocimiento y delegación) | El capítulo 15 es uno de sus dos capítulos registrados, y sostendría por qué conviene escribir el límite en frío. | **Ya se usó para eso en el capítulo 12.** Repetirla aquí sería citar dos veces el mismo argumento. Descartada en el preflight y **no reincorporada**. |
+
+**Y una ausencia que conviene registrar porque es la más importante: el criterio de D-077 no
+tiene fuente, y no debe tenerla.** Las cinco condiciones que definen una **tarea candidata a
+ejecución limitada** —alcance acotado, reversibilidad práctica, no decidir sobre derechos ni
+obligaciones de personas, no decidir sobre datos personales o información confidencial, y no
+comprometer al negocio frente a terceros— son **diseño del Método LEGADO**. El capítulo lo dice
+en voz alta —«este método usa un criterio propio, y conviene decir en voz alta que es suyo»— y
+**está prohibido atribuirlas a NIST, la OCDE, la Unión Europea o ISO** (D-020, D-077).
+
+**Control de universalidades del capítulo 15.** Dos pasadas, y **el recuento se da separado porque las dos pasadas no encontraron lo mismo**. **Primera, literal: diecinueve apariciones, y las diecinueve son legítimas.** **Segunda, de lectura: cuatro correcciones**, y **tres de ellas no contenían ninguna palabra de la lista literal**, de modo que **no estaban entre las diecinueve y ninguna búsqueda las habría encontrado**. Las legítimas son
+reglas del método —«una fila por tarea, nunca por negocio entero», «no hacen falta todas»—,
+negaciones —«no decide», «sin quitarle la responsabilidad a nadie»— y usos internos del caso
+—«casi siempre de noche»—. **Las cuatro corregidas, y tres las había introducido la propia revisión de la etapa al añadir los pasajes que faltaban:** «es lo contrario de lo que **suele
+temerse**» → «lo contrario del temor razonable»; «lo segundo es lo que **suele faltar**» → «es
+fácil de dar por supuesto y no lo es»; «una frase que **se dice mucho**» → «una frase cómoda»; y «**nadie autoriza** a una herramienta lo que él mismo no podría hacer» → «**nadie puede autorizar**», que la convierte en regla en lugar de en descripción de conducta. **Esta última sí estaba entre las diecinueve** —lleva «nadie»— y sigue estándolo tras corregirse, porque la palabra se conserva; lo que cambió es el verbo.
+
+**La lección, que ya es la cuarta vez:** los pasajes añadidos en la última pasada **son los que
+más universalidades introducen**, porque se escriben deprisa y sin el control delante. Conviene
+volver a pasar el control **después** de completar, no solo antes.
+
+**Control de antropomorfismos.** Ejecutado sobre el capítulo y la herramienta. **Siete
+apariciones en el capítulo, todas negaciones** —«no quiere decir que comprenda mejor», «no haya
+aprendido nada», «no decide ni modifica»— o referidas al lector. **Tres en la herramienta, las
+tres con una persona como sujeto.** **Cero atribuciones de estado mental a una tecnología.**
 
 **Capítulo 14: cuatro afirmaciones y dos fuentes, ninguna con cifras.** Es el capítulo donde una
 fuente **contradice lo que el lector espera oír**, y por eso el control aquí no consiste en
