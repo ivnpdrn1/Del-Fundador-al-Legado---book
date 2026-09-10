@@ -482,8 +482,11 @@ estarlo y quién no lo estará?
 delegación acompañada: **la decisión deja de pasar por el fundador** —la toma otra persona, la
 resuelve quien sigue el procedimiento, o la ejecuta un sistema supervisado dentro de su permiso
 escrito— y **el fundador revisa después, no antes**. Reducción gradual de la revisión. Pruebas
-de ausencia de veinticuatro horas y de siete días. Revisión posterior de lo que falló y
-corrección del sistema, no de la persona.
+de ausencia de veinticuatro horas y de siete días. **Revisión posterior de lo que falló:
+examinar primero la arquitectura de la transferencia y, solo cuando esta no explique lo ocurrido,
+la ejecución concreta y, si corresponde, la competencia o el incumplimiento de quien la realizó.
+No se atribuye el fallo a una persona por defecto ni se excluye que pueda formar parte de la
+causa** (**D-079**).
 
 **Herramientas.** Plan de transición de cien días. Prueba de ausencia de veinticuatro
 horas y de siete días.

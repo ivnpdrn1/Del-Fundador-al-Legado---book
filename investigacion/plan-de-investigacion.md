@@ -3177,12 +3177,13 @@ programación y sin elección de proveedor.** **El capítulo debe estar completo
 que puede producir la evidencia que **D-071** reservó: detectar y representar son la etapa E;
 **transferir es esto**.
 
-### 0. Resultado que condiciona la escritura
+### 0. Resultado que condicionaba la escritura — **RESUELTO**
 
-**Hay un asunto que requiere decisión del autor antes de escribir: V-71**, sobre la línea
-«corrección del sistema, no de la persona» de la etapa D. Está desarrollada en el apartado 9.
-**Mientras no se resuelva, el movimiento 7 del capítulo no puede escribirse sin contradecir el
-documento del método.** El resto de la arquitectura queda cerrada y no depende de esa decisión.
+**El preflight se cerró con un asunto que requería decisión del autor: V-71**, sobre la línea
+«corrección del sistema, no de la persona» de la etapa D, desarrollada en el apartado 9.
+**Resuelto el 2026-09-10 por decisión del autor: D-079**, que aprueba la reformulación como
+**orden de examen**. **El movimiento 7 ya puede escribirse** y la Etapa 3.17B deja de estar
+bloqueada. El resto de la arquitectura no dependía de esa decisión y no cambia.
 
 ### 1. La pregunta central, y de dónde viene
 
@@ -3341,7 +3342,7 @@ a nadie.** La cuarta solo se sostiene cuando las tres primeras quedaron descarta
 delegación no debía existir, o demuestra qué parte del sistema todavía necesita corrección?*
 **Depende de la clase**, y por eso la clasificación va antes que la decisión.
 
-**V-71 — auditoría de «corrección del sistema, no de la persona». REQUIERE DECISIÓN DEL AUTOR.**
+**V-71 — auditoría de «corrección del sistema, no de la persona». RESUELTA POR DECISIÓN DEL AUTOR EL 2026-09-10: D-079, opción A.** Lo que sigue es el análisis tal como se presentó, y se conserva porque explica por qué la frase cambió.
 
 **A. Qué colisiona.** La línea de *Acciones* de la etapa D en `07-metodo-legado.md` —«Revisión
 posterior de lo que falló y **corrección del sistema, no de la persona**»— contra **D-072** y
