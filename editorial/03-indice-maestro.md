@@ -138,9 +138,16 @@ seis capítulos y el presupuesto de palabras de la parte.*
 *Función: el traspaso a personas. La parte donde más importa no dar por supuesta la
 familia.*
 
+**Precisión añadida el 2026-09-10 (Etapa 3.16A), y es reconciliación, no doctrina nueva.**
+«El traspaso a personas» describe **el énfasis editorial de esta parte**, que es donde el
+libro trata las relaciones. **No estrecha la etapa D del método**, que desde **D-026** admite
+tres destinatarios: **personas, procedimientos o sistemas supervisados**. La fila del capítulo
+18 ya lo recogía; se dice aquí para que la cabecera de la parte no se lea como una vuelta a
+una visión exclusivamente sucesoria o familiar (**D-075**).
+
 | # | Capítulo | Etapa | Idea central | Entregable | Palabras |
 |---|---|---|---|---|---|
-| 17 | Preparar al equipo, a la familia y a los clientes | D | Cómo se comunica una transición sin que se lea como abandono ni como desconfianza. Separar propiedad de dirección. | Guion de conversación | 2.000 |
+| 17 | Preparar al equipo, a la familia y a los clientes | D | Cómo se comunica una transición sin que se lea como abandono ni como desconfianza. Separar propiedad de dirección. **Precisado en el preflight 3.16A:** «dirección» **no es un término nuevo** —es la mirada agregada de la autoridad que **D-072** ya define—, y **la propiedad queda fuera del método** y se remite (D-014, D-033). **No es un capítulo sobre retiro** (D-075, D-076). | Guion de conversación **(entregable del capítulo; no es una de las 18 — D-078)** | 2.000 |
 | 18 | Delegación progresiva | D | Delegar por bloques, de menor a mayor riesgo. Revisar después y no antes. Qué hacer ante el primer error. | Plan de delegación por bloques | 2.200 |
 | 19 | El tablero del propietario | O | El instrumento: qué mira el fundador cada día, cada semana y cada mes. Pocas cifras, bien elegidas. | Modelos de informe diario y semanal | 2.000 |
 | 20 | Supervisar sin intervenir en todo | O | La disciplina: cuándo intervenir y cuándo callarse. Trata la conducta, no el instrumento. | Reglas de intervención | 1.900 |

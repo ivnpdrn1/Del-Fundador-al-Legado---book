@@ -67,7 +67,7 @@ con solidez sin resolverla.
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media, **materialmente necesaria antes del capítulo 10** | **RESUELTA con límites el 2026-09-08 (Etapa 3.9A)**: F-034, F-035, F-036 y F-037. Tres de las cuatro leídas directamente en el original. **El hallazgo que decide el capítulo 10:** la separación de funciones **no es una regla universal**, y las tres fuentes leídas coinciden en que cuando no hay personal suficiente se diseñan **controles alternativos**. **Límite que permanece:** ninguna fuente cubre negocios privados pequeños como estándar de gestión —una es federal, otra es de auditoría fiscal y otra de empresas cotizadas—, y **ninguna dice que un control alternativo equivalga a la separación ni que sea más débil**. Resultado completo al final de este documento. |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE.** Etapa 3.4A: seis fuentes, F-018 a F-023. **Ampliación dirigida a la ruta B en la Etapa 3.4A.1:** tres fuentes más, F-024 a F-026, una de ellas **leída íntegra**. Resultados completos al final de este documento. **Sigue abierta para el capítulo 22** y por el vacío de evidencia hispanohablante (V-56B), que no se ha podido cerrar. |
 | Q-10 | ¿Qué evidencia hay sobre efectos de la ausencia imprevista de una persona clave en organizaciones pequeñas? | 4 | Media | Sin iniciar |
-| Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | Sin iniciar |
+| Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | **NO EJECUTADA, y diferida por prueba de necesidad el 2026-09-10 (Etapa 3.16A).** La pregunta previa se contesta que no: **el capítulo 17 no necesita afirmar que exista una estructura de gobierno que una empresa familiar deba adoptar**. La distinción que el capítulo usa —**propiedad, dirección y ejecución**— se construye entera sobre **D-072**, que ya define autoridad, ejecución y control para todo el libro, más la remisión jurisdiccional de **D-014** y **D-033**. **Nombrar consejo, junta, protocolo familiar, comité o holding sería prescribir arquitectura** —lo mismo que el capítulo 16 se negó a hacer con la seguridad— y trasplantaría estructuras de empresas con tamaño a un libro que sirve también a un negocio de una sola persona. **La afirmación que la haría necesaria, escrita para poder comprobarlo:** cualquier frase de la forma «para separar propiedad y dirección conviene constituir X». **El capítulo 17 no la escribe.** **Propuesta, no decisión: su plazo real es el capítulo 21**, cuyo índice sí nombra dirección profesional, socios y venta. |
 | Q-12 | ¿Qué límites y obligaciones plantea la prestación de servicios tecnológicos a terceros? | Modelo de negocio | Baja para el libro, alta para el negocio | Sin iniciar |
 
 ### Preguntas añadidas en la Etapa 2.2 (2026-09-07)
@@ -2749,3 +2749,396 @@ D-014, D-020, D-033, D-078 y las constantes vigentes.
 periódica dentro de la plataforma **sin diseñar nada hoy**, y la arquitectura de producto ya
 contempla aislamiento por negocio, permisos y trazabilidad. **No se diseña, no se programa, no se
 elige proveedor.**
+
+
+---
+
+## Preflight del capítulo 17 (Etapa 3.16A, 2026-09-10)
+
+**Abre la Parte IV y la etapa D del método.** Es el primer capítulo del libro cuyo sujeto no es
+el negocio del lector sino **la relación entre el lector y otras personas**, y esa es la
+dificultad que lo gobierna entero.
+
+### 1. Cómo recibe al capítulo 16, y un problema en la propia pregunta heredada
+
+El capítulo 16 cierra con esta pregunta, y el 17 la recibe en su primera línea sin volver antes
+sobre tecnología:
+
+> *¿Qué ocurre cuando quienes tienen que trabajar con todo esto son otras personas?*
+
+**Y hay que decir de entrada que esa pregunta, tal como está, supone algo que no siempre existe:
+otras personas.** Es correcta para la ruta A y puede ser falsa para la ruta B. **El capítulo 17
+no puede empezar excluyendo a la mitad de sus lectores**, de modo que su primer movimiento tiene
+que hacer dos cosas a la vez: recoger la pregunta **y ensancharla** —«otras personas» puede ser
+un equipo, puede ser una sola persona, puede ser un cliente, y puede no ser nadie todavía—.
+
+**Cuando no hay nadie**, la respuesta honesta no es inventar una conversación: es que el trabajo
+recae sobre **procedimientos**, que es uno de los tres destinatarios legítimos de la etapa D
+(**D-026**) y materia del capítulo 18. El 17 lo dice en una frase y no lo desarrolla.
+
+**El sujeto cambia, y conviene que el cambio se note.** Hasta aquí el lector ha trabajado sobre
+su negocio y sobre su propia dependencia. Ahora trabaja sobre **cómo va a ser leído por otro**.
+**Prohibido** abrir el capítulo hablando de herramientas, de permisos técnicos o de cualquier
+material de la Parte III.
+
+### 2. «Transferir el control sin perderlo»: definición operativa
+
+Es el título de la Parte IV y hay que definirlo antes de usarlo, porque leído deprisa promete lo
+contrario de lo que el método sostiene.
+
+**No significa** conservar el control de cada acción. Si eso fuera, no habría transferencia.
+
+**Significa** poder transferir la ejecución, o parte de la decisión, **sin perder cuatro cosas**:
+
+| | Qué es | Dónde se construye |
+|---|---|---|
+| **Visibilidad** | Poder ver lo que está ocurriendo sin tener que estar dentro | **Capítulo 19** |
+| **Límites** | Que esté escrito hasta dónde llega lo transferido | **Capítulos 10 y 18** |
+| **Capacidad de revisión** | Poder comprobar después, sin aprobar antes (**D-072**) | **Capítulo 18** |
+| **Criterios de intervención** | Saber cuándo se entra y cuándo no | **Capítulo 20** |
+
+**Las cuatro son arquitectura del Método LEGADO y no una definición universal**, y así deben
+declararse. **El capítulo 17 las nombra y no construye ninguna**: su trabajo es anterior. La
+tabla cabe en un bloque corto y sirve de mapa de la parte; **prohibido convertirla en una sección
+larga**, porque cada fila tiene su capítulo.
+
+### 3. Propiedad, dirección y ejecución — y por qué no se crea vocabulario nuevo
+
+**Aquí estaba el riesgo estructural de este capítulo, y conviene dejarlo resuelto por escrito.**
+
+El libro ya tiene un vocabulario vigente y obligatorio para repartir el trabajo de decidir:
+**autoridad, ejecución y control** (**D-072**), más la distinción entre **aprobación** —antes— y
+**revisión** —después—; y **D-074** añadió que **el ejecutor es siempre una persona**, mientras
+que un procedimiento o una plantilla **apoyan** la ejecución sin ejecutar.
+
+**Si el capítulo 17 introdujera «dirección» como un cuarto término en paralelo, crearía una
+segunda taxonomía para lo mismo.** No se hace. **Se fija así, y no es doctrina nueva: es
+aplicación de D-072:**
+
+| | Qué es aquí | Estado en el libro |
+|---|---|---|
+| **Propiedad** | Quién posee participación o derechos sobre el negocio, según corresponda | **Fuera del método.** Depende de estructura jurídica, contrato y país. **El libro no la define y no la reparte** |
+| **Dirección** | **No es un término nuevo:** es la **mirada agregada** de la autoridad que ya se repartió decisión por decisión en el capítulo 10 y en la herramienta 8. Quién toma o coordina un conjunto de decisiones de gestión | Ya definido por **D-072** |
+| **Ejecución** | Quién realiza la acción autorizada. **Siempre una persona** | Ya definido por **D-072** y **D-074** |
+
+**Las dos frases operativas del capítulo, y son las únicas dos que necesita:**
+
+> **Delegar dirección no significa necesariamente transferir propiedad.**
+> **Conservar propiedad no significa tener que dirigir cada decisión.**
+
+**Clasificación de las dos:** son **doctrina del Método LEGADO construida sobre D-072**, no
+afirmaciones factuales ni jurídicas, **y no requieren fuente**. Lo que sí requiere tratamiento es
+lo que hay debajo: **quién puede dirigir, quién representa legalmente el negocio, qué derechos
+tiene una persona empleada, qué exige una sucesión y qué autoridad tiene un familiar dependen de
+la estructura jurídica, del contrato, del empleo, de la regulación, del país y de la profesión**.
+**El capítulo lo dice y remite** (**D-014**, **D-020**, **D-033**). **Prohibido** resolver
+ninguna de esas preguntas.
+
+### 4. Qué función tiene la conversación: informar, consultar, acordar, autorizar
+
+No todas las conversaciones de una transición son la misma, y **decidir cuál es antes de
+empezarla es lo que impide que signifique una cosa para quien habla y otra para quien escucha.**
+
+| | Qué hace |
+|---|---|
+| **Informar** | Se comunica un cambio que ya está dentro de la autoridad de quien lo comunica |
+| **Consultar** | Se pide opinión antes de decidir, y se dice que la decisión no está tomada |
+| **Acordar** | El cambio necesita la conformidad de la otra parte para funcionar |
+| **Autorizar** | El cambio necesita el permiso de alguien distinto, que puede no ser quien habla |
+
+**Prohibido resolver jurídicamente cuál corresponde en cada caso.** Cuando dependa de contrato,
+propiedad, empleo o regulación, se dice y se remite a revisión profesional. **Lo que el capítulo
+sí puede exigir** es que el lector **elija una de las cuatro y la diga**, porque presentar como
+acuerdo lo que es información —o al revés— es la fuente de ambigüedad más cara del capítulo.
+
+### 5. Con quién se habla: las tres audiencias del título, sin dar ninguna por supuesta
+
+**El título nombra equipo, familia y clientes, y es un título editorial. La doctrina es general:
+se habla con quien realmente se vea afectado.** El título **no se amplía**.
+
+**Regla que gobierna toda la Parte IV, y esta es la parte donde más importa (índice maestro):
+no se da por supuesta la familia.** **Prohibido** escribir «su hijo», «sus herederos», «la
+siguiente generación» o «cuando sus hijos tomen el negocio» como escenario general. **Familia no
+equivale a sucesión, sucesión no equivale a herencia, y ninguna de las dos es el destino
+obligatorio del negocio** —lo fija el apartado 7.4 de `14-publico-y-rutas.md`, que separa el
+**Mapa de Participación** del **destino del negocio**—. El método registra además, entre los
+riesgos de la etapa D, **delegar por parentesco y no por capacidad**.
+
+**Dónde cambia de verdad el mecanismo, y por eso son tres variaciones y no tres herramientas:**
+
+| Audiencia | Lo que hay que separar | Deslinde |
+|---|---|---|
+| **Equipo** | Que **responsabilidad, autoridad y límite** sigan alineados. Dos errores opuestos: presentar la delegación como pérdida de confianza, o presentarla como una ampliación de autoridad **que en realidad no existe** | Se **remite** a la herramienta 8. **Prohibido reexplicarla** |
+| **Familia**, cuando participe de verdad | Cuatro posiciones que **no tienen por qué coincidir**: **familia** como relación personal · **propietarios** · **quienes trabajan en el negocio** · **quienes podrían participar en el futuro** | **No se diseña ningún protocolo familiar.** Ver el apartado 7 |
+| **Clientes** | **¿Qué cliente necesita saber qué para que la relación siga funcionando?** No comunicar de más para demostrar transparencia; no ocultar un cambio que afecte de verdad a la relación | **Ninguna de las dos se convierte en regla jurídica** |
+
+### 6. Las dos rutas
+
+**Ruta A.** Puede haber equipo, familia propietaria, responsables, clientes relevantes,
+proveedores y sucesores posibles. Lo que el capítulo tiene que desmontar es el atajo: **comunicar
+una transición no consiste en anunciar «a partir de ahora manda otra persona»**. Antes hay que
+separar qué cambia, qué no, quién decide, quién ejecuta, qué sigue requiriendo autorización y qué
+relación mantiene quien estaba al frente.
+
+**Ruta B.** **Prohibido** escribir «reúna a su equipo» o «prepare a la familia». Puede no existir
+ninguno de los dos. La conversación puede ser con un cliente, con un colaborador, con un
+proveedor o con una sola persona que empieza a recibir parte de una tarea; **y puede no haber
+conversación amplia** si la transición solo cambia procedimientos internos. **La ruta B se sirve
+con la misma dignidad que la A y en el mismo texto**, no en un apartado aparte (regla 1 de
+`14-publico-y-rutas.md`).
+
+### 7. Q-11 — prueba de necesidad: **NO NECESARIA. No se ejecuta.**
+
+**Q-11:** *¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en
+empresas familiares?* Capítulo 17. Prioridad media. Sin iniciar.
+
+**La pregunta previa, que es la que decide:** ¿necesita el capítulo 17 afirmar que existe una
+estructura de gobierno determinada que una empresa familiar **debe** adoptar?
+
+**No.** Y conviene decir por qué, porque la tentación era real:
+
+1. **La distinción que el capítulo necesita ya está construida.** Propiedad, dirección y ejecución
+   se resuelven con **D-072** y con la remisión jurisdiccional, como queda escrito en el apartado
+   3. **Ninguna de las dos frases operativas del capítulo requiere una fuente externa.**
+2. **Nombrar consejo, junta, protocolo familiar, comité, consejo de familia o holding sería
+   prescribir arquitectura**, que es exactamente lo que el capítulo 16 acaba de dejar de hacer con
+   la seguridad, y lo que **D-020** prohíbe convertir en cumplimiento.
+3. **Importaría estructuras de empresas con tamaño a un libro que sirve también a un negocio de
+   una sola persona**, y la regla 6 de `14-publico-y-rutas.md` obliga a no diluir los problemas de
+   la ruta A **pero no autoriza a trasplantarlos a la ruta B**.
+4. **Convertiría «buena práctica» en obligación**, que es el error que el proyecto lleva seis
+   etapas evitando.
+
+**Qué afirmación haría necesaria a Q-11, para que quede escrito y se pueda comprobar:** cualquier
+frase de la forma *«para separar propiedad y dirección conviene constituir X»*. **El capítulo 17
+no la va a escribir.**
+
+**Propuesta, no decisión: su plazo real es el capítulo 21**, *Qué hacer cuando no existe el
+sucesor ideal*, cuyo índice sí nombra **dirección profesional, socios y venta**. Ahí sí podría
+hacer falta nombrar figuras reales. **Se anota en el plan y no se ejecuta ahora**, igual que se
+hizo con Q-16 y su plazo real.
+
+### 8. Q-09 y el retiro: **no se reabre**
+
+Q-09 contiene evidencia sobre formas de participación y de retiro, y **la tentación es usarla
+aquí para darle peso al capítulo**. No se hace. **D-075** ya resolvió el problema conceptual —el
+motivo del lector puede ser continuidad, reducción voluntaria de la participación o reasignación
+estratégica de tiempo y atención, **y ninguno es la finalidad del método**— y **D-040** fija el
+principio permanente. **Citar Q-09 aquí sería decoración.**
+
+**Consecuencia directa para el capítulo 17: no es un capítulo sobre retiro** (**D-075**,
+**D-076**). La conversación **no** se presenta como «voy a retirarme». Quien la tiene puede estar
+reduciendo tareas, cambiando de papel, delegando una función, creando espacio para otra unidad,
+abriendo otro negocio, trabajando menos, quedándose como estratega, preparando continuidad o
+simplemente dejando de ser imprescindible. **El mecanismo es el mismo en todos los casos: cambia
+quién hace qué.**
+
+### 9. El caso: **NO se crea C-13**
+
+**Recuento comprobado en `revision/control-de-casos.md`:** doce casos, **C-01 a C-12**, con
+**6 ruta A / 6 ruta B** y **6 mujeres / 6 hombres**.
+
+**Decisión razonada: dos microescenas sin nombre, una por ruta, por debajo de 120 palabras cada
+una.** Motivos:
+
+1. **Lo que el capítulo enseña no es una trayectoria, es una lectura.** Un caso formal necesita
+   protagonista, situación y desenlace; aquí lo que hay que mostrar es **la misma frase entendida
+   de dos maneras**, y para eso un protagonista con historia estorba.
+2. **Precedentes ya publicados:** capítulos **5, 6, 7, 8** y **16** entregan su enseñanza con
+   microescenas sin nombre. **No es una excepción.**
+3. **Un C-13 solo rompería el equilibrio** de los dos ejes sin añadir mecanismo.
+4. **La regla 3 de `14-publico-y-rutas.md`** pide precisamente ejemplos breves en paralelo, de dos
+   o tres frases, cuando el mecanismo se manifieste distinto en cada escala. **Es este caso
+   exactamente.**
+
+**El reparto por sector no se toca.** La tabla reservaba *importación y distribución* como
+capítulo previsto para el 17; **queda sin usar y no hace falta ninguna corrección**, porque esa
+columna registra previsiones, no compromisos.
+
+**Las dos microescenas, y qué debe demostrar cada una:**
+
+- **Ruta A —** alguien del equipo oye que una tarea va a dejar de pasar por quien siempre la
+  revisaba, y **lo entiende como que ya no se confía en su trabajo**. Nadie dijo eso. **Lo que
+  faltó fue decir qué no cambiaba.**
+- **Ruta B —** una persona que trabaja sola avisa a un cliente de que a partir de ahora una parte
+  del trabajo la prepara otra persona, y **el cliente entiende que va a dejar de atenderle**.
+  Nadie dijo eso. **Lo que faltó fue decir quién sigue respondiendo.**
+
+**Las dos ilustran lo mismo:** el daño no lo hizo lo que se dijo, **lo hizo lo que quedó sin
+decir**. **Prohibido** presentar ninguna de las dos como reacción típica ni frecuente (**V-41**).
+
+### 10. Arquitectura del Guion de conversación
+
+**Es el entregable del capítulo 17 y vive dentro del capítulo (D-078).** **No es la herramienta
+13** —que es el *Modelo de informe diario*, del capítulo 19— **ni la 19**, que no existe. **No
+se añade al catálogo, que sigue en dieciocho, y no crea archivo en `recursos/`.**
+
+**Lo que no es:** un discurso que se memoriza; un comunicado; un correo universal; un mensaje de
+relaciones públicas. **Lo que sí es:** una hoja que se rellena **antes** de una conversación y se
+completa **después**.
+
+**Ocho campos. Se evaluaron las ocho candidatas del encargo y se conservan las ocho, con dos
+cambios de fondo:**
+
+| | Campo | Cuándo se rellena |
+|---|---|---|
+| **1** | **Con quién hablo, y qué función tiene esta conversación con esa persona** — informar · consultar · acordar · autorizar | Antes |
+| **2** | **Qué cambia** | Antes |
+| **3** | **Qué no cambia** | Antes |
+| **4** | **Por qué, y por qué ahora** | Antes |
+| **5** | **Qué queda dentro de la autoridad de esa persona** | Antes |
+| **6** | **Qué decisiones siguen volviendo a mí, o a quien corresponda** | Antes |
+| **7** | **Qué necesito escuchar** / **qué escuché** | **Las dos mitades: una antes, otra después** |
+| **8** | **Cuándo volvemos a hablar** — una fecha **o** una condición | Antes |
+
+**Cambio 1, y es el que más importa: el campo 1 no es una etiqueta.** La lista de las ocho
+candidatas empezaba por «con quién hablaré», que por sí solo no hace trabajo. **Se le incorpora
+la función de la conversación** —apartado 4— porque **cuál de las cuatro es depende de quién está
+delante**, y decidirlo antes es lo que impide que un lector presente como acuerdo lo que era
+información.
+
+**Cambio 2: el campo 7 se rellena en dos momentos.** Una conversación en la que solo se habla no
+es una conversación, y un guion que solo se rellena antes es un discurso. **La segunda mitad
+—qué escuché, qué objeción o qué incertidumbre apareció— es la que convierte la hoja en algo que
+sirvió.** Y es también la única casilla que puede decirle al lector que **la conversación no
+salió como esperaba**, que es información y no fracaso.
+
+**Por qué cinco y seis no se funden**, aunque parezcan las dos mitades de una sola cosa: porque
+**autoridad y ejecución son distintas** (**D-072**) y fundirlas devolvería la confusión que el
+capítulo 10 deshizo. **Una casilla dice qué puede decidir; la otra, qué sigue sin poder decidir.**
+
+**Un solo guion base, no tres versiones** (**§31 del encargo**). No hay versión familia, versión
+equipo ni versión clientes: **hay ocho campos y un campo 1 que los adapta**. Las tres variaciones
+del apartado 5 se muestran **después** del guion, en un párrafo corto cada una, y **solo donde el
+mecanismo cambia de verdad**.
+
+**Una hoja por conversación.** No una por audiencia y no una por negocio.
+
+### 11. Arquitectura narrativa — **nueve movimientos**
+
+1. **Lo que quiero decir y lo que el otro puede escuchar.** La pregunta heredada del 16, y su
+   ensanchamiento inmediato: «otras personas» puede ser un equipo, una persona, un cliente o
+   nadie todavía.
+2. **Qué significa transferir el control sin perderlo.** Las cuatro condiciones, cada una con su
+   capítulo. Bloque corto.
+3. **Qué cambia y qué no cambia**, y por qué lo que hace daño es lo que queda sin decir.
+4. **Propiedad, dirección y ejecución.** Las dos frases operativas y la remisión.
+5. **Qué función tiene esta conversación.** Informar · consultar · acordar · autorizar.
+6. **Con quién hay que hablar.** Equipo, familia y clientes cuando existan; **las dos
+   microescenas**, una por ruta.
+7. **El guion de conversación.** Los ocho campos.
+8. **Escuchar, y lo que este capítulo no promete.**
+9. **La señal, y la pregunta que abre el capítulo 18.**
+
+**Apertura, y su deslinde obligatorio.** El tipo es **una misma frase y las lecturas opuestas que
+admite, antes de que exista ninguna escena**. **Tipo no usado antes.** **Se distingue del
+capítulo 9**, que también abre con dos cosas casi iguales y desenlaces opuestos, en dos puntos
+que hay que respetar al escribir: allí el objeto son **dos situaciones que ocurrieron** y la
+diferencia está en **un criterio no escrito**; aquí el objeto es **una sola frase** y la
+diferencia está en **lo que no se dijo después**. Y hay una segunda distinción que además protege
+el control de frecuencias: **las lecturas del 17 son posibles, no ocurridas**, de modo que la
+apertura **no puede afirmar que nadie reaccione de ninguna manera**.
+
+### 12. Señal de paso, falsable
+
+**No exige** que todos estén de acuerdo, que nadie tenga miedo ni que la conversación saliera
+bien. **Ninguna de las tres es comprobable y ninguna depende del lector.**
+
+> **La señal no se comprueba en usted: se comprueba en la otra persona.** Si esa persona puede
+> decir **con sus propias palabras** qué cambia, qué no cambia, qué queda dentro de lo suyo, qué
+> sigue volviendo a otro sitio y cuándo se vuelve a hablar, la conversación llegó. **Si no puede,
+> no llegó** —por bien que fuera—.
+
+**Y su forma en la ruta B, que no es un apaño:** si no hay nadie a quien decírselo todavía, la
+señal es que **usted pueda escribir esas cinco cosas** en el guion sin dejar ninguna en blanco.
+Mismo precedente que la herramienta 12, donde trabajando solo se escribe «a mí» y **no se finge
+una separación que no existe**.
+
+### 13. Puente al capítulo 18
+
+El capítulo cierra cambiando la pregunta del lector, **y no la contesta**:
+
+> *De «¿cómo lo explico?» a «¿cómo empiezo a delegarlo sin entregar demasiado de una sola vez?».*
+
+### 14. Fronteras con los capítulos vecinos
+
+| Par | Deslinde |
+|---|---|
+| **17 y 18** | **17 prepara la relación; 18 ejecuta la delegación.** 17 comunica y aclara expectativas; 18 transfiere bloques reales y produce evidencia de que otra persona, un procedimiento o un sistema supervisado puede ejecutar. **El 17 no desarrolla:** delegación por bloques, orden de menor a mayor riesgo, revisión después y no antes, el primer error, ni el plan de delegación |
+| **17 y 19** | El 17 **promete que habrá revisión**; **no diseña** tablero, informe diario, informe semanal, métricas ni frecuencia de supervisión |
+| **17 y 20** | El 17 **no resuelve** cuándo intervenir, cuándo callarse ni cuándo tolerar un error |
+| **17 y 21** | El 17 **no trata** sucesión, venta, dirección profesional, continuidad sin heredero ni elección de sucesor. Aquí solo se prepara a quienes participan o se ven afectados por **una transición ya decidida**. El argumento «el sucesor no tiene por qué ser un familiar» **pertenece al 21** y en el 17 solo cabe **en una frase** |
+| **17 y 10** | El 17 **remite** a la matriz de autoridad y **no la reexplica** |
+| **17 y 5** | «Delegar no es soltar» pertenece al **18**; en el 17, **una frase como mucho**. «El fundador centralizó por buenas razones» pertenece al **1**; en el 17, **una frase** |
+
+### 15. Lo que el capítulo 17 tiene prohibido prometer
+
+**Ninguna de estas frases, ni ninguna equivalente:** «si usted lo explica bien, todos
+confiarán» · «el equipo lo entenderá» · «la familia lo apoyará» · «los clientes aceptarán el
+cambio».
+
+> **Una buena conversación reduce ambigüedad. No controla la reacción de otra persona.**
+
+**Y una segunda cosa que no se promete:** que la conversación transfiera nada. **El ADN
+Empresarial no se transfiere porque exista un documento ni porque se haya conversado.** La
+conversación **prepara**; la delegación del capítulo 18 **prueba**. **Prohibido** declarar la
+transferencia hecha en este capítulo.
+
+### 16. Vocabulario a auditar al escribir
+
+**Barrido obligatorio, término por término**, comprobando que cada aparición respeta las dos
+rutas y `14-publico-y-rutas.md` §6: *sucesor · heredero · familia · hijo · empleado · equipo ·
+jefe · propietario · dueño · director · gerente · retirarse · reemplazar · sustituir · abandonar
+· desconfianza · delegar · control · autoridad · responsabilidad*.
+
+**Antropomorfismo de la organización.** **Prohibido** «el negocio quiere», «la empresa entiende»
+o «el equipo siente» como estado colectivo. Las interpretaciones se atribuyen **a personas
+concretas** o se formulan **como posibilidades**.
+
+**Control de frecuencias (V-41).** **Prohibido** «los empleados suelen», «las familias
+normalmente», «los clientes casi siempre», «los fundadores tienden». **Formas admitidas** cuando
+no pretendan frecuencia: «puede interpretarse», «una persona puede leerlo como», «en algunos
+casos». **Y el control se pasa después de completar el capítulo, no solo antes** —lección
+registrada cinco veces en `editorial/05-control-de-fuentes.md`—.
+
+### 17. Extensión, clasificación de afirmaciones y controles
+
+**Objetivo: 2.000 palabras. Diseñado para 1.900–2.100, con el guion dentro del total.** El tope
+del +15 % (**D-030**) es un tope, no un objetivo. **La arquitectura de nueve movimientos se
+diseñó para caber**: los movimientos 2, 4 y 5 son bloques cortos con tabla, el 6 lleva las dos
+microescenas por debajo de 120 palabras cada una, y el 7 es el más largo.
+
+**Clasificación de todo lo que el capítulo va a afirmar:**
+
+| Clase | Qué hay | Necesita fuente |
+|---|---|---|
+| **A — doctrina del Método LEGADO** | Las cuatro condiciones de «sin perderlo»; propiedad ≠ dirección ≠ ejecución; las cuatro funciones de la conversación; la señal de paso | **No.** Se declaran como diseño de este método |
+| **B — instrucción práctica** | El guion y sus ocho campos; las tres variaciones | **No** |
+| **C — afirmación factual externa** | **Ninguna prevista** | — |
+| **D — afirmación jurídica** | **Ninguna.** Todo lo jurídico se remite | — |
+| **E — gobierno empresarial** | **Ninguna.** Por eso Q-11 no se ejecuta | — |
+
+**Fuentes nuevas previstas: cero. Total: 46.** **Investigación nueva: ninguna.** **Preguntas
+nuevas de investigación: ninguna** —y **prohibido** abrir una sobre comunicación o cambio
+organizacional para adornar un capítulo que se sostiene por mecanismo—.
+
+**Verificaciones que afectan al capítulo 17.** **V-41**, barrido de afirmaciones de frecuencia,
+**en vigor y es la más pertinente de todo el libro en este capítulo**. **V-56B**, el vacío de
+evidencia hispanohablante, que refuerza lo anterior: **no hay con qué sostener ninguna
+afirmación de frecuencia sobre la ruta B**. **V-61**, separación de funciones, que **no se
+reabre**: el capítulo habla de alinear responsabilidad, autoridad y límite, **no de separar
+funciones**. **V-40**, referencias cruzadas a la numeración antigua, que se comprueba en la
+Etapa 4. **Y V-70, nueva**, que registra que el libro **no define ni reparte la propiedad ni la
+dirección en términos jurídicos** y que el capítulo 17 remite. **Ninguna necesita decisión del
+autor.**
+
+**Decisiones nuevas propuestas: ninguna.** Todo lo que el capítulo necesita está resuelto por
+**D-014**, **D-020**, **D-026**, **D-030**, **D-033**, **D-040**, **D-072**, **D-074**, **D-075**,
+**D-076** y **D-078**.
+
+**`producto/` no necesita cambios.** `producto/02-mapa-libro-plataforma.md` ya registra el
+capítulo 17 con **«sin mención de producto»** y **ninguna llamada a la acción**, y lo incluye en
+la lista de capítulos sin ninguna mención identificable de la plataforma. **El guion podría
+existir mañana como experiencia digital —destinatario, cambio, motivo, autoridad, límites,
+preguntas, objeciones, seguimiento— y hoy no se diseña nada: sin esquema, sin base de datos, sin
+programación y sin elección de proveedor.** **El capítulo debe estar completo sin software.**

@@ -1,10 +1,51 @@
-# Parte 04 — pendiente de autorización
+# Parte IV — Transferir el control sin perderlo
 
-Carpeta reservada para los capítulos de la Parte 04 del índice maestro
-(`editorial/03-indice-maestro.md`).
+Capítulos 17 a 21. **Preflight del capítulo 17 ejecutado el 2026-09-10 (Etapa 3.16A). Ningún
+capítulo escrito todavía.**
 
-No contiene capítulos porque el proyecto se encuentra en la **Etapa 1 — Fundamentos**,
-que no autoriza la redacción del manuscrito. Este archivo existe únicamente para
-preservar la estructura del repositorio en Git.
+**Historial.** Hasta el 2026-09-10 este archivo decía que la carpeta estaba «pendiente de
+autorización» y que el proyecto se encontraba en la **Etapa 1 — Fundamentos**, que no autorizaba
+la redacción del manuscrito. Era cierto cuando se escribió y dejó de serlo el 2026-09-07, cuando
+el autor autorizó la Etapa 3. Se sustituye porque **describía como actual una etapa terminada**.
 
-Se eliminará o se sustituirá por contenido real cuando se autorice la Etapa 3.
+Las tres partes anteriores sirvieron para **mirar**, para **trabajar** y para **asistir**: cuánto
+depende el negocio de una persona, qué es exactamente lo que depende, cómo se documenta, quién
+puede decidir con ello, y cómo la tecnología puede ayudar dentro de límites escritos.
+
+Esta parte abre la **etapa D del Método LEGADO** —*delegar de forma progresiva y verificable, en
+personas, procedimientos o sistemas supervisados* (D-026)— y su función es la que le da título:
+
+> **Transferir el control sin perderlo.**
+
+Que **no** significa conservar el control de cada acción. Significa poder transferir la ejecución,
+o parte de la decisión, **sin perder visibilidad, límites, capacidad de revisión ni criterios de
+intervención**. Las cuatro son arquitectura de este método, no una definición universal, y cada
+una se construye en un capítulo distinto de esta parte.
+
+**Es la parte donde más importa no dar por supuesta la familia** (`editorial/03-indice-maestro.md`).
+
+## Capítulos
+
+| # | Capítulo | Etapa | Entregable | Estado |
+|---|---|---|---|---|
+| 17 | Preparar al equipo, a la familia y a los clientes | D | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | preflight hecho (3.16A) |
+| 18 | Delegación progresiva | D | Plan de delegación por bloques | no iniciado |
+| 19 | El tablero del propietario | O | Modelos de informe diario y semanal (13 y 14) | no iniciado |
+| 20 | Supervisar sin intervenir en todo | O | Reglas de intervención | no iniciado |
+| 21 | Qué hacer cuando no existe el sucesor ideal | D | Árbol de opciones de continuidad | no iniciado |
+
+El índice completo, con la idea central y el presupuesto de palabras de cada capítulo, vive en
+`editorial/03-indice-maestro.md`. Aquí no se duplica.
+
+## Frontera con la Parte III
+
+La Parte III cerró la **etapa A** con el capítulo 16 y con una pregunta que esta parte recibe:
+*¿qué ocurre cuando quienes tienen que trabajar con todo esto son otras personas?*
+
+**El sujeto cambia.** Hasta aquí el material era el negocio y su dependencia; a partir de aquí son
+**las personas, los papeles, las expectativas y las relaciones**. La tecnología solo reaparece
+como parte de lo que ya se delegó o se supervisó.
+
+**Y la pregunta heredada se ensancha en el capítulo 17**, porque tal como está supone algo que no
+siempre existe: *otras personas*. Puede ser un equipo, una sola persona, un cliente, o nadie
+todavía —y en ese caso lo que recibe el trabajo es un **procedimiento**, que es materia del 18.

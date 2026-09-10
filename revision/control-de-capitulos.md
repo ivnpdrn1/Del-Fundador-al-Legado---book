@@ -55,7 +55,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 14 | De las alertas a las recomendaciones | III | **A** | **borrador, revisado (3.13B.1, 3.13B.2 y 3.14B.2)** | **1.986** | 2.000 | **Formato de recomendación explicada — dentro del capítulo, no es una de las 18** | **C-11** | 0 |
 | 15 | Autonomía limitada y aprobación humana | III | **A** | **borrador, revisado (3.14B.1)** | **2.170** | 2.200 | Matriz de niveles de autonomía (herramienta 12 de 18) | **C-12** | 0 |
 | 16 | Seguridad, privacidad y auditoría | III | **A** | **borrador, revisado (3.15B.1)** | **2.233** | 2.100 | **Lista de comprobación de seguridad básica — dentro del capítulo, no es una de las 18 (D-078)** | — (dos microescenas sin nombre) | 0 |
-| 17 | Preparar al equipo, a la familia y a los clientes | IV | D | no iniciado | 0 | 2.000 | — | — | — |
+| 17 | Preparar al equipo, a la familia y a los clientes | IV | **D** | **preflight hecho (3.16A)** | 0 | 2.000 | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **ninguno: dos microescenas sin nombre, una por ruta** | — |
 | 18 | Delegación progresiva | IV | D | no iniciado | 0 | 2.200 | — | — | — |
 | 19 | El tablero del propietario | IV | O | no iniciado | 0 | 2.000 | — | — | — |
 | 20 | Supervisar sin intervenir en todo | IV | O | no iniciado | 0 | 1.900 | — | — | — |
