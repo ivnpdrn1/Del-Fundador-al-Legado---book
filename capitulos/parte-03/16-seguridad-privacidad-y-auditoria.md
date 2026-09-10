@@ -4,7 +4,7 @@ parte: 3
 titulo: "Seguridad, privacidad y auditoría"
 etapa_metodo: "A"
 estado: borrador
-palabras: 2138
+palabras: 2233
 casos_usados: []
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -55,7 +55,7 @@ Dos precisiones cortas. **Privacidad depende de dónde esté usted**: qué se pu
 información de personas cambia según el país, la finalidad, la relación y el contexto, y este
 libro no le va a decir cuál es su regla. Y **algo puede no ser un dato personal y aun así ser
 información que usted le debe a otro**: un procedimiento que le confió un cliente no es un dato
-personal de nadie, y tampoco es suyo para enseñarlo.
+personal de nadie, y no por eso puede enseñarlo libremente.
 
 **Auditoría, aquí, no es** auditoría contable, ni legal, ni una certificación de cumplimiento.
 Es lo que dice la tabla: poder reconstruir.
@@ -81,6 +81,11 @@ información o un uso no autorizado.**
 
 Traducido a este método: el acceso no se concede por comodidad. Se concede porque hace falta, y
 se retira cuando deja de hacer falta.
+
+**Y lo que este método añade por su cuenta**, porque la fuente habla de personas y aquí ya hay
+tareas funcionando solas: **lo que importa no es qué forma tenga cada acceso, sino que después se
+pueda distinguir qué hizo una persona y qué hizo una automatización.** Cómo se resuelva eso por
+dentro **no lo decide este libro**.
 
 **Con equipo** puede haber personas distintas que autoricen accesos, administren sistemas o
 revisen lo ocurrido. **Trabajando solo** son la misma persona, y las preguntas no desaparecen:
@@ -110,7 +115,7 @@ La segunda escena es de un negocio de una sola persona.
 Necesitaba recuperar algo de unos meses atrás. Estaba en la cuenta de un proveedor, y a esa
 cuenta se entraba con un correo que había dejado de usar. Lo resolvió en dos días. Pero durante
 esos dos días descubrió que **una parte del negocio existía en un solo sitio, y que ese sitio no
-era suyo**.
+estaba bajo su control**.
 
 No hace falta un desastre para descubrir una dependencia. Basta con necesitar algo.
 
@@ -127,14 +132,15 @@ autoridad europea de protección de datos sostiene que **quien encarga a un prov
 tratamiento de datos personales** solo debe recurrir a proveedores que ofrezcan **garantías
 suficientes**, y **debe poder demostrar que lo valoró antes**. **Es una regla de ese marco y para
 esa materia**, y no debe leerse como obligación general. Pero el principio que hay detrás viaja
-bien, y lo formulo como regla de este método: **contratar a un proveedor no traslada
-automáticamente la responsabilidad del negocio sobre lo que necesita proteger.**
+bien, y lo formulo como regla de este método: **contratar a un proveedor no traslada por sí solo
+toda la responsabilidad del negocio sobre lo que necesita proteger.**
 
 ## Qué pasa si algo falla
 
-Dentro de «que algo falle» caben cinco cosas distintas, y conviene nombrarlas por separado porque
-no se parecen: **falla la herramienta** —deja de funcionar, o funciona mal—; **falla el acceso**
-—nadie puede entrar, o entra quien no debía—; **falla el proveedor** —el servicio no está, o deja
+«Que algo falle» no dice gran cosa. **Para lo que hace falta aquí conviene separar cinco formas
+de fallo**, que no son todas las posibles pero sí las que piden respuestas distintas: **falla la
+herramienta** —deja de funcionar, o funciona mal—; **falla el acceso** —nadie puede entrar, o
+entra quien no debía—; **falla el proveedor** —el servicio no está, o deja
 de prestarse—; **falla la información** —se pierde, se estropea o se queda vieja sin que nadie lo
 note—; y **alguien usa algo que no debía usar**, que es la única de las cinco que no es una
 avería.
@@ -158,14 +164,15 @@ vez que se recupera de verdad**, y que anote el día que lo comprobó.
 
 ## La lista de comprobación de seguridad básica
 
-Ocho preguntas, en cuatro pares: **quién entra** (1 y 2), **con qué llaves y con qué rastro** (3
-y 4), **qué hay fuera de su alcance** (5 y 6) y **qué pasa cuando algo falla** (7 y 8). Las cuatro
-primeras miran hacia dentro y las cuatro últimas hacia fuera. Se contestan en una hoja y no hay
+Ocho preguntas, en cuatro pares: **quién hizo qué, y quién puede hacer qué** (1 y 2), **con qué
+llaves se entra, y qué queda escrito** (3 y 4), **qué hay fuera de su alcance** (5 y 6) y **qué
+pasa cuando algo falla** (7 y 8). Las cuatro primeras miran hacia dentro y las cuatro últimas
+hacia fuera. Se contestan en una hoja y no hay
 que ser especialista para entenderlas.
 
 | | | Respuesta |
 |---|---|---|
-| **1** | ¿Cada persona —y cada herramienta— entra **con su propia cuenta**? | ☐ sí ☐ no ☐ no lo sé ☐ no aplica |
+| **1** | ¿Puede distinguir **qué persona o qué automatización** hizo cada cosa que importa? | ☐ sí ☐ no ☐ no lo sé ☐ no aplica |
 | **2** | ¿Alguien, o algo, tiene acceso a **más de lo que necesita** para su trabajo? | ☐ sí ☐ no ☐ no lo sé ☐ no aplica |
 | **3** | ¿Sabe **dónde están las credenciales** y quién las conoce? | ☐ sí ☐ no ☐ no lo sé ☐ no aplica |
 | **4** | Si mañana hubiera que reconstruir **qué se hizo, quién lo autorizó y qué pasó con una excepción**, ¿podría? | ☐ sí ☐ no ☐ no lo sé ☐ no aplica |
@@ -178,8 +185,8 @@ que ser especialista para entenderlas.
 por pregunta, con fecha.
 
 > **«No lo sé» es la respuesta más útil de esta hoja.** No es peor que «no»: es la única que le
-> dice **dónde tiene que mirar**. Un «no» ya es una decisión; un «no lo sé» es un sitio del
-> negocio que nadie ha mirado todavía.
+> dice **dónde tiene que mirar**. Un «no» describe algo que ya conoce, lo haya elegido o no; un
+> «no lo sé» es un sitio del negocio que nadie ha mirado todavía.
 
 **«No aplica» se escribe con su motivo**, en media línea, igual que en la matriz del capítulo
 anterior. Una casilla que no aplica no es una casilla vacía.
@@ -200,9 +207,9 @@ poner el profesional por usted.
 Y conviene dejar escrito lo que este capítulo **no** promete, porque en este terreno la
 diferencia entre lo hecho y lo prometido cuesta cara: no promete que su negocio esté seguro, ni
 que evite una filtración, ni que cumpla ninguna regulación, ni que su información esté
-protegida. Una copia no garantiza una recuperación, un registro no garantiza
-una auditoría, un proveedor no asume su responsabilidad por el hecho de cobrarle, y **que algo
-quede registrado no significa que alguien lo esté mirando**.
+protegida. Una copia no garantiza una recuperación, un registro no garantiza una auditoría,
+contratar a un proveedor no traslada por sí solo toda su responsabilidad, y **que algo quede
+registrado no significa que alguien lo esté mirando**.
 
 ## Lo que queda al cerrar esta parte
 
