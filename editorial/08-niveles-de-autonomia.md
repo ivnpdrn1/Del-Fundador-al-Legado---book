@@ -82,13 +82,48 @@ herramienta no muestra en qué se basa, se queda en el nivel 3.
 
 ### Nivel 5 — Ejecución limitada
 
-Ejecuta únicamente tareas de bajo riesgo, dentro de reglas autorizadas previamente por
-escrito. Mantiene registro de todo lo que hace. Ante cualquier excepción, se detiene y
-pide aprobación. Debe existir un modo de detener la automatización de forma inmediata.
+Ejecuta únicamente tareas que cumplan el criterio de abajo, dentro de reglas autorizadas
+previamente por escrito. Mantiene registro de todo lo que hace. Ante cualquier excepción, se
+detiene y devuelve la decisión a una persona. Debe existir un modo de detener la automatización
+de forma inmediata.
 
-*Criterio para clasificar una tarea como de bajo riesgo:* es reversible, su impacto
-económico está acotado por escrito, no afecta a personas y no compromete a la empresa
-frente a un tercero.
+*Criterio del **Método LEGADO** para considerar una tarea **candidata a ejecución limitada de
+nivel 5**.* **Es una condición de diseño de este método y no una clasificación legal,
+regulatoria ni normativa de ninguna institución** (D-077). Se cumplen las cinco:
+
+1. **Su alcance está acotado previamente por escrito** —por tipo de caso, plazo, volumen,
+   información, importe cuando realmente aplique u otra condición pertinente—. **No hace falta
+   que se cumplan todas esas formas: son maneras posibles de expresar un límite**, y el importe
+   es una entre varias.
+2. **Su efecto principal es reversible en la práctica**: existe una forma realista de deshacerlo
+   **sin provocar una consecuencia igual o mayor**. **Reversible no significa «puedo borrar el
+   registro»**, y nada es reversible por el hecho de ser digital.
+3. **No decide ni modifica derechos, seguridad, empleo, remuneración u obligaciones de una
+   persona.** Esto **no afirma** que una tarea de un negocio no produzca efectos indirectos sobre
+   alguien: dice qué **no puede decidir** una tecnología por pertenecer a este nivel.
+4. **No decide por sí misma el uso, la divulgación ni una finalidad nueva** de información
+   confidencial o de datos personales. El régimen completo es materia de los capítulos 11 y 16.
+5. **No crea, modifica ni cancela por sí misma compromisos del negocio frente a terceros.** Es
+   una regla de prudencia del método, no una doctrina contractual.
+
+**Y la consecuencia, que forma parte de la propia definición:** si un caso **sale de cualquiera
+de esos límites, deja de estar autorizado**. La ejecución **se detiene** y la decisión **vuelve a
+una persona**. **La tecnología no decide si la excepción es lo bastante pequeña como para
+seguir.**
+
+**Corregido el 2026-09-09 (Etapa 3.14A.1, D-077), y sustituye a la redacción anterior.** Decía:
+«es reversible, su impacto económico está acotado por escrito, **no afecta a personas** y no
+compromete a la empresa frente a un tercero». **Tres defectos:** «no afecta a personas», leído
+literalmente, **vaciaba el nivel 5** —casi cualquier acción de un negocio afecta a alguien— y
+leído con manga ancha no filtraba nada; «impacto económico» **reducía el límite a dinero**,
+contra la doctrina ya vigente de que el importe es una forma de límite entre varias; y
+«reversible» **no estaba definido**, siendo la palabra de la que cuelga el resto.
+
+**Sobre la expresión «bajo riesgo».** Puede seguir usándose donde ayude a la lectura, pero
+significa **bajo riesgo para el permiso de ejecución limitada según este método**, y **nunca** una
+categoría regulatoria, jurídica o de ningún estándar internacional. **En la definición formal se
+dice «tarea candidata a ejecución limitada de nivel 5»**, precisamente para no presentarla como
+una taxonomía externa.
 
 ### Nivel 6 — Mano derecha digital supervisada
 

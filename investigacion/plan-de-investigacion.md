@@ -2214,9 +2214,11 @@ salidas legítimas**, igual que en el modo sombra.
 al propietario, no decide estrategia, no modifica sus permisos y no actúa fuera de lo
 autorizado.
 
-### 4. Auditoría de «bajo riesgo» — **PROPUESTA PENDIENTE DE DECISIÓN DEL AUTOR**
+### 4. Auditoría de «bajo riesgo» — **RESUELTA POR EL AUTOR (D-077, Etapa 3.14A.1)**
 
-**La definición vigente no se ha tocado**, y no debe tocarse hasta que el autor decida. Dice:
+**Este apartado se conserva porque explica el problema; lo que sigue describe la definición que ya NO rige.** El autor aprobó la corrección el 2026-09-09 y la adoptó **con una formulación más precisa que la propuesta aquí**: cinco condiciones en lugar de cuatro, añadiendo **datos personales e información confidencial** y **compromisos frente a terceros** como fronteras propias, y **la excepción incorporada a la propia definición**. La redacción vigente está en `editorial/08-niveles-de-autonomia.md` y en **D-077**. **La Etapa 3.14B ya no está bloqueada.**
+
+**Redacción anterior, que queda sustituida:**
 
 > *Criterio para clasificar una tarea como de bajo riesgo:* es reversible, su impacto económico
 > está acotado por escrito, **no afecta a personas** y no compromete a la empresa frente a un
@@ -2258,8 +2260,8 @@ vigente**. **Consecuencia si no se adopta:** el capítulo 15 tendría que escrib
 citar el criterio, lo cual es posible pero deja la escala con una condición inaplicable en su
 escalón más delicado.
 
-**No se ha registrado ninguna decisión y no se ha modificado `08-niveles-de-autonomia.md`.**
-Queda como **V-69**, y **la Etapa 3.14B no debería empezar sin resolverlo**.
+~~**No se ha registrado ninguna decisión y no se ha modificado `08-niveles-de-autonomia.md`.**~~
+**Resuelto el 2026-09-09: D-077 registra la decisión, `08-niveles-de-autonomia.md` recoge la redacción vigente y V-69 queda cerrada.** La formulación aprobada por el autor es **más estricta que la propuesta** en dos puntos que este preflight no había visto: separa **datos personales y confidencialidad** como frontera propia —el nivel 5 no adquiere por sí mismo autoridad para decidir un uso, una divulgación o una finalidad nueva— y separa **los compromisos frente a terceros** en sus tres verbos: **no crea, no modifica y no cancela**.
 
 ### 5. Reversibilidad, límites, excepción y detención
 
@@ -2411,9 +2413,11 @@ llegaron.**
 
 - **(A)** se ejecuta muchas veces dentro del límite;
 - **(B)** no necesita preguntar en cada documento;
-- **(C)** la excepción es realista: **llega un documento que no corresponde a ningún envío
-  abierto** —el proveedor manda una factura corregida de un envío que Ismael cerró el mes
-  pasado—;
+- **(C)** la excepción es realista: **llega un documento corregido de un envío que ya estaba
+  cerrado**. **Corregido el 2026-09-09 (Etapa 3.14A.1):** el borrador decía «una factura
+  corregida», y eso metía en el capítulo contabilidad, fiscalidad y modificación de registros
+  financieros **que el mecanismo no necesita**. La tarea sigue siendo clasificar y archivar **los
+  documentos corrientes de cada envío**;
 - **(D)** el sistema **se detiene**;
 - **(E)** y le devuelve la decisión: reabrir el registro es cosa suya.
 
@@ -2422,8 +2426,8 @@ noches. **Y el error se puede parar antes de tener consecuencias**, que es lo qu
 para enseñar. **Nada de** transferencias, pagos, contratación, contratos, decisiones
 regulatorias, salud, seguridad física ni acciones irreversibles.
 
-**El segundo hallazgo del caso, que es el que enseña:** el sistema **no decidió** que la factura
-corregida era un caso menor y podía archivarse igual. **Se detuvo porque estaba fuera del
+**El segundo hallazgo del caso, que es el que enseña:** el sistema **no decidió** que el documento
+corregido era un cambio menor y podía archivarse igual. **Se detuvo porque estaba fuera del
 límite**, y eso es lo contrario de lo que el lector teme.
 
 **Tres rasgos**, no más: (1) importa y distribuye por su cuenta, sin empleados; (2) cada envío
