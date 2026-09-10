@@ -1,7 +1,7 @@
 # Parte IV — Transferir el control sin perderlo
 
-Capítulos 17 a 21. **Preflight del capítulo 17 ejecutado el 2026-09-10 (Etapa 3.16A). Ningún
-capítulo escrito todavía.**
+Capítulos 17 a 21. **Escrito el 17 el 2026-09-10 (Etapa 3.16B). Faltan el 18, el 19, el 20 y
+el 21.**
 
 **Historial.** Hasta el 2026-09-10 este archivo decía que la carpeta estaba «pendiente de
 autorización» y que el proyecto se encontraba en la **Etapa 1 — Fundamentos**, que no autorizaba
@@ -30,7 +30,7 @@ intervención**. Las cuatro son arquitectura de este método, no una definición
 
 | # | Capítulo | Etapa | Entregable | Estado |
 |---|---|---|---|---|
-| 17 | Preparar al equipo, a la familia y a los clientes | D | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | preflight hecho (3.16A) |
+| 17 | Preparar al equipo, a la familia y a los clientes | D | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **borrador** |
 | 18 | Delegación progresiva | D | Plan de delegación por bloques | no iniciado |
 | 19 | El tablero del propietario | O | Modelos de informe diario y semanal (13 y 14) | no iniciado |
 | 20 | Supervisar sin intervenir en todo | O | Reglas de intervención | no iniciado |

@@ -100,6 +100,76 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+**Capítulo 17: cero afirmaciones con fuente, y es el resultado de una prueba de necesidad, no
+de un olvido.** Es el primer capítulo de la Parte IV y **la primera pieza del libro desde el
+capítulo 8 que no cita a nadie**. Todo lo que afirma es de **clase A —doctrina del Método
+LEGADO—** o de **clase B —instrucción práctica—**: las cuatro condiciones de «transferir el
+control sin perderlo»; la separación entre propiedad, dirección y ejecución; las cuatro funciones
+de la conversación; los ocho campos del guion; y la señal de paso. **Ninguna necesita respaldo
+externo y ninguna se disfraza de hallazgo.**
+
+**Qué se decidió no investigar, y por qué.** **Q-11** —*¿qué estructuras de gobierno se
+recomiendan para separar propiedad y dirección en empresas familiares?*— estaba mapeada a este
+capítulo y **no se ejecutó** (Etapa 3.16A). La afirmación que la habría hecho necesaria quedó
+escrita para poder comprobarlo: cualquier frase de la forma *«para separar propiedad y dirección
+conviene constituir X»*. **El capítulo no la contiene.** Nombrar consejo, junta, protocolo
+familiar, comité o holding habría sido **prescribir arquitectura** —lo mismo que el capítulo 16
+se negó a hacer con la seguridad (**D-020**)— y habría trasplantado estructuras de empresas con
+tamaño a un libro que también sirve a un negocio de una sola persona. **Q-09 tampoco se reabrió**:
+**D-075** ya resuelve el problema conceptual del motivo del lector, y citarla aquí habría sido
+decoración.
+
+**Lo que el capítulo remite en lugar de afirmar**, y va dicho dentro del propio texto: quién
+puede dirigir, quién representa legalmente al negocio, qué derechos tiene una persona empleada,
+qué autoridad tiene un familiar y qué exige una sucesión. **Todo eso depende de la estructura
+jurídica, del contrato, del empleo, de la regulación, del país y de la profesión** (**D-014**,
+**D-033**, **V-70**).
+
+**Control de universalidades del capítulo 17.** Dos pasadas, y **es el capítulo más expuesto de
+todo el libro a V-41**, porque trata de cómo puede entenderse una frase.
+
+**Primera, literal: veintisiete apariciones con límite de palabra, y las veintisiete son
+legítimas.** Cuatro grupos: **negaciones y límites** —«no habría transferencia de ninguna clase»,
+«ningún acuerdo familiar», «ninguna señal puede darle»—; **deícticos** —«sobre todo», «todo
+esto»—; **reglas del método** —«no todas las conversaciones hacen lo mismo», «no se reparten una
+por capítulo»—; y **interiores de las dos microescenas** —«la persona que siempre la revisaba»,
+«nadie había dicho eso»—.
+
+**Segunda, de lectura: cinco correcciones, y ninguna de las cinco contenía una palabra de la
+lista literal.** Ninguna búsqueda las habría encontrado:
+
+| Lo que decía | Por qué no podía quedarse | Cómo quedó |
+|---|---|---|
+| «Lo que hace daño **rara vez** es lo que se dijo. **Suele ser** lo que quedó sin decir» | **Dos afirmaciones de frecuencia en la cita destacada del capítulo**, que es el peor sitio posible | «**no es necesariamente** lo que se dijo. **Puede ser** lo que quedó sin decir» |
+| «la otra mitad no se queda vacía, **se completa**» | Afirmaba una conducta ajena como si ocurriera siempre | «**usted deja de controlar con qué se llena** la otra mitad» |
+| «la otra persona **lo está oyendo** por primera vez» | Afirmación categórica sobre alguien a quien el lector no ve | «**puede estar oyéndolo** por primera vez» |
+| «El segundo **se descubre solo, y tarde**» | Afirmaba un desenlace | «**puede tardar** en salir a la luz, y sale en el peor momento: cuando alguien la usa» |
+| «una razón prestada **se nota en** la segunda pregunta» | Afirmación categórica | «**aguanta mal** la segunda pregunta» |
+
+**La lección se cumplió otra vez, y van seis:** el control se pasó **después** de completar el
+capítulo, y **cuatro de las cinco correcciones estaban en pasajes escritos o reescritos en la
+última mano**, incluidas las dos de la cita destacada.
+
+**Control de antropomorfismos.** **Seis apariciones de verbos de estado mental, y las seis tienen
+a una persona como sujeto** o son el nombre común «duda». **Dos de ellas —«que su equipo lo
+entienda», «que su familia lo apoye»— viven dentro de la lista de lo que el capítulo NO promete**,
+que es exactamente donde deben estar. **Cero atribuciones de estado mental a una tecnología, a un
+procedimiento o a una organización.** La única fórmula colectiva del capítulo es «lo que su
+negocio sabe hacer», establecida desde el capítulo 6.
+
+**Control D-026 / D-074.** Ejecutado expresamente por la corrección de la Etapa 3.16A.1. **Cero
+apariciones** de «procedimiento ejecuta», «procedimiento decide», «plantilla ejecuta», «sistema
+responsable», «la IA responde» y «el ejecutor es siempre una persona». Lo que el capítulo sí dice,
+en una sola frase de remisión: **un procedimiento escrito apoya a quien ejecuta y no ejecuta por
+su cuenta; una herramienta supervisada puede realizar acciones dentro de un permiso escrito sin
+adquirir autoridad, responsabilidad ni criterio propios; ninguna de las dos responde de nada,
+responde alguien.**
+
+**Control de la ampliación D-075.** **«Retiro», «jubilación», «expansión» y «otro negocio» no
+aparecen en el capítulo**, ni como finalidad ni como destino. «Sucesión» aparece **una sola vez**,
+dentro de la lista de preguntas jurídicas que se remiten. **«Sucesor», «heredero» e «hijo»:
+cero.**
+
 **Capítulo 16: cinco afirmaciones y dos fuentes, ninguna con cifras.** Es el capítulo que
 **cierra la Parte III y la etapa A**, y el único del libro que trata de seguridad. **Cuatro de las
 cinco afirmaciones salen de una sola fuente, F-046**, y la quinta de F-040 con su ámbito pegado.

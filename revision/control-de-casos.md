@@ -56,7 +56,7 @@ Máximo tres apariciones por sector. Sin repetición en capítulos consecutivos.
 | Comercio minorista | **1** | 9, 22 | **9** |
 | Empresa familiar de alimentos | **1** | 10, 25 | **10** |
 | Servicios técnicos | **2** | 4, **11**, 24 | 4, **11** |
-| Importación y distribución | **1** | ~~12~~, ~~14~~, **15**, 17 | **15** |
+| Importación y distribución | **1** | ~~12~~, ~~14~~, **15**, ~~17~~ | **15** |
 
 **Nota de la Etapa 3.7.** La fila de *Construcción* aparecía **dos veces**: al anotar la
 microescena del capítulo 7 se insertó una fila nueva en lugar de actualizar la existente.
