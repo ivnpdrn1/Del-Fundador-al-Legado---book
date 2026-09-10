@@ -161,9 +161,34 @@ negocio sabe hacer», establecida desde el capítulo 6.
 apariciones** de «procedimiento ejecuta», «procedimiento decide», «plantilla ejecuta», «sistema
 responsable», «la IA responde» y «el ejecutor es siempre una persona». Lo que el capítulo sí dice,
 en una sola frase de remisión: **un procedimiento escrito apoya a quien ejecuta y no ejecuta por
-su cuenta; una herramienta supervisada puede realizar acciones dentro de un permiso escrito sin
-adquirir autoridad, responsabilidad ni criterio propios; ninguna de las dos responde de nada,
-responde alguien.**
+su cuenta; un **sistema supervisado** puede realizar acciones dentro de un permiso escrito sin
+adquirir autoridad, responsabilidad ni criterio propios; ninguno de los dos responde de nada,
+responde alguien.** *(La primera redacción decía «herramienta supervisada»; corregido el
+2026-09-10 en la Etapa 3.16B.1 para no crear un sinónimo de una categoría que **D-026** ya
+nombra.)*
+
+**Microcontrol conceptual de la Etapa 3.16B.1.** Doce correcciones sobre el capítulo ya
+publicado, **ninguna de arquitectura**: los nueve movimientos, las dos microescenas, los ocho
+campos del guion, las tres variaciones y el puente al 18 siguen siendo los mismos. **Cero
+fuentes nuevas, cero investigación, cero decisiones nuevas.** Lo corregido, agrupado por lo
+que fallaba:
+
+| Lo que decía | Qué fallaba | Cómo quedó |
+|---|---|---|
+| «Desde aquí trabaja sobre **cómo va a ser leído por otro**» | **Universalizaba el interlocutor** en un capítulo que admite expresamente la ruta B sin él | «**cómo se entiende ese negocio fuera de su cabeza**: leído por otra persona cuando la hay, y escrito para sostenerse solo cuando todavía no la hay» |
+| «lo que **recibe el trabajo** no es alguien sino **un procedimiento escrito**» | Hacía del procedimiento un receptor con agencia **y borraba la tercera modalidad de D-026** | «**la tarea se vuelve reproducible por escrito** —o la ejecuta, dentro de límites, un **sistema supervisado**—» |
+| «una **herramienta supervisada** puede realizar acciones» | Sinónimo innecesario de una categoría que **D-026** ya nombra | «un **sistema supervisado**» |
+| «Una misma persona puede estar en las cuatro, en una **o en ninguna**» | **Contradicción interna:** el apartado habla de *familia que participa*, y una de las cuatro posiciones es «familia» | «**Ser de la familia no implica ninguna de las otras tres.** Una misma persona puede ocupar varias» |
+| «La razón que sirve es la del negocio…, **no una explicación de por qué usted está cansado**» | **Invalidaba motivos personales legítimos** y chocaba con **D-075** y **D-040** | «El motivo **puede ser personal y ser legítimo**… lo que el campo pide es traducirlo a una **razón operativa**» |
+| «una transición sin revisión escrita **se vuelve definitiva**» | Consecuencia universal no demostrada | «**puede seguir por inercia** sin que nadie haya decidido mantenerla» |
+| «**Si las cinco están dichas**, la conversación hizo su trabajo» | **El residuo más grave del cierre:** rebajaba el criterio de **comprobar** a **decir**, deshaciendo la doctrina de las dos formas que el propio capítulo acababa de construir | «**Si las cinco quedaron comprobadas** por la forma que corresponda… **haberlas dicho no es lo mismo que haberlas comprobado**» |
+| «qué sigue volviendo **a otro sitio**» | Impreciso frente al vocabulario de D-072/D-073 | «**a otra persona o instancia**» |
+| «**el modo más silencioso**» · «**la ambigüedad más cara**… y **la más fácil** de evitar» · «sale en **el peor momento**» · «es **el modo más rápido** de que…» · «puede ser **la mejor** información que consiga esa semana» | **Cinco jerarquías sin nada que las sostenga** | «un modo silencioso» · «una ambigüedad costosa, y de las que se evitan antes de empezar» · «salir cuando alguien la usa» · «puede convertir una conversación de trabajo en otra cosa» · «puede traer información que usted no tenía» |
+| «después de **meses** pensándolo» | Duración inventada, sin necesidad narrativa | «después de **haberlo pensado**» |
+
+**Controles repetidos después de corregir.** **Universalidades: veintiséis apariciones literales, las veintiséis legítimas**, y **cero** en la segunda pasada semántica —las cinco frecuencias corregidas en 3.16B siguen fuera y no apareció ninguna nueva—. **Antropomorfismos: ocho verbos de estado mental, todos con persona como sujeto** o impersonales; **cero atribuciones a una tecnología, a un procedimiento o a una organización**. **Superlativos: quedan dos, «única» y «automáticamente», y las dos son legítimas** —la primera describe el alcance del propio capítulo, la segunda niega una inferencia automática—. **D-026/D-074: cero apariciones** de las ocho cadenas prohibidas, y «sistema supervisado» aparece dos veces con el sentido correcto. **D-075: «cansado» desapareció**, y siguen en cero retiro, jubilación, expansión, otro negocio, sucesor, heredero e hijo.
+
+**Nota de alcance, sin corregir:** «herramientas supervisadas» aparece también en el **capítulo 1**, dentro de una enumeración. **No se toca**, porque los capítulos 1 a 16 quedan fuera de esta etapa; queda anotado para una revisión de vocabulario posterior.
 
 **Control de la ampliación D-075.** **«Retiro», «jubilación», «expansión» y «otro negocio» no
 aparecen en el capítulo**, ni como finalidad ni como destino. «Sucesión» aparece **una sola vez**,

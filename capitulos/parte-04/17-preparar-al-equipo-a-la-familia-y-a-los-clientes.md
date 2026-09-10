@@ -4,7 +4,7 @@ parte: 4
 titulo: "Preparar al equipo, a la familia y a los clientes"
 etapa_metodo: "D"
 estado: borrador
-palabras: 2203
+palabras: 2221
 casos_usados: []
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -17,9 +17,9 @@ ultima_actualizacion: "2026-09-10"
 
 *«A partir del mes que viene, esto ya no va a pasar por mí.»*
 
-Esa frase puede entenderse como **«confío en usted lo suficiente para no revisarlo»**. Y puede
-entenderse como **«ya no cuento con usted para esto»**. Son lecturas opuestas y la frase, sola,
-no distingue entre ellas. No las contiene: las admite.
+Esa frase puede entenderse como **«confío en usted lo suficiente para no revisarlo»** y puede
+entenderse como **«ya no cuento con usted para esto»**. Son lecturas opuestas, y la frase sola no
+distingue entre ellas: no las contiene, las admite.
 
 Lo que distingue no está en la frase. Está en **lo que se diga después**, y sobre todo en lo que
 no se diga.
@@ -28,18 +28,20 @@ El capítulo anterior terminó preguntando qué ocurre cuando quienes tienen que
 esto son otras personas. Conviene ensanchar la pregunta antes de contestarla, porque supone algo
 que no siempre existe. **«Otras personas»** puede ser un equipo, una sola persona que empieza a
 recibir una parte, un cliente, un colaborador o un proveedor. Y **puede no ser nadie todavía**:
-si la transición solo cambia la forma de hacer las cosas, lo que recibe el trabajo no es alguien
-sino **un procedimiento escrito**, y de eso trata el capítulo siguiente.
+si la transición solo cambia la forma de hacer las cosas, lo que pasa es que **la tarea se vuelve
+reproducible por escrito** —o la ejecuta, dentro de límites, un **sistema supervisado**—, y de eso
+trata el capítulo siguiente.
 
-Hasta aquí este libro ha trabajado sobre su negocio. Desde aquí trabaja sobre **cómo va a ser
-leído por otro**, que es un material bastante menos dócil.
+Hasta aquí este libro ha trabajado sobre su negocio. Desde aquí trabaja sobre **cómo se entiende
+ese negocio fuera de su cabeza**: leído por otra persona cuando la hay, y escrito para sostenerse
+solo cuando todavía no la hay. Un material bastante menos dócil.
 
 ## Qué significa transferir el control sin perderlo
 
-Esta parte del libro se llama así, y leído deprisa el título promete lo contrario de lo que este
+Esta parte del libro se llama así, y leído deprisa el título promete lo contrario de lo que el
 método defiende. **No significa** conservar el control de cada acción: si lo significara, no
-habría transferencia de ninguna clase. Significa poder transferir la ejecución, o parte de la
-decisión, **sin perder cuatro cosas**:
+habría transferencia. Significa poder transferir la ejecución, o parte de la decisión, **sin
+perder cuatro cosas**:
 
 | | | Dónde se construye |
 |---|---|---|
@@ -48,26 +50,26 @@ decisión, **sin perder cuatro cosas**:
 | **Capacidad de revisión** | Poder comprobar después, en lugar de aprobar antes | Capítulo 18 |
 | **Criterios de intervención** | Saber cuándo se entra y cuándo no | Capítulo 20 |
 
-**Son arquitectura de este método, no una definición universal de nada**, y no se reparten una
-por capítulo: los límites vienen de antes y el resto se construye por delante. **Este capítulo no
+**Son arquitectura de este método, no una definición universal**, y no se reparten una por
+capítulo: los límites vienen de antes y el resto se construye por delante. **Este capítulo no
 construye ninguna:** su trabajo es anterior.
 
 ## Qué cambia y qué no cambia
 
-Una transición puede estar bien decidida y explicarse mal. El modo más silencioso es **decir qué
-cambia y no decir qué permanece**: cuando alguien recibe media noticia, **usted deja de
+Una transición puede estar bien decidida y explicarse mal. Un modo silencioso de hacerlo es
+**decir qué cambia y no decir qué permanece**: cuando alguien recibe media noticia, **usted deja de
 controlar con qué se llena la otra mitad** —y puede no llegar a enterarse de con qué se llenó—.
 
 > **Lo que hace daño no es necesariamente lo que se dijo. Puede ser lo que quedó sin decir.**
 
-De ahí la única obligación fuerte de este capítulo: **qué cambia y qué no cambia se dicen juntos,
-en la misma conversación**, aunque la segunda mitad parezca obvia. Sobre todo si lo parece: lo
-que a usted le resulta evidente después de meses pensándolo, la otra persona puede estar
+De ahí la única obligación fuerte de este capítulo: **qué cambia y qué no cambia se dicen
+juntos**, aunque la segunda mitad parezca obvia. Sobre todo si lo parece: lo
+que a usted le resulta evidente después de haberlo pensado, la otra persona puede estar
 oyéndolo por primera vez.
 
 ## Propiedad, dirección y ejecución
 
-Hay tres cosas que se confunden en una transición, y confundirlas produce conversaciones difíciles
+Hay tres cosas que se confunden en una transición, y confundirlas deja conversaciones difíciles
 de arreglar después.
 
 | | Qué es aquí |
@@ -78,7 +80,7 @@ de arreglar después.
 
 **Dirección no es un término nuevo en este libro.** Es la mirada de conjunto sobre algo que usted
 ya repartió decisión por decisión en el capítulo 10: la autoridad. Si esa matriz está escrita,
-aquí no hay que rehacer nada, solo mirarla desde arriba.
+aquí solo hay que mirarla desde arriba.
 
 De ahí salen las dos frases que este capítulo necesita, y son solo dos:
 
@@ -92,16 +94,16 @@ sucesión. **Todo eso depende de la estructura jurídica, del contrato, del empl
 regulación, del país y de la profesión**, y la respuesta está con un profesional de su
 jurisdicción.
 
-Y una precisión que viene de la Parte III: **la autoridad sigue estando en una persona, una
-función o un órgano real, sea cual sea la vía por la que se delegue**. Un procedimiento escrito
-**apoya a quien ejecuta y no ejecuta por su cuenta**; una herramienta supervisada puede realizar
+Y una precisión de la Parte III: **la autoridad sigue estando en una persona, una función o un
+órgano real, sea cual sea la vía por la que se delegue**. Un procedimiento escrito
+**apoya a quien ejecuta y no ejecuta por su cuenta**; un sistema supervisado puede realizar
 acciones dentro de un permiso escrito **sin adquirir autoridad, responsabilidad ni criterio
-propios**. Ninguna de las dos responde de nada: responde alguien.
+propios**. Ninguno de los dos responde de nada: responde alguien.
 
 ## Qué función tiene esta conversación
 
 No todas las conversaciones de una transición hacen lo mismo, y decidir cuál es antes de
-empezarla es lo que impide que signifique una cosa para quien habla y otra para quien escucha.
+empezarla evita que signifique una cosa para quien habla y otra para quien escucha.
 
 | | Qué hace |
 |---|---|
@@ -113,7 +115,7 @@ empezarla es lo que impide que signifique una cosa para quien habla y otra para 
 **Cuál corresponde en su caso puede depender de un contrato, de la propiedad, de una relación
 laboral o de una norma**, y eso no se decide aquí. Lo que sí puede hacer es **elegir una de las
 cuatro antes de empezar y decirla en voz alta**. Presentar como acuerdo lo que era información
-—o al revés— es la ambigüedad más cara de este capítulo, y la más fácil de evitar.
+—o al revés— es una ambigüedad costosa, y de las que se evitan antes de empezar.
 
 ## Con quién hay que hablar
 
@@ -123,19 +125,18 @@ Con quien se vea afectado de verdad. El título nombra tres, y ninguna se da por
 la matriz del capítulo 10: no hace falta volver a explicarla, hace falta abrirla antes de hablar.
 Y hay dos errores opuestos: presentar la delegación como una retirada de confianza, o presentarla
 como una ampliación de autoridad **que en realidad no se ha concedido**. El segundo puede tardar
-en salir a la luz, y sale en el peor momento: cuando alguien la usa.
+en salir a la luz, y salir cuando alguien la usa.
 
 **Si hay familia que participa de verdad en el negocio.** Conviene separar cuatro posiciones que
 **no tienen por qué coincidir**: la familia como relación personal, quienes tienen propiedad,
-quienes trabajan en el negocio y quienes podrían participar más adelante. Una misma persona puede
-estar en las cuatro, en una o en ninguna, y hablarle como si estuviera en todas es el modo más
-rápido de que una conversación de trabajo deje de serlo. **Este libro no diseña ningún acuerdo
-familiar.**
+quienes trabajan en el negocio y quienes podrían participar más adelante. **Ser de la familia no
+implica ninguna de las otras tres.** Una misma persona puede ocupar varias, y hablarle como si
+las ocupara todas puede convertir una conversación de trabajo en otra cosa. **Este libro no
+diseña ningún acuerdo familiar.**
 
 **Si el cambio afecta a la relación con un cliente.** La pregunta no es cuánto contar, sino **qué
-necesita saber esa persona para entender cómo va a continuar la relación**. No hace falta
-comunicar de más para demostrar transparencia; tampoco vale callar un cambio que afecte de verdad
-a lo que contrató.
+necesita saber esa persona para entender cómo va a continuar la relación**. Ni comunicar de más
+para demostrar transparencia, ni callar un cambio que afecte de verdad a lo que contrató.
 
 Dos escenas cortas, y ninguna es una catástrofe.
 
@@ -171,17 +172,18 @@ conversación**, no una por tipo de audiencia.
 **El campo 1 lleva dos cosas a propósito:** la función depende de quién está delante, y con la
 misma noticia puede tocar informar a una persona y acordar con otra.
 
-**El campo 4 lo escribe usted, no este libro.** La razón que sirve es la del negocio
-—continuidad, capacidad, claridad, menos dependencia de una sola cabeza—, no una explicación de
-por qué usted está cansado. Y **tiene que ser la suya y ser verdad**: una razón prestada aguanta
-mal la segunda pregunta.
+**El campo 4 lo escribe usted, no este libro.** El motivo puede ser personal y ser legítimo:
+**este método no juzga por qué quiere usted que su negocio dependa menos de su presencia.** Lo
+que el campo pide es traducirlo a una **razón operativa** —qué cambia en el negocio, y por qué
+ahora—. Y **tiene que ser verdad**: una razón prestada aguanta mal la segunda pregunta.
 
-**Los campos 5 y 6 no se juntan**, aunque parezcan las dos mitades de lo mismo: uno dice qué
-puede decidir esa persona y el otro qué sigue sin poder decidir y adónde vuelve. Juntarlos
-devuelve la confusión que el capítulo 10 deshizo.
+**Los campos 5 y 6 no se juntan**, aunque parezcan dos mitades de lo mismo: uno dice qué puede
+decidir esa persona y el otro qué sigue sin poder decidir y adónde vuelve. Juntarlos devuelve la
+confusión que el capítulo 10 deshizo.
 
-**El campo 8 admite una fecha o una condición.** Lo que no admite es quedarse en blanco: una
-transición sin revisión escrita se vuelve definitiva sin que nadie lo haya decidido.
+**El campo 8 admite una fecha o una condición.** Lo que no admite es quedarse en blanco: sin un
+momento de revisión definido, una transición puede seguir por inercia sin que nadie haya decidido
+mantenerla.
 
 **Tres variaciones, y solo donde el mecanismo cambia.** Con **equipo**, el campo 5 se copia de la
 matriz de autoridad en lugar de improvisarse. Con **familia que participa**, el campo 1 obliga a
@@ -193,11 +195,11 @@ de su organización interna, que no es asunto suyo.
 
 El campo 7 no es un detalle amable: es la mitad de la hoja. Un guion que solo se rellena antes es
 un discurso con otro nombre. **Escribir qué necesita escuchar** —una duda, una condición, algo
-que esa persona sepa y usted no— cambia cómo se entra; y anotar después **qué escuchó** convierte
-la hoja en algo que sirvió, sobre todo cuando no fue lo esperado.
+que esa persona sepa y usted no— cambia cómo se entra; anotar después **qué escuchó** es lo que
+convierte la hoja en algo que sirvió.
 
-> **Una conversación que no sale como se esperaba no es automáticamente un fracaso. Puede ser la
-> mejor información que consiga esa semana.**
+> **Una conversación que no sale como se esperaba no es automáticamente un fracaso. Puede traer
+> información que usted no tenía.**
 
 Y conviene dejar escrito lo que este capítulo **no** promete: que si usted lo explica bien todo
 el mundo confíe, que su equipo lo entienda, que su familia lo apoye, que sus clientes acepten el
@@ -215,21 +217,21 @@ Un solo criterio, y dos formas según haya o no alguien con quien hablar. **Las 
 son las mismas; lo que cambia es dónde se comprueban.**
 
 > **Cuando hay interlocutor**, se comprueba en la otra persona: si puede decir **con sus propias
-> palabras** qué cambia, qué no cambia, qué queda dentro de lo suyo, qué sigue volviendo a otro
-> sitio y cuándo se vuelve a hablar.
+> palabras** qué cambia, qué no cambia, qué queda dentro de lo suyo, qué sigue volviendo a otra
+> persona o instancia, y cuándo se vuelve a hablar.
 >
 > **Cuando no lo hay** —porque la transición, de momento, solo cambia la forma de hacer las
 > cosas—, se comprueba por escrito: que las cinco puedan formularse en el guion **sin huecos**.
 
-**La segunda no es la versión pequeña de la primera.** Son dos formas del mismo criterio según
-cómo esté hecho su negocio. **Las cinco no se puntúan y no hay un aprobado.**
+**La segunda no es la versión pequeña de la primera.** Son dos formas del mismo criterio.
+**Las cinco no se puntúan y no hay un aprobado.**
 
 Y hay algo que ninguna señal puede darle: **que alguien entienda un cambio no significa que esté
-de acuerdo con él.** Comprender y aceptar son cosas distintas, y este capítulo solo trabaja sobre
-la primera.
+de acuerdo con él.** Entender es lo único sobre lo que este capítulo puede trabajar.
 
-Si las cinco están dichas, la conversación hizo su trabajo. Y aparece la pregunta que ya no es de
-comunicación:
+**Si las cinco quedaron comprobadas por la forma que corresponda, la preparación cumplió su
+función.** Haberlas dicho no es lo mismo que haberlas comprobado. Y aparece la pregunta que ya no
+es de comunicación:
 
 *Ya no es «¿cómo lo explico?». Es «¿cómo empiezo a delegarlo sin entregar demasiado de una sola
 vez?».*
