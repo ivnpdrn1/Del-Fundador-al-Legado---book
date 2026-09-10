@@ -54,7 +54,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 13 | El periodo de sombra y las primeras alertas | III | **A** | **borrador, revisado (3.12B.1 y 3.12B.2)** | **2.278** | 2.100 | Lista de verificación del modo sombra (10) y Modelo de alertas críticas (11) | **C-10** | 0 |
 | 14 | De las alertas a las recomendaciones | III | **A** | **borrador, revisado (3.13B.1, 3.13B.2 y 3.14B.2)** | **1.986** | 2.000 | **Formato de recomendación explicada — dentro del capítulo, no es una de las 18** | **C-11** | 0 |
 | 15 | Autonomía limitada y aprobación humana | III | **A** | **borrador, revisado (3.14B.1)** | **2.170** | 2.200 | Matriz de niveles de autonomía (herramienta 12 de 18) | **C-12** | 0 |
-| 16 | Seguridad, privacidad y auditoría | III | A | no iniciado | 0 | 2.100 | — | — | — |
+| 16 | Seguridad, privacidad y auditoría | III | **A** | **borrador (3.15B)** | **2.138** | 2.100 | **Lista de comprobación de seguridad básica — dentro del capítulo, no es una de las 18 (D-078)** | — (dos microescenas sin nombre) | 0 |
 | 17 | Preparar al equipo, a la familia y a los clientes | IV | D | no iniciado | 0 | 2.000 | — | — | — |
 | 18 | Delegación progresiva | IV | D | no iniciado | 0 | 2.200 | — | — | — |
 | 19 | El tablero del propietario | IV | O | no iniciado | 0 | 2.000 | — | — | — |

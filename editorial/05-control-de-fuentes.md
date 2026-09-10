@@ -100,6 +100,75 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+**Capítulo 16: cinco afirmaciones y dos fuentes, ninguna con cifras.** Es el capítulo que
+**cierra la Parte III y la etapa A**, y el único del libro que trata de seguridad. **Cuatro de las
+cinco afirmaciones salen de una sola fuente, F-046**, y la quinta de F-040 con su ámbito pegado.
+**Ninguna de las cinco es una obligación del lector**: la fuente estadounidense recomienda y la
+europea interpreta una norma que solo rige donde rige (D-014, D-020).
+
+| Cap. | Afirmación en el texto | ID | Tipo | Estado |
+|---|---|---|---|---|
+| 16 | «Una guía del **instituto estadounidense de normas y tecnología** dirigida a los negocios pequeños —**de 2016, y una guía de referencia, no una norma**— recomienda que cada quien acceda **solo a los sistemas y a la información concreta que necesita para hacer su trabajo**.» | **F-046** | Recomendación atribuida, **con fecha y naturaleza dentro de la frase** | Cerrada. Verbatim de origen: «Allow employees to access **only those systems and only the specific information that they need to do their jobs**». **Se dice «recomienda», no «exige»**, y la frase lleva pegados los dos límites que la fuente impone: **2016** y **guía, no norma**. |
+| 16 | «…y que cada persona entre con su propia cuenta. Y da el motivo que más sirve aquí: **sin cuentas individuales resulta difícil investigar una pérdida de información o un uso no autorizado**.» | **F-046** | Recomendación atribuida **más su fundamento** | Cerrada. Verbatim: «**Without individual accounts for each user, you may find it difficult to investigate data loss or unauthorized data manipulation**». **El libro se queda con el fundamento, no con el procedimiento**: lo que necesita el capítulo es la consecuencia —sin cuentas propias no se puede reconstruir—, que es exactamente lo que enlaza con su definición de auditoría. |
+| 16 | «La misma guía señala que los registros pueden ser valiosos **cuando hay que investigar algo**.» | **F-046** | Afirmación atribuida | Cerrada. Verbatim: «Logs can be used to identify suspicious activity and **may be valuable in case of an investigation**». **Se conserva el modal de la fuente** —«pueden ser», no «son»—, y sobre esa base el capítulo construye **doctrina propia y separada**: «auditar no es registrarlo todo», que **no es de la fuente** y no se le atribuye. |
+| 16 | «La misma guía recomienda guardar las copias **fuera del sitio donde ocurre el trabajo**, para que un problema en un sitio no se lleve las dos cosas. **Eso es de la fuente.** Lo que añade este método es lo otro: **tener una copia no demuestra que pueda recuperarla**.» | **F-046** | Recomendación atribuida, **con la línea de separación escrita dentro del texto** | Cerrada. Verbatim: «**Store these backups away from your office location** in a protected place…». **El capítulo marca en voz alta dónde acaba la fuente y dónde empieza el método**, y es el único sitio del libro donde ese deslinde va dicho al lector. **Y no se adoptan sus cadencias**: la fuente dice «at least once a month» y **el capítulo se niega expresamente a fijar periodicidad** —«no le voy a decir cada cuánto hacerlas»—. |
+| 16 | «En la Unión Europea, la autoridad europea de protección de datos sostiene que **quien encarga a un proveedor el tratamiento de datos personales** solo debe recurrir a proveedores que ofrezcan **garantías suficientes**, y **debe poder demostrar que lo valoró antes**. **Es una regla de ese marco y para esa materia**, y no debe leerse como obligación general.» | **F-040** | Requisito atribuido, **con ámbito territorial y material dentro de la frase** | Cerrada. Verbatim: «A controller **must only use processors providing sufficient guarantees**…» y «The controller is therefore **responsible for assessing the sufficiency of the guarantees**… and **should be able to prove** that it has taken all of the elements… into serious consideration». **Corregido durante la redacción:** la primera versión decía «quien contrata a un proveedor», sin acotar a **datos personales**, y eso ensanchaba la fuente más allá de lo que dice. **La regla que el capítulo deriva —«contratar a un proveedor no traslada automáticamente la responsabilidad del negocio»— se presenta como del método, no de la fuente.** |
+
+**Fuentes disponibles que el capítulo 16 decidió NO citar.**
+
+| Fuente | Por qué estaba disponible | Por qué no se cita |
+|---|---|---|
+| **F-010** (Reglamento UE 2024/1689) | Está citada en los capítulos 12, 14 y 15, y el 16 habla de registro y de parada. | **El capítulo 16 no trata de sistemas de alto riesgo**, y volver a traerla habría obligado por cuarta vez a repetir el doble acotamiento —norma de la UE, y solo para alto riesgo— para sostener algo que **el capítulo ya tiene por doctrina propia desde el 15**. |
+| **F-007** (NIST AI RMF) y **F-009** (OCDE) | Ambas contienen trazabilidad y responsabilidad asignada. | **Ya sostuvieron la parada y la supervisión en los capítulos 13 y 15.** Aquí no añadirían ninguna afirmación que el capítulo necesite; añadirían volumen. |
+| **F-045** (NIST AI 800-4) | Trata de datos y de su procedencia. | **No trata de acceso, registro ni recuperación**, que es de lo que va este capítulo. |
+
+**Y tres ausencias que conviene registrar, porque son deliberadas y las tres podrían parecer
+huecos.** **Primera: el capítulo no dice de quién son los datos que guarda un proveedor**, y no lo
+dice porque es una pregunta jurídica que depende del contrato y del país (**Q-19, diferida por
+segunda vez en la Etapa 3.15A**). Lo que sí dice es una **pregunta de control** —«¿puede sacar de
+ahí lo que necesita para seguir funcionando?»—, que no necesita fuente. **Segunda: no fija
+ninguna periodicidad** para copias, revisiones ni comprobaciones, en coherencia con todo el
+método. **Y tercera: no cita ninguna norma profesional**, y remite (**D-033**, **Q-20 diferida**).
+
+**Control de universalidades del capítulo 16.** Dos pasadas.
+
+**Primera, literal: treinta y cuatro apariciones con límite de palabra, y las treinta y cuatro son
+legítimas.** Se reparten en cuatro grupos: **negaciones y límites** —«no garantiza una
+recuperación», «ni que cumpla ninguna regulación», «un registro que nadie puede leer»—;
+**material atribuido a la fuente** —«cada quien acceda», «cada persona entre con su propia
+cuenta»—; **interiores de las dos microescenas** —«aparecía siempre el mismo nombre», «nadie
+tenía que mirarla», «nadie había decidido»—; y **deícticos y reglas del método** —«todo esto»,
+«auditar no es registrarlo todo»—. **Nota de método sobre la primera pasada:** una búsqueda sin
+límite de palabra devuelve falsos positivos que inflan el recuento —«mé**todo**»,
+«**casi**lla»—, y por eso el número que se registra es el de la búsqueda con límite de palabra.
+
+**Segunda, de lectura: diez correcciones, y siete de ellas no contenían ninguna palabra de la
+lista literal**, de modo que **ninguna búsqueda las habría encontrado**:
+
+| Lo que decía | Por qué no podía quedarse | Cómo quedó |
+|---|---|---|
+| «**suele darse** por incluida en las otras» | Afirmación de frecuencia sobre cómo usa el mundo una palabra | «**es fácil darla** por incluida» |
+| «aunque **casi siempre** se conceden juntas» | Afirmación de frecuencia | «se **pueden** conceder por separado, aunque nada obliga a separarlas y **lo más cómodo** es darlas juntas» |
+| «es **más común de lo que parece**» | Afirmación de frecuencia sobre la segunda microescena | Suprimida entera |
+| «es donde **más gente se confía**» | Afirmación de frecuencia sobre conducta ajena | «donde una respuesta rápida se parece mucho a una comprobada» |
+| «la conversación… **dura la mitad y sirve el doble**» | **Afirmación cuantificada sin ninguna base** | «llegará a esa conversación sabiendo qué necesita de ella» |
+| «en este terreno **se promete mucho**» | Afirmación de frecuencia | «la diferencia entre lo hecho y lo prometido cuesta cara» |
+| «**ninguna herramienta** va a avisarle de que algo salió mal si nadie le encargó mirar» | **Afirmación universal sobre toda la tecnología**, y además desmentible: hay herramientas que avisan por omisión | «**que algo quede registrado no significa que alguien lo esté mirando**» |
+| «**cinco cosas distintas se llaman** “que algo falle”» | Afirmación sobre el uso del lenguaje | «**dentro de** “que algo falle” **caben** cinco cosas distintas» |
+| «quien **contrata a un proveedor** debe comprobar antes…» | **Ensanchaba F-040 más allá de los datos personales** | «quien **encarga a un proveedor el tratamiento de datos personales**» |
+| «una copia que nadie ha restaurado **nunca es una suposición**» | Ambigüedad de lectura que podía invertir el sentido | «una copia que nadie ha restaurado **todavía es una suposición, no un respaldo**» |
+
+**Y la lección, que ya es la quinta vez y esta vez se cumplió:** el control se pasó **después** de
+completar el capítulo, no solo antes, y **seis de las diez correcciones estaban en pasajes
+escritos en la última mano**. La regla se mantiene.
+
+**Control de antropomorfismos.** Ejecutado sobre el capítulo entero. **Cinco apariciones de verbos
+de estado mental, y las cinco tienen a una persona como sujeto**: cuatro son preguntas de la lista
+dirigidas al lector —«¿sabe dónde están las credenciales?»— y la quinta es la fórmula ya
+establecida desde el capítulo 6, «lo que su negocio sabe hacer». **Cero atribuciones de estado
+mental a una tecnología.** La única acción atribuida a una herramienta es **«entra con su propia
+cuenta»**, que es una afirmación sobre credenciales y no sobre voluntad.
+
 **Capítulo 15: dos afirmaciones y dos fuentes, ninguna con cifras.** Es el capítulo con **más
 doctrina propia y menos fuentes de toda la Parte III**, y es deliberado: **el criterio que
 gobierna qué tarea puede automatizarse es diseño del método (D-077)** y no se apoya en ninguna

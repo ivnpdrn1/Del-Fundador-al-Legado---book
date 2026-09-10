@@ -1,6 +1,6 @@
 # Parte III — Construir una mano derecha digital
 
-Capítulos 11 a 16. **Producción iniciada el 2026-09-09. Escritos el 11, el 12, el 13, el 14 y el 15. Falta el 16.**
+Capítulos 11 a 16. **Producción iniciada y terminada el 2026-09-09. Los seis capítulos están escritos.** **Con el capítulo 16 se cierra también la etapa A del Método LEGADO**, que ocupa esta parte entera.
 
 Las dos partes anteriores sirvieron para **mirar** y para **trabajar**: cuánto depende el
 negocio de una persona, qué es exactamente lo que depende, cómo se documenta y quién puede
@@ -16,7 +16,7 @@ defiende: **primero se ordena, después se asiste**.
 | 13 | El periodo de sombra y las primeras alertas | A | Lista de verificación del modo sombra (10) y Modelo de alertas críticas (11) | **borrador** |
 | 14 | De las alertas a las recomendaciones | A | **Formato de recomendación explicada — dentro del capítulo, no es una de las 18** | **borrador** |
 | 15 | Autonomía limitada y aprobación humana | A | Matriz de niveles de autonomía (12) | **borrador** |
-| 16 | Seguridad, privacidad y auditoría | A | — | no iniciado |
+| 16 | Seguridad, privacidad y auditoría | A | **Lista de comprobación de seguridad básica — dentro del capítulo, no es una de las 18 (D-078)** | **borrador** |
 
 El índice completo, con la idea central y el presupuesto de palabras de cada capítulo, vive en
 `editorial/03-indice-maestro.md`. Aquí no se duplica.
@@ -62,6 +62,34 @@ ni una sola marca, modelo o proveedor en todo el capítulo.
 **Su entregable no es una de las dieciocho herramientas.** El *Cuadro de lo que puede y lo que
 no puede hacer* se rellena dentro del propio capítulo, con su tabla de columnas y una fila de
 ejemplo completa. No hay archivo en `recursos/` y **el catálogo sigue en 9 de 18**.
+
+## Qué hace el capítulo 16, y con qué cierra la parte
+
+Contesta las cuatro preguntas con que termina el 15 —**quién puede ver qué, qué queda
+registrado, dónde están los datos y qué pasa si algo falla**— y las trata como lo que son:
+**preguntas de gobierno, no de tecnología**. Separa cuatro palabras que se usan como
+sinónimos —**seguridad, privacidad, confidencialidad y auditoría**— y añade una quinta que no
+es ninguna de ellas, **continuidad**. Y deja escrita la regla que gobierna todo el capítulo:
+**auditar es poder reconstruir, no registrarlo todo.**
+
+**Su entregable no es una de las dieciocho herramientas.** La *Lista de comprobación de
+seguridad básica* —ocho preguntas, cinco respuestas posibles y una columna de «qué voy a
+hacer»— **se rellena dentro del propio capítulo** (D-078). No hay archivo en `recursos/` y
+**el catálogo sigue en 12 de 18**.
+
+**Lo que no hace, y es lo más importante:** **no enseña ciberseguridad**. No nombra cifrado,
+doble factor, cortafuegos, antivirus ni ningún producto; **no fija ninguna periodicidad** para
+copias ni revisiones; **no dice de quién son los datos** que guarda un proveedor, porque es
+una pregunta jurídica que depende del contrato y del país; y **enumera expresamente las ocho
+cosas que no promete**, empezando por que su negocio quede seguro. Donde hace falta un
+profesional, **remite y enseña qué preguntarle** (D-033).
+
+## Con qué cierra la Parte III
+
+Con una frase que el lector debería poder decir al terminarla: **la tecnología ya puede
+ayudarme sin que yo le haya entregado el control.** Y con una pregunta que **no se contesta
+aquí** y que abre la Parte IV: *¿qué ocurre cuando quienes tienen que trabajar con todo esto
+son otras personas?*
 
 ## La plataforma
 
