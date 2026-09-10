@@ -3556,3 +3556,423 @@ detenerse.**
 **Objetivo: 2.200 palabras. Tope por D-030: 2.530**, que es un tope y no un objetivo. **Reparto
 previsto:** el movimiento 6 —el caso— alrededor de 300, el 8 alrededor de 350, y los otros siete
 entre 180 y 230 cada uno. **El Plan y el caso cuentan dentro del total.**
+
+
+---
+
+## Preflight del capítulo 19 (Etapa 3.18A, 2026-09-10)
+
+**Es el primer capítulo de la etapa O**, y el primero desde el 15 cuyos entregables son
+**herramientas del catálogo** —la 13 y la 14— y no entregables internos bajo D-078.
+
+### 0. Resultados que condicionan la escritura: ninguno bloquea
+
+**Tres hallazgos, los tres resueltos con doctrina vigente y ninguno exige decisión del autor.**
+Están en los apartados 1, 2 y 12. **Cero decisiones nuevas, cero investigación, cero fuentes
+nuevas.** Se abre **V-72**, que registra una imprecisión de `07-metodo-legado.md` §6 **con una
+recomendación y sin aplicarla**.
+
+### 1. Auditoría D → O: la letra marca lo que el capítulo desarrolla, no dónde está el lector
+
+**El problema, planteado con los textos delante.** El capítulo 19 pertenece a la etapa **O**
+según el índice. Pero el **criterio de paso a O** de `07-metodo-legado.md` es *«una prueba de
+ausencia de siete días completada sin incidencias graves»*, y **esa prueba se enseña en el
+capítulo 24**. Además, el índice **intercala** letras a partir del 19 —19 O, 20 O, 21 D, 22 O, 23
+D, 24 D, 25 O— y la **regla transversal 2** dice: *«Ninguna etapa se salta. Se puede recorrer
+despacio, no en desorden.»*
+
+**Resuelto a favor de la lectura A, y con tres pruebas del propio repositorio:**
+
+1. **`07-metodo-legado.md` §6 dice para qué sirve la letra**, y es lo decisivo: *«Cada capítulo
+   declara en su encabezado la etapa del método a la que pertenece. **Ese dato permite comprobar
+   en la Etapa 4 que el método avanza de forma pareja y que ninguna letra queda sin desarrollo
+   suficiente.**»* Es un **marcador de cobertura** —qué letra desarrolla el capítulo—, no una
+   afirmación sobre la posición cronológica del lector.
+2. **El libro ya usa la letra así, y tres veces.** El **11** figura como «**A, con G como
+   requisito**»: la letra dice qué desarrolla y el prerrequisito va aparte. El **10** es «**G
+   (G-1)**» dentro de una parte cuya fila resume «L, E y **el inicio de** G». Y el índice dice del
+   **11** que abre A «con G como requisito previo».
+3. **La regla transversal 2 habla del trabajo del lector, no del orden de los capítulos**, y el
+   propio índice lo confirma cuando dice que *«el orden de esfuerzo cambia aunque el orden de las
+   etapas no. El método no se reordena, pero los capítulos pueden decir dónde está el mayor
+   rendimiento para cada uno»*.
+
+**Formulación que el capítulo puede usar, y que no crea doctrina:** el tablero se construye
+**cuando se cierra el primer bloque**, no cuando la etapa D está terminada. Empieza pequeño
+porque hay poco delegado, y crece con lo que se delega. **Es el mismo patrón que el capítulo 15**,
+que construyó la matriz de niveles antes de que ningún lector hubiera completado un periodo de
+observación.
+
+**Y una imprecisión real que queda registrada y no se toca: V-72.** La tabla de
+`07-metodo-legado.md` §6 asigna **Parte IV (17–21) = D** y **Parte V (22–25) = O**, mientras el
+índice asigna letra por capítulo e **intercala**. Las dos no dicen lo mismo para **seis
+capítulos**: 19, 20, 22, 23, 24 y 25. **No bloquea** —la tabla es un resumen por parte y ya usa
+lenguaje aproximado en las otras filas: «el inicio de G», «con G como requisito previo», «apoyada
+en G»— pero **se hace visible por primera vez justo aquí**, en el primer capítulo cuya letra
+difiere de la de su parte. Ver el apartado 13.
+
+### 2. Prueba de necesidad de investigación: **CERO**
+
+**Ninguna pregunta del plan está asignada al capítulo 19** —comprobadas Q-01 a Q-21 una por una—.
+Antes de buscar nada se escribieron las afirmaciones externas que el capítulo tendría que hacer:
+
+| ¿Necesita afirmar…? | Respuesta |
+|---|---|
+| que existe un **número universal de indicadores** | **No.** El capítulo se niega expresamente, y una negativa no necesita fuente |
+| que existe una **frecuencia universal** para cada señal | **No.** Misma negativa |
+| que existe un **KPI** que todo negocio deba mirar | **No** |
+| que existe una **estructura universal de tablero** | **No** |
+| que una cadencia es **empíricamente superior** a otra | **No.** Y afirmarlo exigiría evidencia que el proyecto no tiene |
+
+**Todo lo que el capítulo afirma es doctrina del método o instrucción práctica.** **Investigación
+nueva: cero. Fuentes nuevas: cero. Total: 46. Preguntas nuevas: ninguna.**
+
+**Y se comprobó qué fuentes existentes podrían tentar, antes de descartarlas** (§34 del encargo):
+**F-034 a F-037** —control interno, con su componente de *monitoring*— sostienen afirmaciones
+sobre **marcos de control interno**, no sobre el instrumento privado de una persona propietaria;
+**F-007** (MEASURE) y **F-045** miden **sistemas de inteligencia artificial desplegados**, no
+tableros. **Ninguna sostiene una frase concreta que este capítulo necesite, y usarlas sería citar
+por asociación.** F-045 ya prestó en el capítulo 13 el único argumento que aquí serviría —que la
+cadencia de monitorización es una pregunta abierta—, y repetirlo sería citar dos veces el mismo
+apoyo, además de arrastrar la monitorización de IA a un capítulo cuyo sujeto es una persona.
+
+### 3. La pregunta heredada, y la que este capítulo contesta
+
+El capítulo 18 termina así, y el 19 la recibe:
+
+> *Ya no reviso cada decisión antes de que ocurra. Entonces, ¿qué miro?*
+
+**El 19 contesta exactamente eso: qué mirar.** **No contesta cuándo intervenir**, que es el
+capítulo 20 y se deja dicho en el propio texto.
+
+**La tentación que abre el capítulo**, y que es la heredera natural del atajo del 18: **delegar y
+después pedir un informe de todo**. Quien acaba de dejar de aprobar cada decisión puede querer
+compensarlo sabiéndolo todo después, y eso tiene nombre en el propio método: la etapa O registra
+como riesgo **«que la supervisión se convierta en control informal que anule la delegación»** y
+como diagnóstico **«qué está mirando de más por costumbre»**. **El capítulo no lo inventa: lo
+desarrolla.**
+
+### 4. Qué es el tablero del propietario, y qué no es
+
+**Definición de trabajo del método, declarada como tal:**
+
+> **El tablero del propietario es el conjunto pequeño de señales que llegan solas, con una fuente
+> identificable, y que permiten ver un cambio, una excepción o una decisión que espera.**
+
+**«Que llegan solas» es la parte que hace trabajo**, y viene del criterio de cierre de la etapa O:
+*«el fundador **recibe información sin pedirla**»*. Si hay que pedirla, todavía no es un tablero.
+
+**Qué no es, y conviene decirlo porque la palabra arrastra:** no es un *dashboard*, ni un programa,
+ni un sistema de gestión, ni una hoja de cálculo obligatoria, ni un informe contable, ni un estado
+financiero, ni un reporte legal, ni una lista de tareas, ni una lista de alertas, ni un panel
+gobernado por una tecnología. **Puede vivir en papel, en una hoja, en un correo o en un documento**
+—y más adelante, si el lector quiere, en un programa—. **La función precede al formato**, y el
+libro no recomienda ningún producto ni proveedor.
+
+### 5. Qué merece entrar: la prueba de la señal
+
+Es la contribución propia del capítulo, y es **falsable**:
+
+> **Una señal merece estar en el tablero si usted haría algo distinto según lo que diga.** Si la
+> mira, la entiende y no cambia nada en ningún caso, no es una señal: es una costumbre.
+
+**Contesta directamente al diagnóstico de la etapa O** —«qué está mirando de más por costumbre»—
+y **no necesita fuente ni número**.
+
+**El tablero contiene dos clases de cosa, y hay que separarlas:**
+
+| | Qué es | Quién la elige |
+|---|---|---|
+| **Las señales del negocio** | Lo poco que el lector decide mirar para saber cómo va su actividad | **El lector.** El libro **no elige ninguna** y lo dice |
+| **Lo que el método ya produce** | Lo que se salió del límite, lo que volvió y por qué, y lo que espera una decisión | Sale de los capítulos 15, 16 y 18. **No hay que inventarlo** |
+
+### 6. Auditoría de «tres cifras» y de «pocas cifras»
+
+**La pregunta 1 de la etapa O dice: «¿Qué tres cifras necesita ver cada semana para dormir
+tranquilo?». Auditada, «tres» es una pregunta de concentración y NO una regla del método.**
+Cuatro pruebas:
+
+1. **Está bajo «Preguntas al fundador»**, junto a «¿cuál es su papel a partir de ahora, **dicho en
+   una frase**?». Nadie ha convertido esa segunda en una regla de que los papeles se escriban en
+   una sola frase.
+2. **El índice dice «pocas cifras, bien elegidas»**, no «tres».
+3. **El riesgo que la etapa O registra es el exceso** —«un tablero con tantos indicadores que
+   nadie lo mira»—, no un número.
+4. **`06-control-de-continuidad.md` lleva la lista de los números fijos del proyecto** —dos
+   escalas, ocho posiciones, dieciocho herramientas, 24 horas y 7 días, 100 días, doce pasos,
+   cuatro preguntas— y **«tres cifras» no está en ella**.
+
+**Consecuencia para el capítulo:** puede **usar la pregunta como pregunta** —es buena y es del
+método— y **tiene prohibido convertir «tres» en máximo, umbral, estándar o recomendación**. Lo que
+enseña es la prueba del apartado 5, no una cantidad.
+
+### 7. Los tres horizontes, y por qué el mensual no crea ninguna herramienta
+
+El índice dice que se mira **cada día, cada semana y cada mes**; el catálogo reserva **solo dos**
+herramientas, la 13 y la 14. **No hay contradicción, y conviene decir por qué:** la columna de
+**entregables** del índice para el capítulo 19 dice «Modelos de informe diario y semanal» —dos—, y
+«cada mes» aparece en la **idea central**, no en los entregables. **El índice nunca prometió una
+herramienta mensual.**
+
+**Cómo vive el horizonte mensual, entonces:** **como una relectura de lo que ya está escrito**, sin
+documento nuevo. Y cada horizonte contesta una pregunta distinta:
+
+| | Pregunta que contesta | De dónde sale |
+|---|---|---|
+| **El día** | ¿Ha pasado algo que no debería esperar a mañana? | **Herramienta 13** |
+| **La semana** | ¿Algo está cambiando, y hay algo esperando una decisión mía? | **Herramienta 14** |
+| **El mes** | ¿Lo que decidí sigue teniendo sentido? | **Ningún documento nuevo:** se releen los partes semanales y las hojas de bloque del capítulo 18, y se miran las revisiones que la columna 8 de la herramienta 12 tenga vencidas |
+
+**Prohibido crear una herramienta 15 mensual:** la 15 y la 16 son las pruebas de ausencia del
+capítulo 24, y la 18 es la evaluación anual del 25. **El catálogo no se toca y no se renumera.**
+
+### 8. Ver no es decidir
+
+Frontera estricta del capítulo, y **no es doctrina nueva**: en el vocabulario de **D-072** un
+informe es un **control** —«la regla, el límite, la comprobación o la constancia»— y **los
+controles no tienen autoridad**.
+
+> **Un informe puede mostrar, resumir, comparar, señalar y dejar constancia. No puede autorizar,
+> aprobar, rechazar, cambiar un permiso, ampliar una autonomía ni decidir una intervención.**
+
+### 9. Fronteras, todas por escrito
+
+| Par | Deslinde |
+|---|---|
+| **19 y 20** | **El 19 construye el instrumento; el 20, la conducta.** El 19 dice **qué mirar**; el 20, **cuándo intervenir y cuándo callarse**. El 19 **puede anunciar que esas reglas existen y tiene prohibido desarrollarlas** |
+| **19 y 13 (herramienta 11)** | **Una alerta es una excepción al flujo; un informe es el flujo.** La alerta interrumpe **ahora**, tiene destinatario y destino temporal (herramienta 11); el informe llega **haya pasado algo o no**. **Regla falsable:** si algo puede esperar al parte del día, no era una alerta; si algo no puede esperar al parte, no es materia del tablero |
+| **19 y 15 (herramienta 12)** | El tablero **muestra información producida dentro de los permisos** y **no redefine ninguno**. **No se copia la matriz dentro del informe**: se remite |
+| **19 y 18** | El Plan por bloques registra **una transferencia**; el tablero da **la vista agregada**. **El tablero no es una colección de hojas de bloque:** resume, y **apunta** a la hoja cuando algo necesita explicación |
+| **19 y 11** | El principio de **fuente de referencia** es del capítulo 11 y **no se reexplica**: se usa. **Una cifra sin origen identificable no entra al tablero**, y ese origen puede ser un registro, un sistema, una hoja, un libro contable o una persona responsable, según el dato |
+| **19 y 22** | El tablero **libera atención** y **no prescribe qué hacer con ella** (**D-075**). Funciona para quien sigue trabajando, trabaja menos, supervisa, abre otra unidad, crea otro negocio, se retira en parte o del todo |
+| **19 y 25** | El 19 es **visibilidad operativa recurrente**; el 25 es **continuidad en el tiempo**, con la herramienta 18. **Ni el informe semanal ni la relectura mensual son una evaluación anual** |
+| **19 y 24** | El 19 mira **con la persona disponible**. El 24 mira **cuando se retira esa disponibilidad**. Sin 24 horas, sin 7 días |
+
+### 10. Trazabilidad: el tablero apunta, no copia
+
+**Se aplica la lección del campo 3 del Plan del capítulo 18, y se comprueba que aplica:** allí, dos
+versiones del mismo límite hacen que una empiece a mentir en cuanto la otra cambie. **Aquí el
+riesgo es el mismo con los datos**, y por eso:
+
+> **Si una cifra, una excepción o una decisión pendiente necesita explicación, el informe apunta
+> al registro donde está. No lo copia.**
+
+**Lo que sí cambia respecto del capítulo 18, y hay que decirlo:** allí el puntero iba a **una fila
+de una matriz que el propio lector escribió**; aquí puede ir a un registro que produce otra
+persona o un sistema. **El principio es el mismo; el origen no siempre.**
+
+### 11. Las dos rutas, una sola arquitectura
+
+**El índice ya lo resuelve y no hace falta inventar nada:** *«para el lector B el tablero es **más
+corto, no distinto**»*.
+
+**Lo que cambia es de dónde viene la información, no qué se mira.** En la **ruta A** puede llegar
+de otras personas, funciones o sistemas. En la **ruta B** una parte de la operación puede seguir
+haciéndola el propio lector, y ahí la herramienta hace un trabajo extra que conviene nombrar:
+**ayudarle a separar lo que mira para operar de lo que mira para supervisar lo que ya dejó de
+depender de su intervención inmediata.** **Prohibido fingir que hay equipo cuando no lo hay**
+(criterio 8 de diseño de las herramientas y **D-031**).
+
+### 12. Herramienta 13 — Modelo de informe diario. **DISEÑADA, NO CREADA**
+
+**Propósito vigente en el catálogo:** «Resumen operativo breve para quien ya no está en la
+operación». **Auditado contra D-075, y hay que precisarlo al redactar la herramienta**, no aquí:
+**«ya no está en la operación» no puede leerse como retiro**. Se escribirá **«para quien ya no
+está en esa parte de la operación»**, y dónde esté esa atención —otra unidad, otro negocio,
+estrategia, clientes, menos horas o descanso— **es elección del lector**. **La fila del catálogo
+es un resumen de una línea y no se toca**; la precisión vive en el archivo de la herramienta.
+
+| | |
+|---|---|
+| **Pregunta que contesta** | ¿Ha pasado algo que no debería esperar a mañana? |
+| **Quién lo escribe** | **Ruta A:** quien tenga la operación ese día. **Ruta B:** usted mismo, y ahí está la clave de lectura del apartado 11 |
+| **Quién lo revisa** | Quien ya no está en esa parte de la operación |
+| **Cuándo** | Al cerrar el día |
+| **Qué excluye** | El relato de lo que salió bien; el detalle de lo ya resuelto; cualquier cifra sin origen identificable |
+
+**Cuatro campos, y son pocos a propósito:**
+
+| | Campo |
+|---|---|
+| **1** | **La fecha, y quién lo escribe** |
+| **2** | **Qué quedó sin hacer de lo previsto** — y si nada, **«nada»** |
+| **3** | **Qué se salió del límite, y adónde volvió** — con el puntero al registro, no con su contenido |
+| **4** | **Qué necesita una decisión antes de mañana** — y si nada, **«nada»** |
+
+**Por qué no pregunta qué salió bien:** porque eso es lo que convierte un parte en un relato, y un
+relato en algo que nadie lee. **Y los dos «nada» son evidencia**, igual que en el campo 5 del Plan
+del capítulo 18. **Produce una acción o una constancia expresa de que no hace falta ninguna**
+(criterio 4 de diseño).
+
+**Ejemplo previsto:** **comercio minorista, ruta A** —sector no usado en ningún ejemplo de
+herramienta—. **Prueba de dos páginas:** sobra; cabe en media. **Prueba de papel:** cuatro líneas
+escritas a mano.
+
+### 13. Herramienta 14 — Modelo de informe semanal. **DISEÑADA, NO CREADA**
+
+**Propósito vigente:** «Vista de tendencia, excepciones y decisiones pendientes».
+
+| | |
+|---|---|
+| **Pregunta que contesta** | ¿Algo está cambiando, y hay algo esperando una decisión mía? |
+| **Quién lo escribe** | El mismo criterio que la 13 |
+| **De dónde sale** | **De los partes diarios y de las hojas de bloque ya escritas.** No se recoge información nueva |
+| **Qué excluye** | El detalle de lo que ya se resolvió el día que ocurrió |
+
+**Cinco campos:**
+
+| | Campo |
+|---|---|
+| **1** | **La semana, y quién lo escribe** |
+| **2** | **Qué se repitió** — lo que apareció más de una vez en los partes diarios |
+| **3** | **Qué cambió respecto de la semana anterior** — en palabras, no en porcentajes |
+| **4** | **Qué sigue esperando una decisión, y desde cuándo** |
+| **5** | **Qué se decide esta semana** — o se escribe que nada, y por qué |
+
+**Ejemplo previsto:** **mantenimiento, ruta B** —sector no usado en ejemplos de herramienta, y
+**ruta distinta de la del ejemplo de la 13**, como pide **D-031**—.
+
+### 14. Prueba de que la 13 y la 14 no son el mismo formulario
+
+**Si el informe semanal pudiera producirse apilando siete partes diarios, sobraría uno de los
+dos.** No puede, y esta tabla dice por qué:
+
+| | **Informe diario** | **Informe semanal** |
+|---|---|---|
+| **Pregunta** | ¿Ha pasado algo que no debería esperar a mañana? | ¿Algo está cambiando, y hay algo esperando una decisión mía? |
+| **Horizonte** | Un día cerrado | Los días juntos |
+| **Detalle** | Hechos sueltos | Comparación y acumulación |
+| **Qué anomalía muestra** | **La excepción de hoy** | **La repetición, la tendencia y lo que se acumula sin resolverse** |
+| **Qué decisión puede provocar** | **Puede no provocar ninguna**, y leerlo sin hacer nada es un resultado correcto | Mantener, corregir, revisar un límite, ampliar o reducir un bloque |
+| **Qué NO contiene** | Tendencias, comparaciones ni decisiones pendientes | El detalle de lo que ya se resolvió el día que ocurrió |
+
+**La diferencia en una línea: el parte diario pregunta por un hecho; el semanal, por un patrón.**
+Un hecho se ve en un día y un patrón no.
+
+### 15. Arquitectura narrativa — **nueve movimientos**
+
+Se evaluó la progresión propuesta en el encargo y **se conserva casi entera, con dos cambios
+justificados**: el horizonte mensual **entra en el movimiento 5** en lugar de crear un movimiento
+propio —porque no produce documento—, y **«ver no es decidir» pasa al movimiento 9**, donde hace
+de bisagra hacia el capítulo 20 en lugar de quedarse como una advertencia suelta.
+
+| | Movimiento | Qué contesta | Qué introduce |
+|---|---|---|---|
+| **1** | **La tentación nueva: delegar y pedir saberlo todo** | ¿Qué hago ahora que ya no apruebo cada decisión? | El riesgo que la etapa O ya registra: la supervisión convertida en control informal |
+| **2** | **Operar y ver no son lo mismo** | ¿Por qué no vale con seguir mirando lo de siempre? | La diferencia entre mirar para hacer y mirar para saber |
+| **3** | **Qué merece entrar: la prueba de la señal** | ¿Cómo elijo? | **La prueba falsable**, y las dos clases de contenido del tablero |
+| **4** | **Qué se queda fuera** | ¿Qué quito? | Lo que se mira por costumbre; lo que no tiene origen identificable |
+| **5** | **El día, la semana y el mes** | ¿Cada cuánto miro qué? | Las tres preguntas distintas, y que **el mes no crea documento** |
+| **6** | **El tablero apunta, no copia** | ¿Y si necesito el detalle? | Trazabilidad sin duplicación |
+| **7** | **El parte del día** | ¿Qué necesito saber hoy? | **Herramienta 13** |
+| **8** | **El parte de la semana** | ¿Qué necesito ver junto? | **Herramienta 14** |
+| **9** | **Ver no es decidir, y lo que viene después** | ¿Y cuando algo de esto me preocupe? | La frontera con el 20 y el puente |
+
+**Apertura.** Tipo a fijar en 3.18B, **con una condición**: no puede ser una pregunta heredada
+contestada de frente —agotada en 13, 14, 15 y 16— ni la variante del 17 ni la del 18. **Dirección
+recomendada:** abrir con **la petición que suena razonable y deshace lo anterior** —«mándame un
+resumen de todo lo que pase»—, que es el material del movimiento 1 y un tipo no usado.
+
+### 16. Mensaje central, acotado
+
+**Se auditó la formulación propuesta en el encargo** —«usted no necesita volver a saberlo todo
+para no perder el control»— y **«control» es correcto en el vocabulario vigente**: la Parte IV lo
+define como **visibilidad, límites, capacidad de revisión y criterios de intervención**, y este
+capítulo construye **la primera de las cuatro**. Pero la frase, sola, **puede leerse como que un
+tablero conserva el control por sí mismo**, y eso no es cierto: conserva **una** de las cuatro
+condiciones.
+
+**Formulación adoptada, en dos frases y ninguna universal:**
+
+> **Menos información no es menos visibilidad, si lo que queda deja ver un cambio, una excepción y
+> una decisión que espera.**
+>
+> **Y volver a saberlo todo no es recuperar el control: es volver a la operación con otro
+> nombre** —que es exactamente el riesgo que la etapa O registra—.
+
+### 17. Lo que el capítulo tiene prohibido prometer
+
+**Ninguna de estas, ni ninguna equivalente:** que el tablero **garantiza** el control · que **tres
+cifras** bastan para cualquiera · que un parte diario sirve **sin adaptación** · que recibir
+información **sustituye** la responsabilidad · que **más datos** dan mejores decisiones · que
+**menos datos** dan mejores decisiones · que la automatización **elige sola** qué importa · que
+una tecnología **decide qué debe ver** la persona propietaria · que un panel informático es
+**requisito** · que existe una **frecuencia universal** · que el tablero **elimina** la necesidad
+de volver al detalle · que **toda desviación** exige intervención.
+
+### 18. Tecnología, plataforma y ADN Empresarial
+
+**La tecnología puede preparar la información**; **qué merece atención sale del negocio y de
+límites ya escritos**, no de un sistema. **Cero marca, cero proveedor, cero arquitectura técnica,
+cero agente, cero Gemelo de IA como solución nueva.**
+
+**Y un permiso vigente que se deja deliberadamente sin usar, para que conste.**
+`editorial/16-libro-metodo-y-plataforma.md` §5.2 **autoriza al capítulo 19 una (1) frase de
+categoría C** —mención identificable de la plataforma— y categoría B. **El encargo de esta etapa
+fija cero plataforma, y se diseña con cero.** No hay contradicción: **la tabla fija un techo, no un
+mínimo**, y escribir cero cumple. **Queda anotado que el permiso existe y no se consume**, como se
+hizo con las previsiones de sector.
+
+**ADN Empresarial:** conexión natural y breve, si cabe —**el tablero no contiene el ADN; muestra
+algunas señales de cómo está funcionando lo ya transferido**—. **No se reexplican las ocho capas**
+y **no se convierte el tablero en repositorio de nada**.
+
+### 19. Caso: **NO se crea C-14**
+
+**Los trece existentes se revisaron.** El capítulo enseña **una elección** —qué señales— y **una
+distinción** —día frente a semana—, no una trayectoria: **una microescena basta**, y el precedente
+está en los capítulos 16 y 17. **C-13 es reciente** (capítulo 18) y crear otro caso formal dos
+capítulos seguidos no aporta mecanismo.
+
+**Lo que sí habrá, porque el catálogo lo exige** (criterio 7 de diseño): **un ejemplo breve y
+ficticio en cada herramienta, de sectores distintos** —comercio minorista en la 13, mantenimiento
+en la 14—. **Esos ejemplos no son casos y no se registran como C-14 ni C-15**, igual que los
+ejemplos de las herramientas 9 a 12.
+
+**Casos: siguen en 13. Reparto intacto: 7 ruta A / 6 ruta B y 7 mujeres / 6 hombres.**
+
+### 20. Puente al capítulo 20
+
+El capítulo cierra cambiando la pregunta, **y no la contesta**:
+
+> *Ya veo lo suficiente. **¿Y qué hago cuando lo que veo no me gusta?***
+
+### 21. Extensión, clasificación y controles
+
+**Objetivo: 2.000 palabras. Tope por D-030: 2.300.** Es alcanzable porque **las herramientas 13 y
+14 son archivos del catálogo con vida propia**: el capítulo **muestra su forma y su uso**, no sus
+instrucciones completas —igual que hicieron el 13 con las herramientas 10 y 11 y el 15 con la
+12—. **Reparto previsto:** movimientos 7 y 8, unas 250 palabras cada uno; los otros siete, entre
+170 y 220.
+
+| Clase | Qué hay | Necesita fuente |
+|---|---|---|
+| **A — doctrina del método** | La definición de tablero; la prueba de la señal; las tres preguntas de los tres horizontes; «ver no es decidir»; el tablero apunta y no copia | **No** |
+| **B — instrucción práctica** | Los cuatro campos de la 13 y los cinco de la 14 | **No** |
+| **C — afirmación factual externa** | **Ninguna prevista** | — |
+| **D — afirmación jurídica** | **Ninguna** | — |
+
+**Barrido de universalidades sobre esta propia arquitectura**, hecho antes de cerrarla: lo que
+queda son **prohibiciones del método y negaciones** —«el libro no elige ninguna», «prohibido
+convertir tres en máximo», «ninguna sostiene una frase que este capítulo necesite»— e
+**instrucciones**. **Se retiraron las predicciones**: no se afirma que pocas señales funcionen
+mejor, ni que un tablero corto se lea más, ni que una cadencia sea superior a otra. **Y las
+palabras «cada día», «cada semana» y «cada mes» se usan como horizontes de lectura, nunca como
+obligación de frecuencia para una señal concreta.**
+
+**Antropomorfismo:** la arquitectura no atribuye a un informe ni a un sistema los verbos *decidir,
+elegir, autorizar, aprobar ni juzgar*. **Un informe muestra, resume, compara, señala y deja
+constancia**; un sistema ya autorizado **puede preparar** la información.
+
+### 22. Señal de paso a 3.18B: las trece contestadas
+
+**1.** ¿Qué pregunta recibe del 18? *«Entonces, ¿qué miro?»* — apartado 3. **2.** ¿Qué contesta el
+19? **Qué mirar** — apartados 4 y 5. **3.** ¿Qué queda para el 20? **Cuándo intervenir** —
+apartado 9. **4.** ¿Qué es el tablero? — apartado 4. **5.** ¿Qué no es? — apartado 4. **6.**
+¿Diario frente a semanal? — apartado 14, con tabla. **7.** ¿El mensual? — apartado 7: **relectura,
+sin herramienta nueva**. **8.** ¿Trazabilidad? — apartado 10. **9.** ¿Las dos rutas? — apartado
+11: **más corto, no distinto**. **10.** ¿Investigación? — apartado 2: **cero**. **11.** ¿La
+contradicción D→O? — apartado 1: **no la hay; queda V-72 registrada**. **12.** ¿Sin inventar KPIs,
+umbrales ni frecuencias? — apartados 5, 6 y 17. **13.** ¿El puente? — apartado 20.
+
+**Ninguna queda abierta.**

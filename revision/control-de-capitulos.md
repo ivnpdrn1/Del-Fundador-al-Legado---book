@@ -57,7 +57,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 16 | Seguridad, privacidad y auditoría | III | **A** | **borrador, revisado (3.15B.1)** | **2.233** | 2.100 | **Lista de comprobación de seguridad básica — dentro del capítulo, no es una de las 18 (D-078)** | — (dos microescenas sin nombre) | 0 |
 | 17 | Preparar al equipo, a la familia y a los clientes | IV | **D** | **borrador, revisado (3.16B.1)** | **2.221** | 2.000 | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **ninguno: dos microescenas sin nombre, una por ruta** | 0 |
 | 18 | Delegación progresiva | IV | **D** | **borrador, revisado (3.17B.1)** | **2.257** | 2.200 | **Plan de delegación por bloques — dentro del capítulo, no es una de las 18 (D-078)** | **C-13** | 0 |
-| 19 | El tablero del propietario | IV | O | no iniciado | 0 | 2.000 | — | — | — |
+| 19 | El tablero del propietario | IV | **O** | **preflight hecho (3.18A)** | 0 | 2.000 | **Modelo de informe diario (13) y Modelo de informe semanal (14) — herramientas del catálogo, diseñadas y no creadas** | **ninguno: microescena. No se crea C-14** | — |
 | 20 | Supervisar sin intervenir en todo | IV | O | no iniciado | 0 | 1.900 | — | — | — |
 | 21 | Qué hacer cuando no existe el sucesor ideal | IV | D | no iniciado | 0 | 2.300 | — | — | — |
 | 22 | Su nuevo papel | V | O | no iniciado | 0 | 2.000 | — | — | — |
