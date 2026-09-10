@@ -31,7 +31,7 @@ intervención**. Las cuatro son arquitectura de este método, no una definición
 | # | Capítulo | Etapa | Entregable | Estado |
 |---|---|---|---|---|
 | 17 | Preparar al equipo, a la familia y a los clientes | D | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **borrador** |
-| 18 | Delegación progresiva | D | Plan de delegación por bloques | no iniciado |
+| 18 | Delegación progresiva | D | **Plan de delegación por bloques — dentro del capítulo, no es una de las 18 (D-078)** | preflight hecho (3.17A) |
 | 19 | El tablero del propietario | O | Modelos de informe diario y semanal (13 y 14) | no iniciado |
 | 20 | Supervisar sin intervenir en todo | O | Reglas de intervención | no iniciado |
 | 21 | Qué hacer cuando no existe el sucesor ideal | D | Árbol de opciones de continuidad | no iniciado |

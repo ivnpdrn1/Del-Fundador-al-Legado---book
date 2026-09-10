@@ -3167,3 +3167,391 @@ la lista de capítulos sin ninguna mención identificable de la plataforma. **El
 existir mañana como experiencia digital —destinatario, cambio, motivo, autoridad, límites,
 preguntas, objeciones, seguimiento— y hoy no se diseña nada: sin esquema, sin base de datos, sin
 programación y sin elección de proveedor.** **El capítulo debe estar completo sin software.**
+
+
+---
+
+## Preflight del capítulo 18 (Etapa 3.17A, 2026-09-10)
+
+**Es el capítulo donde la etapa D deja de explicarse y empieza a ocurrir**, y el único del libro
+que puede producir la evidencia que **D-071** reservó: detectar y representar son la etapa E;
+**transferir es esto**.
+
+### 0. Resultado que condiciona la escritura
+
+**Hay un asunto que requiere decisión del autor antes de escribir: V-71**, sobre la línea
+«corrección del sistema, no de la persona» de la etapa D. Está desarrollada en el apartado 9.
+**Mientras no se resuelva, el movimiento 7 del capítulo no puede escribirse sin contradecir el
+documento del método.** El resto de la arquitectura queda cerrada y no depende de esa decisión.
+
+### 1. La pregunta central, y de dónde viene
+
+El capítulo 17 termina exactamente así, y el 18 no puede inventarse otra entrada:
+
+> *Ya no es «¿cómo lo explico?». Es «¿cómo empiezo a delegarlo sin entregar demasiado de una sola
+> vez?».*
+
+**La pregunta trae un atajo dentro, y el capítulo tiene que desactivarlo en su primer
+movimiento.** Quien teme entregar demasiado de una vez **puede corregirlo entregando tan poco que
+no ocurre nada observable**, y entonces no hay evidencia de ninguna clase: ni de que funciona ni
+de que no. **Los dos extremos fallan por el mismo motivo —después no se puede saber qué pasó—**, y
+esa es la puerta de entrada a la definición de bloque.
+
+**Movimiento emocional del capítulo:** de *«ya lo expliqué»* a *«ahora tengo que dejar que ocurra
+sin mí, dentro del límite»*. **Sin dramatizar**: el primer error no es una catástrofe y el primer
+acierto no es una prueba.
+
+### 2. Qué es un bloque
+
+**Definición del método, y se declara como tal:**
+
+> **Un bloque es una transferencia acotada que se puede observar por separado.**
+
+**No es** un departamento, ni una semana, ni un porcentaje, ni un número fijo de tareas, ni una
+fase temporal, ni un nivel de riesgo. **Es la combinación mínima de cuatro cosas que el libro ya
+tiene escritas:** una **tarea o decisión** concreta · su **límite** · **a quién o a qué** se
+transfiere · y **quién responde**.
+
+**La prueba de tamaño, que es lo que hace útil la definición, y es falsable en las dos
+direcciones:**
+
+> **Un bloque tiene el tamaño correcto cuando, al revisarlo, usted puede decir qué pasó con él
+> sin tener que mirar nada más.**
+>
+> **Demasiado grande:** para saber qué ocurrió hay que desenredarlo de otras cosas que cambiaron a
+> la vez. **Demasiado pequeño:** no ocurre nada observable, y no produce evidencia.
+
+**Prohibido fijar un tamaño universal**, un número de tareas o una duración. La prueba sustituye a
+la cifra, igual que en el capítulo 13 el método se negó a fijar la duración del periodo de
+observación.
+
+### 3. Por dónde se empieza: reversibilidad, no una métrica nueva
+
+El índice dice «de menor a mayor riesgo». **Eso se lee, no se convierte en un instrumento.** El
+libro **no tiene ni va a tener una escala de riesgo**, y crear una aquí competiría con los niveles
+de autonomía del capítulo 15 y con la matriz del 10.
+
+**Lo que sí tiene, ya escrito y sin fuente nueva:** la **reversibilidad práctica** de **D-077**
+—«deshacerlo sin provocar una consecuencia igual o mayor»—, la columna de límites de la
+herramienta 8 —que ya incluye consecuencias y posibilidad de deshacer— y la primera pregunta al
+fundador de la etapa D: *¿qué decisión, si se tomara mal una vez, no pondría en riesgo la
+empresa?*
+
+**Formulación adoptada para el capítulo:** se empieza **por donde un error se pueda deshacer**, y
+—esto es lo que se añade— **por donde usted pueda contestar esa pregunta sin dudar**. Si no sabe
+si es reversible, ese no es el primer bloque.
+
+### 4. Las tres modalidades, un solo mecanismo
+
+**D-026** es obligatoria y **D-074** la acota. **El capítulo no se parte en tres**: hay **un solo
+ciclo** y las modalidades cambian **una casilla**, no el método.
+
+| Modalidad | Qué cambia en el bloque | Qué no cambia |
+|---|---|---|
+| **Persona** | Otra persona **realiza la acción autorizada** dentro del límite | La autoridad sigue asignada a una persona, función u órgano real (**D-073**) |
+| **Procedimiento** | La tarea **deja de depender del criterio concentrado en una sola cabeza**, porque queda escrito lo que hay que seguir. **No ejecuta** (**D-074**): lo sigue alguien | Ídem |
+| **Sistema supervisado** | Ejecuta acciones autorizadas **dentro del permiso ya definido en el capítulo 15**. El 18 **no lo redefine** | Ídem, y **no adquiere autoridad, responsabilidad ni criterio propios** |
+
+**Y en las tres hay una persona identificable que responde.** **Prohibidas**, y se comprueban
+antes del commit: «el procedimiento decide», «el procedimiento responde», «el sistema es
+responsable», «la IA tiene autoridad».
+
+**Los dos argumentos que este capítulo posee y debe desarrollar aquí, no anunciar** (control de
+repeticiones): **«delegar no es soltar»** —consumido una vez en el capítulo 1— y **«delegar no
+significa contratar»** —consumido en la introducción y en el 1—. **Es su capítulo propietario y
+es la última oportunidad de desarrollarlos.**
+
+### 5. Revisar después en lugar de aprobar antes, y sus tres límites
+
+**No necesita fuente.** **D-072** ya fija que **aprobación es antes** y **revisión es después**, y
+`recursos/README.md` la declara **convención operativa de este método**. Lo que el capítulo añade
+es el uso: **dentro del permiso escrito, la ejecución deja de necesitar el visto bueno previo de
+la persona clave y se comprueba después.**
+
+**Y hay que decir los tres límites en el propio capítulo, porque sin ellos la frase es
+peligrosa:**
+
+1. **Fuera del permiso escrito no aplica.** Ahí la tarea se detiene y vuelve —doctrina del
+   capítulo 15, y el capítulo 18 la **usa** sin reexplicarla—.
+2. **No suprime un control previo que una obligación legal, contractual o profesional imponga.**
+   Donde una norma exija autorización antes, la autorización sigue antes. **D-033** gobierna y el
+   capítulo **remite**, no resuelve.
+3. **No significa dejar de mirar.** Qué se mira es el capítulo **19**; cuándo se interviene es el
+   **20**. El 18 promete las dos cosas y **no construye ninguna**.
+
+### 6. Qué es evidencia en este capítulo
+
+**Prohibido** aceptar como evidencia «funcionó bien», «salió perfecto», «ya confío» o «ya puede
+hacerlo solo». **Ninguna de las cuatro se puede reconstruir.**
+
+**El mínimo ya está escrito** en la columna 7 de la herramienta 12 —qué se ejecutó, bajo qué
+permiso, cuándo, si hubo excepción y qué se decidió— y el capítulo 16 fijó su techo: **auditar no
+es registrarlo todo**. **El capítulo 18 no inventa un registro nuevo.** Añade **una sola cosa,
+que es específica del bloque:**
+
+> **Qué volvió a la persona clave, y por qué volvió.**
+
+Esa lista —no un número, no un porcentaje— es lo que permite decidir el bloque siguiente. **Si no
+volvió nada, también es evidencia**, y hay que escribirlo.
+
+### 7. El primer bloque
+
+Lo que tiene que quedar escrito antes de empezar, y todo sale de material ya existente: **qué se
+transfiere · a quién o a qué · bajo qué límite ya escrito · quién responde · qué obliga a
+detenerse y a quién vuelve · cuándo se revisa.**
+
+**No se exige un resultado.** La prueba está para producir **evidencia**, no obediencia, no
+confianza por decreto y no un éxito predeterminado.
+
+### 8. Progresividad: qué crece, y de una en una
+
+**No es tiempo, no es confianza y no es «más tareas».** Y **no es una escalera nueva**: los
+niveles de autonomía son del capítulo 15 y la herramienta 12 ya dice que **ningún nivel se gana
+por acumulación** y que las salidas son cuatro. El capítulo 18 **remite** a eso.
+
+**Lo que puede crecer en un bloque son tres cosas, y solo tres:**
+
+| | Qué significa |
+|---|---|
+| **El alcance** | Más casos **del mismo tipo** |
+| **La variedad** | Casos que antes se apartaban por ser distintos |
+| **La revisión** | Menos frecuente, o por muestreo en lugar de una por una |
+
+> **Se amplía una sola de las tres cada vez.** Si crecen dos a la vez, la revisión siguiente ya no
+> puede decir cuál de las dos produjo lo que ocurrió, **y el bloque deja de ser observable** —que
+> es exactamente lo que la prueba de tamaño del apartado 2 trataba de evitar—.
+
+### 9. Cuando algo sale distinto de lo previsto — **y aquí está V-71**
+
+**Primero, la reducción.** El encargo proponía siete clases y **varias son la misma cosa vista dos
+veces**. Contrastadas con la doctrina ya existente quedan **cuatro**, y **el orden en que se
+recorren es la mitad del contenido**:
+
+| | Clase | De dónde viene |
+|---|---|---|
+| **1** | **El caso estaba fuera del permiso.** **Y entonces no es un error: es el límite funcionando** | Capítulo 15 y **C-12**, donde una excepción **retira** el permiso en lugar de concederlo |
+| **2** | **Faltaba información, o faltaba criterio escrito** | Capítulos 9 y 11, y el mecanismo de **C-10** |
+| **3** | **El límite estaba mal escrito** — demasiado amplio, demasiado estrecho o no comprobable | Capítulo 10 y la herramienta 8 |
+| **4** | **La ejecución falló dentro de un permiso correcto y con material suficiente** | **Es la única de las cuatro que apunta a una conducta**, y aun así admite dos lecturas: falta de competencia para esa tarea, o incumplimiento deliberado de un límite escrito |
+
+**Se recorren en ese orden, y el motivo es comprobable: tres de las cuatro se resuelven sin tocar
+a nadie.** La cuarta solo se sostiene cuando las tres primeras quedaron descartadas.
+
+**La pregunta que el capítulo no debe contestar por el lector:** *¿el error demuestra que la
+delegación no debía existir, o demuestra qué parte del sistema todavía necesita corrección?*
+**Depende de la clase**, y por eso la clasificación va antes que la decisión.
+
+**V-71 — auditoría de «corrección del sistema, no de la persona». REQUIERE DECISIÓN DEL AUTOR.**
+
+**A. Qué colisiona.** La línea de *Acciones* de la etapa D en `07-metodo-legado.md` —«Revisión
+posterior de lo que falló y **corrección del sistema, no de la persona**»— contra **D-072** y
+**D-073**, que hacen que la autoridad y la responsabilidad sean **de una persona**; y contra un
+riesgo que la propia etapa D registra, **«delegar por parentesco y no por capacidad»**, que solo
+tiene sentido si la competencia de una persona puede ser el problema.
+
+**B. Por qué no conviven tal como están.** Una doctrina que **nunca** atribuye nada a la conducta
+vacía la responsabilidad que D-072 asigna, y deja al libro sin manera de tratar dos situaciones
+reales: **el incumplimiento deliberado de un límite escrito** y **la falta de competencia para la
+tarea transferida**. La clase 4 del cuadro de arriba no se podría escribir.
+
+**C. Opciones.**
+
+| | Qué haría | Coste |
+|---|---|---|
+| **A** | **Reformular como orden de examen:** «se examina **primero** la arquitectura de la transferencia —permiso, límite, información y criterio escrito— y **solo después**, si esas quedan descartadas, la conducta» | Una línea de `07-metodo-legado.md`. **Conserva íntegra la intención protectora** y deja de ser universal |
+| **B** | Dejarla como está y que el capítulo 18 no la cite | **La contradicción sigue viva** entre el documento del método y el manuscrito, y la Etapa 4 la encontrará |
+| **C** | Suprimirla | Pierde la protección que hoy da. **No se recomienda** |
+
+**D. Recomendación: opción A.**
+
+**E. Impacto.** Una línea. **Cero decisiones nuevas**: es reconciliación de una frase con
+D-072/D-073, exactamente como la Etapa 3.16A.1 reconcilió D-026 con D-074. Y **desbloquea el
+movimiento 7** del capítulo 18.
+
+### 10. Qué se decide con el bloque, y por qué la confianza no mide
+
+**Cuatro salidas, y ninguna es premio ni castigo:**
+
+| | Cuándo | Qué evidencia la sostiene |
+|---|---|---|
+| **Mantener** | El bloque se movió dentro del límite y lo que volvió, volvió por las razones previstas | El registro del bloque, sin más |
+| **Ampliar** | Hay evidencia suficiente sobre **una** de las tres dimensiones del apartado 8 | Se amplía **esa**, no las tres |
+| **Reducir** | Apareció una clase de caso que el límite no cubría | Se estrecha el alcance **en lugar de retirar todo** |
+| **Detener** | La evidencia no se pudo reconstruir, o la corrección necesaria está fuera del alcance de quien recibió el bloque | La ausencia de evidencia **también es un resultado** |
+
+> **Retroceder no es un fracaso y continuar no es un éxito.** Las cuatro son respuestas legítimas
+> a la evidencia, y la que corresponde la dice el bloque, no el ánimo con que se mire.
+
+**Y la regla que gobierna las cuatro:** **se amplía porque hay evidencia, no porque haya
+confianza.** La confianza puede ser una consecuencia humana de que algo funcione; **no es la
+unidad de medida de este método**, y el capítulo tiene prohibido escribir «cuando confíe, delegue
+más».
+
+### 11. El Plan de delegación por bloques — **seis campos**
+
+**Es el entregable del capítulo 18 y vive dentro del capítulo (D-078).** **No es la herramienta
+13** —que es el *Modelo de informe diario*, del capítulo 19—, **no es el Plan de transición de 100
+días** —que es la herramienta 17, del capítulo 23— y **no crea archivo en `recursos/`**. **El
+catálogo sigue en dieciocho y los recursos producidos en 12 de 18.**
+
+**Se evaluaron los ocho campos candidatos y se reducen a seis**, porque tres de los ocho ya viven
+en la herramienta 12 y **duplicarlos convertiría el Plan en una segunda matriz de niveles**:
+
+| | Campo | Cuándo |
+|---|---|---|
+| **1** | **El bloque** — qué se transfiere, en una línea y en verbos | Antes |
+| **2** | **A quién o a qué**, y **quién responde** — persona · procedimiento · sistema supervisado | Antes |
+| **3** | **Bajo qué límite ya escrito** — **remisión** a la fila de la matriz de autoridad o de la matriz de niveles. **No se reescribe aquí** | Antes |
+| **4** | **Cuándo se revisa, y qué se va a mirar** | Antes |
+| **5** | **Qué ocurrió** — qué se hizo, **qué volvió y por qué**, qué excepción apareció | Después |
+| **6** | **Qué se corrige, y qué se decide**: mantener · ampliar *(una sola dimensión)* · reducir · detener | Después |
+
+**Qué se fusionó, y por qué.** *«Quién responde»* entra en el campo 2 porque es el mismo acto que
+elegir destinatario. *«Límite vigente»* y *«qué obliga a detener o devolver»* se convierten en el
+campo 3, que es **un puntero y no una copia**: los dos están en la herramienta 12, columnas 4 y 5.
+*«Qué debe ocurrir sin volver a la persona clave»* es el campo 1 escrito en verbos, que es la
+disciplina que el capítulo 15 ya impuso.
+
+**Tres campos antes y tres después**, como el guion del capítulo 17. **Una hoja por bloque**, no
+por persona y no por negocio.
+
+### 12. El caso: **se propone C-13, y no se crea en esta etapa**
+
+**Los doce existentes se revisaron uno por uno y ninguno sirve.** El más cercano es **C-07**
+(Pilar), donde un límite escrito reparte decisiones que antes volvían todas a la misma persona;
+**pero ese es el mecanismo del capítulo 10**, y reutilizarlo aquí borraría precisamente la
+frontera 10/18 que este preflight tiene que proteger.
+
+**Por qué aquí sí hace falta un caso formal, después de dos capítulos sin ninguno.** Lo que el
+capítulo 18 enseña es **un ciclo en el tiempo** —se transfiere, ocurre, se revisa, se clasifica,
+se decide—. **Una microescena es una instantánea y no puede mostrar un ciclo**, que es justo lo
+contrario del razonamiento que llevó a los capítulos 16 y 17 a no crear caso. Además es el
+capítulo propietario de **«delegar no es soltar»** y **«delegar no significa contratar»**, y los
+dos necesitan una trayectoria concreta para no quedarse en eslogan.
+
+**Propuesta, con todo lo que las reglas de casos exigen:**
+
+| | |
+|---|---|
+| **ID** | **C-13** |
+| **Ruta** | **A** — empresa con estructura |
+| **Género** | **Mujer.** Balance actual 6/6; con este queda 7/6. **De los tres últimos casos formales, dos son hombres** (C-10, C-12), de modo que también corrige el reparto reciente |
+| **Sector** | **Construcción** — **cero casos formales** hasta hoy |
+| **Modalidad** | **Persona**, con **dos ejemplos breves en paralelo** —no casos— para procedimiento y para sistema supervisado, según la regla 3 de `14-publico-y-rutas.md` |
+| **Qué demuestra** | **El ciclo completo sobre un solo bloque**: se transfiere una decisión acotada, algo vuelve, se clasifica en cuál de las cuatro clases cae, y se decide entre las cuatro salidas. **Y demuestra que ampliar una sola dimensión es lo que permite leer la siguiente revisión** |
+| **Qué NO demuestra** | Que la delegación funcione; que la persona receptora fuera la correcta; que el resultado se repita; ni que el negocio ya no dependa de quien delegó. **Un bloque no es el negocio** |
+| **Riesgo de semejanza** | **Bajo**, por diseño: tres rasgos, sin lugar, sin cifras, sin fechas, sin composición familiar y **sin vocabulario de oficio** |
+
+**Por qué no se usa comercio mayorista, que era la previsión del índice para el 18.** Ese sector
+ya carga **C-04** (hombre, ruta A) **y el ejemplo de la herramienta 11** (hombre, ruta A). Un
+tercer caso ahí sería la **tercera instancia de ruta A en un solo sector** y agotaría su cupo. **La
+previsión del índice registra previsiones, no compromisos**, y ya se resolvió así en el preflight
+del capítulo 17.
+
+**No se registra todavía en `revision/control-de-casos.md`:** la regla dice que un caso se
+registra antes de escribirse, y escribirlo es la Etapa 3.17B.
+
+### 13. Arquitectura narrativa — **nueve movimientos**
+
+| | Movimiento | Qué contesta | Qué introduce | Qué recibe | Qué prepara |
+|---|---|---|---|---|---|
+| **1** | **La pregunta del 17, y los dos atajos** | ¿Por dónde se empieza a delegar? | Que entregar de más y entregar de menos fallan por el mismo motivo | El cierre del 17 | La definición de bloque |
+| **2** | **Qué es un bloque** | ¿Qué tamaño tiene lo que se transfiere? | La definición y **la prueba de tamaño en dos direcciones** | El movimiento 1 | El orden de los bloques |
+| **3** | **Por dónde se empieza** | ¿Cuál va primero? | **Reversibilidad**, sin métrica nueva | D-077 y la herramienta 8 | El primer bloque |
+| **4** | **A quién o a qué** | ¿Quién recibe? | Las tres modalidades en un solo ciclo; **destinatario ≠ ejecutor**; y los dos argumentos propios | D-026, D-074, D-073 | La ejecución real |
+| **5** | **Revisar después, no antes** | ¿Cuándo se comprueba? | La distinción de D-072 **y sus tres límites** | Capítulos 10, 15 y D-033 | Los capítulos 19 y 20 |
+| **6** | **El primer bloque, ejecutado** — **C-13** | ¿Cómo se ve esto de verdad? | El ciclo completo sobre un caso | Los movimientos 2 a 5 | La clasificación |
+| **7** | **Cuando algo sale distinto** | ¿Qué falló? | **Las cuatro clases, recorridas en orden** | Capítulos 8, 9, 10, 11, 15 | La decisión |
+| **8** | **Qué se decide, y el Plan** | ¿Y ahora qué? | Las cuatro salidas, la ampliación de una en una, y **los seis campos** | El movimiento 7 | El bloque siguiente |
+| **9** | **La señal, y lo que viene después** | ¿Cuándo se puede seguir? | La señal falsable | Todo lo anterior | El capítulo 19 |
+
+**Apertura.** Tipo a fijar en 3.17B, **con una condición: no puede ser una pregunta heredada
+contestada de frente**, porque los capítulos 13, 14, 15 y 16 ya agotaron ese recurso y el 17
+usó la variante de la frase con dos lecturas. **La dirección recomendada** es abrir con **el atajo
+contrario al que el lector teme** —entregar tan poco que no ocurra nada—, que es un tipo no usado
+y que además es el material del movimiento 1.
+
+### 14. Fronteras, todas por escrito
+
+| Par | Deslinde |
+|---|---|
+| **G / D** | **G escribe la regla; D la pone en práctica.** El lector llega al 18 **con el límite ya escrito**. El 18 **no enseña a construir la matriz de autoridad, no rediseña límites y no repite el capítulo 10** |
+| **10 y 18** | El 10 **reparte autoridad decisión por decisión** y produce la matriz. El 18 **usa una de esas filas** en una transferencia real y observa qué ocurre. **Remite, no reexplica** |
+| **15 y 18** | El 15 fija **qué puede ejecutar una tecnología y con qué permiso**. El 18 trata **qué ocurre cuando una tarea real empieza a pasar por esa vía**. **El 18 no vuelve a explicar la escala de autonomía y no mueve ningún nivel**: usa el permiso ya definido |
+| **17 y 18** | El 17 **comunica y prepara**; el 18 **transfiere y prueba**. **Ya escrito y comprobado desde el lado del 17** |
+| **18 y 20** | El 18 dice **qué se transfiere y qué evidencia produce**. El 20 dice **cuándo se interviene y cuándo no**. **El 18 no fija reglas de intervención** |
+| **18 y 23** | El 18 es la **mecánica de una transferencia**; el 23 es la **secuencia de la transición en el tiempo**, con hitos y fechas. **Un bloque no es una fase de un calendario**, y el Plan por bloques **no es el Plan de transición de 100 días** (herramienta 17) |
+| **18 y 24** | El 18 prueba la delegación **mientras la persona clave sigue disponible**. El 24 prueba qué ocurre **cuando esa disponibilidad se retira a propósito**. **El 18 no adelanta las 24 horas, los 7 días ni la prueba de ausencia**; como mucho las nombra como destino posterior |
+| **18 y 19** | El 18 **promete que habrá algo que mirar**; el 19 **construye el instrumento**. Sin tablero, sin informes, sin métricas y sin frecuencias |
+
+### 15. Señal de paso del capítulo, falsable
+
+**No exige** que el bloque saliera bien, que no volviera nada, ni que la persona clave se sienta
+cómoda. **Ninguna de las tres es evidencia.**
+
+> **Se puede pasar al bloque siguiente cuando, mirando solo la hoja de este, se puede decir qué se
+> transfirió, qué ocurrió, qué volvió y por qué, en cuál de las cuatro clases cayó lo que salió
+> distinto, y cuál de las cuatro salidas se eligió.**
+>
+> **Si para contestar eso hay que recordar en lugar de leer, el bloque no está cerrado** —por bien
+> que fuera—.
+
+**Y su forma cuando la modalidad no es una persona:** idéntica. Lo que cambia es de dónde sale el
+registro, no qué hay que poder reconstruir.
+
+**Prohibido** puntuar, fijar un umbral, contar bloques o convertir «cuatro de cuatro» en un
+aprobado.
+
+### 16. Puente al capítulo 19
+
+El capítulo cierra cambiando la pregunta, **y no la contesta**:
+
+> *Ya no reviso cada decisión antes de que ocurra. Entonces, ¿qué miro?*
+
+### 17. Investigación, fuentes y decisiones
+
+**Investigación ejecutada: ninguna. Fuentes nuevas: cero. Total: 46.**
+
+**Ninguna pregunta del plan está asignada al capítulo 18** —comprobado una por una sobre la tabla
+de Q-01 a Q-21—, y **no se abre ninguna nueva**. La prueba de necesidad se hizo afirmación por
+afirmación:
+
+| Clase | Qué hay en el capítulo | Necesita fuente |
+|---|---|---|
+| **A — doctrina del método** | La definición de bloque y su prueba de tamaño; la ampliación de una dimensión cada vez; las cuatro clases y su orden; las cuatro salidas; la señal | **No.** Se declaran como diseño de este método |
+| **B — instrucción práctica** | Los seis campos del Plan | **No** |
+| **C — afirmación factual externa** | **Ninguna prevista** | — |
+| **D — afirmación jurídica** | **Ninguna.** El límite 2 del apartado 5 **remite** (D-033) | — |
+
+**Lo que se comprobó antes de descartar:** «aprobación antes / revisión después» **ya está fijada
+por D-072** y `recursos/README.md` la declara **convención operativa de este método**, de modo que
+el capítulo no necesita apoyarla en nada externo. **Y el reflejo de buscar literatura sobre
+delegación gradual se descartó expresamente**: el capítulo se sostiene por mecanismo, y citar por
+citar es lo que este proyecto lleva siete etapas evitando.
+
+**Decisiones nuevas: cero.** Todo se resuelve con **D-026**, **D-030**, **D-033**, **D-040**,
+**D-071**, **D-072**, **D-073**, **D-074**, **D-075**, **D-077** y **D-078**. **V-71 no es una
+decisión nueva:** pide reconciliar una frase con decisiones que ya existen.
+
+### 18. Controles previos sobre la propia arquitectura
+
+**Universalidades.** Barrido sobre este preflight: las apariciones de *siempre · nunca · todos ·
+nadie · garantiza · debe · necesariamente · automáticamente* que quedan son **prohibiciones
+metodológicas y negaciones** —«prohibido fijar un tamaño universal», «ninguna de las cuatro es
+premio ni castigo», «no es la unidad de medida»—. **Se retiraron las predicciones**: no se afirma
+que un bloque pequeño funcione, ni que el primer error sea frecuente, ni que ampliar despacio dé
+mejor resultado. **Y una que hubo que corregir dentro de este mismo preflight, antes del commit:** el apartado 1
+decía «quien teme entregar demasiado de una vez **suele** corregirlo entregando muy poco», que es
+una afirmación de frecuencia sobre conducta ajena (**V-41**). Quedó en **«puede corregirlo»**, y
+así debe llegar al capítulo.
+
+**Antropomorfismo.** La arquitectura no atribuye a un procedimiento ni a un sistema los verbos
+*pensar, decidir, responder, querer, entender* ni criterio propio. **Lo que un sistema
+supervisado sí puede hacer, porque así se diseñó y se autorizó: ejecutar, registrar, comparar y
+detenerse.**
+
+### 19. Extensión
+
+**Objetivo: 2.200 palabras. Tope por D-030: 2.530**, que es un tope y no un objetivo. **Reparto
+previsto:** el movimiento 6 —el caso— alrededor de 300, el 8 alrededor de 350, y los otros siete
+entre 180 y 230 cada uno. **El Plan y el caso cuentan dentro del total.**
