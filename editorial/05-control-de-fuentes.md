@@ -100,6 +100,63 @@ citar marcos de gestión del conocimiento como adorno; su plazo real es antes de
 
 
 
+**Capítulo 18: cero afirmaciones con fuente, igual que el 17, y por el mismo motivo.** Es el
+segundo capítulo consecutivo sin ninguna referencia externa, y en los dos se llegó ahí por una
+prueba de necesidad, no por descuido. Todo lo que el capítulo afirma es **clase A —doctrina del
+Método LEGADO—** o **clase B —instrucción práctica—**: la definición de bloque y su prueba de
+tamaño; el orden de examen ante un resultado problemático; las cuatro salidas; las tres
+dimensiones de la progresividad; y los seis campos del Plan.
+
+**Qué se comprobó antes de descartar.** **Ninguna pregunta del plan de investigación está
+asignada al capítulo 18** —revisadas Q-01 a Q-21 una por una en la Etapa 3.17A— y **no se abrió
+ninguna nueva**. La pareja **aprobación antes / revisión después** ya está fijada por **D-072**, y
+`recursos/README.md` la declara **convención operativa de este método**, de modo que el capítulo
+no necesita apoyarla en nada externo. **Y el reflejo de buscar literatura sobre delegación
+gradual se descartó expresamente:** el capítulo se sostiene por mecanismo.
+
+**Lo que remite en lugar de afirmar**, y va dicho dentro del texto: **el segundo límite de
+«revisar después»**. Donde una obligación legal, contractual, regulatoria o profesional exija una
+autorización **antes**, la autorización sigue antes, y **eso no lo decide el libro: lo decide la
+jurisdicción, el contrato o el colegio profesional del lector** (**D-014**, **D-033**).
+
+**Aplicación de D-079, que es lo que este capítulo estrena.** El movimiento 7 desarrolla el
+**orden de examen** aprobado por el autor el 2026-09-10, en sus cuatro preguntas y en ese orden:
+**(1)** fuera del permiso escrito —y entonces **no es un error, es el límite funcionando**—;
+**(2)** faltaba información o criterio escrito; **(3)** el límite, el permiso o el alcance estaban
+mal definidos; **(4)** solo si nada de lo anterior lo explica, la ejecución concreta y, según el
+caso, la competencia o el incumplimiento. **El capítulo escribe las dos guardas de D-079 en la
+misma frase:** «no se atribuye un fallo a una persona por defecto» y «tampoco se establece lo
+contrario». **Y declara que no son una puntuación ni una lista de diagnósticos: son el orden en
+que se mira.**
+
+**Control de universalidades del capítulo 18.** Dos pasadas.
+
+**Primera, literal: veintisiete apariciones con límite de palabra, y las veintisiete son
+legítimas.** Cuatro grupos: **negaciones** —«no cambió ninguna», «ninguna escala de riesgo
+nueva», «ninguna de las cuatro salidas es un premio»—; **acotaciones del propio capítulo** —«la
+única unidad que este capítulo necesita», «no hay un tamaño correcto en abstracto»—;
+**distributivos** —«en cada caso», «una sola de las tres cada vez»—; e **interiores de C-13**
+—«vuelve siempre a ella», «todos, sin excepción, pasan por su teléfono», «nadie hizo nada mal»—.
+
+**Segunda, de lectura: dos correcciones, y ninguna contenía una palabra de la lista literal:**
+
+| Lo que decía | Por qué no podía quedarse | Cómo quedó |
+|---|---|---|
+| «este capítulo se separa de lo que **casi todo el mundo entiende** por delegar» | Afirmación sobre lo que piensa la mayoría | «de **la lectura más cómoda** de la palabra delegar» |
+| «**la tentación es** preguntar de entrada quién falló» | Afirmación de frecuencia sobre conducta ajena, y **en el movimiento que estrena D-079**, que es donde más caro sale | «**es fácil** preguntar de entrada quién falló» |
+
+**Control de antropomorfismos.** **Cero apariciones** de «la IA decide», «la IA entiende», «la IA
+quiere», «la IA sabe», «el sistema es responsable», «el sistema tiene autoridad», «el
+procedimiento decide», «el procedimiento responde» y «el procedimiento ejecuta». Los verbos de
+estado mental del capítulo tienen **al lector, al libro o a una jurisdicción como sujeto**. Y el
+capítulo enuncia la doctrina en positivo, en tres frases seguidas: **«un procedimiento no responde
+de nada. Un sistema tampoco. Responde quien concedió el permiso.»**
+
+**Control de la ampliación D-075.** **«Retiro», «jubilación», «expansión» y «otro negocio» no
+aparecen.** El capítulo **no decide qué hace el lector con la capacidad que libera**: su cierre
+dice que un bloque cerrado significa que **una parte de lo que el lector sabe hacer acaba de
+trabajar fuera de su cabeza**, y añade el límite —**«un bloque no es el negocio»**—.
+
 **Capítulo 17: cero afirmaciones con fuente, y es el resultado de una prueba de necesidad, no
 de un olvido.** Es el primer capítulo de la Parte IV y **la primera pieza del libro desde el
 capítulo 8 que no cita a nadie**. Todo lo que afirma es de **clase A —doctrina del Método

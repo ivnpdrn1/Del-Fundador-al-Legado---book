@@ -56,7 +56,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 15 | Autonomía limitada y aprobación humana | III | **A** | **borrador, revisado (3.14B.1)** | **2.170** | 2.200 | Matriz de niveles de autonomía (herramienta 12 de 18) | **C-12** | 0 |
 | 16 | Seguridad, privacidad y auditoría | III | **A** | **borrador, revisado (3.15B.1)** | **2.233** | 2.100 | **Lista de comprobación de seguridad básica — dentro del capítulo, no es una de las 18 (D-078)** | — (dos microescenas sin nombre) | 0 |
 | 17 | Preparar al equipo, a la familia y a los clientes | IV | **D** | **borrador, revisado (3.16B.1)** | **2.221** | 2.000 | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **ninguno: dos microescenas sin nombre, una por ruta** | 0 |
-| 18 | Delegación progresiva | IV | **D** | **preflight hecho (3.17A); V-71 cerrada por D-079, listo para escribir** | 0 | 2.200 | **Plan de delegación por bloques — dentro del capítulo, no es una de las 18 (D-078)** | **C-13 propuesto: ruta A, mujer, construcción. No creado** | — |
+| 18 | Delegación progresiva | IV | **D** | **borrador (3.17B)** | **2.175** | 2.200 | **Plan de delegación por bloques — dentro del capítulo, no es una de las 18 (D-078)** | **C-13** | 0 |
 | 19 | El tablero del propietario | IV | O | no iniciado | 0 | 2.000 | — | — | — |
 | 20 | Supervisar sin intervenir en todo | IV | O | no iniciado | 0 | 1.900 | — | — | — |
 | 21 | Qué hacer cuando no existe el sucesor ideal | IV | D | no iniciado | 0 | 2.300 | — | — | — |
