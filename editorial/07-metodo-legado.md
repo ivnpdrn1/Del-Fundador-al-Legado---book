@@ -449,20 +449,41 @@ Las tres exigen lo mismo: límite escrito, evidencia del resultado y una persona
 que responda. **Delegar en un sistema no traslada la responsabilidad al sistema.** Un
 capítulo que presente la contratación como el único camino incumple esta ampliación.
 
-**Diagnóstico.** ¿Qué decisiones podrían pasar hoy a otra persona sin riesgo? ¿Quién está
-preparado, quién puede estarlo y quién no lo estará?
+**Qué cambia en cada modalidad, y qué no cambia en ninguna** *(precisión del 2026-09-10,
+Etapa 3.16A.1: reconcilia D-026 con D-074 **sin modificar ninguna de las dos** y sin convertir
+las tres modalidades en tres métodos)*. **Ser destinatario de una delegación no es lo mismo que
+ser ejecutor:**
+
+| Modalidad | Qué cambia al delegar así |
+|---|---|
+| **Persona** | Otra persona **realiza la acción autorizada**, dentro de un límite escrito. Es el caso principal en una empresa con estructura |
+| **Procedimiento** | La tarea, o una parte de ella, **deja de depender del criterio concentrado en una sola cabeza**, porque quedan escritas instrucciones, límites, secuencia y condiciones que alguien puede seguir. **El procedimiento no ejecuta** (**D-074**): hace que la ejecución no dependa de una memoria |
+| **Sistema supervisado** | Un sistema **realiza acciones autorizadas dentro de límites escritos**, con registro y con una forma de detenerlo, **sin adquirir por ello autoridad, responsabilidad ni criterio propios**. Es la modalidad que construyen los capítulos 12 a 15 en la etapa A |
+
+**Y lo que no cambia en ninguna de las tres:** la **autoridad** sigue asignada a una persona,
+una función o un órgano que existan de verdad (**D-073**), y **hay siempre una persona
+identificable que responde**. **Delegar en un sistema no traslada la responsabilidad al sistema,
+y delegar mediante un procedimiento no traslada la responsabilidad al documento.** **Prohibido**
+escribir «el procedimiento decide», «la herramienta responde» o «el sistema es responsable».
+
+**Diagnóstico.** ¿Qué decisiones o tareas podrían dejar hoy de depender de usted sin riesgo, y
+por cuál de las tres vías? Cuando la vía sea una persona: ¿quién está preparado, quién puede
+estarlo y quién no lo estará?
 
 **Preguntas al fundador.**
 1. ¿Qué decisión, si se tomara mal una vez, no pondría en riesgo la empresa?
-2. ¿A quién ha corregido más veces, y por qué motivo se repite?
+2. ¿Qué ha tenido que corregir más veces, y por qué vuelve a repetirse? Cuando haya una
+   persona detrás, ¿quién?
 3. ¿Qué necesitaría ver para no revisar una decisión que ya delegó?
 4. ¿Qué va a hacer usted con el tiempo que libere?
 5. ¿Qué señal le indicaría que hay que dar marcha atrás en una delegación?
 
 **Acciones.** Plan de transición por bloques, de menor a mayor riesgo. Periodo de
-delegación acompañada: la otra persona decide, el fundador revisa después, no antes.
-Reducción gradual de la revisión. Pruebas de ausencia de veinticuatro horas y de siete
-días. Revisión posterior de lo que falló y corrección del sistema, no de la persona.
+delegación acompañada: **la decisión deja de pasar por el fundador** —la toma otra persona, la
+resuelve quien sigue el procedimiento, o la ejecuta un sistema supervisado dentro de su permiso
+escrito— y **el fundador revisa después, no antes**. Reducción gradual de la revisión. Pruebas
+de ausencia de veinticuatro horas y de siete días. Revisión posterior de lo que falló y
+corrección del sistema, no de la persona.
 
 **Herramientas.** Plan de transición de cien días. Prueba de ausencia de veinticuatro
 horas y de siete días.
@@ -472,12 +493,16 @@ Frecuencia con la que el fundador revoca una decisión delegada. Interrupciones 
 durante una ausencia. Asuntos detenidos durante la prueba de ausencia.
 
 **Riesgos.** Delegar la responsabilidad sin la autoridad. Retirar la delegación al primer
-error, lo que enseña al equipo a no decidir. Delegar por parentesco y no por capacidad.
-Sobrecargar a una sola persona de confianza y crear una segunda dependencia idéntica a la
-primera.
+error, lo que enseña a quien recibió la tarea a no decidir. Delegar por parentesco y no por
+capacidad. Sobrecargar a una sola persona de confianza y crear una segunda dependencia
+idéntica a la primera. **Y en las otras dos modalidades el riesgo tiene otra forma:** dar por
+transferido lo que solo está escrito —un procedimiento que nadie ha seguido todavía (**D-071**)—
+y confundir que un sistema **pueda** hacer algo con que se le **haya permitido** hacerlo.
 
-**Responsables.** El fundador. Cada persona receptora, por escrito. Un tercero que
-observe la prueba de ausencia y registre lo ocurrido.
+**Responsables.** El fundador. **Cuando la delegación sea a una persona, cada persona
+receptora, por escrito; cuando sea a un procedimiento o a un sistema supervisado, la persona
+que responde de esa tarea**, también por escrito. Un tercero que observe la prueba de ausencia
+y registre lo ocurrido.
 
 **Evidencia de avance.** Informe de la prueba de ausencia, con lo que funcionó, lo que se
 detuvo y las correcciones aplicadas.

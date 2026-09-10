@@ -19,8 +19,10 @@ personas, procedimientos o sistemas supervisados* (D-026)— y su función es la
 
 Que **no** significa conservar el control de cada acción. Significa poder transferir la ejecución,
 o parte de la decisión, **sin perder visibilidad, límites, capacidad de revisión ni criterios de
-intervención**. Las cuatro son arquitectura de este método, no una definición universal, y cada
-una se construye en un capítulo distinto de esta parte.
+intervención**. Las cuatro son arquitectura de este método, no una definición universal, y
+**no se reparten una por capítulo**: los **límites** nacen en el capítulo 10 y se ejercen en el
+18; la **capacidad de revisión** se construye en el 18; la **visibilidad**, en el 19; y los
+**criterios de intervención**, en el 20.
 
 **Es la parte donde más importa no dar por supuesta la familia** (`editorial/03-indice-maestro.md`).
 

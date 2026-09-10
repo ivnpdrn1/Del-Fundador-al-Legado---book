@@ -2808,8 +2808,19 @@ larga**, porque cada fila tiene su capítulo.
 
 El libro ya tiene un vocabulario vigente y obligatorio para repartir el trabajo de decidir:
 **autoridad, ejecución y control** (**D-072**), más la distinción entre **aprobación** —antes— y
-**revisión** —después—; y **D-074** añadió que **el ejecutor es siempre una persona**, mientras
-que un procedimiento o una plantilla **apoyan** la ejecución sin ejecutar.
+**revisión** —después—; y **D-074** separó al **ejecutor** —quien realiza la acción autorizada—
+del **soporte de la ejecución**: un procedimiento, una plantilla, una lista o una regla **apoyan
+a quien ejecuta y no ejecutan**.
+
+**Y hay que citar D-074 con su alcance, no recortada** *(corregido el 2026-09-10, Etapa
+3.16A.1)*. D-074 dice «ejecutor: quien realiza la acción autorizada; **hoy, en este libro**,
+siempre una persona», y **reserva expresamente** el caso de **un sistema supervisado que sí
+realiza acciones** a la etapa A y a los capítulos 12 a 15. **Esos capítulos ya están escritos.**
+De modo que **la Parte IV no puede convertir esa frase en una afirmación universal**: borraría la
+autonomía limitada que el libro acaba de construir y contradiría la tercera modalidad de
+**D-026**. **Lo que sí es universal, y no se toca:** la **autoridad** se asigna a una persona,
+una función o un órgano real (**D-073**), y **un sistema no adquiere autoridad porque pueda
+realizar una acción**.
 
 **Si el capítulo 17 introdujera «dirección» como un cuarto término en paralelo, crearía una
 segunda taxonomía para lo mismo.** No se hace. **Se fija así, y no es doctrina nueva: es
@@ -2819,7 +2830,8 @@ aplicación de D-072:**
 |---|---|---|
 | **Propiedad** | Quién posee participación o derechos sobre el negocio, según corresponda | **Fuera del método.** Depende de estructura jurídica, contrato y país. **El libro no la define y no la reparte** |
 | **Dirección** | **No es un término nuevo:** es la **mirada agregada** de la autoridad que ya se repartió decisión por decisión en el capítulo 10 y en la herramienta 8. Quién toma o coordina un conjunto de decisiones de gestión | Ya definido por **D-072** |
-| **Ejecución** | Quién realiza la acción autorizada. **Siempre una persona** | Ya definido por **D-072** y **D-074** |
+| **Ejecución** | Quién realiza la acción autorizada: **una persona**, o **un sistema supervisado dentro de un permiso escrito** (caps. 12-15). **Un procedimiento no ejecuta: soporta la ejecución** | Ya definido por **D-072** y **D-074** |
+| **Autoridad** | No es una cuarta fila de la lista del capítulo: es **la que gobierna las tres**. Permanece en una persona, una función o un órgano real, **cualquiera que sea la modalidad de la delegación** | Ya definido por **D-072** y **D-073** |
 
 **Las dos frases operativas del capítulo, y son las únicas dos que necesita:**
 
@@ -3044,15 +3056,28 @@ apertura **no puede afirmar que nadie reaccione de ninguna manera**.
 **No exige** que todos estén de acuerdo, que nadie tenga miedo ni que la conversación saliera
 bien. **Ninguna de las tres es comprobable y ninguna depende del lector.**
 
-> **La señal no se comprueba en usted: se comprueba en la otra persona.** Si esa persona puede
-> decir **con sus propias palabras** qué cambia, qué no cambia, qué queda dentro de lo suyo, qué
-> sigue volviendo a otro sitio y cuándo se vuelve a hablar, la conversación llegó. **Si no puede,
-> no llegó** —por bien que fuera—.
+**Un solo criterio, y dos formas según haya o no interlocutor** *(reformulado el 2026-09-10,
+Etapa 3.16A.1: la versión anterior decía «la señal no se comprueba en usted: se comprueba en la
+otra persona» y a continuación admitía la ruta B sin interlocutor, de modo que la primera mitad
+era universal de más)*. **Las cinco cuestiones son las mismas en los dos casos; lo que cambia es
+dónde se comprueban.**
 
-**Y su forma en la ruta B, que no es un apaño:** si no hay nadie a quien decírselo todavía, la
-señal es que **usted pueda escribir esas cinco cosas** en el guion sin dejar ninguna en blanco.
-Mismo precedente que la herramienta 12, donde trabajando solo se escribe «a mí» y **no se finge
-una separación que no existe**.
+> **Con interlocutor —** la comprensión se comprueba **en la otra persona**: si puede decir **con
+> sus propias palabras** qué cambia, qué no cambia, qué queda dentro de su autoridad, qué sigue
+> volviendo a otro sitio y cuándo se vuelve a hablar. **Si no puede, la conversación no llegó**
+> —por bien que fuera—.
+>
+> **Sin interlocutor —** cuando la transición solo cambia procedimientos internos y todavía no hay
+> nadie a quien decírselo, la preparación se comprueba **por escrito**: que las cinco cuestiones
+> puedan formularse en el guion **sin huecos**.
+
+**La segunda no es una versión menor de la primera.** Son dos formas del mismo criterio según la
+estructura del negocio, igual que en la herramienta 12 trabajando solo se escribe «a mí» y **no
+se finge una separación que no existe**.
+
+**Las cinco no se puntúan, no tienen umbral y no garantizan nada.** **Que alguien entienda un
+cambio no significa que esté de acuerdo con él**, y el capítulo tiene prohibido prometer lo
+contrario.
 
 ### 13. Puente al capítulo 18
 
@@ -3064,7 +3089,7 @@ El capítulo cierra cambiando la pregunta del lector, **y no la contesta**:
 
 | Par | Deslinde |
 |---|---|
-| **17 y 18** | **17 prepara la relación; 18 ejecuta la delegación.** 17 comunica y aclara expectativas; 18 transfiere bloques reales y produce evidencia de que otra persona, un procedimiento o un sistema supervisado puede ejecutar. **El 17 no desarrolla:** delegación por bloques, orden de menor a mayor riesgo, revisión después y no antes, el primer error, ni el plan de delegación |
+| **17 y 18** | **17 prepara la relación; 18 ejecuta la delegación.** 17 comunica y aclara expectativas; 18 **transfiere bloques reales y produce evidencia**, y la evidencia tiene tres formas según la modalidad (**D-026** leída con **D-074**): que **otra persona** realiza la acción autorizada; que **un procedimiento** hace que la tarea deje de depender del criterio de una sola cabeza —**el procedimiento no ejecuta**—; o que **un sistema supervisado** ejecuta dentro de su permiso escrito. **El 17 no desarrolla:** delegación por bloques, orden de menor a mayor riesgo, revisión después y no antes, el primer error, ni el plan de delegación |
 | **17 y 19** | El 17 **promete que habrá revisión**; **no diseña** tablero, informe diario, informe semanal, métricas ni frecuencia de supervisión |
 | **17 y 20** | El 17 **no resuelve** cuándo intervenir, cuándo callarse ni cuándo tolerar un error |
 | **17 y 21** | El 17 **no trata** sucesión, venta, dirección profesional, continuidad sin heredero ni elección de sucesor. Aquí solo se prepara a quienes participan o se ven afectados por **una transición ya decidida**. El argumento «el sucesor no tiene por qué ser un familiar» **pertenece al 21** y en el 17 solo cabe **en una frase** |
