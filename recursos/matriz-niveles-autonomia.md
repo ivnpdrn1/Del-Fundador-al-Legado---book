@@ -78,8 +78,9 @@ Puede ser **el tipo de caso** —«solo los envíos abiertos»—, **un plazo**,
 información con la que trabaja**, **un importe** cuando de verdad venga a cuento, o cualquier otra
 condición que sirva para esa tarea.
 
-**No hacen falta todas. Hace falta al menos una que se pueda comprobar**, porque de eso depende
-la columna 5. **Este libro no le da ninguna cifra**: los límites los pone su negocio.
+**No hacen falta todas esas formas de acotar. Sí hace falta al menos un límite comprobable que
+corresponda a la tarea**, porque de eso depende la columna 5. **Este libro no le da ninguna
+cifra**: los límites los pone su negocio.
 
 ### Columna 5 — la condición y su destinatario, juntos
 
@@ -151,8 +152,17 @@ De izquierda a derecha se lee así: *para esta tarea, hoy tiene este permiso, pu
 mientras se mantenga dentro de esto, y si se sale, para y avisa a esta persona; se puede detener
 así, queda constancia de esto, y el permiso se vuelve a mirar entonces.*
 
-**Si alguna de las ocho está vacía, el permiso no está listo.** Especialmente la 4 y la 5: **un
-permiso sin límite comprobable no es un permiso, es un cheque en blanco.**
+**Ninguna de las ocho se queda en blanco.** Especialmente la 4 y la 5: **un permiso sin límite
+comprobable no es un permiso, es un cheque en blanco.**
+
+**Y una casilla que no aplica no es una casilla vacía.** En los niveles bajos hay columnas que
+legítimamente no vienen a cuento —si esa tarea no tiene ninguna ejecución automatizada, no hay
+nada que detener—. En ese caso se escribe **«no aplica» y por qué**, en media línea:
+
+> «**No aplica:** esta tarea todavía no ejecuta nada por su cuenta.»
+
+Escribirlo cuesta lo mismo que dejarlo en blanco y dice algo distinto: **que se miró y se
+decidió**, en lugar de que se olvidó.
 
 ## 7. Ningún nivel se gana por acumulación
 

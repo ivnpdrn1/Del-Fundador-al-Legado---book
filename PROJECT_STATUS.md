@@ -64,6 +64,7 @@
 **Etapa 3.14A — Preflight del capítulo 15: COMPLETADA el 2026-09-09.**
 **Etapa 3.14A.1 — Resolución de V-69 por decisión del autor (D-077): COMPLETADA el 2026-09-09.**
 **Etapa 3.14B — Capítulo 15 y herramienta 12: COMPLETADA el 2026-09-09.**
+**Etapa 3.14B.1 — Microcontrol del capítulo 15 y auditoría del entregable del capítulo 16: COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -348,11 +349,11 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 | Capítulo 12 | **Escrito y revisado**, 2.284 palabras (objetivo 2.200) |
 | Capítulo 13 | **Escrito y revisado (3.12B.1 y 3.12B.2)**, 2.278 palabras (objetivo 2.100) |
 | Capítulo 14 | **Escrito y revisado (3.13B.1 y 3.13B.2)**, 1.980 palabras (objetivo 2.000). **Sigue por debajo de su objetivo**, como pedía la etapa |
-| Capítulo 15 | **Escrito**, 2.117 palabras (objetivo 2.200). **Segundo capítulo consecutivo por debajo de su objetivo** |
+| Capítulo 15 | **Escrito y revisado (3.14B.1)**, 2.170 palabras (objetivo 2.200). **Segundo capítulo consecutivo por debajo de su objetivo** |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **36.710** |
+| Palabras del manuscrito | **36.763** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
-| Avance sobre el objetivo | **68,9 %** |
+| Avance sobre el objetivo | **69,0 %** |
 | Recursos terminados | **12 de 18** (**22.878 palabras**; no computan en el manuscrito). **Quedan seis.** **Recuento unificado el 2026-09-09:** la cifra anterior, 15.391, procedía de otro método de conteo. |
 | Entregables que no son herramienta del catálogo | **3**, recontados sobre los archivos el 2026-09-09: la **vista del proceso real** del capítulo 7 (D-070), el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12 y el **Formato de recomendación explicada** del capítulo 14. **Los tres viven dentro de su capítulo, no tienen archivo en `recursos/` y no alteran el catálogo**, que sigue en 18. Antes decía **2**: la fila no se actualizó al escribir el capítulo 14 |
 | Documentación del proyecto | **42 archivos**, y la cifra se ha recontado, no arrastrado. **Regla de conteo:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **68** en total, menos **15** piezas del manuscrito y **11** herramientas. **La cuenta da 42 igual que antes por coincidencia aritmética** —el repositorio ganó cuatro archivos y todos fueron manuscrito o herramienta—, y la explicación anterior seguía diciendo 64, 13 y 9, que eran los números de dos etapas atrás |

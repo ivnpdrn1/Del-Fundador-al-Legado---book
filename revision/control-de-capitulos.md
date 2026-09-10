@@ -2,7 +2,7 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-09: 16 de 27 piezas escritas. 36.710 palabras.**
+**Estado del manuscrito a 2026-09-09: 16 de 27 piezas escritas. 36.763 palabras.**
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II COMPLETA:** capítulos 6 a 10.
 **PARTE III EN CURSO:** capítulos 11, 12, 13, 14 y 15, cinco de los seis. **Falta el 16.**
 **ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
@@ -53,7 +53,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 12 | La inteligencia artificial como aprendiz | III | **A** | **borrador, revisado (3.11B.1)** | **2.284** | 2.200 | **Cuadro de lo que puede y lo que no puede hacer — dentro del capítulo, no es una de las 18** | **C-09** | 0 |
 | 13 | El periodo de sombra y las primeras alertas | III | **A** | **borrador, revisado (3.12B.1 y 3.12B.2)** | **2.278** | 2.100 | Lista de verificación del modo sombra (10) y Modelo de alertas críticas (11) | **C-10** | 0 |
 | 14 | De las alertas a las recomendaciones | III | **A** | **borrador, revisado (3.13B.1 y 3.13B.2)** | **1.980** | 2.000 | **Formato de recomendación explicada — dentro del capítulo, no es una de las 18** | **C-11** | 0 |
-| 15 | Autonomía limitada y aprobación humana | III | **A** | **borrador** | **2.117** | 2.200 | Matriz de niveles de autonomía (herramienta 12 de 18) | **C-12** | 0 |
+| 15 | Autonomía limitada y aprobación humana | III | **A** | **borrador, revisado (3.14B.1)** | **2.170** | 2.200 | Matriz de niveles de autonomía (herramienta 12 de 18) | **C-12** | 0 |
 | 16 | Seguridad, privacidad y auditoría | III | A | no iniciado | 0 | 2.100 | — | — | — |
 | 17 | Preparar al equipo, a la familia y a los clientes | IV | D | no iniciado | 0 | 2.000 | — | — | — |
 | 18 | Delegación progresiva | IV | D | no iniciado | 0 | 2.200 | — | — | — |
@@ -75,21 +75,23 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 | Introducción | 1 | 2.700 | **2.899** | completa |
 | I | 5 | 10.400 | **11.319** | **completa** |
 | II | 5 | 11.000 | **11.656** | **completa** |
-| III | 6 | 12.900 | **10.836** | **5 de 6** |
+| III | 6 | 12.900 | **10.889** | **5 de 6** |
 | IV | 5 | 10.400 | 0 | — |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **36.710** | **68,9 % del objetivo** |
+| **Total** | **27** | **53.300** | **36.763** | **69,0 % del objetivo** |
 
 
 **Capítulo 13 (Etapa 3.12B): 2.213 palabras, un 5,4 % sobre su objetivo y muy por debajo del tope de D-030.** Salió primero a **1.948**, por debajo del objetivo, y **no se rellenó para llegar**: se añadió lo que faltaba y era exigible —el pasaje de la ruta A, los nombres de «falso aviso» y «omisión», y el principio de trazabilidad de una alerta—, y con eso subió solo. **Las dos herramientas no computan** en el manuscrito aunque el capítulo las explique.
 
 **Desviación acumulada: 32.608 palabras frente a 28.600 de objetivo para catorce piezas, un 14,0 % por encima.**
 
-**Capítulo 15 (Etapa 3.14B): 2.117 palabras, un 3,8 % por debajo de su objetivo de 2.200**, y **segundo capítulo consecutivo por debajo**. Salió a **1.913** y subió a 2.117 al añadir tres cosas que el encargo exigía y el borrador no tenía: el requisito de **responsabilidades asignadas** para detener (F-007), la guarda contra **«hay una persona, luego está controlado»**, y la conexión con el **ADN Empresarial** —un permiso solo puede acotarse sobre algo ya ordenado—. **No se rellenó**: se completó.
+**Capítulo 15: 2.170 palabras tras el control 3.14B.1, un 1,4 % por debajo de su objetivo de 2.200**, y **segundo capítulo consecutivo por debajo**. Las cuatro microcorrecciones del control añadieron **53 palabras**, y ninguna era de extensión: **tres eran precisiones que estrechaban una afirmación** —la excepción no es algo que la tecnología haga; la autoridad no es lo que una persona sabe hacer con sus manos; el reglamento europeo impone eso a los sistemas de alto riesgo y no es entero para ellos— y la cuarta deshacía una ambigüedad peligrosa: «no hacen falta todas» podía leerse como que **bastaba una de las cinco condiciones de D-077**, cuando hacen falta las cinco.
 
-**Parte III: 10.836 palabras en cinco capítulos** frente a **10.700** de objetivo acumulado, **un 1,3 % por encima**. Con el capítulo 16 en su objetivo, la parte cerraría en **12.936 palabras, el 24,3 % del manuscrito**, bajo el techo del 26 %. **La disciplina de extensión de las dos últimas etapas ha devuelto la Parte III casi a su presupuesto.**
+**Antes del control: 2.117 palabras.** Salió a **1.913** y subió a 2.117 al añadir tres cosas que el encargo exigía y el borrador no tenía: el requisito de **responsabilidades asignadas** para detener (F-007), la guarda contra **«hay una persona, luego está controlado»**, y la conexión con el **ADN Empresarial** —un permiso solo puede acotarse sobre algo ya ordenado—. **No se rellenó**: se completó.
 
-**Desviación acumulada: 36.710 palabras frente a 32.800 de objetivo para dieciséis piezas, un 11,9 % por encima.** Baja por tercera etapa consecutiva.
+**Parte III: 10.889 palabras en cinco capítulos** frente a **10.700** de objetivo acumulado, **un 1,8 % por encima**. Con el capítulo 16 en su objetivo, la parte cerraría en **12.989 palabras, el 24,4 % del manuscrito**, bajo el techo del 26 %. **La disciplina de extensión de las dos últimas etapas ha devuelto la Parte III casi a su presupuesto.**
+
+**Desviación acumulada: 36.763 palabras frente a 32.800 de objetivo para dieciséis piezas, un 12,1 % por encima.** Baja por tercera etapa consecutiva.
 
 **Capítulo 14: 1.980 palabras tras el control 3.13B.2, un 1,0 % por debajo de su objetivo de 2.000.** La microcorrección 3.13B.2 añadió **dos palabras**: «no es una preocupación **inventada por** este libro» y «**puede** dejar de parecer una propuesta». La primera arreglaba una inversión de sentido —el texto decía literalmente lo contrario de lo que el capítulo sostiene— y **no la habría encontrado ninguna búsqueda de universalidades**, porque el defecto no estaba en un absoluto sino en una negación mal colocada. Salió a **1.864** —un 6,8 % por debajo, primera vez en la Parte III— y **el control le añadió 114**: las once correcciones sumaron 176 y se recuperaron 62 recortando las propias correcciones. **Sigue por debajo del objetivo, que es lo que la etapa pedía.** El coste viene del mismo sitio por sexta vez: **la corrección de fondo —que comprobar no obliga a aceptar— es una segunda mitad que la regla no tenía**, y una regla en dos mitades ocupa más que una en una. No se rellenó para llegar, y tampoco hizo falta recortar: el capítulo llevaba los once movimientos, el formato de seis componentes dentro y el caso completo. **La disciplina de extensión que pedía la etapa se cumplió sin coste conceptual**, y eso matiza el patrón de las cuatro etapas anteriores: **el objetivo no se estaba quedando corto en todos los capítulos, solo en los que sustituyen prohibiciones por distinciones.** El 14 tenía las distinciones ya hechas en el preflight.
 
@@ -177,7 +179,7 @@ exceder su objetivo en más del 15 %. **Se comprueba al cerrar cada bloque.**
 | **L** | 1, 6 | 4.800 | **4.894** | **completa** |
 | E | 2, 7, 8, 9 | 8.700 | **9.190** | **completa** |
 | G | 10 | 2.200 | **2.487** | **G-1 completa** |
-| A | 11–16 | 12.900 | **10.836** | **5 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2**; **el 12 es el primero de A en sentido pleno** |
+| A | 11–16 | 12.900 | **10.889** | **5 de 6.** El cap. 11 pertenece a A **con G como requisito** y es donde se cierra **G-2**; **el 12 es el primero de A en sentido pleno** |
 | D | 17, 18, 21, 23, 24 | 10.900 | 0 | — |
 | O | 19, 20, 22, 25, concl. | 9.400 | 0 | — |
 

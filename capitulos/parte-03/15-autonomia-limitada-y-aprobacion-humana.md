@@ -4,7 +4,7 @@ parte: 3
 titulo: "Autonomía limitada y aprobación humana"
 etapa_metodo: "A"
 estado: borrador
-palabras: 2117
+palabras: 2170
 casos_usados: ["C-12"]
 recursos_producidos: ["matriz-niveles-autonomia.md"]
 afirmaciones_por_verificar: []
@@ -66,8 +66,9 @@ esto salga mal.
 | **4** | **Decisión humana** | La ejecución se detiene y el caso vuelve a una persona |
 | **5** | **Revisión posterior** | Alguien mira después lo que se hizo |
 
-El primero y el cuarto son de una persona. El quinto también. **El segundo y el tercero son lo
-único que hace la tecnología**, y el tercero consiste en **parar**.
+El primero, el cuarto y el quinto son de una persona. **Lo único que hace la tecnología es el
+segundo: ejecutar.** El tercero no es otra acción suya: **es la aparición de un caso que queda
+fuera del permiso**, y lo que provoca es que la ejecución se detenga.
 
 ## El límite, y qué pasa al cruzarlo
 
@@ -107,9 +108,9 @@ Conviene distinguir tres cosas, porque quien las confunde acaba sin detener nada
 que haber parado.
 
 Lo que sí tiene que existir, escrito antes de necesitarlo, es **una forma concreta de detener lo
-que se está ejecutando**. En el reglamento europeo de inteligencia artificial —**norma de la
-Unión Europea y solo para sistemas de alto riesgo**— eso se llama botón de parada **o
-procedimiento equivalente**, y lo segundo importa tanto como lo primero: **puede ser un
+que se está ejecutando**. En las obligaciones de supervisión humana que el reglamento
+europeo de inteligencia artificial impone **a los sistemas de alto riesgo** —**y solo a
+ellos**— eso se llama botón de parada **o procedimiento equivalente**, y lo segundo importa tanto como lo primero: **puede ser un
 procedimiento, no un botón.**
 
 Y falta la mitad que se olvida. El marco de gestión de riesgos que ya citamos —**el documento de
@@ -144,13 +145,13 @@ pequeña como para seguir**, ni concederse una categoría nueva de acción.
 
 **Qué tarea puede entrar aquí.** Este método usa un criterio propio, y conviene decir en voz alta
 que es **suyo**: no es una clasificación jurídica, ni regulatoria, ni de ningún estándar
-internacional. Para que una tarea sea **candidata a ejecución limitada** tienen que cumplirse las
-cinco:
+internacional. Para que una tarea sea **candidata a ejecución limitada** tienen que cumplirse
+**las cinco, y las cinco a la vez**:
 
 1. **Su alcance está acotado por escrito, y antes.** Por tipo de caso, plazo, volumen, la
    información con la que trabaja, un importe cuando de verdad venga a cuento, o cualquier otra
-   condición que sirva para esa tarea. **No hacen falta todas: hace falta una que se pueda
-   comprobar.**
+   condición que sirva para esa tarea. **No hacen falta todas esas formas de acotar; sí hace
+   falta al menos un límite comprobable que corresponda a esa tarea.**
 2. **Su efecto principal es reversible en la práctica**: existe una forma realista de deshacerlo
    sin provocar una consecuencia igual o mayor. **Borrar un registro no es deshacer lo que ese
    registro ya provocó**, y nada es reversible por el hecho de ser digital.
@@ -208,9 +209,10 @@ registra lo que hay hoy y cuándo se vuelve a mirar.
 > **Aquella dice quién puede decidir qué. Esta dice cuánto puede hacer la tecnología sin volver a
 > preguntar.**
 
-Con una relación que no puede romperse: **un permiso de esta matriz no puede dar más de lo que
-la otra concede a quien lo autoriza.** Nadie puede autorizar a una herramienta lo que él mismo no podría
-hacer.
+Con una relación que no puede romperse: **el permiso concedido a la tecnología no puede exceder
+la autoridad de quien lo autoriza.** No se trata de lo que esa persona haga con sus manos —puede
+autorizar perfectamente algo que ella no ejecuta nunca—, sino de **hasta dónde llega su
+autoridad para decidirlo**.
 
 **Trabajando solo**, la columna de a quién vuelve la excepción dice «a mí», escrito tal cual. No
 hay superior, no hay comité y **no existe la autoaprobación**: hay una persona decidiendo dos
