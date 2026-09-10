@@ -346,6 +346,31 @@ Máximo dos capítulos por personaje. Sin historia continuada entre capítulos.
 | Tomás (C-04) | 3 | No |
 | Lucía (C-05) | 4 | No |
 
+**Capítulo 16: sin caso registrado, por decisión (Etapa 3.15A).** Es el segundo capítulo del
+libro que lo hace, después del 5, y por un motivo parecido. El 16 **cierra la Parte III** y tiene
+que meter cuatro definiciones de trabajo, cuatro preguntas estructurales, una lista de ocho
+comprobaciones y un puente de parte en **2.100 palabras**: un caso completo lo rompería. **Y hay
+una razón mejor que el espacio:** un capítulo de cierre funciona volviendo sobre lo que el lector
+ya construyó, no presentándole a un duodécimo protagonista.
+
+**Ismael no continúa**, y no por elección: la regla del apartado 5 prohíbe **historia continuada
+entre capítulos**. Se comprobó expresamente.
+
+**Lleva dos microescenas sin nombre y sin rasgos**, por debajo de las 120 palabras de la guarda
+de D-030 y por tanto ejemplos y no casos: **una de ruta A** —alguien deja el negocio y semanas
+después se descubre que la tarea automatizada seguía funcionando con su cuenta— y **una de ruta
+B** —hace falta recuperar algo de hace meses y está solo en la cuenta de un proveedor a la que se
+entra con un correo que ya no se usa—. **Una por ruta**, como en el capítulo 5.
+
+**Ninguna de las dos es una catástrofe**, y eso es deliberado: el capítulo enseña gobierno
+cotidiano, no miedo. **Prohibidos** los ataques de película, el rescate, la filtración masiva y
+el desastre tecnológico. Las dos escenas cuentan el mismo hallazgo: **una dependencia que nadie
+decidió tener.**
+
+**El reparto de casos no cambia:** sigue en **12 casos, 6 de ruta A y 6 de ruta B, 6 mujeres y 6
+hombres**. Y el sector previsto para el capítulo 16 —si alguna vez lo tuvo— **queda libre para la
+Parte IV**.
+
 **Capítulo 5: sin caso registrado, por decisión.** El capítulo es de reencuadre y necesitaba mostrar **dos elecciones distintas**, no una historia. Lleva **dos microescenas sin nombre y sin rasgos** —una propietaria que pasa a supervisión y se queda quince años, y un profesional que trabaja solo y decide no cambiar de posición—, ambas muy por debajo de las 120 palabras de la guarda de D-030 y por tanto ejemplos, no casos. **Una por ruta**, de modo que los dos lectores encuentran una manifestación concreta. No se inventó un caso para cumplir cuota, y el reparto de casos no cambia: sigue en 3 de ruta A y 2 de ruta B. El ejemplo de la herramienta 2, en agricultura, es material del anexo y tampoco es un caso.
 
 ## 6. Comprobación antes de escribir un caso

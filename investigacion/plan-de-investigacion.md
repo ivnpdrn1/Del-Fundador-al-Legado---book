@@ -63,7 +63,7 @@ con solidez sin resolverla.
 | Q-04 | ¿Qué marcos existen sobre gestión de riesgos de la inteligencia artificial y qué recomiendan sobre supervisión humana? | 12, 15, 16 | Alta | **Resuelta 2026-09-06.** F-007, F-008, F-009, F-010. Coinciden con las reglas 4 y 5 del método (D-020). |
 | Q-05 | ¿Qué obligaciones generales de protección de datos afectan a una pyme que trate información con herramientas de terceros, y cómo varían por jurisdicción? | 11, 16 | Alta | **RESUELTAS CONJUNTAMENTE con límites el 2026-09-09 (Etapa 3.10A)**: F-038 a F-042, las cinco leídas directamente en el documento oficial. **El hallazgo que decide el capítulo 11 es negativo y era previsible: no existe una regla única aplicable a todos los lectores.** Lo que sí existe es un conjunto de **preguntas de control que siguen sirviendo aunque cambie la jurisdicción**. Resultado completo al final de este documento. Antes: sin iniciar, prioridad alta por D-014. |
 | Q-06 | ¿Qué dice la literatura académica sobre transferencia de conocimiento tácito en organizaciones pequeñas? | 2, 9 | **Alta** | **RESUELTA, para el capítulo 2 y para el capítulo 9. Cerrada el 2026-09-07 (Etapa 3.8A.1).** Ver «Q-06 · Q-13 · Q-16 — Resultado conjunto» al final de este documento. Antes: **resuelta para el capítulo 2 el 2026-09-07** con F-016 (Nonaka, *HBR* 1991, leída íntegra) y F-017 (ficha del editor de *The Tacit Dimension*). Aporta la distinción tácito/explícito, la imagen del maestro artesano y el enunciado de que el conocimiento no explicitado no se aprovecha por el conjunto. La parte que quedaba abierta —métodos de externalización del criterio, no solo diagnóstico— **se cerró en la Etapa 3.8A.1** con las tres categorías de técnicas de F-028, leídas en el resumen del propio artículo. **No queda ninguna parte de Q-06 abierta.** **Lo que no se encontró:** literatura específica sobre organizaciones pequeñas; F-016 es literatura general de gestión con ejemplos de empresas grandes, y así se usa: como distinción conceptual, nunca como dato aplicable al tamaño del lector. |
-| Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | Sin iniciar |
+| Q-07 | ¿Qué recomendaciones de ciberseguridad básica publican organismos oficiales para pequeñas empresas? | 16 | Media | **RESUELTA con límites el 2026-09-09 (Etapa 3.15A), con una sola fuente: F-046**, NISTIR 7621 Rev. 1, *Small Business Information Security: The Fundamentals*, **leída entera en su PDF oficial**. Se ejecutó tras una **prueba de necesidad**: el entregable del capítulo 16 se llama «lista de comprobación de seguridad básica» y **ninguna de las 45 fuentes anteriores decía nada sobre seguridad**. **Lo que aporta, y basta:** el principio de **mínimo acceso**, las **cuentas individuales** y su consecuencia —sin ellas no se puede investigar qué pasó—, el valor de los **registros** para reconstruir, y las **copias guardadas fuera** como condición para poder restaurar. **Lo que no aporta y no se le pide:** es de **2016**, es una **guía de referencia estadounidense y no una norma**, y su lista concreta de tecnología no se usa. **Sus cadencias —«al menos una vez al mes»— no se adoptan**, y su afirmación sobre el origen de los incidentes **no se cita**. |
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media, **materialmente necesaria antes del capítulo 10** | **RESUELTA con límites el 2026-09-08 (Etapa 3.9A)**: F-034, F-035, F-036 y F-037. Tres de las cuatro leídas directamente en el original. **El hallazgo que decide el capítulo 10:** la separación de funciones **no es una regla universal**, y las tres fuentes leídas coinciden en que cuando no hay personal suficiente se diseñan **controles alternativos**. **Límite que permanece:** ninguna fuente cubre negocios privados pequeños como estándar de gestión —una es federal, otra es de auditoría fiscal y otra de empresas cotizadas—, y **ninguna dice que un control alternativo equivalga a la separación ni que sea más débil**. Resultado completo al final de este documento. |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE.** Etapa 3.4A: seis fuentes, F-018 a F-023. **Ampliación dirigida a la ruta B en la Etapa 3.4A.1:** tres fuentes más, F-024 a F-026, una de ellas **leída íntegra**. Resultados completos al final de este documento. **Sigue abierta para el capítulo 22** y por el vacío de evidencia hispanohablante (V-56B), que no se ha podido cerrar. |
 | Q-10 | ¿Qué evidencia hay sobre efectos de la ausencia imprevista de una persona clave en organizaciones pequeñas? | 4 | Media | Sin iniciar |
@@ -81,12 +81,12 @@ frecuencia (regla V-41).
 |---|---|---|---|---|
 | Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | **RESUELTA en su parte conceptual el 2026-09-07 (Etapa 3.8A)** con F-029 (Eraut). **Vacío que permanece:** ninguna literatura localizada sobre el trabajo por cuenta propia o de una sola persona. Resultado completo al final de este documento. Antes: **Corrección del 2026-09-07:** el informe de la Etapa 3.3 la dio por pertinente para el capítulo 5, y no lo es; sus capítulos son el 2 y el 9. El 2 ya está escrito y se cerró con Q-06, de modo que **su plazo real es antes del capítulo 9**. |
 | Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
-| Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | Sin iniciar. Hallazgo previo de Q-03: aparece de forma secundaria. |
+| Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | **NO EJECUTADA, y diferida por prueba de necesidad el 2026-09-09 (Etapa 3.15A).** La pregunta previa se contesta que no: **el capítulo 16 no necesita afirmar externamente que la dependencia de una persona sea un riesgo reconocido**. El libro lo construyó **por mecanismo** a lo largo de las Partes I, II y III, y el capítulo 16 trata de otra cosa —acceso, registro, protección y recuperación—. **Investigarla ahora sería decorar un capítulo que no la pide.** Sigue disponible para el capítulo 4 si alguna vez se revisa. Hallazgo previo de Q-03: aparece de forma secundaria. |
 | Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **RESUELTA con límites el 2026-09-07 (Etapa 3.8A.1)**: F-027, F-028, F-030, F-031, F-032 y F-033. **Corrige el estado de la Etapa 3.8A**, que la dejó parcialmente resuelta por no haber podido leer F-028: el resumen íntegro de F-028 sí se obtuvo después, y con él las tres categorías de técnicas que faltaban. **Límite que permanece:** ningún texto completo, de modo que el libro puede nombrar las tres categorías pero no sus subtipos ni la comparación empírica entre técnicas. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Su plazo real era **antes del capítulo 9**, y se cumplió. |
 | Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | **12, 13, 14, 15** | **Alta** | **RESUELTA con límites el 2026-09-09 (Etapa 3.11A)**: releídas F-007, F-009 y F-010, **ampliada F-007 con su apéndice C**, y dos fuentes nuevas —F-043 y F-044— solo para lo que ninguna norma contesta: cómo se comportan las personas. **El hallazgo que decide el capítulo 12 es negativo:** la combinación de persona y sistema **puede dar peor resultado que cualquiera de los dos por separado**, según el apéndice C de F-007. Resultado completo al final de este documento. **Alcance ampliado al capítulo 13 el 2026-09-09 (Etapa 3.12A), y el estado resuelto no se reabre.** El campo de capítulos decía «12, 14, 15» y **omitía el 13 por descuido, no por criterio**: el periodo de sombra es colaboración persona-sistema en el sentido más literal de la pregunta —una persona decide, un sistema observa, y después se comparan— y la supervisión, que es la mitad del enunciado de Q-17, **es exactamente lo que el capítulo 13 pone en práctica**. **No se crea otra pregunta para corregir una omisión de alcance**, y no se vuelve a investigar: las fuentes que el capítulo 13 usa —F-007 ampliada y F-045— entran por esta misma pregunta. |
 | Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | **RESUELTAS CONJUNTAMENTE con límites el 2026-09-09 (Etapa 3.10A)**: F-038 a F-042, las cinco leídas directamente en el documento oficial. **El hallazgo que decide el capítulo 11 es negativo y era previsible: no existe una regla única aplicable a todos los lectores.** Lo que sí existe es un conjunto de **preguntas de control que siguen sirviendo aunque cambie la jurisdicción**. Resultado completo al final de este documento. **Se ejecutó fusionada con Q-05, como el propio plan preveía**, y aporta lo que Q-05 sola no da: la distinción entre **dato personal**, **información confidencial de terceros** y **credenciales**, que son tres problemas distintos. |
-| Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **Permanece abierta para el capítulo 16**, o para el momento en que la propiedad del conocimiento codificado sea materialmente necesaria. Sin iniciar. Origen: `13-adn-empresarial.md` §6.3. |
-| Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | Sin iniciar. **Muy dependiente de jurisdicción**; probablemente se resuelva remitiendo a la norma local y no citando ninguna. |
+| Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **NO EJECUTADA para el capítulo 16, y diferida otra vez por prueba de necesidad el 2026-09-09 (Etapa 3.15A).** El capítulo pregunta **dónde están los datos** y **qué pasa si algo falla**, y podría parecer que necesita Q-19. **No la necesita**, y la distinción importa: lo que el capítulo tiene que decirle al lector es **«compruebe si puede sacar de ahí lo que necesita para seguir funcionando»**, que es **una pregunta de control y una regla de prudencia del método**, no una afirmación jurídica sobre titularidad. **El capítulo no dirá de quién es lo que el proveedor guarda**, porque para eso sí haría falta Q-19 y probablemente no exista respuesta universal. **Lo que sí dirá, y no necesita fuente:** que la pregunta se hace antes de depender, no después. Permanece abierta para el momento en que la titularidad sea materialmente necesaria —una venta, una transferencia—, previsiblemente en la Parte V. | Origen: `13-adn-empresarial.md` §6.3. |
+| Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | **NO EJECUTADA, y diferida por segunda vez el 2026-09-09 (Etapa 3.15A); la primera fue en el preflight del capítulo 15.** El capítulo 16 puede limitarse a lo que **D-033** ya autoriza: **un permiso tecnológico no sustituye la responsabilidad ni las obligaciones de una persona habilitada**, y donde haya norma profesional se remite a ella y a un profesional de esa jurisdicción. **Investigar una multitud de profesiones y países para escribir esa frase sería desproporcionado**, y el resultado previsible es el mismo que ya se anotó: **se resuelve remitiendo, no citando.** |
 | Q-21 | ¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el precio de venta de un negocio pequeño? | 21, 25 | Media | Sin iniciar. **Mientras no se resuelva rige D-032:** el libro habla de transferibilidad y continuidad, no de valor. |
 
 ## 4. Categorías de fuentes candidatas
@@ -2507,3 +2507,245 @@ supervisión humana evita errores** · que **si es reversible no tiene riesgo** 
 siempre puede corregirlo** · que **la herramienta sabe cuándo detenerse** · que **más autonomía
 es mejor** · que **el nivel 6 reemplaza al propietario** · que **la mano derecha digital decide
 por usted** · y que **cumplir la matriz autoriza a automatizar**.
+
+
+---
+
+## Preflight del capítulo 16 (Etapa 3.15A, 2026-09-09)
+
+**No se ha escrito el capítulo 16 y no se ha creado la lista de comprobación.** El capítulo
+**cierra la Parte III** y la etapa A del método.
+
+### 1. Qué enseña este capítulo, y qué no
+
+Recoge la pregunta con la que terminó el 15: *si ya hace algunas cosas sin preguntarme, ¿quién
+puede ver todo esto, qué queda registrado, dónde están los datos y qué pasa cuando algo falla?*
+
+**Idea rectora, y es de gobierno y no de miedo:**
+
+> **Automatizar una tarea también crea una responsabilidad de gobierno.** No una nueva
+> tecnología que aprender: **cuatro preguntas que contestar antes de dejarla seguir.**
+
+**Lo que NO va a enseñar**, y conviene fijarlo antes de escribir: no es un tratado técnico, ni un
+manual jurídico, ni un manual de ciberseguridad, ni una política de cumplimiento. **No enseña a
+configurar nada.** Y **no reexplica** la clasificación de la información (capítulo 11), capacidad
+frente a permiso (12), el modo sombra (13), el sesgo de automatización (14) ni la escala de
+niveles (15). **Añade cuatro cosas: acceso, registro, protección y recuperación.**
+
+### 2. Las cuatro palabras que no son la misma
+
+En lenguaje llano y solo hasta donde el capítulo las necesita. **Son definiciones de trabajo de
+este libro**, no definiciones profesionales:
+
+| | Contesta a |
+|---|---|
+| **Seguridad** | Que solo pueda ver y hacer lo previsto **quien deba**, y que se pueda volver a funcionar si algo se rompe |
+| **Privacidad** | Qué puede hacerse con la información **de personas**. Depende de la jurisdicción, y el capítulo lo dice cada vez |
+| **Confidencialidad** | Lo que se debe **a otro** por un contrato, una relación o un secreto del negocio |
+| **Auditoría** | **Poder reconstruir qué ocurrió y comprobar si se actuó dentro del permiso** |
+
+**Y una quinta que no es ninguna de las cuatro: continuidad.** Que el negocio **siga funcionando
+mientras se resuelve el problema**. Se separa a propósito, porque es lo que queda en pie cuando
+las otras cuatro han fallado.
+
+**Auditoría, con su acotación explícita.** Aquí **no** significa auditoría contable, ni legal, ni
+profesional, ni certificación de cumplimiento. **Es un uso del término en este libro**, y así se
+declara la primera vez.
+
+### 3. Las cuatro preguntas, y qué contesta cada una
+
+**A. ¿Quién puede ver qué?** La distinción que el capítulo aporta: **autoridad no es acceso.**
+Una persona puede tener autoridad sobre una decisión **sin necesitar ver toda la información del
+negocio**, y una herramienta con permiso para una tarea **no necesita acceso a todo lo demás**.
+Con dos apoyos de **F-046**: **cada quien accede solo a lo que necesita para su trabajo**, y
+**cada persona entra con su propia cuenta** —porque sin cuentas individuales «you may find it
+difficult to investigate data loss or unauthorized data manipulation»—. **Las credenciales** son
+la tercera categoría del capítulo 11 y aquí solo se pregunta **dónde están y quién las conoce**.
+
+**B. ¿Qué queda registrado?** Se hereda del capítulo 15 —qué se ejecutó, bajo qué permiso,
+cuándo, si hubo excepción y qué se decidió— y se añade **para qué sirve**: para poder
+reconstruir. **F-046** lo dice de la forma más útil: los registros «may be valuable **in case of
+an investigation**». **Prohibido convertir «auditoría» en «registrarlo todo»**: un registro que
+nadie puede leer no es trazabilidad, es volumen.
+
+**C. ¿Dónde están los datos?** La pregunta operativa del capítulo **no es de quién son**, y esa
+elección se explica en el apartado 5. Es: **¿qué hay solo en la cuenta de un proveedor, y qué
+pasaría si mañana no pudiera entrar?** Con la frase que el capítulo necesita y que **F-040**
+—Unión Europea y EEE, y así se dice— permite sostener en su ámbito: quien contrata a un
+proveedor **debe comprobar antes que ofrece garantías suficientes y poder demostrar que lo
+comprobó**. De ahí el principio del método, formulado sin exceder la fuente: **contratar a un
+proveedor no traslada automáticamente la responsabilidad del negocio sobre lo que necesita
+proteger.**
+
+**D. ¿Qué pasa si algo falla?** Cinco clases de falla, comprimidas en el texto y no convertidas
+en secciones: **la herramienta**, **el acceso**, **el proveedor**, **el dato** y **el uso no
+autorizado**. La pregunta que las une es de continuidad: **¿qué necesita el negocio para seguir
+funcionando mientras se resuelve?** Con **F-046** para las copias —**guardadas fuera** del sitio
+donde ocurre el trabajo— y la regla propia que la fuente no da: **una copia que nadie ha
+restaurado nunca es una suposición, no una copia.**
+
+### 4. Jurisdicción, y lo que el capítulo tiene prohibido decir
+
+**D-014 y `12-alcance-jurisdiccional.md` son obligatorios aquí más que en ningún otro capítulo.**
+Y hay una herencia que ayuda: **Q-05 y Q-18 ya establecieron que no existe una regla única de
+privacidad aplicable a todos los lectores** (V-63, abierta). El capítulo **no la busca**: usa
+**preguntas de control** y **remite**.
+
+**Prohibido**: «la ley exige» sin ámbito · «debe conservar durante X años» · «usted es
+propietario de todo lo producido» · «el proveedor debe devolverle sus datos» · y cualquier
+recomendación de F-046 presentada como obligación universal.
+
+**Y las ocho promesas que el capítulo no hace**, para tenerlas delante al escribir: que su
+negocio estará **seguro** · que **evitará filtraciones** · que **cumplirá la regulación** · que
+su información **está protegida** · que una copia **garantiza** recuperación · que un registro
+**garantiza** auditoría · que **el proveedor es el responsable** · que **la herramienta detectará
+el incidente**.
+
+### 5. Qué investigación se ejecutó y cuál no
+
+**Solo Q-07, y tras una prueba de necesidad.** Las otras tres se difieren con motivo escrito:
+
+| | Estado | Por qué |
+|---|---|---|
+| **Q-07** | **EJECUTADA. Parcialmente necesaria** | El entregable se llama *lista de comprobación de seguridad básica* y **ninguna de las 45 fuentes anteriores decía nada sobre seguridad**. Escribirla sin ninguna referencia habría sido inventarla. **Una sola fuente nueva: F-046** |
+| **Q-15** | **NO NECESARIA. Diferida** | El capítulo **no necesita afirmar externamente** que la dependencia de una persona sea un riesgo reconocido. El libro lo construyó por mecanismo en las Partes I a III |
+| **Q-19** | **NO NECESARIA. Diferida** | Lo que el capítulo dice es **«compruebe si puede sacar de ahí lo que necesita»**, que es pregunta de control y regla de prudencia. **No dirá de quién es lo que el proveedor guarda**, y para eso sí haría falta Q-19 |
+| **Q-20** | **NO NECESARIA. Diferida por segunda vez** | **D-033** ya autoriza la frase necesaria: un permiso tecnológico no sustituye la responsabilidad de una persona habilitada. Se remite, no se cita |
+
+**Lo que se reutiliza sin volver a investigar:** **Q-03** —F-011, análisis de impacto y
+estrategias de recuperación—; **Q-04** —F-007, mecanismos y responsables asignados para anular o
+desconectar—; **Q-05 y Q-18** —F-038, F-040 y F-042, con el hallazgo negativo intacto—.
+
+**Aviso de fuentes que NO se citarán, y hay que registrarlo:** **F-005 (ISO 22301)** y **F-006
+(ISO 31000)** están verificadas **solo en identidad**, porque son normas de pago. **El capítulo 16
+no las cita**, y por tanto **V-16 —advertir de que son de pago al citarlas— no se activa en este
+capítulo**; queda viva para el capítulo 4.
+
+### 6. La Lista de comprobación de seguridad básica
+
+**Es un entregable del capítulo (D-078).** **No es la herramienta 13, no es la herramienta 19, no
+crea archivo en `recursos/` y el catálogo sigue en 18.** Vive dentro del capítulo y **cuenta
+dentro de sus palabras**.
+
+**Ocho preguntas, dos por cada una de las cuatro.** Se llegó a ocho desde las doce dimensiones de
+partida aplicando dos filtros: **si la respuesta «no sé» no le dice al lector qué riesgo
+investigar, la pregunta sobra**; y **si contestarla exige ser especialista, la pregunta sobra**.
+Cayeron por eso las dimensiones de cifrado, de detección y de portabilidad como asunto jurídico;
+**portabilidad sobrevive convertida en la pregunta 5**, que es operativa.
+
+| | Pregunta | Qué revela un «no sé» |
+|---|---|---|
+| **1** | ¿Cada persona que entra a algo lo hace **con su propia cuenta**? | Que no se podrá saber quién hizo qué |
+| **2** | ¿Alguien —o algo— tiene acceso a **más de lo que necesita** para su trabajo? | Que el acceso se concedió por comodidad y no por necesidad |
+| **3** | ¿Dónde están las **credenciales**, y quién las conoce? | Que la salida de una persona puede dejar puertas abiertas |
+| **4** | Si mañana hubiera que reconstruir **qué se hizo, quién lo autorizó y qué pasó con una excepción**, ¿se podría? | Que hay permisos concedidos sin forma de comprobarlos |
+| **5** | ¿Qué existe **solo** en la cuenta de un proveedor, y qué pasaría si mañana no pudiera entrar? | Una dependencia que nadie eligió |
+| **6** | ¿Hay **una copia fuera de ahí**, y alguien ha comprobado que se restaura? | Que hay copia y no hay recuperación |
+| **7** | Si algo falla, ¿**quién se entera, quién puede detenerlo** y a quién se avisa? | Que el mecanismo de parada del capítulo 15 no tiene dueño |
+| **8** | ¿Qué necesita el negocio para **seguir funcionando mientras se resuelve**? | Que no hay plan B para lo que ya depende de esto |
+
+**Cinco respuestas por pregunta**, y la última es la que la convierte en instrumento: **sí · no ·
+no lo sé · no aplica · y qué voy a hacer.**
+
+**«No lo sé» es la respuesta más útil de la hoja** y así se dirá: es la única que señala dónde
+mirar. **«No aplica» se escribe con su motivo**, como en la herramienta 12.
+
+**Ruta A y ruta B, sin dos versiones.** Con equipo pueden existir personas distintas para
+autorizar accesos, administrar sistemas, recibir incidentes y revisar registros; **la hoja no
+exige que existan** y **no inventa un departamento de sistemas**. Trabajando solo, las cuatro son
+la misma persona, y las preguntas 1, 2 y 3 **no se vuelven triviales**: cambian de sentido —de
+quién más entra, a qué queda abierto cuando yo no estoy—.
+
+**La remisión a profesionales va después de la lista, no en lugar de ella.** El capítulo debe
+dejar al lector **sabiendo qué preguntar**; remitir sin enseñar los controles básicos sería usar
+al profesional como excusa.
+
+### 7. El caso: NO se crea C-13
+
+**Y la decisión es deliberada.** El capítulo tiene que meter cuatro definiciones, cuatro
+preguntas, ocho comprobaciones y un cierre de parte en 2.100 palabras: **un caso completo lo
+rompería**. Además, **Ismael no puede continuar** —la regla prohíbe historia continuada entre
+capítulos— y presentar a un duodécimo protagonista en el capítulo de cierre le quitaría al
+capítulo lo que necesita, que es **volver sobre lo que el lector ya construyó**.
+
+**Precedente exacto: el capítulo 5**, que quedó registrado «sin caso, por decisión» y funcionó
+con dos microescenas sin nombre, una por ruta.
+
+**Dos microescenas sin nombre, por debajo de las 120 palabras de la guarda de D-030**, y ninguna
+es catastrófica: **prohibidos** los hackers de película, el rescate, la filtración masiva y la
+catástrofe. **Son dependencias invisibles que aparecen un martes cualquiera:**
+
+- **Ruta A:** alguien deja el negocio y, semanas después, se descubre que la tarea automatizada
+  seguía funcionando **con su cuenta**.
+- **Ruta B:** hace falta recuperar algo de hace unos meses y **está solo en la cuenta de un
+  proveedor** a la que se entra con un correo que ya no se usa.
+
+**Ninguna de las dos es un desastre.** Las dos son el mismo hallazgo: **una dependencia que nadie
+decidió tener.**
+
+### 8. Arquitectura narrativa
+
+**Diez movimientos.**
+
+1. **La pregunta heredada del capítulo 15**, en la primera línea.
+2. **La primera microescena** y la idea rectora: automatizar crea una responsabilidad de
+   gobierno.
+3. **Las cuatro palabras que no son la misma**, más continuidad como quinta.
+4. **¿Quién puede ver qué?** — autoridad no es acceso.
+5. **¿Qué queda registrado?** — auditar es poder reconstruir, no registrarlo todo.
+6. **¿Dónde están los datos?** — la segunda microescena, y la responsabilidad que no se traslada.
+7. **¿Qué pasa si algo falla?** — las cinco clases, y la continuidad.
+8. **La lista de comprobación**, con sus ocho preguntas.
+9. **Qué preguntar a un profesional**, y las ocho promesas que este libro no hace.
+10. **Cierre de la Parte III y puente a la Parte IV.**
+
+**Por qué la segunda escena va en el movimiento 6 y no al final:** porque la dependencia de un
+proveedor es la más difícil de ver de las cuatro preguntas, y **abstraerla no funciona**.
+
+### 9. Cómo cierra la Parte III, y qué abre
+
+El capítulo debe dejar al lector con una frase que resuma seis capítulos: **la tecnología ya
+puede ayudarle sin que usted haya entregado el control.**
+
+Y entonces **cambia el sujeto**, que es lo que abre la Parte IV: de un sistema supervisado a
+**personas que tienen que saber funcionar sin usted**.
+
+> *Ya tengo la información ordenada, el criterio escrito, los permisos, los límites y los
+> controles. ¿Y qué pasa cuando quienes tienen que trabajar con todo esto son otras personas?*
+
+**El capítulo 16 no la contesta.** No se escribe el capítulo 17.
+
+### 10. Extensión, clasificación de afirmaciones y controles
+
+**Objetivo 2.100 palabras**, y la arquitectura se diseñó para caber: diez movimientos de entre 90
+y 380 palabras, con la lista ocupando el bloque mayor. **El entregable cuenta dentro.**
+
+**Clasificación de lo que el capítulo va a afirmar:**
+
+| Clase | Qué entra |
+|---|---|
+| **A. Doctrina del método** | Autoridad ≠ acceso · auditar es poder reconstruir · una copia no restaurada es una suposición · contratar un proveedor no traslada la responsabilidad · continuidad como quinta palabra |
+| **B. Instrucción práctica** | Las ocho preguntas de la lista y sus cinco respuestas |
+| **C. Afirmación factual externa** | **Solo cuatro, todas de F-046**, y cada una con su fecha y su ámbito dentro de la frase |
+| **D. Afirmación jurídica** | **Ninguna.** Lo que toca ley se convierte en pregunta de control y remisión |
+| **E. Afirmación contractual** | **Una, de F-040 y en su ámbito**: comprobar antes las garantías del proveedor y poder demostrarlo |
+| **F. Ciberseguridad** | Las mismas cuatro de F-046. **Cero configuración, cero producto, cero interfaz** |
+
+**Control de obsolescencia**, que en este capítulo es el riesgo mayor: **funciones, no
+productos**. «Una forma adicional de comprobar quién entra» y no el nombre del mecanismo; «poder
+exportar» y no un botón; «un sitio distinto» y no un servicio. **Cero marcas, cero nube concreta,
+cero comparación de proveedores.**
+
+**Verificaciones que afectan al capítulo 16:** **V-52** —revisión técnica de los capítulos 11 a
+16 por un profesional de seguridad, en la Etapa 4—; **V-63**, que sostiene el uso de preguntas de
+control en lugar de una regla universal; **V-65**, que impide presentar cualquiera de estos
+controles como supervisión efectiva demostrada; y **V-16**, que **no se activa** porque el
+capítulo no cita las normas ISO. **Ninguna necesita decisión del autor.**
+
+**Decisiones nuevas propuestas: ninguna.** Todo lo que el capítulo necesita está resuelto por
+D-014, D-020, D-033, D-078 y las constantes vigentes.
+
+**`producto/` no necesita cambios.** Las ocho preguntas podrían existir mañana como revisión
+periódica dentro de la plataforma **sin diseñar nada hoy**, y la arquitectura de producto ya
+contempla aislamiento por negocio, permisos y trazabilidad. **No se diseña, no se programa, no se
+elige proveedor.**
