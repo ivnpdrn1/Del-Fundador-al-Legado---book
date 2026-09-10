@@ -4,7 +4,7 @@ parte: 4
 titulo: "Delegación progresiva"
 etapa_metodo: "D"
 estado: borrador
-palabras: 2175
+palabras: 2257
 casos_usados: ["C-13"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -15,11 +15,11 @@ ultima_actualizacion: "2026-09-10"
 
 ## Los dos atajos
 
-Hay una manera de delegar que no sale mal: entregar tan poco que **no pueda pasar nada**. Una
-tarea que ya estaba resuelta. Una decisión que en realidad no era una decisión. Algo tan pequeño
-que la persona que lo recibe no tiene que elegir nada.
+Hay una forma de hacer que una prueba de delegación **parezca segura**: entregar tan poco que no
+ocurra nada observable. Una tarea que ya estaba resuelta. Una decisión que en realidad no era una
+decisión. Algo tan pequeño que la persona que lo recibe no tiene que elegir nada.
 
-Sale bien, claro. Y no sirve.
+Y precisamente por eso no demuestra nada.
 
 Porque al cabo de unas semanas usted no sabe más que antes: no sabe si esa persona, ese
 procedimiento o esa herramienta podrían con algo de verdad, y tampoco sabe que no. **No hubo nada
@@ -68,15 +68,16 @@ contestar esa pregunta sin dudar.** Si al mirar una tarea no sabe si un error su
 deshacer, **esa no es la primera**. No porque sea peligrosa, sino porque todavía no la conoce lo
 bastante para leer lo que ocurra.
 
-**Que algo sea reversible no promete que salga bien.** Promete otra cosa, que es la que hace falta
-al principio: que si sale mal, se pueda arreglar y seguir.
+**Que algo sea reversible no promete que salga bien**, ni que el bloque pueda continuar igual
+después. Promete lo único que hace falta al principio: que si sale mal, **deshacerlo esté a su
+alcance**.
 
 ## A quién, o a qué
 
 Aquí es donde este capítulo se separa de la lectura más cómoda de la palabra delegar.
 
-**Delegar no significa contratar.** Un bloque puede transferirse a tres sitios distintos, y los
-tres son legítimos:
+**Delegar no significa contratar.** Un bloque puede transferirse de tres maneras distintas, y
+**este método contempla las tres**:
 
 | | Qué cambia | Qué no cambia |
 |---|---|---|
@@ -86,17 +87,20 @@ tres son legítimos:
 
 **Si trabaja solo, esto no le deja fuera.** Que no haya nadie a quien pasarle una tarea no
 significa que la tarea tenga que seguir dependiendo de que usted la mire cada vez. Significa que
-el bloque se transfiere a un procedimiento o a un sistema supervisado, y que el ciclo es el
-mismo. **Contratar es una opción, no un escalón superior.**
+el bloque se resuelve por otra vía: **la tarea se vuelve reproducible por escrito**, o **la
+ejecuta un sistema supervisado dentro de su permiso**. El ciclo es el mismo. **Contratar es una
+opción, no un escalón superior.**
 
 Y en las tres hay algo que no se mueve: **una persona identificable que responde.** Un
-procedimiento no responde de nada. Un sistema tampoco. Responde quien concedió el permiso.
+procedimiento no responde de nada. Un sistema tampoco. **Responde una persona: la que tiene esa
+tarea a su cargo, o quien ocupe la función a la que está asignada.**
 
 **Y aquí conviene decir lo otro, porque es lo que separa este capítulo de un consejo
 tranquilizador: delegar no es soltar.** Soltar es entregar una tarea y dejar de saber qué pasa con
 ella. Lo que hace este capítulo es lo contrario: **acota, escribe el límite, fija cuándo se mira y
 qué se mira, y deja constancia de lo que ocurrió.** Si al final del bloque usted no puede decir
-qué pasó, no delegó: soltó. Y eso este libro no lo propone en ninguna parte.
+qué pasó, **eso no es lo que este libro llama delegar. Es soltar.** Y soltar no lo propone en
+ninguna parte.
 
 ## Revisar después, no aprobar antes
 
@@ -141,9 +145,10 @@ El tercero volvió por otra cosa. El cliente pedía un cambio que no tocaba el p
 pero exigía **un material distinto del previsto**, y quien coordinaba no sabía si eso entraba o
 no. Paró y preguntó.
 
-**Nadie hizo nada mal.** Quien paró hizo exactamente lo que había que hacer. **Lo que estaba
-incompleto era el límite:** no decía nada sobre materiales, y hasta que apareció el caso, a
-Beatriz tampoco se le había ocurrido que hiciera falta.
+**No hizo falta preguntar quién falló.** Quien paró hizo exactamente lo que había que hacer, y
+antes de llegar a la ejecución el examen ya había encontrado lo que estaba incompleto: **el
+límite** no decía nada sobre materiales, y hasta que apareció el caso, a Beatriz tampoco se le
+había ocurrido que hiciera falta.
 
 ## Cuando algo sale distinto
 
@@ -157,10 +162,10 @@ método pregunta en otro orden, y el orden es la mitad del contenido:**
 | **3** | ¿El **límite, el permiso o el alcance** estaban mal definidos? | Se corrige lo escrito. Es lo que le pasó a Beatriz |
 | **4** | Solo si nada de lo anterior lo explica: ¿falló **la ejecución**, con permiso correcto y material suficiente? | Entonces sí corresponde mirar la ejecución concreta y, según el caso, la competencia o el incumplimiento |
 
-**Tres de las cuatro se resuelven sin tocar a nadie**, y esa es la razón del orden. No se atribuye
-un fallo a una persona por defecto. **Y tampoco se establece lo contrario**: una persona puede
-formar parte de la causa, y cuando las tres primeras quedan descartadas, mirar ahí es lo que
-corresponde.
+**Tres de las cuatro buscan la explicación en la arquitectura, antes de mirar a nadie**, y esa es
+la razón del orden. No se atribuye un fallo a una persona por defecto. **Y tampoco se establece
+lo contrario**: una persona puede formar parte de la causa, y cuando las tres primeras quedan
+descartadas, mirar ahí es lo que corresponde.
 
 **Estas cuatro preguntas no son una puntuación ni una lista de diagnósticos.** Son el orden en que
 se mira.
@@ -190,8 +195,9 @@ hecho, en la revisión siguiente no habría podido decir si lo que volviera ven�
 del alcance nuevo. Corrigió el límite y **mantuvo** el bloque igual.
 
 **Y conviene decirlo sin rodeos: no se amplía porque usted ya confíe.** La confianza puede
-aparecer, y está bien que aparezca. Pero **no es la unidad de medida**, porque no se puede
-reconstruir y no se puede discutir. La evidencia sí.
+aparecer, y está bien que aparezca. Pero **no es la unidad de medida**, porque no deja el mismo
+rastro: no se puede releer semanas después ni contrastar con lo que ocurrió. **La hoja del bloque
+sí** —y también ella se discute, y a veces resulta insuficiente—.
 
 ### El Plan de delegación por bloques
 
@@ -225,9 +231,9 @@ porque también es evidencia —aunque no demuestre que el sistema sea perfecto�
 > bien que pareciera ir—.
 
 **No se puntúa, no hay un aprobado y no se cuentan bloques superados.** Un bloque cerrado no
-significa que su negocio funcione sin usted: significa que **una parte de lo que usted sabe hacer
-acaba de trabajar fuera de su cabeza, dentro de un límite, y que puede leerlo.** Un bloque no es
-el negocio.
+significa que su negocio funcione sin usted: significa que **una parte del trabajo que antes
+pasaba por su cabeza acaba de hacerse sin usted, dentro de un límite, y que puede leer qué
+pasó.** Un bloque no es el negocio.
 
 Pero algo sí ha cambiado, y cambia la pregunta:
 

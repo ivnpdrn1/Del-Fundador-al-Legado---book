@@ -152,6 +152,47 @@ estado mental del capítulo tienen **al lector, al libro o a una jurisdicción c
 capítulo enuncia la doctrina en positivo, en tres frases seguidas: **«un procedimiento no responde
 de nada. Un sistema tampoco. Responde quien concedió el permiso.»**
 
+**Microcontrol final de la Etapa 3.17B.1.** Diez correcciones sobre el capítulo ya publicado,
+**ninguna de arquitectura**: los nueve movimientos, C-13, las cuatro preguntas de D-079, las
+cuatro salidas, las tres dimensiones y los seis campos del Plan siguen siendo los mismos. **Cero
+fuentes nuevas, cero investigación, cero decisiones nuevas.** **Cinco de las diez afirmaban un
+resultado, una ausencia de culpa o una definición que el mecanismo no sostiene:**
+
+| Lo que decía | Qué fallaba | Cómo quedó |
+|---|---|---|
+| «Hay una manera de delegar **que no sale mal**… **Sale bien, claro.**» | Afirmaba un resultado que el mecanismo no necesita: una tarea trivial **también puede ejecutarse mal**. Lo que hace falta decir es que una prueba sin nada observable no enseña nada | «Hay una forma de hacer que una prueba de delegación **parezca segura**… **y precisamente por eso no demuestra nada**» |
+| «si sale mal, se pueda **arreglar y seguir**» | **Prometía continuidad**, que **D-077** no garantiza: la reversibilidad permite deshacer el efecto, no que el bloque siga igual | «no promete que salga bien, **ni que el bloque pueda continuar igual después**… que si sale mal, **deshacerlo esté a su alcance**» |
+| «los tres son **legítimos**» | En el documento del método la palabra tiene su marco; **en el manuscrito podía leerse como autorización legal o regulatoria** | «**este método contempla las tres**» |
+| «el bloque **se transfiere a un procedimiento**» | **Reintroducía la formulación que la Etapa 3.16A.1 había quitado del capítulo 17**: convertía el procedimiento en destinatario con agencia. **Destinatario no es ejecutor** (D-074) | «**la tarea se vuelve reproducible por escrito**, o **la ejecuta un sistema supervisado dentro de su permiso**» |
+| «Responde **quien concedió el permiso**» | **Estrechaba D-073**: la autoridad puede estar asignada a una **función**, y quien responde no tiene por qué ser quien concedió | «Responde una persona: **la que tiene esa tarea a su cargo, o quien ocupe la función a la que está asignada**» |
+| «no delegó: **soltó**» | Definía **universalmente** qué es delegar, fuera del método | «**eso no es lo que este libro llama delegar. Es soltar.**» |
+| «**Nadie hizo nada mal**» (C-13) | **La corrección más importante:** afirmaba más de lo que el episodio demuestra **y daba por evaluada y descartada la cuarta clase de D-079**, cuando lo que ocurrió es que el examen se detuvo antes | «**No hizo falta preguntar quién falló**… el examen ya había encontrado lo que estaba incompleto» |
+| «Tres de las cuatro **se resuelven sin tocar a nadie**» | Podía leerse como que el problema queda solucionado sin intervención de personas | «Tres de las cuatro **buscan la explicación en la arquitectura, antes de mirar a nadie**» |
+| «la confianza… **no se puede discutir**» | Demasiado absoluto —una persona sí puede hablar de su confianza— y de paso **convertía la evidencia en infalible** | «no deja el mismo rastro: no se puede releer semanas después ni contrastar con lo que ocurrió. **La hoja del bloque sí** —y también ella se discute, y a veces resulta insuficiente—» |
+| «una parte de **lo que usted sabe hacer acaba de trabajar** fuera de su cabeza» | **Antropomorfismo del conocimiento:** el saber aparecía actuando por sí mismo | «una parte del **trabajo** que antes pasaba por su cabeza **acaba de hacerse sin usted**» |
+
+**Lo que se auditó y se dejó intacto, con su motivo.** **«Todos, sin excepción, pasan por su
+teléfono»** es un **hecho interno de C-13** y es el mecanismo mismo —la dependencia que el bloque
+va a romper—, de modo que necesita ser absoluto. **Las cuatro preguntas de D-079 y su orden**, las
+**cuatro salidas**, las **tres dimensiones** con su «una sola cada vez» —que ya se declara «no es
+una ley de nada»—, los **seis campos del Plan** y **el puente al capítulo 19** se comprobaron uno
+por uno **contra la doctrina vigente y quedaron conformes**.
+
+**Controles repetidos después de corregir.** **Universalidades: veintiuna apariciones literales
+—seis menos que antes—, las veintiuna legítimas**, y **una sola en la pasada semántica**, «es
+fácil preguntar de entrada quién falló», que es la corrección hecha en 3.17B y una valoración de
+facilidad, no de frecuencia. **Antropomorfismos: cero** en las quince cadenas comprobadas,
+incluidas las dos que este microcontrol acaba de retirar. **D-075: cero menciones** de retiro,
+jubilación, expansión, otro negocio, sucesión, heredero e hijo —la única coincidencia, «retirarlo
+todo», habla de retirar un bloque—. **Producto: cero** CTA, URL, plataforma y proveedor.
+
+**Y dos errores de recuento en `PROJECT_STATUS.md`, corregidos aquí porque los detectó este
+microcontrol.** Decía «suma de las **diecisiete** piezas del libro mayor» y «48 afirmaciones en
+doce de las **diecisiete** piezas escritas», cuando **las piezas escritas son diecinueve**
+—introducción y capítulos 1 a 18—. **Recontado sobre el libro mayor: diecinueve filas con
+palabras, que suman 43.486.** **Las cifras de 48 afirmaciones y 12 piezas con fuente se
+recontaron sobre este archivo y eran correctas**: lo único equivocado era el denominador.
+
 **Control de la ampliación D-075.** **«Retiro», «jubilación», «expansión» y «otro negocio» no
 aparecen.** El capítulo **no decide qué hace el lector con la capacidad que libera**: su cierre
 dice que un bloque cerrado significa que **una parte de lo que el lector sabe hacer acaba de
