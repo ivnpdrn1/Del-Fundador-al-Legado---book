@@ -69,6 +69,21 @@ del público no infle el libro entero:
 
 ---
 
+## 1 bis. Entregables y herramientas: dos listas distintas (D-078)
+
+**La columna «Entregable» de las tablas siguientes no es el catálogo de herramientas.** El
+índice dice **qué se lleva el lector de cada capítulo**; el catálogo de `recursos/` contiene
+**las dieciocho herramientas formalmente numeradas**, que son las que se imprimen y rellenan.
+
+**Cuando un entregable de esta columna no está asignado a una de las dieciocho, se desarrolla
+dentro del propio capítulo** —y no crea número nuevo, no amplía el catálogo y no renumera
+nada. Es lo que ya ocurre con los capítulos **2, 3, 4, 7, 12 y 14**, y lo que ocurrirá con el
+**16**, el **17**, el **18**, el **20**, el **21** y el **22**.
+
+**Por eso las filas de abajo no repiten la aclaración una por una.** Donde sí aparece —12 y
+14— es porque se escribió antes de que existiera esta regla; **no significa que las demás
+sean distintas**.
+
 ## 2. Índice comentado
 
 Leyenda de la columna **Etapa**: L, E, G, A, D, O corresponden a las etapas del Método
@@ -116,7 +131,7 @@ seis capítulos y el presupuesto de palabras de la parte.*
 | 13 | El periodo de sombra y las primeras alertas | A | Niveles 2 y 3. Observar sin decidir, comparar con lo que decidieron las personas y solo entonces avisar. **El periodo que construye evidencia para calibrar la confianza.** **Corregido el 2026-09-09 (Etapa 3.12A):** decía «el periodo que construye la confianza», y eso **predetermina el resultado**, que es justo lo que la corrección del nivel 2 prohibió en la Etapa 3.11A. **No se entra al modo sombra para conseguir que el lector confíe**: se entra para construir evidencia, y la evidencia puede llevar a ampliar permisos, mantenerlos, reducirlos o retirar la herramienta. Reconciliación de doctrina ya aprobada; **no es decisión nueva**. | Lista de verificación del modo sombra y modelo de alertas críticas | 2.100 |
 | 14 | De las alertas a las recomendaciones | A | Nivel 4. Una recomendación sin explicación y sin evidencia no se acepta. Se introduce el sesgo de automatización (D-019). **Y su giro es contraintuitivo (Etapa 3.13A):** explicar **no basta** —F-043 registra que una explicación puede aumentar la aceptación sin mejorar la decisión—, así que la condición no es explicar más, sino **poder comprobar algo**. | **Formato de recomendación explicada — entregable dentro del capítulo, no es una de las 18** | 2.000 |
 | 15 | Autonomía limitada y aprobación humana | A | Nivel 5 y techo del nivel 6. Qué se puede ejecutar solo, con qué límites, y cómo se detiene. | Matriz de niveles de autonomía | 2.200 |
-| 16 | Seguridad, privacidad y auditoría | A | Quién ve qué, qué queda registrado, dónde están los datos, qué pasa si falla. Remisión explícita a profesionales. | Lista de comprobación de seguridad básica | 2.100 |
+| 16 | Seguridad, privacidad y auditoría | A | Quién ve qué, qué queda registrado, dónde están los datos, qué pasa si falla. Remisión explícita a profesionales. | Lista de comprobación de seguridad básica **(entregable del capítulo; no es una de las 18 — D-078)** | 2.100 |
 
 ### PARTE IV — TRANSFERIR EL CONTROL SIN PERDERLO
 

@@ -4,6 +4,13 @@ Catálogo de las dieciocho herramientas que el libro debe producir. Este archivo
 **propósito, ubicación futura, capítulo de origen y etapa del Método LEGADO** de cada
 recurso.
 
+**Regla general (D-078): no todos los entregables del índice maestro son herramientas de este
+catálogo.** El índice dice qué se lleva el lector de cada capítulo; **este archivo contiene
+solo las dieciocho numeradas**. Un entregable que no esté asignado a una de ellas **se
+desarrolla dentro de su capítulo**, no crea número nuevo, no amplía el catálogo por encima de
+dieciocho y no aparece aquí. Ya es el caso de los capítulos **2, 3, 4, 7, 12 y 14**, y lo será
+del **16** y de otros cinco de las Partes IV y V.
+
 **Estado actual: 12 de 18 herramientas redactadas.** La 1 se produjo en la Etapa 2; de la 2 a
 la 12, con sus capítulos, en la Etapa 3. **Quedan seis**, y cada una se produce junto con su
 capítulo. **El capítulo 13 es el segundo que produce dos** —como el 7—, y por el mismo motivo:

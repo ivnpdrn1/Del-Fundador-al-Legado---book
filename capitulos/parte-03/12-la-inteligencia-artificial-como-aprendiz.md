@@ -4,7 +4,7 @@ parte: 3
 titulo: "La inteligencia artificial como aprendiz"
 etapa_metodo: "A"
 estado: borrador
-palabras: 2284
+palabras: 2290
 casos_usados: ["C-09"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -162,10 +162,11 @@ complementariedad y un resultado mejor.
 cómo trabajan juntos.** Gobernarlo tampoco la garantiza: lo que hace es dejar de confiarla al
 azar. Que es exactamente lo que usted lleva once capítulos haciendo.
 
-De ahí sale también qué se le pide a la supervisión. El reglamento europeo de inteligencia
-artificial —**una norma de la Unión Europea, y solo para sistemas de alto riesgo**, de modo que
-**no es una obligación general**— exige que las personas encargadas puedan **no usar la
-salida, ignorarla, anularla, revertirla e interrumpir el sistema**. Y el marco voluntario pide que
+De ahí sale también qué se le pide a la supervisión. En las obligaciones de supervisión humana
+que el reglamento europeo de inteligencia artificial establece **para los sistemas de alto
+riesgo** —**y solo para ellos**, de modo que **no es una obligación general**— se exige que las
+personas encargadas puedan **no usar la salida, ignorarla, anularla, revertirla e interrumpir el
+sistema**. Y el marco voluntario pide que
 existan **mecanismos y responsables asignados** para desconectar un sistema cuyos resultados no
 encajan con el uso previsto. Este libro toma esas condiciones como **buen diseño**, no como deber
 legal.

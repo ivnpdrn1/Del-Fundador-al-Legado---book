@@ -4,7 +4,7 @@ parte: 3
 titulo: "De las alertas a las recomendaciones"
 etapa_metodo: "A"
 estado: borrador
-palabras: 1980
+palabras: 1986
 casos_usados: ["C-11"]
 recursos_producidos: []
 afirmaciones_por_verificar: []
@@ -74,10 +74,10 @@ nivel 4».
 ## Por qué esto tiene nombre propio
 
 Al problema que aparece cuando una herramienta empieza a proponer se le llama **sesgo de
-automatización**, y no es una preocupación inventada por este libro: el reglamento europeo de
-inteligencia artificial —**norma de la Unión Europea y solo para sistemas de alto riesgo**— **lo
-menciona expresamente** y exige que las personas encargadas de supervisar sean **conscientes** de
-él.
+automatización**, y no es una preocupación inventada por este libro: **lo menciona
+expresamente** el reglamento europeo de inteligencia artificial, en las obligaciones de
+supervisión humana que establece **para los sistemas de alto riesgo** —**y solo para ellos**—,
+donde exige que las personas encargadas de supervisar sean **conscientes** de él.
 
 Una revisión académica de literatura lo define como **la tendencia a confiar en exceso en las
 recomendaciones automáticas**. La misma revisión —de estudios sobre sanidad, derecho y

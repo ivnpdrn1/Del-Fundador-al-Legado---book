@@ -65,6 +65,7 @@
 **Etapa 3.14A.1 — Resolución de V-69 por decisión del autor (D-077): COMPLETADA el 2026-09-09.**
 **Etapa 3.14B — Capítulo 15 y herramienta 12: COMPLETADA el 2026-09-09.**
 **Etapa 3.14B.1 — Microcontrol del capítulo 15 y auditoría del entregable del capítulo 16: COMPLETADA el 2026-09-09.**
+**Etapa 3.14B.2 — Cierre arquitectónico antes del capítulo 16 (D-078): COMPLETADA el 2026-09-09.**
 
 **Hito: la etapa E del Método LEGADO queda completa** —capítulos 2, 7, 8 y 9— y con ella el capítulo
 insignia del libro. La Parte II va por 4 de 5.
@@ -138,8 +139,10 @@ El resto eran afirmaciones más amplias que la evidencia: la herramienta **no «
 
 **El criterio de D-077 se integró en lenguaje de libro y sin fuente**, porque no la tiene: las cinco condiciones son diseño del método, y el capítulo lo dice en voz alta. **Las dos fuentes que sí aparecen sostienen la detención** —el «procedimiento equivalente» de F-010 y las **responsabilidades asignadas** de F-007—, y la segunda sirve para una guarda que el capítulo necesitaba: **estar presente no es supervisar**.
 
+**D-078 formaliza como regla general lo que el libro ya practicaba desde la Parte I.** El índice dice qué se lleva el lector de cada capítulo; el catálogo contiene **solo las dieciocho herramientas numeradas**. Un entregable que no esté asignado a una de ellas **se desarrolla dentro de su capítulo**: no crea número nuevo, no amplía el catálogo y no renumera nada. **No es una excepción del capítulo 16**, cuyo entregable queda clasificado por esta regla junto al de los capítulos 2, 3, 4, 7, 12, 14, 17, 18, 20, 21 y 22.
+
 El proyecto vuelve a estar **detenido**, por instrucción expresa, a la espera de revisión.
-**El capítulo 16 no se ha escrito.**
+**El capítulo 16 no se ha escrito y la lista de comprobación de seguridad básica no se ha creado.**
 
 ### Arquitectura del ecosistema 2.5 (2026-09-07)
 
@@ -351,14 +354,14 @@ de verdad usadas: el *front matter* de cada pieza, `revision/control-de-capitulo
 | Capítulo 14 | **Escrito y revisado (3.13B.1 y 3.13B.2)**, 1.980 palabras (objetivo 2.000). **Sigue por debajo de su objetivo**, como pedía la etapa |
 | Capítulo 15 | **Escrito y revisado (3.14B.1)**, 2.170 palabras (objetivo 2.200). **Segundo capítulo consecutivo por debajo de su objetivo** |
 | Conclusión | No escrita |
-| Palabras del manuscrito | **36.763** |
+| Palabras del manuscrito | **36.775** |
 | Objetivo del manuscrito | 45.000 – 60.000 (estimación revisada: 53.300) |
 | Avance sobre el objetivo | **69,0 %** |
 | Recursos terminados | **12 de 18** (**22.878 palabras**; no computan en el manuscrito). **Quedan seis.** **Recuento unificado el 2026-09-09:** la cifra anterior, 15.391, procedía de otro método de conteo. |
 | Entregables que no son herramienta del catálogo | **3**, recontados sobre los archivos el 2026-09-09: la **vista del proceso real** del capítulo 7 (D-070), el **Cuadro de lo que puede y lo que no puede hacer** del capítulo 12 y el **Formato de recomendación explicada** del capítulo 14. **Los tres viven dentro de su capítulo, no tienen archivo en `recursos/` y no alteran el catálogo**, que sigue en 18. Antes decía **2**: la fila no se actualizó al escribir el capítulo 14 |
 | Documentación del proyecto | **42 archivos**, y la cifra se ha recontado, no arrastrado. **Regla de conteo:** archivos `.md` del repositorio que no son manuscrito ni herramienta. Hoy hay **68** en total, menos **15** piezas del manuscrito y **11** herramientas. **La cuenta da 42 igual que antes por coincidencia aritmética** —el repositorio ganó cuatro archivos y todos fueron manuscrito o herramienta—, y la explicación anterior seguía diciendo 64, 13 y 9, que eran los números de dos etapas atrás |
 | Casos ficticios publicados | **12** (C-01 a C-12). Reparto: **6 ruta A / 6 ruta B**; **6 mujeres / 6 hombres**; **11 sectores distintos** —servicios técnicos es el único con dos casos—. **Los dos ejes exactamente equilibrados por primera vez** |
-| Decisiones registradas | **77** (D-001 a D-077), de las cuales **2 reemplazadas y conservadas**: D-023 por D-043, y D-024 en parte por D-047 y D-034. **Nuevas el 2026-09-09:** **D-075**, ampliación del alcance; **D-076**, los dos títulos que representaban solo el retiro; y **D-077**, el criterio del nivel 5, que resuelve V-69 |
+| Decisiones registradas | **78** (D-001 a D-078), de las cuales **2 reemplazadas y conservadas**: D-023 por D-043, y D-024 en parte por D-047 y D-034. **Nuevas el 2026-09-09:** **D-075**, ampliación del alcance; **D-076**, los dos títulos que representaban solo el retiro; **D-077**, el criterio del nivel 5, que resuelve V-69; y **D-078**, la regla general que separa los **entregables del índice** de las **dieciocho herramientas del catálogo** |
 
 **Aviso sobre los dos recuentos, para que no vuelva a divergir.** Las cifras de esta tabla son
 las del libro mayor `revision/control-de-capitulos.md`. Un recuento en vivo separando por
