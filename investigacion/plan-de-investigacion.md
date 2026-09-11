@@ -3976,3 +3976,208 @@ contradicción D→O? — apartado 1: **no la hay; queda V-72 registrada**. **12
 umbrales ni frecuencias? — apartados 5, 6 y 17. **13.** ¿El puente? — apartado 20.
 
 **Ninguna queda abierta.**
+
+---
+
+## Preflight del capítulo 20 (Etapa 3.19A, 2026-09-11)
+
+**Es el segundo capítulo de la etapa O y el que cierra la arquitectura de la Parte IV.** De las
+cuatro cosas que la parte promete no perder —**visibilidad, límites, capacidad de revisión y
+criterios de intervención**—, las tres primeras están construidas en el 10, el 18 y el 19.
+**Este capítulo construye la cuarta y última.** El compromiso está escrito en tres sitios que
+coinciden: la tabla del capítulo 17, `capitulos/parte-04/README.md` y `PROJECT_STATUS.md`.
+
+### 0. Resultados que condicionan la escritura: uno decidido por el autor, ninguno abierto
+
+**Una decisión del autor, tomada en el gate de esta etapa: D-080**, que aprueba **D-005 / P-5** y
+manda una **sección de retroceso controlado** dentro del capítulo. **Dos decisiones más del autor
+en el mismo gate y sin rango de doctrina:** **caso = microescena, sin C-14**, y **cero
+investigación nueva**. **Cero fuentes nuevas. Cero herramientas nuevas. Cero verificaciones
+nuevas.** **V-72 queda exactamente como está** —abierta, con su recomendación sin aplicar—, y el
+apartado 2 explica por qué escribir este capítulo no la toca.
+
+### 1. La pregunta heredada, y la que este capítulo contesta
+
+El capítulo 19 termina así, y el 20 la recibe:
+
+> *Ya veo lo suficiente. **¿Y qué hago cuando lo que veo no me gusta?***
+
+**El 20 contesta exactamente eso: cuándo se entra y cuándo no.** **No contesta qué mirar**, que es
+el 19 y está cerrado, **ni qué hacer si no hay a quién delegar**, que es el 21.
+
+**La tentación que abre el capítulo** es la heredera natural de la del 19. Allí era *delegar y
+después pedir un informe de todo*; aquí es **ver algo en el informe y volver a entrar**. Tiene
+nombre en el método antes de que el capítulo llegue: la etapa O registra como riesgo **«volver a
+intervenir en todo ante la primera crisis»** y **«que la supervisión se convierta en control
+informal que anule la delegación»**. **El capítulo no lo inventa: lo desarrolla.**
+
+### 2. V-72: qué cambia al escribir el 20, y qué no
+
+**No cambia nada, y conviene dejarlo escrito para que la Etapa 4 no lo reabra por sorpresa.** El
+capítulo 20 se escribe con **`etapa_metodo: "O"`**, igual que el 19 y según el índice maestro
+aprobado. La divergencia entre la tabla de `07-metodo-legado.md` §6 —**Parte IV = D**— y el
+índice **es exactamente la que V-72 ya registró**, y se lee con la doctrina que el preflight del
+19 fijó y que el propio §6 sostiene: **la letra es un marcador de cobertura**, no una afirmación
+sobre dónde está el lector.
+
+**Lo único que cambia es la visibilidad del asunto**, y no su estado: el 20 es el **segundo** de
+los seis capítulos afectados, y **está nombrado en la recomendación de V-72** —«*D, apoyada en G,
+con los capítulos 19 y 20 en O*»—. **Esa recomendación sigue sin aplicarse y no se aplica aquí**,
+porque toca el documento del método y eso exige decisión del autor. **Prohibiciones que pasan al
+capítulo:** no parafrasear §6 como si estuviera corregido, **no discutir la divergencia dentro del
+manuscrito** y no decir nada sobre orden de etapas.
+
+### 3. Prueba de necesidad de investigación: **CERO**, y decidida por el autor
+
+**Ninguna pregunta del plan está asignada al capítulo 20.** Antes de dar la prueba por hecha se
+escribieron las afirmaciones externas que el capítulo tendría que hacer:
+
+| ¿Necesita afirmar…? | Respuesta |
+|---|---|
+| que existe un **umbral universal** a partir del cual conviene intervenir | **No.** El capítulo se niega expresamente, y una negativa no necesita fuente |
+| que una **frecuencia de intervención** es empíricamente mejor que otra | **No.** Y afirmarlo exigiría evidencia que el proyecto no tiene |
+| que intervenir **daña** la delegación, como hecho medido | **No.** Es doctrina del método y del riesgo ya escrito en la etapa O |
+| que **bajar un nivel** produce un resultado determinado | **No.** Ya está prohibido prometerlo desde el capítulo 15 |
+| que existe una **taxonomía reconocida** de causas de fallo en delegación | **No.** D-079 es orden de examen propio, y así se declara |
+
+**Instrucción del autor, registrada:** no se abre investigación ni fuente nueva en esta etapa.
+**Si durante la redacción aparece una afirmación factual genuinamente externa, se señala y se
+detiene — no se busca fuente sobre la marcha ni se ensancha el alcance de la investigación.**
+**Total de fuentes: 46, sin cambio. Preguntas nuevas: ninguna.**
+
+**Consecuencia de continuidad:** el 20 sería el **cuarto capítulo consecutivo sin ninguna
+afirmación con fuente**, después del 17, el 18 y el 19. **Es resultado de una prueba, no un
+descuido**, y se anota aquí para que la Etapa 4 lo encuentre razonado.
+
+### 4. Fronteras, todas por escrito
+
+| Materia | De quién es | Qué puede hacer el 20 |
+|---|---|---|
+| Qué señales se miran, y los tres horizontes | **Cap. 19** | **Consumir la salida.** No añadir señales ni discutir la prueba de la señal |
+| Los campos de las herramientas 13 y 14 | **Cap. 19 / catálogo** | **Citar el campo 4 de cada una como disparador.** **Cero rediseño, cero campo nuevo, cero renombre** |
+| Qué es una alerta y cómo se presenta | **Cap. 13 / herramienta 11** | **Remitir.** No redefinir «crítico» ni el ciclo de vida de la alerta |
+| Los límites y quién decide | **Cap. 10 / herramienta 8** | **Remitir a la fila escrita.** No construir límites ni repartir autoridad |
+| Los niveles de autonomía y su matriz | **Cap. 15 / herramienta 12** | **Remitir.** **No crear niveles, no crear un modelo nuevo, no tocar el techo del nivel 6** |
+| El bloque, su hoja y las cuatro salidas | **Cap. 18** | **Remitir.** No reexplicar la delegación por bloques ni rediseñar la hoja |
+| El orden de examen ante un fallo | **D-079 / cap. 18** | **Remitir y aplicar.** No re-derivarlo ni convertirlo en puntuación |
+| Propiedad y dirección jurídicas | **V-70, abierta** | **Nada.** Se remite, no se resuelve |
+| Qué hacer si no hay a quién delegar | **Cap. 21** | **Nada.** Solo la pregunta de cierre |
+
+### 5. Arquitectura narrativa — **nueve movimientos**, aprobada por el autor
+
+1. **Microescena de apertura** que contesta la pregunta del 19: algo aparece en el parte y la mano
+   ya va hacia la operación. **Sin nombre, sin C-14** (apartado 8).
+2. **«Ver no es motivo para entrar.»** La distinción que sostiene el capítulo: **algo distinto no
+   es algo mal**. Conducta, no instrumento.
+3. **Una sola regla comprobable de intervención**, en el patrón de la casa —la del 18 («se puede
+   pasar al bloque siguiente cuando…») y la del 19 («una señal merece estar en el tablero si…»)—.
+4. **Qué obliga a entrar y qué no**, construido **solo** con lo ya escrito: un **límite cruzado**
+   (10 y 15), una **alerta crítica** (13), y una **decisión que espera** (campo 4 del parte diario
+   y campo 4 del semanal). **Nada nuevo.**
+5. **Cómo se entra sin deshacer la delegación:** por el canal escrito, dejando constancia, y
+   examinando en el **orden de D-079** —arquitectura de la transferencia primero; ejecución,
+   competencia o incumplimiento solo después—. **Se remite al 18; no se re-deriva.**
+6. **Retroceso controlado (D-080).** **Compacto.** Reducir, pausar o retirar una autonomía ya
+   delegada es **maniobra prevista, no fracaso**. Se nombra con las salidas que ya existen —**subir
+   · mantener · bajar · retirar** del 15 y de la herramienta 12; **mantener · ampliar · reducir ·
+   detener** del 18— y se apoya en la regla ya escrita: **bajar no es un fracaso**. **Su trabajo es
+   reconciliar y nombrar, no añadir mecanismo.** **Prohibido** aquí: nivel nuevo, modelo nuevo,
+   señal nueva, campo nuevo, redefinir alerta, límite o bloque.
+7. **Las Reglas de intervención** — **entregable dentro del capítulo, no es una de las 18
+   (D-078)**. Formato de campos, como la hoja de bloque del 18 y los dos partes del 19.
+8. **Lo que este capítulo no promete** (apartado 9).
+9. **Puente al capítulo 21**, cambiando la pregunta y **sin contestarla**:
+   > *Ya sé cuándo entrar y cuándo no. **¿Y si no hay a quién dejarle esto?***
+
+### 6. Las dos rutas, y las tres modalidades de la etapa D
+
+**Una sola arquitectura, y la prueba se hace en las dos direcciones.**
+
+**Las tres modalidades de D-026 tienen que funcionar en las mismas reglas:** intervenir sobre una
+**persona** es una conversación y una constancia; sobre un **procedimiento**, una corrección del
+procedimiento; sobre un **sistema supervisado**, bajar o retirar un permiso por la herramienta 12.
+**La conducta es la misma; el objeto cambia.** El capítulo debe decirlo explícitamente, porque
+escribir «intervenir» pensando solo en una persona es el error que la Etapa 3.17A ya corrigió en
+el deslinde 10/15/18.
+
+**Ruta B —quien trabaja solo—** no es una nota al pie: **intervenir sobre el propio procedimiento
+escrito es el caso real**, y el retroceso controlado también le aplica —retirar un permiso que se
+dio a una herramienta, volver a revisar antes en lugar de después—. **Igual que en el 19: más
+corto, no distinto.**
+
+### 7. Terminología: una palabra vigilada y una entrada vieja que no se toca
+
+**`editorial/glosario.md` ya reserva a este capítulo la definición de «Supervisar — vigilar el
+resultado sin intervenir en la ejecución».** **El capítulo queda obligado por ella** y no puede
+contradecirla: si define algo, lo define alrededor de esa frase.
+
+**Y queda anotado un defecto anterior que este capítulo no arregla:** el glosario conserva la
+entrada **«Continuo del retiro»**, que usa *«intervenir por excepción»* como **posición de
+participación**, mientras este capítulo usará *intervenir* como **conducta de supervisión**. Esa
+entrada **está desactualizada desde D-067 y D-068** —el continuo fue sustituido por el **Mapa de
+Participación**, que no figura en el glosario—. **No se corrige aquí**: no es materia de esta
+etapa y toca vocabulario de la Parte I. **Queda señalado para la revisión integral de la Etapa
+4.** Consecuencia inmediata para el 20: **no usar la expresión «intervenir por excepción»**, para
+no cruzar los dos sentidos.
+
+### 8. Caso: **microescena, y NO se crea C-14**
+
+**Decisión del autor en el gate de esta etapa.** El capítulo enseña **una disciplina** —entrar o
+no entrar—, no una trayectoria, y **una microescena sin nombre basta**. **Precedente inmediato:
+el capítulo 19**, que hizo exactamente esto y dejó escrito «no se crea C-14»; antes, el 16 y el
+17.
+
+**Consecuencia registral, y es la razón de decirlo aquí:** **no se crea C-14**, **no se abre
+ninguna ficha en `revision/control-de-casos.md`** y **no se ejecutan las diez preguntas de
+`09-reglas-de-casos-ficticios.md`**, que se aplican a casos y no a microescenas. **Casos: siguen
+en 13. Reparto intacto: 7 ruta A / 6 ruta B y 7 mujeres / 6 hombres.**
+
+### 9. Lo que el capítulo tiene prohibido prometer
+
+Que exista un **umbral universal** de intervención · que no intervenir **sea siempre** lo
+correcto · que intervenir **arruine** la delegación · que seguir las reglas **evite** los errores
+· que **bajar un nivel** arregle la causa · que el retroceso sea **temporal** por naturaleza · que
+exista un **número** de intervenciones aceptable · que la tecnología pueda **decidir** por el
+lector si conviene entrar.
+
+**Antropomorfismo:** ni el informe, ni la regla, ni el sistema *deciden, eligen, autorizan,
+aprueban ni juzgan*. **Los controles no tienen autoridad; la tiene una persona** —el 19 lo dejó
+escrito y el 20 lo hereda—. **Una regla de intervención limita, obliga a pausar y deja
+constancia.**
+
+### 10. Extensión, clasificación y controles
+
+**Objetivo: 1.900 palabras. Tope por D-030 (+15 %): 2.185.** Es el objetivo más bajo de los
+capítulos que quedan, y **D-080 no lo amplía**, de modo que el movimiento 6 tiene que ser corto:
+**se apoya en cuatro salidas ya escritas y no las reexplica**.
+
+| Clase | Qué hay | Necesita fuente |
+|---|---|---|
+| **A — doctrina del método** | «Ver no es motivo para entrar»; la regla de intervención; el retroceso como maniobra prevista; los controles no tienen autoridad | **No** |
+| **B — instrucción práctica** | Los campos de las Reglas de intervención; cómo se deja constancia | **No** |
+| **C — afirmación factual externa** | **Ninguna prevista.** Si aparece, **se señala y se detiene** | — |
+| **D — afirmación jurídica** | **Ninguna** | — |
+
+**Plataforma:** `editorial/06-control-de-continuidad.md` incluye el **20** entre los capítulos con
+**cero menciones C, D y E**. **Se escribe con cero**, y no es una elección de esta etapa sino una
+constante ya fijada.
+
+**Barrido de universalidades sobre esta propia arquitectura**, hecho antes de cerrarla: lo que
+queda son **distinciones, prohibiciones y remisiones**. **Se retiraron las predicciones**: no se
+afirma que intervenir menos produzca mejores resultados, ni que un retroceso preserve la
+confianza, ni que las reglas escritas reduzcan las intervenciones. **Y «intervenir» se usa siempre
+como conducta del lector**, nunca como propiedad de un instrumento.
+
+### 11. Señal de paso a 3.19B: las doce contestadas
+
+**1.** ¿Qué pregunta recibe del 19? — apartado 1. **2.** ¿Qué contesta el 20? **Cuándo se entra** —
+apartados 5.2 a 5.4. **3.** ¿Qué queda para el 21? — apartado 5.9. **4.** ¿La regla comprobable? —
+apartado 5.3. **5.** ¿Qué obliga a entrar, y de dónde sale? — apartado 5.4, **todo ya escrito**.
+**6.** ¿Cómo se entra sin deshacer la delegación? — apartado 5.5, **con D-079**. **7.** ¿El
+retroceso controlado? — apartado 5.6, **D-080, compacto y sin mecanismo nuevo**. **8.** ¿El
+entregable? — apartado 5.7, **dentro del capítulo por D-078**. **9.** ¿Las dos rutas y las tres
+modalidades? — apartado 6. **10.** ¿Investigación y fuentes? — apartado 3: **cero**, por decisión
+del autor. **11.** ¿El caso? — apartado 8: **microescena, sin C-14**. **12.** ¿V-72? — apartado 2:
+**intacta y abierta**.
+
+**Ninguna queda abierta. La Etapa 3.19B queda autorizada y el capítulo 20 sigue sin escribir.**

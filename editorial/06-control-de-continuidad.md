@@ -26,7 +26,7 @@ esto", se anota aquí. En la Etapa 4 se comprueba que todas se cumplan.
 | «Hay un capítulo entero sobre cómo se comunica esto [al equipo].» | 1 | 17 | Pendiente |
 | «En el capítulo 3 se explica cómo preguntarlo [al equipo].» | 1 | 3 | Pendiente |
 | «El capítulo siguiente empieza a decir qué es exactamente lo que depende.» | 1 y herramienta 1 | 2 | Pendiente |
-| «Cuando algo falle durante una delegación, lo que hay que corregir es el sistema.» | 1 | 18 y 20 | Pendiente |
+| «Cuando algo falle durante una delegación, **lo primero que hay que examinar** es el sistema que permitió el fallo.» **Reconciliada con D-079 el 2026-09-11 (Etapa 3.19A).** La redacción anterior —«lo que hay que **corregir es** el sistema»— **era absoluta** y decía lo mismo que la línea del método que **D-079 ya había corregido**: una promesa que **nunca** admite que la ejecución, la competencia o el incumplimiento formen parte de la causa deja al capítulo 20 sin poder cumplirla sin contradecir el método. **Se corrigió también la frase del capítulo 1**, que decía lo mismo. **Cero doctrina nueva:** D-079 ya estaba aprobada y esto solo alinea la promesa con ella. **La promesa al lector se conserva entera** —no se empieza por la persona—, y el capítulo 18 ya la cumple así. | 1 | 18 y 20 | Pendiente |
 
 ## 2. Constantes del libro
 

@@ -1,7 +1,8 @@
 # Parte IV — Transferir el control sin perderlo
 
 Capítulos 17 a 21. **Escritos el 17, el 18 y el 19 el 2026-09-10 (Etapas 3.16B, 3.17B y 3.18B).
-Faltan el 20 y el 21.**
+Faltan el 20 y el 21.** **Al 2026-09-11 el capítulo 20 tiene su arquitectura aprobada (Etapa
+3.19A) y sigue sin escribir**; se escribirá en la **Etapa 3.19B**.
 
 **Historial.** Hasta el 2026-09-10 este archivo decía que la carpeta estaba «pendiente de
 autorización» y que el proyecto se encontraba en la **Etapa 1 — Fundamentos**, que no autorizaba
@@ -33,7 +34,7 @@ intervención**. Las cuatro son arquitectura de este método, no una definición
 | 17 | Preparar al equipo, a la familia y a los clientes | D | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **borrador** |
 | 18 | Delegación progresiva | D | **Plan de delegación por bloques — dentro del capítulo, no es una de las 18 (D-078)** | **borrador** |
 | 19 | El tablero del propietario | O | Modelos de informe diario y semanal (13 y 14) | **borrador** |
-| 20 | Supervisar sin intervenir en todo | O | Reglas de intervención | no iniciado |
+| 20 | Supervisar sin intervenir en todo | O | **Reglas de intervención — dentro del capítulo, no es una de las 18 (D-078)**. **Lleva además la sección de retroceso controlado aprobada el 2026-09-11 (D-080)** | **no iniciado; arquitectura aprobada (3.19A)** |
 | 21 | Qué hacer cuando no existe el sucesor ideal | D | Árbol de opciones de continuidad | no iniciado |
 
 El índice completo, con la idea central y el presupuesto de palabras de cada capítulo, vive en

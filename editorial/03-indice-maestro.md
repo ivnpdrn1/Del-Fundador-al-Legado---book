@@ -150,7 +150,7 @@ una visión exclusivamente sucesoria o familiar (**D-075**).
 | 17 | Preparar al equipo, a la familia y a los clientes | D | Cómo se comunica una transición sin que se lea como abandono ni como desconfianza. Separar propiedad de dirección. **Precisado en el preflight 3.16A:** «dirección» **no es un término nuevo** —es la mirada agregada de la autoridad que **D-072** ya define—, y **la propiedad queda fuera del método** y se remite (D-014, D-033). **No es un capítulo sobre retiro** (D-075, D-076). | Guion de conversación **(entregable del capítulo; no es una de las 18 — D-078)** | 2.000 |
 | 18 | Delegación progresiva | D | Delegar por bloques, de menor a mayor riesgo. Revisar después y no antes. Qué hacer ante el primer error. | Plan de delegación por bloques | 2.200 |
 | 19 | El tablero del propietario | O | El instrumento: qué mira el fundador cada día, cada semana y cada mes. Pocas cifras, bien elegidas. | Modelos de informe diario y semanal | 2.000 |
-| 20 | Supervisar sin intervenir en todo | O | La disciplina: cuándo intervenir y cuándo callarse. Trata la conducta, no el instrumento. | Reglas de intervención | 1.900 |
+| 20 | Supervisar sin intervenir en todo | O | La disciplina: cuándo intervenir y cuándo callarse. Trata la conducta, no el instrumento. **Ampliado el 2026-09-11 (D-080, que aprueba P-5 y cubre el Vacío 4):** lleva además una **sección propia sobre retroceso controlado** —reducir, pausar o retirar una autonomía ya delegada—, **presentada como maniobra de gobierno prevista y no como fracaso**, y **construida solo con doctrina ya aprobada**: las cuatro salidas del 15 y del 18, «bajar no es un fracaso» y el orden de examen de **D-079**. **No crea niveles, señales, campos ni herramientas** y **no amplía el presupuesto**. | **Reglas de intervención — dentro del capítulo, no es una de las 18 (D-078)** | 1.900 |
 | 21 | Qué hacer cuando no existe el sucesor ideal | D | El capítulo que la literatura tradicional evita. Dirección profesional, socios, venta, continuidad sin heredero. | Árbol de opciones de continuidad | 2.300 |
 
 ### PARTE V — DEL FUNDADOR AL LEGADO
@@ -205,11 +205,17 @@ familiar. Hoy solo se roza en el capítulo 17. *Propuesta:* ampliar el capítulo
 sección explícita, sin convertir el libro en un tratado de gobierno corporativo y
 remitiendo a profesionales para los instrumentos jurídicos.
 
-**Vacío 4 — Qué hacer si la transición falla o hay que retroceder.**
+**Vacío 4 — Qué hacer si la transición falla o hay que retroceder. RESUELTO.**
 El libro describe un camino ascendente. Conviene un tratamiento breve del retroceso:
 retirar una delegación, bajar de nivel de autonomía, reanudar una intervención directa.
 *Propuesta:* sección dentro del capítulo 20, encuadrada como maniobra prevista y no como
-fracaso.
+fracaso. *Resolución:* **aprobada el 2026-09-11 (D-080), y pendiente de escribir**. La
+sección se escribirá en la Etapa 3.19B, **reusando doctrina ya aprobada y sin crear
+mecanismo nuevo**: las cuatro salidas del capítulo 15 y de la herramienta 12 —**subir,
+mantener, bajar, retirar**—, las cuatro del capítulo 18 —**mantener, ampliar, reducir,
+detener**—, la regla ya escrita de que **bajar no es un fracaso**, y el **orden de examen
+de D-079**. **No crea niveles, señales, campos ni herramientas**, y **no amplía el
+presupuesto de 1.900 palabras** del capítulo.
 
 ### 3.3 Riesgos de repetición
 
@@ -234,13 +240,16 @@ obligatorias de la Etapa 4.
 | P-2 | Deslindar por escrito los capítulos 3 y 4 según el criterio de 3.3, sin fusionarlos. | Alto. Se conserva la extensión y se elimina la repetición. | Pendiente |
 | P-3 | Añadir al capítulo 17 una sección sobre separación de propiedad y dirección. | Medio-alto. Cubre un vacío que puede invalidar el resto. | Pendiente |
 | P-4 | Añadir al capítulo 23 una sección de secuencia económica y prioridades con recursos limitados. | Medio. Responde a una objeción previsible. | Pendiente |
-| P-5 | Añadir al capítulo 20 una sección sobre retroceso controlado. | Medio. Refuerza la credibilidad del método. | Pendiente |
+| P-5 | Añadir al capítulo 20 una sección sobre retroceso controlado. | Medio. Refuerza la credibilidad del método. | **Aprobada el 2026-09-11 (D-080). Pendiente de escribir en la Etapa 3.19B** |
 
 Ninguna propuesta altera el número de capítulos, los títulos ni el propósito general del
 libro. Las cinco pueden aceptarse o rechazarse por separado.
 
-**P-2 a P-5 no se aplicarán hasta recibir autorización expresa.** Ver
-`editorial/decisiones-editoriales.md`, D-005.
+**P-3 y P-4 no se aplicarán hasta recibir autorización expresa.** Ver
+`editorial/decisiones-editoriales.md`, D-005. **Actualizado el 2026-09-11 (Etapa 3.19A):**
+esta línea decía «P-2 a P-5», y ya no es cierto de las dos puntas —**P-2 se resolvió el
+2026-09-07 (D-062)** y **P-5 se aprobó el 2026-09-11 (D-080)**—. **Aprobar no es aplicar:**
+P-5 está autorizada y **todavía no escrita**.
 
 ### 3.5 Qué cambió exactamente al aplicar P-1
 

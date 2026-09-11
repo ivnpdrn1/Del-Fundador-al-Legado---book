@@ -39,7 +39,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | # | Capítulo | Parte | Etapa | Estado | Palabras | Objetivo | Recursos producidos | Casos | Afirmaciones abiertas |
 |---|---|---|---|---|---|---|---|---|---|
 | — | Introducción. Si usted no está, ¿qué deja de funcionar? | — | — | **borrador, ampliado (3.11B.2)** | **2.899** | 2.700 | — | — | 0 |
-| 1 | Cuando usted también es el sistema | I | L | **borrador** | **2.753** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
+| 1 | Cuando usted también es el sistema | I | L | **borrador** | **2.754** | 2.700 | Índice de Dependencia de la Persona Clave | C-01 | 0 |
 | 2 | El conocimiento que nunca fue escrito | I | E | **borrador, revisado (3.1.1 y 3.1.2)** | **2.162** | 2.000 | Ejercicio de reconocimiento (dentro del capítulo; no es una de las 18 herramientas) | C-03 | 0 |
 | 3 | La peligrosa tranquilidad de lo que nunca se ha comprobado | I | — | **borrador, revisado (3.2.1)** | **1.979** | 1.800 | Prueba de las tres preguntas (dentro del capítulo; no es una de las 18 herramientas) | C-04 | 0 |
 | 4 | El costo de una ausencia inesperada | I | — | **borrador, revisado (3.3.1)** | **2.163** | 1.900 | Cálculo del impacto de una semana de ausencia (dentro del capítulo; no es una de las 18 herramientas) | C-05 | 0 |
@@ -57,8 +57,8 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 16 | Seguridad, privacidad y auditoría | III | **A** | **borrador, revisado (3.15B.1)** | **2.233** | 2.100 | **Lista de comprobación de seguridad básica — dentro del capítulo, no es una de las 18 (D-078)** | — (dos microescenas sin nombre) | 0 |
 | 17 | Preparar al equipo, a la familia y a los clientes | IV | **D** | **borrador, revisado (3.16B.1)** | **2.221** | 2.000 | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **ninguno: dos microescenas sin nombre, una por ruta** | 0 |
 | 18 | Delegación progresiva | IV | **D** | **borrador, revisado (3.17B.1)** | **2.257** | 2.200 | **Plan de delegación por bloques — dentro del capítulo, no es una de las 18 (D-078)** | **C-13** | 0 |
-| 19 | El tablero del propietario | IV | **O** | **borrador (3.18B)** | **1.943** | 2.000 | **Modelo de informe diario (13) y Modelo de informe semanal (14)** | **ninguno: microescena sin nombre. No se crea C-14** | 0 |
-| 20 | Supervisar sin intervenir en todo | IV | O | no iniciado | 0 | 1.900 | — | — | — |
+| 19 | El tablero del propietario | IV | **O** | **borrador, revisado (3.18B.1)** | **1.943** | 2.000 | **Modelo de informe diario (13) y Modelo de informe semanal (14)** | **ninguno: microescena sin nombre. No se crea C-14** | 0 |
+| 20 | Supervisar sin intervenir en todo | IV | O | **no iniciado; arquitectura aprobada (3.19A, 2026-09-11)** | 0 | 1.900 | **Reglas de intervención — dentro del capítulo, no es una de las 18 (D-078)**. **Más la sección de retroceso controlado (D-080)** | **ninguno previsto: microescena sin nombre. No se crea C-14** | — |
 | 21 | Qué hacer cuando no existe el sucesor ideal | IV | D | no iniciado | 0 | 2.300 | — | — | — |
 | 22 | Su nuevo papel | V | O | no iniciado | 0 | 2.000 | — | — | — |
 | 23 | Los primeros 100 días de transición | V | D | no iniciado | 0 | 2.200 | — | — | — |

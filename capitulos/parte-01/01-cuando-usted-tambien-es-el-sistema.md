@@ -240,7 +240,7 @@ en posición de hacerlo, y nadie más va a hacerlo por usted.
 4. **Medirlo una sola vez.** Una medición aislada es una impresión. El valor está en
    repetirla.
 5. **Empezar por la persona en lugar de por el sistema.** Cuando algo falle durante una
-   delegación, lo que hay que corregir es el sistema que permitió el fallo.
+   delegación, lo primero que hay que examinar es el sistema que permitió el fallo.
 
 ## Qué puede hacer esta semana
 
