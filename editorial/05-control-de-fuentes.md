@@ -109,8 +109,10 @@ empíricamente superior— y **el capítulo se niega a las cinco**. **Una negati
 fuente.**
 
 **Qué se comprobó antes de descartar** (Etapa 3.18A). **Ninguna pregunta del plan está asignada al
-capítulo 19** —revisadas Q-01 a Q-21— y no se abrió ninguna. De las 46 fuentes, cuatro podían
-tentar y **ninguna sostiene una frase que este capítulo necesite**: **F-034 a F-037** hablan de
+capítulo 19** —revisadas Q-01 a Q-21— y no se abrió ninguna. De las 46 fuentes, **seis** podían
+tentar —**corregido el 2026-09-11 en el microcontrol 3.18B.1: decía «cuatro» y la propia
+enumeración que sigue son seis**— y **ninguna sostiene una frase que este capítulo necesite**:
+**F-034 a F-037** hablan de
 **marcos de control interno**, con su componente de *monitoring*, no del instrumento privado de una
 persona propietaria; **F-007** (MEASURE) y **F-045** miden **sistemas de inteligencia artificial
 desplegados**, no tableros. **Usarlas sería citar por asociación**, y F-045 ya prestó en el
