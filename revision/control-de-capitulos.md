@@ -2,7 +2,7 @@
 
 Tabla maestra de seguimiento. Se actualiza después de cada bloque de producción.
 
-**Estado del manuscrito a 2026-09-09: 16 de 27 piezas escritas. 36.775 palabras.**
+**Estado del manuscrito a 2026-09-12: 21 de 27 piezas escritas. 47.431 palabras.** **Corregido en la Etapa 3.19B.1:** esta línea llevaba parada desde el 2026-09-09 y decía «16 de 27 piezas escritas. 36.775 palabras», cifra anterior a los capítulos 16, 17, 18, 19 y 20. **Las dos cifras se recalcularon sumando la columna «Palabras» de la tabla del apartado 1**, no arrastrando la anterior.
 **PARTE I COMPLETA:** introducción y capítulos 1 a 5. **PARTE II COMPLETA:** capítulos 6 a 10.
 **PARTE III EN CURSO:** capítulos 11, 12, 13, 14 y 15, cinco de los seis. **Falta el 16.**
 **ETAPA E DEL MÉTODO COMPLETA:** capítulos 2, 7, 8 y 9.
@@ -58,7 +58,7 @@ Los títulos de los capítulos 11, 12 y 13 reflejan el reordenamiento aprobado e
 | 17 | Preparar al equipo, a la familia y a los clientes | IV | **D** | **borrador, revisado (3.16B.1)** | **2.221** | 2.000 | **Guion de conversación — dentro del capítulo, no es una de las 18 (D-078)** | **ninguno: dos microescenas sin nombre, una por ruta** | 0 |
 | 18 | Delegación progresiva | IV | **D** | **borrador, revisado (3.17B.1)** | **2.257** | 2.200 | **Plan de delegación por bloques — dentro del capítulo, no es una de las 18 (D-078)** | **C-13** | 0 |
 | 19 | El tablero del propietario | IV | **O** | **borrador, revisado (3.18B.1)** | **1.943** | 2.000 | **Modelo de informe diario (13) y Modelo de informe semanal (14)** | **ninguno: microescena sin nombre. No se crea C-14** | 0 |
-| 20 | Supervisar sin intervenir en todo | IV | O | **no iniciado; arquitectura aprobada (3.19A, 2026-09-11)** | 0 | 1.900 | **Reglas de intervención — dentro del capítulo, no es una de las 18 (D-078)**. **Más la sección de retroceso controlado (D-080)** | **ninguno previsto: microescena sin nombre. No se crea C-14** | — |
+| 20 | Supervisar sin intervenir en todo | IV | O | **borrador, revisado (3.19B.1 y 3.19B.2). Gate 7, revisión independiente: PASS el 2026-09-12** | **2.001** | 1.900 | **Reglas de intervención — dentro del capítulo, no es una de las 18 (D-078)**. **Más la sección de retroceso controlado (D-080)** | **ninguno: microescena sin nombre. No se crea C-14** | 0 |
 | 21 | Qué hacer cuando no existe el sucesor ideal | IV | D | no iniciado | 0 | 2.300 | — | — | — |
 | 22 | Su nuevo papel | V | O | no iniciado | 0 | 2.000 | — | — | — |
 | 23 | Los primeros 100 días de transición | V | D | no iniciado | 0 | 2.200 | — | — | — |
@@ -73,12 +73,25 @@ Control de equilibrio. La Parte III no debe superar el 26 % del total.
 | Parte | Caps. | Objetivo | Escrito | Estado |
 |---|---|---|---|---|
 | Introducción | 1 | 2.700 | **2.899** | completa |
-| I | 5 | 10.400 | **11.319** | **completa** |
+| I | 5 | 10.400 | **11.320** | **completa** |
 | II | 5 | 11.000 | **11.656** | **completa** |
-| III | 6 | 12.900 | **10.901** | **5 de 6** |
-| IV | 5 | 10.400 | 0 | — |
+| III | 6 | 12.900 | **13.134** | **completa** |
+| IV | 5 | 10.400 | **8.422** | **4 de 5** |
 | V | 4 + concl. | 9.900 | 0 | — |
-| **Total** | **27** | **53.300** | **36.775** | **69,0 % del objetivo** |
+| **Total** | **27** | **53.300** | **47.431** | **89,0 % del objetivo** |
+
+**Tabla reconciliada por completo el 2026-09-12.** La columna «Escrito» suma exactamente el Total:
+2.899 + 11.320 + 11.656 + 13.134 + 8.422 + 0 = **47.431**, la misma cifra que encabeza este
+documento, y todas las filas se obtuvieron sumando la columna «Palabras» de la tabla del apartado
+1, no arrastrando ninguna cifra anterior.
+
+**Qué estaba parado y desde cuándo**, que es lo que conviene conservar: la fila **IV** decía `0`
+pese a estar escritos el 17, el 18, el 19 y el 20; la fila **III** decía 10.901 y no se había
+actualizado al escribirse el capítulo 16; la fila **I** decía 11.319 y le faltaba **la palabra**
+que añadió la reconciliación del capítulo 1 con **D-079** en la Etapa 3.19A; y el **Total** y la
+cabecera de este documento seguían en 36.775, cifra del 2026-09-09. **Las filas IV, Total y
+cabecera se corrigieron en la Etapa 3.19B.1; las filas I y III, en la reconciliación autorizada
+inmediatamente después.** **Ningún recuento de capítulo se tocó en ninguna de las dos.**
 
 
 **Capítulo 13 (Etapa 3.12B): 2.213 palabras, un 5,4 % sobre su objetivo y muy por debajo del tope de D-030.** Salió primero a **1.948**, por debajo del objetivo, y **no se rellenó para llegar**: se añadió lo que faltaba y era exigible —el pasaje de la ruta A, los nombres de «falso aviso» y «omisión», y el principio de trazabilidad de una alerta—, y con eso subió solo. **Las dos herramientas no computan** en el manuscrito aunque el capítulo las explique.
