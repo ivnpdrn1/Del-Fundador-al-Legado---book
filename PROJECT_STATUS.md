@@ -4,7 +4,8 @@
 **Repositorio:** Del-Fundador-al-Legado---book
 **Remoto:** https://github.com/ivnpdrn1/Del-Fundador-al-Legado---book.git
 **Rama activa:** `main`
-**Actualizado:** 2026-09-11
+**Actualizado:** 2026-09-12
+**Main canónico:** `a5750f3251e7a1cc988410ace934dfdd666c36ff` (capítulo 20 fusionado, PR #1)
 
 ---
 
@@ -94,7 +95,7 @@
 
 **La Etapa 3.19B.3 solo propagó esas dos palabras** a las cifras que dependían de ellas: capítulo 20 **1.949**, Parte IV **8.370** y manuscrito **47.379**, comprobadas sumando la columna «Palabras» del libro mayor y no arrastrando ninguna cifra. **Las filas I y III de la tabla de balance ya habían quedado corregidas** en la reconciliación que el autor autorizó inmediatamente después de 3.19B.1, de modo que la frase del párrafo anterior describe el estado de aquel momento y no el de hoy: **hoy esa tabla suma exactamente su total.**
 
-**Estado actual del capítulo 20, posterior a todo lo anterior.** La **revisión independiente del Gate 7** señaló **cuatro correcciones** —dos de consistencia y dos de precisión— y **ya están aplicadas**: el tratamiento del procedimiento se alineó con el orden de diagnóstico del capítulo 18; la titularidad de la autoridad se reformuló para admitir **persona, función u órgano** conforme a **D-073**; se precisó que pedir una aclaración no equivale por sí mismo a intervenir; y se aclaró que la fecha de revisión de un retroceso **no promete restituir el permiso**. **Esa corrección movió el capítulo de 1.949 a 2.001 palabras**, y las cifras vigentes pasan a ser **capítulo 20 = 2.001**, **Parte IV = 8.422** y **manuscrito = 47.431**. **Las cifras de los párrafos anteriores describen el estado al cerrar cada etapa y no se tocan.** **GATE 7 — REVISIÓN INDEPENDIENTE: PASS, el 2026-09-12.** El revisor independiente confirmó la aplicación de las cuatro correcciones y **no pidió ninguna corrección más de prosa**. Cifras vigentes confirmadas: **capítulo 20 = 2.001** palabras —objetivo 1.900, **+101, +5,3 %**, dentro del tope de D-030—, **Parte IV = 8.422** y **manuscrito = 47.431**. **El capítulo sigue SIN FUSIONAR a `main`**, y **la siguiente operación sobre el repositorio —commit, PR o merge— requiere autorización expresa del autor.**
+**Estado actual del capítulo 20, posterior a todo lo anterior.** La **revisión independiente del Gate 7** señaló **cuatro correcciones** —dos de consistencia y dos de precisión— y **ya están aplicadas**: el tratamiento del procedimiento se alineó con el orden de diagnóstico del capítulo 18; la titularidad de la autoridad se reformuló para admitir **persona, función u órgano** conforme a **D-073**; se precisó que pedir una aclaración no equivale por sí mismo a intervenir; y se aclaró que la fecha de revisión de un retroceso **no promete restituir el permiso**. **Esa corrección movió el capítulo de 1.949 a 2.001 palabras**, y las cifras vigentes pasan a ser **capítulo 20 = 2.001**, **Parte IV = 8.422** y **manuscrito = 47.431**. **Las cifras de los párrafos anteriores describen el estado al cerrar cada etapa y no se tocan.** **GATE 7 — REVISIÓN INDEPENDIENTE: PASS, el 2026-09-12.** El revisor independiente confirmó la aplicación de las cuatro correcciones y **no pidió ninguna corrección más de prosa**. Cifras vigentes confirmadas: **capítulo 20 = 2.001** palabras —objetivo 1.900, **+101, +5,3 %**, dentro del tope de D-030—, **Parte IV = 8.422** y **manuscrito = 47.431**. **El capítulo 20 quedó FUSIONADO en `main` el 2026-09-12**, por el **PR #1**, con método de *merge commit* y sin borrar la rama de origen: `editorial/ch20-3.19b` aportó **un solo commit**, `5d543b3`, y **canonical main pasó de `287c4ec` a `a5750f3`**. **Desde ese momento el capítulo 20 es contenido editorial canónico.** **La siguiente operación sobre el repositorio requiere autorización expresa del autor.**
 
 **El capítulo 20 cierra la Parte IV en su arquitectura**, aunque la parte todavía no esté completa: con él quedan escritas las **cuatro** cosas que la parte promete no perder —los límites (10 y 18), la capacidad de revisión (18), la visibilidad (19) y los criterios de intervención (20)—. **1.995 palabras frente a 1.900 de objetivo: +5,0 %**, muy por debajo del tope de D-030. **Se escribió sobre la arquitectura aprobada en 3.19A, en sus nueve movimientos y sin reabrirla.** **Lleva la sección de retroceso controlado que manda D-080**, construida **solo** con las cuatro salidas ya escritas —subir/mantener/bajar/retirar del 15, mantener/ampliar/reducir/detener del 18— y con la regla ya vigente de que **bajar no es un fracaso**: **cero niveles nuevos, cero modelo nuevo, cero señales, cero campos de informe, cero rediseño de las herramientas 13 y 14**. **Su entregable, las Reglas de intervención, vive dentro del capítulo por D-078**, de modo que **el catálogo sigue en 18 y los recursos redactados en 14**. **D-079 se usa, no se re-deriva:** el capítulo remite al orden de examen del 18 —primero la arquitectura de la transferencia; la ejecución, la competencia o el incumplimiento solo después— y no vuelve a la formulación absoluta. **Es el cuarto capítulo consecutivo sin ninguna afirmación con fuente**, por prueba de necesidad y no por descuido, y **no consumió ni abrió ninguna pregunta de investigación**. **Caso: microescena sin nombre; no se crea C-14** y los casos formales siguen en **13**. **El deslinde 19/20 quedó reconfirmado sobre el texto real.** **V-72 sigue abierta y sin tocar**, y el capítulo se escribió con `etapa_metodo: O` según el índice maestro.
 
@@ -567,8 +568,14 @@ confirmó las cuatro correcciones que había pedido y no exigió ninguna más. E
 la autoauditoría de la que salieron las dos últimas **no fue independiente**, y por eso el Gate 7
 se cerró aparte y después.
 
+**El ciclo editorial del capítulo 20 está cerrado.** Se fusionó en `main` el **2026-09-12** por el
+**PR #1** —*merge commit*, rama de origen conservada—, y **canonical main es ahora
+`a5750f3251e7a1cc988410ace934dfdd666c36ff`**. **Cifras vigentes: capítulo 20 = 2.001, Parte IV =
+8.422, manuscrito = 47.431.** **La Parte IV va por 4 de 5 capítulos.**
+
 **Paso siguiente: ninguna operación sobre el repositorio sin autorización expresa del autor.** El
-capítulo 20 **sigue sin fusionar a `main`**, y el commit, el PR y el merge son decisiones suyas.
+**capítulo 21 sigue NO INICIADO** y la **Etapa 3.20A sigue NO INICIADA y NO AUTORIZADA**; abrir el
+preflight del 21 es decisión suya.
 
 **El capítulo 21 y la Etapa 3.20A siguen NO INICIADOS y NO AUTORIZADOS**, y no se abren por esta
 línea: **el 21 solo puede empezar cuando el capítulo 20 haya terminado su revisión independiente y
