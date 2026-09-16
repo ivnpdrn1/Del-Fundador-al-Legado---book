@@ -67,7 +67,7 @@ con solidez sin resolverla.
 | Q-08 | ¿Qué principios de control interno y separación de funciones son aplicables a organizaciones pequeñas? | 10 | Media, **materialmente necesaria antes del capítulo 10** | **RESUELTA con límites el 2026-09-08 (Etapa 3.9A)**: F-034, F-035, F-036 y F-037. Tres de las cuatro leídas directamente en el original. **El hallazgo que decide el capítulo 10:** la separación de funciones **no es una regla universal**, y las tres fuentes leídas coinciden en que cuando no hay personal suficiente se diseñan **controles alternativos**. **Límite que permanece:** ninguna fuente cubre negocios privados pequeños como estándar de gestión —una es federal, otra es de auditoría fiscal y otra de empresas cotizadas—, y **ninguna dice que un control alternativo equivalga a la separación ni que sea más débil**. Resultado completo al final de este documento. |
 | Q-09 | ¿Qué se ha publicado sobre planificación del retiro de personas propietarias y su dimensión no financiera? | 5, 22 | **Alta** | **RESUELTA PARCIALMENTE.** Etapa 3.4A: seis fuentes, F-018 a F-023. **Ampliación dirigida a la ruta B en la Etapa 3.4A.1:** tres fuentes más, F-024 a F-026, una de ellas **leída íntegra**. Resultados completos al final de este documento. **Sigue abierta para el capítulo 22** y por el vacío de evidencia hispanohablante (V-56B), que no se ha podido cerrar. |
 | Q-10 | ¿Qué evidencia hay sobre efectos de la ausencia imprevista de una persona clave en organizaciones pequeñas? | 4 | Media | Sin iniciar |
-| Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17 | Media | **NO EJECUTADA, y diferida por prueba de necesidad el 2026-09-10 (Etapa 3.16A).** La pregunta previa se contesta que no: **el capítulo 17 no necesita afirmar que exista una estructura de gobierno que una empresa familiar deba adoptar**. La distinción que el capítulo usa —**propiedad, dirección y ejecución**— se construye entera sobre **D-072**, que ya define autoridad, ejecución y control para todo el libro, más la remisión jurisdiccional de **D-014** y **D-033**. **Nombrar consejo, junta, protocolo familiar, comité o holding sería prescribir arquitectura** —lo mismo que el capítulo 16 se negó a hacer con la seguridad— y trasplantaría estructuras de empresas con tamaño a un libro que sirve también a un negocio de una sola persona. **La afirmación que la haría necesaria, escrita para poder comprobarlo:** cualquier frase de la forma «para separar propiedad y dirección conviene constituir X». **El capítulo 17 no la escribe.** **Propuesta, no decisión: su plazo real es el capítulo 21**, cuyo índice sí nombra dirección profesional, socios y venta. |
+| Q-11 | ¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en empresas familiares? | 17, **21** | Media | **NO REQUERIDA, y diferida por segunda prueba de necesidad el 2026-09-16 (Etapa 3.20A), que es donde vencía su plazo real.** La Etapa 3.16A propuso el capítulo 21 como plazo, porque su índice sí nombra dirección profesional, socios y venta; **ese plazo venció y la prueba se ejecutó**. **Resultado: la arquitectura del capítulo 21 no la necesita.** La rama «dirección profesional» del *Árbol de opciones de continuidad* se construye entera sobre **D-072**, **D-073** —la autoridad se asigna a una persona, un puesto **o un órgano que existan de verdad**— y **V-70**, y se presenta como **opción que se evalúa, no como estructura que se adopta**, con remisión profesional y jurisdiccional. **La afirmación que la haría necesaria, escrita para poder comprobarlo:** *«para separar propiedad y dirección conviene constituir X»* —consejo, junta, consejo de familia, protocolo familiar, comité, holding— **o** *«la estructura de gobierno adecuada para un negocio sin sucesor es X»*. **El capítulo 21 no la escribe.** **Disparador registrado para la Etapa 3.20B:** si aparece la necesidad de escribirla, **se señala y se detiene**, y se abre un paso de investigación gobernado por separado. Detalle en el «Preflight del capítulo 21», apartado 3. Antes: **NO EJECUTADA, y diferida por prueba de necesidad el 2026-09-10 (Etapa 3.16A).** La pregunta previa se contesta que no: **el capítulo 17 no necesita afirmar que exista una estructura de gobierno que una empresa familiar deba adoptar**. La distinción que el capítulo usa —**propiedad, dirección y ejecución**— se construye entera sobre **D-072**, que ya define autoridad, ejecución y control para todo el libro, más la remisión jurisdiccional de **D-014** y **D-033**. **Nombrar consejo, junta, protocolo familiar, comité o holding sería prescribir arquitectura** —lo mismo que el capítulo 16 se negó a hacer con la seguridad— y trasplantaría estructuras de empresas con tamaño a un libro que sirve también a un negocio de una sola persona. **La afirmación que la haría necesaria, escrita para poder comprobarlo:** cualquier frase de la forma «para separar propiedad y dirección conviene constituir X». **El capítulo 17 no la escribe.** **Propuesta, no decisión: su plazo real es el capítulo 21**, cuyo índice sí nombra dirección profesional, socios y venta. |
 | Q-12 | ¿Qué límites y obligaciones plantea la prestación de servicios tecnológicos a terceros? | Modelo de negocio | Baja para el libro, alta para el negocio | Sin iniciar |
 
 ### Preguntas añadidas en la Etapa 2.2 (2026-09-07)
@@ -80,14 +80,14 @@ frecuencia (regla V-41).
 | ID | Pregunta | Cap. | Prioridad | Estado |
 |---|---|---|---|---|
 | Q-13 | ¿Qué dice la literatura sobre transferencia de conocimiento tácito en el trabajo experto e individual, y no solo en organizaciones? | 2, 9 | **Alta** | **RESUELTA en su parte conceptual el 2026-09-07 (Etapa 3.8A)** con F-029 (Eraut). **Vacío que permanece:** ninguna literatura localizada sobre el trabajo por cuenta propia o de una sola persona. Resultado completo al final de este documento. Antes: **Corrección del 2026-09-07:** el informe de la Etapa 3.3 la dio por pertinente para el capítulo 5, y no lo es; sus capítulos son el 2 y el 9. El 2 ya está escrito y se cerró con Q-06, de modo que **su plazo real es antes del capítulo 9**. |
-| Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | Sin iniciar. Es el vacío declarado al lector en la introducción. |
+| Q-14 | ¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de carteras de clientes profesionales? | 21, 25 | **Alta** | **NO EJECUTADA. Investigación externa DIFERIDA por decisión explícita el 2026-09-16 (Etapa 3.20A)**, tomada antes de redactar nada y no por omisión. **Motivo:** la arquitectura del capítulo 21 se cierra con **categorías de continuidad** (D-068), **preguntas de decisión**, **restricciones de transferibilidad** (D-071 y la constante *una relación no se traspasa como un archivo*) y **remisión profesional y jurisdiccional**, y **ninguna de esas cuatro clases de contenido afirma nada sobre el mundo**. **Las afirmaciones que la harían necesaria, escritas para poder comprobarlas:** que un negocio de una sola persona **se vende o no se vende**; que una cartera de clientes **se traspasa de tal manera**; cualquier **cifra, proporción, frecuencia, precio, múltiplo o plazo**; y cualquier «lo habitual» o «lo que suele ocurrir» —esta última ya prohibida por **V-41** y **V-56B**—. **El capítulo 21 no escribe ninguna.** **Consecuencia registral que refuerza la decisión:** ejecutarla ahora obligaría a reescribir el pasaje de la introducción que declara el vacío al lector (`afirmaciones-por-verificar.md`), que está **fuera del alcance de esta etapa**. **Disparador para la Etapa 3.20B:** cualquier frase que afirme qué ocurre, qué es posible o qué es habitual en la venta, el traspaso o el cierre de un negocio **se señala y se detiene**. **Sigue siendo el vacío declarado al lector en la introducción**, y ese pasaje **no se toca**. Detalle en el «Preflight del capítulo 21», apartado 4. |
 | Q-15 | ¿Reconocen los marcos de continuidad y de riesgo la dependencia de una persona concreta como riesgo de primer orden, y con qué nombre? | 4, 16 | Alta | **NO EJECUTADA, y diferida por prueba de necesidad el 2026-09-09 (Etapa 3.15A).** La pregunta previa se contesta que no: **el capítulo 16 no necesita afirmar externamente que la dependencia de una persona sea un riesgo reconocido**. El libro lo construyó **por mecanismo** a lo largo de las Partes I, II y III, y el capítulo 16 trata de otra cosa —acceso, registro, protección y recuperación—. **Investigarla ahora sería decorar un capítulo que no la pide.** Sigue disponible para el capítulo 4 si alguna vez se revisa. Hallazgo previo de Q-03: aparece de forma secundaria. |
 | Q-16 | ¿Qué marcos existen sobre gestión del conocimiento y codificación de conocimiento, y qué evidencia los respalda? | 6, 9 | Media | **RESUELTA con límites el 2026-09-07 (Etapa 3.8A.1)**: F-027, F-028, F-030, F-031, F-032 y F-033. **Corrige el estado de la Etapa 3.8A**, que la dejó parcialmente resuelta por no haber podido leer F-028: el resumen íntegro de F-028 sí se obtuvo después, y con él las tres categorías de técnicas que faltaban. **Límite que permanece:** ningún texto completo, de modo que el libro puede nombrar las tres categorías pero no sus subtipos ni la comparación empírica entre técnicas. Resultado completo al final de este documento. Antes: **no ejecutada para el capítulo 6, por decisión razonada (2026-09-07).** Se comprobó antes de escribir si el capítulo necesitaba alguna afirmación factual externa, y no la necesita: todo lo que sostiene es una definición propia de «crítico», un procedimiento de búsqueda, instrucciones y una microescena. **Investigar marcos de gestión del conocimiento solo para citarlos habría sido decoración.** Su plazo real era **antes del capítulo 9**, y se cumplió. |
 | Q-17 | ¿Qué se sabe sobre colaboración entre personas y sistemas automáticos: supervisión efectiva, sesgo de automatización, delegación a sistemas? | **12, 13, 14, 15** | **Alta** | **RESUELTA con límites el 2026-09-09 (Etapa 3.11A)**: releídas F-007, F-009 y F-010, **ampliada F-007 con su apéndice C**, y dos fuentes nuevas —F-043 y F-044— solo para lo que ninguna norma contesta: cómo se comportan las personas. **El hallazgo que decide el capítulo 12 es negativo:** la combinación de persona y sistema **puede dar peor resultado que cualquiera de los dos por separado**, según el apéndice C de F-007. Resultado completo al final de este documento. **Alcance ampliado al capítulo 13 el 2026-09-09 (Etapa 3.12A), y el estado resuelto no se reabre.** El campo de capítulos decía «12, 14, 15» y **omitía el 13 por descuido, no por criterio**: el periodo de sombra es colaboración persona-sistema en el sentido más literal de la pregunta —una persona decide, un sistema observa, y después se comparan— y la supervisión, que es la mitad del enunciado de Q-17, **es exactamente lo que el capítulo 13 pone en práctica**. **No se crea otra pregunta para corregir una omisión de alcance**, y no se vuelve a investigar: las fuentes que el capítulo 13 usa —F-007 ampliada y F-045— entran por esta misma pregunta. |
 | Q-18 | ¿Qué obligaciones generales de confidencialidad y de protección de datos de terceros afectan a un profesional que usa herramientas de IA, y cómo varían por jurisdicción? | 11, 16 | **Alta** | **RESUELTAS CONJUNTAMENTE con límites el 2026-09-09 (Etapa 3.10A)**: F-038 a F-042, las cinco leídas directamente en el documento oficial. **El hallazgo que decide el capítulo 11 es negativo y era previsible: no existe una regla única aplicable a todos los lectores.** Lo que sí existe es un conjunto de **preguntas de control que siguen sirviendo aunque cambie la jurisdicción**. Resultado completo al final de este documento. **Se ejecutó fusionada con Q-05, como el propio plan preveía**, y aporta lo que Q-05 sola no da: la distinción entre **dato personal**, **información confidencial de terceros** y **credenciales**, que son tres problemas distintos. |
 | Q-19 | ¿Quién es titular del conocimiento codificado y de lo producido con herramientas de terceros, y qué ocurre si el negocio se vende o el proveedor cierra? | ~~9~~, 16 | Media | **Diferida el 2026-09-07 (Etapa 3.8A) y desligada del capítulo 9.** Se evaluó si el Manual de criterio la necesitaba y no la necesita: el capítulo 9 funciona entero en papel y no discute titularidad ni proveedores. **NO EJECUTADA para el capítulo 16, y diferida otra vez por prueba de necesidad el 2026-09-09 (Etapa 3.15A).** El capítulo pregunta **dónde están los datos** y **qué pasa si algo falla**, y podría parecer que necesita Q-19. **No la necesita**, y la distinción importa: lo que el capítulo tiene que decirle al lector es **«compruebe si puede sacar de ahí lo que necesita para seguir funcionando»**, que es **una pregunta de control y una regla de prudencia del método**, no una afirmación jurídica sobre titularidad. **El capítulo no dirá de quién es lo que el proveedor guarda**, porque para eso sí haría falta Q-19 y probablemente no exista respuesta universal. **Lo que sí dirá, y no necesita fuente:** que la pregunta se hace antes de depender, no después. Permanece abierta para el momento en que la titularidad sea materialmente necesaria —una venta, una transferencia—, previsiblemente en la Parte V. | Origen: `13-adn-empresarial.md` §6.3. |
 | Q-20 | ¿Qué reservan las normas profesionales al juicio de la persona con licencia, en las profesiones del público previsto? | 15, 16 | Media | **NO EJECUTADA, y diferida por segunda vez el 2026-09-09 (Etapa 3.15A); la primera fue en el preflight del capítulo 15.** El capítulo 16 puede limitarse a lo que **D-033** ya autoriza: **un permiso tecnológico no sustituye la responsabilidad ni las obligaciones de una persona habilitada**, y donde haya norma profesional se remite a ella y a un profesional de esa jurisdicción. **Investigar una multitud de profesiones y países para escribir esa frase sería desproporcionado**, y el resultado previsible es el mismo que ya se anotó: **se resuelve remitiendo, no citando.** |
-| Q-21 | ¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el precio de venta de un negocio pequeño? | 21, 25 | Media | Sin iniciar. **Mientras no se resuelva rige D-032:** el libro habla de transferibilidad y continuidad, no de valor. |
+| Q-21 | ¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el precio de venta de un negocio pequeño? | 21, 25 | Media | **NO REQUERIDA, y diferida por prueba de necesidad el 2026-09-16 (Etapa 3.20A).** Está asignada al capítulo 21 y por eso se probó, aunque el resultado estuviera anticipado: **D-032 ya resuelve el problema sin investigación**. El capítulo **nombra la venta como una rama del árbol y no dice nada sobre precio**: la rama pregunta **si hay algo transferible distinto de la presencia de la persona**, que es transferibilidad, y **remite la valoración a un profesional**. **Disparador para la Etapa 3.20B:** cualquier frase que relacione documentación con precio, valor, múltiplo o facilidad de venta **se señala y se detiene**. **Mientras no se resuelva rige D-032:** el libro habla de transferibilidad y continuidad, no de valor. Detalle en el «Preflight del capítulo 21», apartado 5. |
 
 ## 4. Categorías de fuentes candidatas
 
@@ -155,6 +155,7 @@ capítulos están lejos y no señalaba la que hace falta ahora.
 | **Antes del capítulo 5** | **Q-09** | Es la única temáticamente pertinente: retiro de personas propietarias y su dimensión no financiera. Sube a prioridad alta. |
 | ~~Antes del capítulo 9~~ **Ejecutada** | **Q-06** (parte abierta), **Q-13** y **Q-16** | El 9 es el capítulo del Manual de criterio, donde hacía falta literatura sobre métodos de externalización, y donde Q-13 aporta la escala individual. **Q-16 no figuraba en esta tabla y tenía el mismo plazo; se añade aquí para que la tabla no vuelva a omitirla.** Las tres se ejecutaron en la Etapa 3.8A y se cerraron en la 3.8A.1. |
 | Antes de los capítulos 11 y 16 | **Q-05** y **Q-18** | Privacidad y terceros no son materialmente relevantes hasta ahí. **No se adelantan por arrastre administrativo.** |
+| **Antes del capítulo 21** | **Q-11**, **Q-14** y **Q-21** | **Ejecutadas como pruebas de necesidad el 2026-09-16 (Etapa 3.20A), y las tres con resultado negativo: ninguna se investiga.** Es el plazo real de las tres: Q-11 quedó propuesta aquí en la Etapa 3.16A, y Q-14 y Q-21 tienen el 21 como primer capítulo asignado. **Resultado: Q-11 no requerida, Q-14 diferida por decisión explícita, Q-21 no requerida.** Las tres siguen **diferidas con motivo escrito**, y **las tres dejan un disparador** que obliga a detenerse en la Etapa 3.20B si la afirmación aparece. |
 | Antes del capítulo 22 | **Q-09** (segunda parte, si hiciera falta) | Segundo capítulo asignado a esa pregunta. |
 
 **Q-06, Q-13 y Q-16 quedaron cerradas el 2026-09-07**, las tres antes de escribir el capítulo 9,
@@ -4181,3 +4182,430 @@ del autor. **11.** ¿El caso? — apartado 8: **microescena, sin C-14**. **12.**
 **intacta y abierta**.
 
 **Ninguna queda abierta. La Etapa 3.19B queda autorizada y el capítulo 20 sigue sin escribir.**
+
+---
+
+## Preflight del capítulo 21 (Etapa 3.20A, 2026-09-16)
+
+**Es el último capítulo de la Parte IV y el que la cierra.** Las **cuatro** cosas que la parte
+promete no perder —visibilidad, límites, capacidad de revisión y criterios de intervención— ya
+están construidas en el 10, el 18, el 19 y el 20, y **la arquitectura de la parte quedó cerrada con
+el capítulo 20**. El 21 no añade una quinta: **cierra la parte por su borde más incómodo**,
+contestando la única pregunta que ninguna de las cuatro contesta.
+
+**Esta etapa es la Recuperación 1.** El intento 1 es inmutable y no se reutiliza ni se modifica.
+
+### 0. Resultados que condicionan la escritura: ninguno abierto
+
+**Cero fuentes nuevas. Cero herramientas nuevas. Cero decisiones editoriales nuevas. Cero
+verificaciones nuevas. Cero investigación ejecutada.** Tres preguntas del plan tenían su plazo real
+en este capítulo —**Q-11**, **Q-14** y **Q-21**— y las tres se resuelven por **prueba de
+necesidad**, con el resultado escrito en los apartados 3, 4 y 5. **Total de fuentes: 46, sin
+cambio.**
+
+**V-72 queda exactamente como está**, y este capítulo es el único de la Parte IV que **no la toca
+ni la roza**: la tabla de `07-metodo-legado.md` §6 asigna **Parte IV = D** y el índice maestro
+asigna al capítulo 21 la letra **D**. **Coinciden.** El 21 **no figura** entre los seis capítulos en
+los que V-72 registra divergencia —19, 20, 22, 23, 24 y 25—. Se escribe con `etapa_metodo: "D"` y
+**no se discute la divergencia dentro del manuscrito**.
+
+**P-3 y P-4 siguen sin implementar, y este capítulo no las implementa.** **P-3** es una sección del
+**capítulo 17**, que está escrito y fuera de alcance; el 21 **no la adelanta ni la sustituye**
+(apartado 9). **P-4** es del capítulo 23.
+
+### 1. La pregunta heredada, y la que este capítulo contesta
+
+El capítulo 20 termina así, y el 21 la recibe:
+
+> *Ya sé cuándo entrar y cuándo no. **¿Y si no hay a quién dejarle esto?***
+
+**El 21 contesta exactamente eso.** No contesta **qué papel elige la persona**, que es el 22; ni
+**en qué orden se hace la transición**, que es el 23; ni **cómo se sostiene la continuidad en el
+tiempo**, que es el 25.
+
+**Y la pregunta heredada lleva dentro un paso que el lector ya ha dado sin darse cuenta**, que es de
+donde sale el capítulo. *No hay a quién dejarle esto* es una observación **sobre personas**. De ahí
+el lector salta a *este negocio no puede continuar*, que es una conclusión **sobre el negocio**.
+**Son dos afirmaciones distintas, y la segunda no se sigue de la primera.** El capítulo existe para
+separarlas.
+
+### 2. Qué problema resuelve el 21 que no resuelven el 17, el 18, el 19 y el 20
+
+**Los cuatro suponen que existe un destinatario.** El 17 prepara la relación con quien recibe; el 18
+transfiere bloques reales a **una persona, un procedimiento o un sistema supervisado** (D-026); el
+19 construye lo que se mira de lo ya transferido; el 20 fija cuándo se entra. **Los cuatro
+contestan cómo se transfiere y cómo se supervisa. Ninguno contesta qué ocurre con el negocio cuando
+el destinatario no existe, no sirve o no quiere.**
+
+**El objeto de la pregunta cambia aquí por segunda y última vez en el libro.** Hasta el capítulo 16
+el material era el negocio y su dependencia; desde el 17 son las personas, los papeles y las
+relaciones; **en el 21 vuelve a ser el negocio, pero en otra dimensión**: no cuánto depende, sino
+**qué puede ocurrir con él**.
+
+**Y esa dimensión ya existe en la doctrina aprobada, con nombre y con tabla:** el apartado **7.4** de
+`editorial/14-publico-y-rutas.md` (**D-068**) separa el **Mapa de Participación** —*¿cuánto
+participo en este negocio?*— del **destino del negocio** —*¿qué ocurre con este negocio?*—, y
+enumera sus cuatro formas: **continuidad · transferencia · sucesión · legado**. **El capítulo 21 es
+el capítulo de esa segunda columna.** No se crea taxonomía nueva: se desarrolla la que existe.
+
+### 3. Q-11 — prueba de necesidad: **NO REQUERIDA PARA LA ARQUITECTURA 3.20A**
+
+**Q-11:** *¿Qué estructuras de gobierno se recomiendan para separar propiedad y dirección en
+empresas familiares?* Diferida en la Etapa 3.16A con una propuesta escrita: **su plazo real es el
+capítulo 21**, porque el índice de este capítulo sí nombra **dirección profesional, socios y
+venta**. **Ese plazo vence aquí y la prueba se ejecuta.**
+
+**La afirmación futura que necesitaría evidencia, escrita antes de decidir nada y en su forma
+exacta:**
+
+> *«Para separar propiedad y dirección conviene constituir X»* —consejo de administración, junta,
+> consejo de familia, protocolo familiar, comité, holding o cualquier otra figura—, **o** *«la
+> estructura de gobierno adecuada para un negocio sin sucesor es X»*.
+
+**El capítulo 21 no la escribe, y puede no escribirla sin perder nada.** Los motivos, en el mismo
+orden en que se comprobaron:
+
+1. **Lo que la rama necesita ya está construido.** **D-072** separa autoridad, ejecución y control;
+   **D-073** asigna la autoridad a **una persona, un puesto o un órgano que existan de verdad**;
+   **D-074** separa ejecutor de soporte de la ejecución. Con eso el libro puede decir que **alguien
+   puede dirigir sin ser propietario** —la frase que **V-70** ya declara sostenible como doctrina
+   propia— **sin nombrar ninguna figura**.
+2. **Nombrar una figura sería prescribir arquitectura**, que es lo que el capítulo 16 se negó a
+   hacer con la seguridad y lo que **D-020** prohíbe convertir en cumplimiento.
+3. **Trasplantaría estructuras de empresas con tamaño a un libro que sirve también a un negocio de
+   una sola persona**, contra la regla 6 de `14-publico-y-rutas.md`.
+4. **El árbol presenta opciones que se evalúan, no estructuras que se adoptan.** Una rama que dice
+   *qué tendría que existir para que esto fuera posible* y *a qué profesional se remite* **no
+   necesita decir cuál constituir**.
+
+**Resultado: Q-11 NO REQUERIDA PARA LA ARQUITECTURA 3.20A. No se ejecuta y no se abre
+investigación.**
+
+**Disparador que pasa a la Etapa 3.20B, y es la mitad útil de esta prueba:** si durante la redacción
+aparece la necesidad de escribir *«conviene constituir X»*, o de nombrar una figura de gobierno como
+recomendable, **se señala y se detiene**. No se busca fuente sobre la marcha, no se ensancha el
+alcance de la investigación y no se elige figura: **se abre un paso de investigación gobernado por
+separado**. Q-11 permanece **diferida**, no resuelta.
+
+### 4. Q-14 — decisión explícita: **INVESTIGACIÓN EXTERNA DIFERIDA**
+
+**Q-14:** *¿Qué se ha publicado sobre continuidad, traspaso o venta de negocios unipersonales y de
+carteras de clientes profesionales?* Capítulos **21** y **25**. Prioridad **alta**. Sin iniciar. **Es
+la pregunta cuyo vacío el manuscrito ya declara al lector en la introducción.**
+
+**La decisión se toma aquí y antes de redactar nada**, como exige esta etapa.
+
+**Las afirmaciones futuras que la harían necesaria, escritas en su forma exacta para que la Etapa
+3.20B pueda comprobarlas una por una:**
+
+| Afirmación que exigiría Q-14 | ¿La escribe el capítulo? |
+|---|---|
+| «Un negocio de una sola persona **se vende / no se vende**», en cualquier forma que afirme lo que ocurre en el mundo | **No** |
+| «Una cartera de clientes **se traspasa así**», como descripción de una práctica real | **No** |
+| Cualquier **cifra, proporción, frecuencia, precio, múltiplo o plazo** sobre continuidad, venta o traspaso | **No** |
+| «Lo **habitual** / lo **normal** / lo que **suele** ocurrir» con estos negocios | **No.** Ya prohibido por **V-41** y reforzado por **V-56B** |
+| «Documentar el negocio **aumenta su valor o su precio**» | **No.** Ya prohibido por **D-032** |
+
+**Qué escribe en su lugar, y por eso la arquitectura se cierra sin evidencia externa:** **categorías
+de continuidad** —tomadas de **D-068**, doctrina propia ya aprobada—, **preguntas de decisión**,
+**restricciones de transferibilidad** —tomadas de constantes ya escritas: *una relación no se
+traspasa como un archivo*, *documentado no es transferido* (**D-071**), *detectar → representar →
+transferir*— y **remisión profesional y jurisdiccional**. **Ninguna de esas cuatro clases de
+contenido afirma nada sobre el mundo.**
+
+**Resultado: la investigación externa de Q-14 queda DIFERIDA hasta que se proponga una afirmación
+concreta, factual o específica de una jurisdicción.** No se navega, no se busca y no se infiere.
+
+**Y hay una consecuencia registral que conviene dejar dicha, porque no es obvia:** investigar Q-14
+ahora **obligaría a tocar la introducción**, que está fuera del alcance de esta etapa.
+`investigacion/afirmaciones-por-verificar.md` registra que el vacío declarado al lector **deja de ser
+cierto en cuanto Q-14 se investigue** y que entonces el pasaje debe reescribirse. **Diferirla
+mantiene el manuscrito coherente; ejecutarla aquí lo habría dejado incoherente y fuera de alcance.**
+
+**Disparador que pasa a la Etapa 3.20B:** cualquier frase que afirme qué ocurre, qué es posible o
+qué es habitual en la venta, el traspaso o el cierre de un negocio —de una persona o con
+estructura— **se señala y se detiene**.
+
+### 5. Q-21 — prueba de necesidad: **NO REQUERIDA**
+
+**Q-21:** *¿Existe evidencia de que documentar el conocimiento y los procesos aumente el valor o el
+precio de venta de un negocio pequeño?* Capítulos **21** y **25**. Sin iniciar.
+
+**Está asignada a este capítulo y por eso se prueba, aunque el resultado estuviera anticipado.**
+**D-032** ya resuelve el problema sin investigación: el libro puede afirmar que documentar **puede
+aumentar la transferibilidad y la continuidad**, y **no puede** afirmar que aumente la valoración
+financiera, ni dar cifras, múltiplos ni rangos, ni sostener que un negocio documentado se venda
+mejor.
+
+**El capítulo 21 nombra la venta como una rama del árbol y no dice nada sobre precio.** La rama
+pregunta **si hay algo transferible distinto de la presencia de la persona**, que es una pregunta de
+transferibilidad, y **remite la valoración a un profesional**. **Q-21 NO REQUERIDA. Permanece
+diferida con motivo escrito.**
+
+**Disparador:** cualquier frase que relacione documentación con precio, valor, múltiplo o facilidad
+de venta **se señala y se detiene**.
+
+### 6. La distinción rectora del capítulo
+
+> **Buscar un sucesor es una pregunta sobre personas. Decidir la continuidad es una pregunta sobre
+> el negocio.**
+
+**No es doctrina nueva: es el apartado 7.4 de `14-publico-y-rutas.md` (D-068) aplicado al capítulo
+que le corresponde.** Todo lo demás del capítulo cuelga de ahí:
+
+- **«No hay sucesor» es un hecho sobre personas** y puede ser cierto. **«No hay continuidad» es una
+  conclusión sobre el negocio** y solo se sigue del hecho anterior **si continuidad se define como
+  que alguien ocupe el puesto y haga lo que la persona hace**. El capítulo no desmiente el hecho:
+  **desmonta la definición**.
+- **«Sucesor ideal» no es una categoría de este método.** Lo que el método reparte no es un puesto:
+  son **autoridad, ejecución y control** (**D-072**), y pueden asignarse **por separado** a persona,
+  puesto u órgano (**D-073**), o apoyarse en procedimientos y sistemas supervisados (**D-026**,
+  **D-074**). **No hace falta una sola persona que lo reciba todo**, y de ahí sale la mitad del
+  árbol.
+- **Y aquí se gasta, por fin, el argumento que el control de repeticiones reserva a este capítulo
+  desde la Etapa 2:** *el sucesor no tiene por qué ser un familiar*. **Cero usos consumidos**, y el
+  capítulo 17 se escribió sin gastarlo.
+
+**Prohibido en este movimiento:** rehacer el **Mapa de Participación**, que es del capítulo 5 y se
+retoma en el 22; y afirmar frecuencias sobre familias, herederos, compradores o sucesores
+(**V-41**, **V-56B**).
+
+### 7. El Árbol de opciones de continuidad — **entregable dentro del capítulo (D-078)**
+
+**No es una de las dieciocho herramientas. No se crea archivo en `recursos/`. El catálogo sigue en
+18 y los recursos redactados en 14 de 18.** Es el **séptimo** entregable interno del libro, tras la
+vista del proceso real del 7 (D-070), el cuadro del 12, el formato del 14, la lista del 16, el guion
+del 17 y el plan del 18.
+
+**Qué es: un mapa de decisión neutral.** Enumera caminos posibles y las preguntas que los separan.
+**No puntúa, no ordena, no recomienda y no designa ninguno como el correcto.**
+
+**Las seis categorías, y de dónde sale cada una.** Ninguna se inventa aquí:
+
+| Rama | Qué es | De dónde sale |
+|---|---|---|
+| **Continuidad sin sucesor designado** | El negocio sigue funcionando sin que nadie ocupe el puesto: lo que sostenía la operación está escrito, repartido o asistido dentro de límites | **D-068**, «continuidad». Es lo que producen las Partes I a IV |
+| **Dirección profesional** | Otra persona, función u órgano dirige; **la propiedad no cambia por eso** | Índice maestro, fila del cap. 21. **V-70** y **D-072 / D-073** |
+| **Entrada o cambio de socios** | Cambia quién es propietario, del todo o en parte, sin que el negocio deje de existir | Índice maestro, fila del cap. 21. `03-indice-maestro.md` §5.1: «asociarse» |
+| **Venta o transferencia** | El negocio, una parte de él o la cartera de clientes pasa a otro titular | Índice maestro. **D-068**, «transferencia». §5.1: «vender», «traspasar la cartera» |
+| **Sucesión** | Alguien lo recibe. **No tiene por qué ser un familiar**, y puede recibir autoridad, ejecución o control **por separado** | **D-068**, «sucesión». **D-072 / D-073 / D-074** |
+| **Cierre ordenado** | Terminar cumpliendo lo comprometido, cerrando relaciones y dejando lo que deba quedar | `03-indice-maestro.md` §5.1: **«cerrar bien, que también es un final legítimo»** |
+
+**Y una respuesta que no es una rama, y que el árbol tiene que admitir con todas las letras:**
+
+> **Hoy no hay vía de continuidad, y se escribe que no la hay.**
+
+**Doctrina ya escrita, no concesión de esta etapa.** La constante *una relación no se traspasa como
+un archivo* (`06-control-de-continuidad.md` §3) termina así: «**trabajando solo, cuando no hay vía de
+continuidad se escribe que no la hay: un riesgo declarado, nunca un cargo inventado**».
+**Precedentes de la misma familia:** «no lo sé» como la respuesta más útil de la lista del 16, «no
+hay recomendación todavía» como salida legítima del 14, y «no intervenir, y dejarlo escrito» como
+una de las cinco respuestas del 20.
+
+**Qué lleva cada rama, y son tres cosas por rama, no más:**
+
+1. **Qué tendría que existir** para que esa rama fuera posible.
+2. **Qué NO resuelve** —la mitad que impide que el árbol se lea como un catálogo de soluciones—.
+3. **A qué profesional se remite**, con la materia dicha.
+
+**Reglas de neutralidad, y son obligatorias al redactar:**
+
+- **Sin orden, sin numeración jerárquica, sin puntuación y sin «recomendada».**
+- **El cierre ordenado no es la última rama ni el fondo de una escalera**, y no se presenta como
+  fracaso ni como derrota. Tampoco se presenta como liberación: **el libro no juzga el resultado**
+  (**D-040**).
+- **La continuidad sin sucesor designado no es la rama ganadora**, aunque sea la que el propio método
+  construye. Presentarla así convertiría el capítulo en el anuncio del libro.
+- **Prohibidas** las palabras *mejor*, *ideal*, *óptima*, *preferible*, *natural*, *último recurso*,
+  *primera opción*, y cualquier adjetivo que ordene dos ramas entre sí.
+- **El árbol no elige.** No recomienda, no puntúa, no filtra y no concluye. **Lo recorre una
+  persona.**
+
+### 8. Las preguntas que separan las ramas — **cinco**
+
+**Función declarada: descartar lo que hoy no es posible y dejar ver lo que queda. No puntúan, no
+ordenan y no seleccionan.**
+
+| # | Pregunta | Sobre qué doctrina se apoya, y qué remite |
+|---|---|---|
+| **1** | **¿Qué tendría que seguir ocurriendo?** El negocio entero, una parte, la actividad, los compromisos vigentes | «**Crítico**» lo define el negocio (cap. 13). **Remite** al inventario del 6 y a la matriz del 10; **no los rehace** |
+| **2** | **¿Qué de lo que hoy lo sostiene puede pasar a otro sitio, y qué no?** Tres respuestas: transferible · transferible con condiciones · **no transferible hoy** | **D-071** (representar no es transferir), *documentado no es transferido*, *detectar → representar → transferir*, y **una relación no se traspasa como un archivo**. **D-032**: transferibilidad y continuidad, **nunca valor ni precio** |
+| **3** | **¿Tiene que cambiar la propiedad para que eso ocurra?** | **V-70**, y las dos frases operativas que ya declara sostenibles: *delegar dirección no significa necesariamente transferir propiedad* y *conservar propiedad no significa tener que dirigir cada decisión*. **Se remite lo jurídico; no se define ni propiedad ni dirección** |
+| **4** | **¿Quién puede comprometer esta decisión, y a quién afecta?** | **D-072** y **D-073**. **Remite** derechos de personas empleadas, autoridad de un familiar, representación legal y requisitos de una sucesión |
+| **5** | **¿Qué ocurre si hoy no se decide nada?** | **No decidir también produce un resultado**, y escribirlo es lo que lo convierte en decisión y no en omisión. Es el mismo movimiento que la quinta respuesta del capítulo 20 |
+
+**Y la regla que impide que las cinco se conviertan en un algoritmo:** **el árbol se vuelve a
+recorrer cuando cambien las respuestas, y el libro no promete que cambien.** Una rama descartada hoy
+queda descartada **hoy**, no para siempre, **y decirlo no es prometer nada**.
+
+### 9. Fronteras, todas por escrito
+
+| Materia | De quién es | Qué puede hacer el 21 |
+|---|---|---|
+| Cómo se comunica una transición, y a quién | **Cap. 17** | **Remitir.** No rehace el guion, no reparte audiencias, no vuelve sobre informar / consultar / acordar / autorizar |
+| La sección sobre separación de propiedad y dirección | **P-3, pendiente, y es del cap. 17** | **Nada.** **No la adelanta, no la sustituye y no la implementa** |
+| Delegación por bloques, evidencia y primer error | **Cap. 18** | **Remitir.** No reexplica el ciclo ni rediseña la hoja de bloque |
+| Qué se mira y con qué frecuencia | **Cap. 19** | **Remitir.** Cero tablero, cero informes, cero campos |
+| Cuándo se entra y cuándo no; retroceso controlado | **Cap. 20** | **Remitir.** No vuelve sobre las reglas de intervención ni sobre las cuatro salidas |
+| El mapa de relaciones y sus tres vistas | **Cap. 7** | **Usar la constante, no rehacer las vistas.** Y **prohibido prometer que una relación quede transferida** |
+| El Mapa de Participación y el papel que elige la persona | **Caps. 5 y 22** | **Nada.** El 21 trata **qué ocurre con el negocio** |
+| La secuencia de la transición, con hitos y fechas | **Cap. 23** | **Nada.** Ni calendario, ni orden, ni plazos |
+| Cómo se sostiene la continuidad en el tiempo | **Cap. 25** | **Nada.** El 21 abre caminos; el 25 trata el sostenimiento |
+| Propiedad y dirección en términos jurídicos | **V-70, abierta** | **Nada.** Se remite, no se resuelve |
+| Estructuras de gobierno concretas | **Q-11, diferida** | **Nada.** **Se señala y se detiene** (apartado 3) |
+| Qué ocurre en el mundo con ventas y traspasos | **Q-14, diferida** | **Nada.** **Se señala y se detiene** (apartado 4) |
+| Valor, precio o valoración | **Q-21, diferida; D-032** | **Nada.** Solo transferibilidad y continuidad |
+
+### 10. Arquitectura narrativa — **nueve movimientos**
+
+1. **Apertura.** La conclusión que el lector ya ha sacado, enunciada y examinada: *no hay a quién
+   dejarle esto* es cierto y **no es lo mismo** que *este negocio no puede continuar*. **Tipo no
+   usado antes**, y conviene decir de qué se distingue, porque el riesgo es real: los capítulos 3 y 4
+   también desmontan algo del lector, pero allí el objeto es **una creencia sobre el pasado** —un
+   recuerdo, una cuenta mental—; aquí es **una inferencia que el lector ha sacado de un hecho
+   verdadero**, y el hecho **no se desmiente**. Del 13 se distingue en que allí se desmonta **una
+   acción futura** y aquí una conclusión ya sacada.
+2. **La distinción rectora** (apartado 6). Personas frente a negocio, sobre **D-068**.
+3. **Por qué «sucesor ideal» no es una categoría del método.** Autoridad, ejecución y control se
+   reparten por separado (**D-072 / D-073 / D-074**, **D-026**). **Aquí se gasta el argumento
+   propietario del capítulo: el sucesor no tiene por qué ser un familiar.**
+4. **Qué tendría que seguir ocurriendo, y qué de lo que hoy lo sostiene puede pasar a otro sitio.**
+   **Movimiento de remisión**: entra por lo ya escrito —6, 7, 9, 10, 18— y **no rehace ningún
+   inventario**. Introduce las tres respuestas de transferibilidad.
+5. **El Árbol de opciones de continuidad** (apartado 7). Seis ramas, tres cosas por rama, más la
+   respuesta honesta.
+6. **Las cinco preguntas que separan las ramas** (apartado 8), con su función declarada.
+7. **Las dos rutas** (apartado 11). **El mismo árbol; no todas las ramas están abiertas para todos.**
+8. **Lo que este capítulo no promete** (apartado 13).
+9. **Cierre de la Parte IV y puente a la Parte V**, cambiando la pregunta y **sin contestarla**:
+   > *Ya sé qué caminos tiene el negocio. **¿Y yo, qué hago a partir de ahora?***
+
+**El movimiento 4 es el que más fácilmente se desborda** —es el que toca cinco capítulos
+anteriores— y **el 5 es el que más pesa**. Los dos tienen presupuesto acotado por diseño
+(apartado 14).
+
+### 11. Las dos rutas, un solo árbol
+
+**Lo que cambia entre rutas no es el instrumento: es qué ramas quedan en pie.** Y que una rama no
+esté disponible **es información, no fracaso** —la misma regla que gobierna las decisiones reservadas
+del capítulo 10 (**D-040**)—.
+
+**Lo que la ruta A necesita y la B no:**
+
+- **Que haya personas no significa que haya sucesor.** Es el equivalente, en este capítulo, de
+  *presencia no es autonomía* (cap. 3), y hay que decirlo porque la ruta A llega con equipo.
+- **Que la autoridad puede asignarse a un puesto o a un órgano y no solo a una persona** (**D-073**),
+  sin nombrar ninguno (**Q-11**, apartado 3).
+- **Que no se presupone familia**, en ningún sitio del capítulo. El deslinde 17/21 ya comprobó desde
+  el lado del 17 que «sucesor», «heredero» e «hijo» aparecen **cero veces** allí; **aquí aparecen, y
+  por eso el control de frecuencias es más exigente, no menos**.
+- **Que hay personas afectadas por la decisión** cuyos derechos son materia jurídica y **se
+  remiten**.
+
+**Lo que la ruta B necesita y la A no:**
+
+- **Que varias ramas pueden estar cerradas a la vez**, y que el árbol sigue sirviendo: lo que hace es
+  **dejar ver cuáles**.
+- **La cartera de clientes como objeto con dos mitades**: lo que puede escribirse y entregarse
+  —historial, acuerdos, criterio documentado, presentaciones— y **la confianza, que no se
+  documenta**. Constante del capítulo 7, **usada y no rehecha**.
+- **La actividad regulada** (**D-033**): un permiso o una entrega **no sustituyen la responsabilidad
+  ni las obligaciones de una persona habilitada**, y **qué reserva una licencia se remite** a la
+  norma profesional y a un profesional de esa jurisdicción. **No se nombra ninguna profesión.**
+- **El cierre ordenado como final legítimo**, y **la cláusula ya escrita**: cuando no hay vía de
+  continuidad, **se escribe que no la hay**.
+
+### 12. Caso: **NO SE REQUIERE CASO NUEVO. No se crea C-14**
+
+**Decidido en esta etapa, y no por cuota ni por ahorro.** El capítulo enseña **un mapa de decisión**
+—categorías, preguntas y descartes—, no una trayectoria en el tiempo, que es lo que obligó a crear
+**C-13** en el capítulo 18.
+
+**Y hay una razón mejor que la forma, que es la que decide:** un caso formal tiene protagonista, y un
+protagonista **acaba eligiendo una rama**. Elegir una rama en el único capítulo cuyo entregable tiene
+prohibido ordenar las ramas **se leería como la recomendación que el árbol se niega a dar**. **El
+instrumento y el caso se contradirían dentro del mismo capítulo.**
+
+**Qué lleva en su lugar:** **dos microescenas sin nombre y sin rasgos, una por ruta**, por debajo de
+las **120 palabras** de la guarda de **D-030** y por tanto **ejemplos y no casos**. **Precedente
+inmediato: los capítulos 5 y 16**, que hicieron exactamente esto, una por ruta.
+
+**Restricción propia de este capítulo, y es la que las hace admisibles:** **ninguna de las dos termina
+eligiendo una rama.** Cada una muestra **una pregunta haciendo su trabajo** —algo que se descarta, o
+algo que se hace visible y no estaba—. **Prohibido** que una microescena tenga desenlace, que insinúe
+que salió bien o mal, o que sugiera qué debería hacer el lector.
+
+**Consecuencia registral:** **no se crea C-14**, **no se abre ficha en
+`revision/control-de-casos.md`** y **no se ejecutan las diez preguntas de
+`09-reglas-de-casos-ficticios.md`**, que se aplican a casos y no a microescenas. **Casos: siguen en
+13. Reparto intacto: 7 ruta A / 6 ruta B y 7 mujeres / 6 hombres.** **Y sin sector identificable en
+ninguna de las dos microescenas**, conforme a las reglas de casos, de modo que **no consumen turno de
+sector**: **agricultura conserva el capítulo 21** entre sus turnos previstos.
+
+### 13. Lo que el capítulo tiene prohibido prometer
+
+Que **siempre exista** una vía de continuidad · que alguna rama sea **mejor, más segura o más
+frecuente** que otra · que no tener sucesor sea **un fallo de la persona** · que documentar produzca
+**comprador, sucesor, precio o valor** (**D-032**, **Q-21**) · que una relación o una cartera queden
+**transferidas por estar escritas** (**D-071**) · que cerrar **sea** un fracaso, o que **no lo sea**
+para este lector —el libro **no juzga el resultado** (**D-040**)— · que el método **garantice**
+continuidad · que el libro diga **qué exige** una sucesión, una venta, una entrada de socios o un
+cierre **en ninguna jurisdicción** (**D-014**, **D-020**, **V-70**) · **cualquier frecuencia** sobre
+familias, herederos, sucesores, compradores o profesionales independientes (**V-41**, **V-56B**).
+
+**Antropomorfismo, adaptado a este entregable:** **el árbol no elige, no recomienda, no puntúa y no
+concluye.** Limita el campo, hace visible lo que queda y deja constancia. **La decisión la toma una
+persona**, que es la misma regla que el 20 dejó escrita para las reglas de intervención.
+
+**Y una guarda propia de este capítulo, porque el riesgo es nuevo:** el capítulo **no puede presentar
+el propio método como la rama correcta**. Las Partes I a IV construyen la continuidad sin sucesor
+designado; **eso la hace posible, no la hace preferible**.
+
+### 14. Extensión, clasificación y controles
+
+**Objetivo: 2.300 palabras. Tope por D-030 (+15 %): 2.645.** Es **el objetivo más alto de la Parte
+IV** y también el capítulo con más material que ordenar, de modo que el presupuesto no sobra:
+
+| Movimiento | Peso previsto | Por qué |
+|---|---|---|
+| 5 — el árbol | **El mayor** | Seis ramas por tres cosas es el entregable, y es lo que el lector se lleva |
+| 6 — las cinco preguntas | Medio | Cada una cabe en dos o tres líneas porque **remite y no reexplica** |
+| 4 — transferibilidad | **Corto, y es el que más tiende a desbordarse** | Toca cinco capítulos anteriores y **entra a todos por remisión** |
+| 7 — las dos rutas | Corto | Un solo árbol; solo se dice qué cambia |
+| 1, 2, 3, 8, 9 | Cortos | Apertura, distinción, argumento propietario, límites y puente |
+
+| Clase | Qué hay | ¿Necesita fuente? |
+|---|---|---|
+| **A — doctrina del método** | La distinción rectora (**D-068**); que autoridad, ejecución y control se reparten por separado (**D-072 / 73 / 74**); las seis categorías; la respuesta honesta; el árbol no elige | **No** |
+| **B — instrucción práctica** | Las cinco preguntas; las tres cosas de cada rama; cómo se deja escrito que hoy no hay vía | **No** |
+| **C — afirmación factual externa** | **Ninguna prevista.** Si aparece, **se señala y se detiene** (apartados 3, 4 y 5) | — |
+| **D — afirmación jurídica** | **Ninguna.** Todo lo jurídico se **remite**, con la materia dicha | — |
+
+**Consecuencia de continuidad:** el 21 sería el **quinto capítulo consecutivo sin ninguna afirmación
+con fuente**, tras el 17, el 18, el 19 y el 20. **Es resultado de tres pruebas de necesidad
+escritas, no un descuido**, y se anota aquí para que la Etapa 4 lo encuentre razonado.
+
+**Plataforma:** `editorial/06-control-de-continuidad.md` incluye el **21** entre los capítulos con
+**cero menciones C, D y E**. **Se escribe con cero**, y es constante ya fijada, no elección de esta
+etapa.
+
+**Barrido de universalidades sobre esta propia arquitectura**, hecho antes de cerrarla. Lo que queda
+son **distinciones, categorías, preguntas, prohibiciones y remisiones**. **Se retiraron las
+predicciones**: no se afirma que recorrer el árbol produzca una decisión, ni que declarar la ausencia
+de vía mejore nada, ni que alguna rama conserve mejor el negocio. **Y «continuidad» se usa siempre
+como destino del negocio**, nunca como propiedad de una persona ni como resultado prometido.
+
+### 15. Señal de paso a 3.20B: las trece contestadas
+
+**1.** ¿Qué pregunta recibe del 20? — apartado 1. **2.** ¿Qué resuelve que no resuelven el 17 al
+20? — apartado 2. **3.** ¿La distinción rectora? — apartado 6. **4.** ¿Las ramas, y de dónde sale
+cada una? — apartado 7, **todas de doctrina ya aprobada**. **5.** ¿Las preguntas que las separan? —
+apartado 8, **cinco, y no puntúan**. **6.** ¿Ruta A y ruta B? — apartado 11. **7.** ¿Qué se dice con
+doctrina y qué se remite? — apartados 9 y 14. **8.** ¿El entregable? — apartado 7, **dentro del
+capítulo por D-078**. **9.** ¿Q-11? — apartado 3: **no requerida, con disparador escrito**. **10.**
+¿Q-14? — apartado 4: **diferida, con disparador escrito**. **11.** ¿Q-21? — apartado 5: **no
+requerida**. **12.** ¿El caso? — apartado 12: **dos microescenas, sin C-14**. **13.** ¿Cómo cierra la
+Parte IV y qué deja a la V? — apartados 2 y 10.9.
+
+**Ninguna queda abierta. El capítulo 21 sigue sin escribir y la Etapa 3.20B NO está iniciada ni
+autorizada.**
